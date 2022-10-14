@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:totemblock"
+    },
+    "facing=north": {
+      "model": "duneons:totemblock"
+    },
+    "facing=east": {
+      "model": "duneons:totemblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:totemblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:totemblock",
+      "y": 270
+    }
+  }
+}

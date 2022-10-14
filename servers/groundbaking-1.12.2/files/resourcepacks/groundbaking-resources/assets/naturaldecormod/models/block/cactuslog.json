@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "naturaldecormod:blocks/aguaroogewop",
+    "up": "naturaldecormod:blocks/aguaroogewop",
+    "north": "naturaldecormod:blocks/aguaroogew",
+    "east": "naturaldecormod:blocks/aguaroogew",
+    "south": "naturaldecormod:blocks/aguaroogew",
+    "west": "naturaldecormod:blocks/aguaroogew",
+    "particle": "naturaldecormod:blocks/aguaroogewop"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:outdoorchains"
+    },
+    "facing=south": {
+      "model": "naturaldecormod:outdoorchains"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:outdoorchains"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:outdoorchains",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "naturaldecormod:outdoorchains",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "naturaldecormod:outdoorchains",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "naturaldecormod:outdoorchains",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

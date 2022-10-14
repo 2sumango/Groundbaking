@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "naturaldecormod:blocks/oseundle",
+    "particle": "naturaldecormod:blocks/oseundle"
+  }
+}

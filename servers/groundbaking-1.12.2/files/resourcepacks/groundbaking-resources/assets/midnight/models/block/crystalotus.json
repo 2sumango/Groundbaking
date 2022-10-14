@@ -1,0 +1,175 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "glowing_pillar_leaves": "stygian:block/glowing_pillar_leaves",
+        "glowing_pillar_roots_both": "stygian:block/glowing_pillar_roots_both",
+        "glowing_pillar_luminophor": "stygian:block/glowing_pillar_luminophor"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 0, 154, 28 ],
+            "translation": [ -3, -4, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 8 ], 
+            "to": [ 16, 16, 8 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#glowing_pillar_roots_both", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#glowing_pillar_roots_both", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube1",
+            "from": [ 8, 0, 0 ], 
+            "to": [ 8, 16, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#glowing_pillar_roots_both", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#glowing_pillar_roots_both", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube2",
+            "from": [ 0, 16, 0 ], 
+            "to": [ 16, 32, 16 ], 
+            "faces": {
+                "north": { "texture": "#glowing_pillar_luminophor", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#glowing_pillar_luminophor", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#glowing_pillar_luminophor", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#glowing_pillar_luminophor", "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#glowing_pillar_luminophor", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#glowing_pillar_luminophor", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube3",
+            "from": [ -4, 30, 0 ], 
+            "to": [ 12, 30, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 90 },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Cube4",
+            "from": [ 4, 30, 0 ], 
+            "to": [ 20, 30, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 270 },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 270 }
+            }
+        },
+        {
+            "name": "Cube6",
+            "from": [ 0, 30, -4 ], 
+            "to": [ 16, 30, 12 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 180 },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube8",
+            "from": [ 0, 30, 4 ], 
+            "to": [ 16, 30, 20 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 180 }
+            }
+        },
+        {
+            "name": "Cube7",
+            "from": [ 0, 32, 8 ], 
+            "to": [ 16, 48, 8 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube97",
+            "from": [ 8, 32, 0 ], 
+            "to": [ 8, 48, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "east": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube46",
+            "from": [ 5, 22, 0 ], 
+            "to": [ 21, 22, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 90 },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Cube123",
+            "from": [ 0, 22, -5 ], 
+            "to": [ 16, 22, 11 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 180 }
+            }
+        },
+        {
+            "name": "Cube53",
+            "from": [ 0, 22, 5 ], 
+            "to": [ 16, 22, 21 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 180 },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube565",
+            "from": [ -5, 22, 0 ], 
+            "to": [ 11, 22, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "up": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 270 },
+                "down": { "texture": "#glowing_pillar_leaves", "uv": [ 0, 0, 16, 16 ], "rotation": 270 }
+            }
+        }
+    ]
+}

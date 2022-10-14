@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:vangardbanner"
+    },
+    "facing=north": {
+      "model": "duneons:vangardbanner"
+    },
+    "facing=east": {
+      "model": "duneons:vangardbanner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:vangardbanner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:vangardbanner",
+      "y": 270
+    }
+  }
+}

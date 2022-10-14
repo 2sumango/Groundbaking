@@ -1,0 +1,287 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "pumpkin_door_open",
+      "from": [
+        -2,
+        12,
+        11
+      ],
+      "to": [
+        3,
+        17,
+        15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          1,
+          17,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.75,
+            0.25,
+            9.375,
+            0.902
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8.25,
+            0.5,
+            9.678,
+            1.77
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8.75,
+            1.375,
+            9.375,
+            2.027
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8.375,
+            0.5,
+            9.555,
+            1.826
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8.625,
+            0.125,
+            9.359,
+            0.819
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8.5,
+            0.125,
+            9.235,
+            0.75
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "pumpkin_door_open",
+      "from": [
+        -1,
+        0,
+        0
+      ],
+      "to": [
+        2,
+        32,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          1,
+          17,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            0,
+            1.875,
+            10.152
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0.014,
+            3.678,
+            10.034
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4.25,
+            0,
+            5.125,
+            9.902
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            3.555,
+            9.953
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            3.734,
+            0.569
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            9.5,
+            3.984,
+            10.125
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        -1.25,
+        0,
+        2
+      ],
+      "scale": [
+        0.21,
+        0.22,
+        0.19
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        1.25,
+        0,
+        2
+      ],
+      "scale": [
+        0.19,
+        0.19,
+        0.21
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -107.25,
+        0
+      ],
+      "translation": [
+        0.75,
+        0,
+        0
+      ],
+      "scale": [
+        0.41,
+        0.37,
+        0.37
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        252.75,
+        0
+      ],
+      "translation": [
+        3,
+        0,
+        0
+      ],
+      "scale": [
+        0.37,
+        0.37,
+        0.37
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.2,
+        0.22,
+        0.24
+      ]
+    },
+    "gui": {
+      "rotation": [
+        23.75,
+        -118.25,
+        0
+      ],
+      "translation": [
+        1.25,
+        -2.25,
+        0
+      ],
+      "scale": [
+        0.42,
+        0.41,
+        0.41
+      ]
+    },
+    "head": {
+      "translation": [
+        -7,
+        0,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90.5,
+        0
+      ],
+      "translation": [
+        0,
+        -3.5,
+        2
+      ],
+      "scale": [
+        0.36,
+        0.39,
+        0.38
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "ettey",
+      "origin": [
+        15,
+        17,
+        1
+      ],
+      "children": [
+        0,
+        1
+      ]
+    }
+  ]
+}

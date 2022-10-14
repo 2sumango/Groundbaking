@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:outdooriron"
+    },
+    "1": {
+      "item": "naturaldecormod:outdooriron"
+    },
+    "2": {
+      "item": "naturaldecormod:outdooriron"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:outdoorironslab",
+    "count": 6
+  }
+}

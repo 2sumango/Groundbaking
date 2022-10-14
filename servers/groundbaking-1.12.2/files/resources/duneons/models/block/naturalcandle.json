@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/staying_candle",
+  "textures": {
+    "all": "duneons:blocks/staying_candle",
+    "particle": "duneons:blocks/staying_candle",
+    "1": "duneons:blocks/staying_candle",
+    "2": "duneons:blocks/staying_candle"
+  }
+}

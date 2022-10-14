@@ -1,0 +1,32 @@
+{
+    "name": "Introduction - Knowledge",
+    "icon": "minecraft:map",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The world is a vast place with many things to be learned,  that's why as much as anything else, you should explore it!  To expand upon your knowledge and learn to build upon your world, there's ancient texts left behind and scattered about in the world that will show you how to craft, build, and find things you hadn't known about.  These are lore books, and you can find them in chests underground, from villagers, and from advancements."
+        },
+        {
+            "type": "text",
+            "text": "When harvesting full grown crops, you can simply Right Click them, and they will yield XP and their respective drops, while keeping the new crop planted for you.                                          Rocks and Sticks on the ground can be gathered by Right Clicking twice, once to pull them out of the ground and one more to collect."
+        },                
+        {
+            "type": "text",
+            "text": "Obtaining wood can be done in several ways, which is the base of most of your early crafting.  When harvesting a log with your fists, it will yield you only a couple planks, and digging through leaves will occasionally yield sticks.  To get logs from trees, you must harvest with an axe.                                                    Ores and Stones in the world are very progression based, the harvest level of stones can change with biomes, or elevation underground.  "
+        },                
+        {
+            "type": "text",
+            "text": "Getting setup in the world requires a lot of farming, whether it be agriculture or farming off mobs.  Agriculture is the easiest way to generate quick XP, so naturally you will want to get yourself a farm with crops. When tilling the land with a hoe, you can pull up different types of seeds. Some seeds are required to be purchased from villagers or looted out in the world."
+        },          
+        {
+            "type": "text",
+            "text": "You've learned everything you need to know about exploring the world! This section of the guide book is now cleared.                    Make sure to take your time reviewing the book contents; keep note of everything you have picked up."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:wheat",
+            "text": "       End of Chapter 2"
+        }                    
+    ]
+}

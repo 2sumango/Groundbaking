@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "naturaldecormod:blocks/dark_oak_log",
+    "particle": "naturaldecormod:blocks/dark_oak_log"
+  }
+}

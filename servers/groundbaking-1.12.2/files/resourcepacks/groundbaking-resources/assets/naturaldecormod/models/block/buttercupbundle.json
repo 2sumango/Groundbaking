@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/bushmodel",
+  "textures": {
+    "all": "naturaldecormod:blocks/uttercupundle",
+    "particle": "naturaldecormod:blocks/uttercupundle",
+    "Bush": "naturaldecormod:blocks/uttercupundle",
+    "BushReversed": "naturaldecormod:blocks/uttercupundle"
+  }
+}

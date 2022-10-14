@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/bigcandle",
+  "textures": {
+    "all": "duneons:blocks/big_candle_off",
+    "particle": "duneons:blocks/big_candle_off",
+    "3": "duneons:blocks/candles_fire",
+    "4": "duneons:blocks/big_candle_off",
+    "missing": "duneons:blocks/big_candle_off"
+  }
+}

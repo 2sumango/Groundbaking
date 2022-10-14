@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/mus_painting",
+  "textures": {
+    "all": "duneons:blocks/griby",
+    "particle": "duneons:blocks/griby",
+    "1": "duneons:blocks/griby"
+  }
+}

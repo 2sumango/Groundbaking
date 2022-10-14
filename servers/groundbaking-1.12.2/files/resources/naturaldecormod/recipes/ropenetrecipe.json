@@ -1,0 +1,30 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:ropeblock"
+    },
+    "2": {
+      "item": "naturaldecormod:ropeblock"
+    },
+    "4": {
+      "item": "naturaldecormod:ropeblock"
+    },
+    "6": {
+      "item": "naturaldecormod:ropeblock"
+    },
+    "8": {
+      "item": "naturaldecormod:ropeblock"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:ropenet",
+    "count": 4
+  }
+}

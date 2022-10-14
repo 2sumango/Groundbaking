@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/nemeless_summon_block",
+  "textures": {
+    "all": "duneons:blocks/nemeless_summon",
+    "particle": "duneons:blocks/nemeless_summon",
+    "0": "duneons:blocks/nemeless_summon",
+    "missing": "duneons:blocks/nemeless_summon"
+  }
+}

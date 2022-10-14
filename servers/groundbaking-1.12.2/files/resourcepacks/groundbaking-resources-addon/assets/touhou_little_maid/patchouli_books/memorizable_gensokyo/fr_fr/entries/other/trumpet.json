@@ -1,0 +1,13 @@
+{
+  "sortnum": 22,
+  "name": "Trompette",
+  "icon": "touhou_little_maid:trumpet",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:trumpet",
+      "text": "Un outil pour rappeler les Maids, clic droit pour l'utiliser. $(br2)$(4)$(l)Note: Cet objet ne peut que rappeler les Maids d'un chunk chargé. D'un point de vue technique, il n'y a actuellement AUCUN moyen de rappeler une servante d'un chunck non chargé."
+    }
+  ]
+}

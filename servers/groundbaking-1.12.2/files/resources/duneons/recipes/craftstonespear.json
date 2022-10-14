@@ -1,0 +1,33 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "34 ",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "duneons:stonespear",
+    "count": 1
+  }
+}

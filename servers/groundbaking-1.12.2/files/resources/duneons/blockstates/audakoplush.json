@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:audakoplush"
+    },
+    "facing=north": {
+      "model": "duneons:audakoplush"
+    },
+    "facing=east": {
+      "model": "duneons:audakoplush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:audakoplush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:audakoplush",
+      "y": 270
+    }
+  }
+}

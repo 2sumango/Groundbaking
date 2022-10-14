@@ -1,0 +1,113 @@
+{
+  "canGenerateRivers": true,
+  "skyColor": -1,
+  "fogDensity": 1.0,
+  "hasBiomeEssence": true,
+  "variationBelow": 80.0,
+  "variationAbove": 200.0,
+  "seaFloorBlock": {
+    "block": "minecraft:gravel",
+    "properties": {
+    }
+  },
+  "fillerBlock": {
+    "block": "botania:biomestonea",
+    "properties": {
+      "variant": "plains"
+    }
+  },
+  "averageHeight": 160.0,
+  "topBlock": {
+    "block": "minecraft:grass",
+    "properties": {
+    }
+  },
+  "fogColor": -1,
+  "canGenerateVillages": true,
+  "canSpawnInBiome": false,
+  "generators": {
+    "glowshrooms": {
+      "with": {
+        "block": "biomesoplenty:mushroom",
+        "properties": {
+          "variant": "glowshroom"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 1.5,
+      "enable": true
+    },
+    "miners_delight": {
+      "with": {
+        "block": "biomesoplenty:flower_1",
+        "properties": {
+          "variant": "miners_delight"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 0.25,
+      "enable": true
+    },
+    "emeralds": {
+      "minHeight": 4,
+      "with": {
+        "block": "minecraft:emerald_ore",
+        "properties": {}
+      },
+      "amountPerChunk": 12.0,
+      "maxHeight": 32,
+      "enable": true
+    },
+    "grass_patches": {
+      "with": {
+        "block": "minecraft:grass",
+        "properties": {
+          "snowy": "false"
+        }
+      },
+      "amountPerChunk": 24.0,
+      "enable": true,
+      "splotchSize": 30
+    },
+    "grass": {
+      "amountPerChunk": 4.0,
+      "enable": true,
+      "generators": {}
+    },
+    "roots": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "root"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 4.0,
+      "enable": true
+    },
+    "stone_splatter": {
+      "with": {
+        "block": "botania:biomestonea",
+        "properties": {
+          "variant": "plains"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 4.0,
+      "enable": true
+    },
+    "grass_splatter": {
+      "with": {
+        "block": "minecraft:grass",
+        "properties": {
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 4.0,
+      "enable": true
+    }
+  },
+  "weights": {
+    "cold_swamp": 2
+  }
+}

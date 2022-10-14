@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/books",
+  "textures": {
+    "all": "duneons:blocks/books",
+    "particle": "duneons:blocks/books",
+    "0": "duneons:blocks/books"
+  }
+}

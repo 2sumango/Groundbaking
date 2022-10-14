@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/redstone_crystal_2",
+  "textures": {
+    "all": "duneons:blocks/redstone_crystal_atlas",
+    "particle": "duneons:blocks/redstone_crystal_atlas",
+    "1": "duneons:blocks/redstone_crystal_atlas"
+  }
+}

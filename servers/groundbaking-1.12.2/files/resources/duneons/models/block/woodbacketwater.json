@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/wood_backet_water",
+  "textures": {
+    "all": "duneons:blocks/bucket_wood",
+    "particle": "duneons:blocks/bucket_wood",
+    "0": "duneons:blocks/bucket_wood",
+    "missing": "duneons:blocks/bucket_wood"
+  }
+}

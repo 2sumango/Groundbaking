@@ -1,0 +1,347 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"deepdark_stone": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:betweenstone",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 512,
+			"min-height": 165,
+			"max-height": 256,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"deepdark_stone_bottom": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:betweenstone",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 512,
+			"min-height": 0,
+			"max-height": 88,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"deepdark_grass_layer1": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thebetweenlands:cragrock",
+					"metadata": 1
+				}, 
+				"material": {
+					"name": "thebetweenlands:betweenstone",
+					"metadata": 0
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 220,
+			"max-height": 225,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"deepdark_bottom_layer": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thebetweenlands:cracked_limestone_bricks",
+					"metadata": 1
+				}, 
+				"material": {
+					"name": "thebetweenlands:betweenstone",
+					"metadata": 0
+				},
+				"cluster-size": 72
+			},
+			"cluster-count": 512,
+			"min-height": 0,
+			"max-height": 52,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"deepdark_grass_layer2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thebetweenlands:cragrock",
+					"metadata": 1
+				}, 
+				"material": {
+					"name": "thebetweenlands:betweenstone",
+					"metadata": 0
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 200,
+			"max-height": 205,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"deepdark_grass_layer3": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thebetweenlands:cragrock",
+					"metadata": 1
+				}, 
+				"material": {
+					"name": "thebetweenlands:betweenstone",
+					"metadata": 0
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 172,
+			"max-height": 185,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"deepdark_grass_layer4": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "thebetweenlands:cragrock",
+					"metadata": 1
+				}, 
+				"material": {
+					"name": "thebetweenlands:betweenstone",
+					"metadata": 0
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 166,
+			"max-height": 169,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"stalactite_glowing": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "midnight:bloomcrystal_rock",
+				"material": "earthworks:block_slate",
+				"cluster-size": 99
+			},
+			"cluster-count": 512,
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"stalactite_glowing2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "midnight:rouxe_rock",
+				"material": {
+					"name": "thebetweenlands:betweenstone",
+					"metadata": 0
+				},
+				"cluster-size": 24
+			},
+			"cluster-count": 52,
+			"min-height": 196,
+			"max-height": 199,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},						
+		"beneath_grass_layer0": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:swamp_grass",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 57,
+			"max-height": 62,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"beneath_grass_layer1": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:swamp_grass",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 73,
+			"max-height": 78,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"beneath_grass_layer2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:swamp_grass",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 90,
+			"max-height": 95,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"beneath_grass_layer3": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:swamp_grass",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 110,
+			"max-height": 116,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"beneath_grass_layer4": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:swamp_grass",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 124,
+			"max-height": 128,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		},		
+		"beneath_grass_layer5": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:swamp_grass",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 7
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 64,
+			"min-height": 142,
+			"max-height": 147,
+			"retrogen": true,
+			"biome": "all",			
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-3
+				]
+			}
+		}		
+	}
+}

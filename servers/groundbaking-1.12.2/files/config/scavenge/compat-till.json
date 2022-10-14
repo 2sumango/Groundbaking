@@ -1,0 +1,999 @@
+{
+	"block_pools" :
+	[	
+		{
+			"name": "Trowel Farmland",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:dirt"
+			},
+			"clicktype": "right",
+			"properties":
+			[
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "artisanworktables:artisans_trowel_wood",
+						"amount": 1						
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_stone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_iron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_gold",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_diamond",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_flint",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_bone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_aluminum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_bronze",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_constantan",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_copper",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_electrum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_invar",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_lead",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_nickel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_platinum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_silver",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_steel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_tin",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_osmium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_boron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_toughalloy",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_carbon",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_boronnitride",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_manasteel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_elementium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_trowel_terrasteel",
+						"amount": 1
+						}
+					]
+				},	
+				{
+					"type": "damage_item",
+					"amount": 2
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland"
+				}
+			]
+		},		
+		{
+			"name": "Hoe Animation",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:grass"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				}				
+			]
+		},		
+		{
+			"name": "Rock Harvest",
+			"type":
+			{
+				"type": "block",
+				"name": "foragecraft:rock_flat"
+			},
+			"clicktype": "right",
+			"properties":
+			[							
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				}			
+			]
+		},		
+		{
+			"name": "Rock Harvest_2",
+			"type":
+			{
+				"type": "block",
+				"name": "foragecraft:rock_normal"
+			},
+			"clicktype": "right",
+			"properties":
+			[							
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				}			
+			]
+		},		
+		{
+			"name": "Hoe Animation_1",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_6"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						},
+						{
+						"name": "arcaneworld:arcane_hoe",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				},				
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland",
+					"meta": 1
+				}			
+			]
+		},		
+		{
+			"name": "Hoe Animation_2",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_5"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						},
+						{
+						"name": "arcaneworld:arcane_hoe",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				},				
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland",
+					"meta": 1
+				}			
+			]
+		},		
+		{
+			"name": "Hoe Animation_3",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_4"
+			},
+			"clicktype": "right_click",
+			"properties":
+			
+			[				
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						},
+						{
+						"name": "arcaneworld:arcane_hoe",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				},				
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland",
+					"meta": 1
+				}			
+			]
+		},
+		{
+			"name": "Hoe Animation_4",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_3"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						},
+						{
+						"name": "arcaneworld:arcane_hoe",
+						"amount": 1
+						}
+					]
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				},										
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland",
+					"meta": 1
+				}			
+			]
+		},		
+		{
+			"name": "Hoe Animation_5",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_2"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[	
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						},
+						{
+						"name": "arcaneworld:arcane_hoe",
+						"amount": 1
+						}
+					]
+				},							
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "72",
+					"speed": 0.015,
+					"partical_args": [3]
+				},				
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland",
+					"meta": 1
+				}				
+			]
+		},		
+		{
+			"name": "Hoe Animation_6",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_1"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						},
+						{
+						"name": "arcaneworld:arcane_hoe",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland",
+					"meta": 1
+				}							
+			]	
+		},
+		{
+			"name": "Hoe Animation_7",
+			"type":
+			{
+				"type": "block",
+				"name": "quark:turf"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:hoe_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:hoe_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:hoe_mythic",
+						"amount": 1
+						},
+						{
+						"name": "arcaneworld:arcane_hoe",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:farmland",
+					"meta": 1
+				}							
+			]	
+		}
+	]
+}

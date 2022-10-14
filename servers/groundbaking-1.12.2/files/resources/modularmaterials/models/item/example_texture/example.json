@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "modularmaterials:items/example_texture/example",
+		"layer1": "modularmaterials:items/example_texture/example_overlay"
+	}
+}

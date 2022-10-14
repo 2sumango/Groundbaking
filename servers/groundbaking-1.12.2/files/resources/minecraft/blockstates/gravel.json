@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "gravel"},
+            		{ "model": "gravel1"},
+			{ "model": "gravel2"},
+			{ "model": "gravel3"},
+			{ "model": "gravel4"},
+			{ "model": "gravel5"},
+			{ "model": "gravel6"}
+        ]
+    }
+}

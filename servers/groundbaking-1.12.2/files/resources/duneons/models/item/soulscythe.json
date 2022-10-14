@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/soulscythe_unique",
+  "textures": {
+    "0": "duneons:blocks/oulcythe_nique"
+  }
+}

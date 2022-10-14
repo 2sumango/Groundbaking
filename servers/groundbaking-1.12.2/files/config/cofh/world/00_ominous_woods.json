@@ -1,0 +1,137 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"dirt": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:stained_hardened_clay",
+					"metadata": 13
+				},
+				"material": "minecraft:dirt",
+				"cluster-size": 99
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 59,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:ominous_woods"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"stone": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:stained_hardened_clay",
+					"metadata": 13
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 99
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 59,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:ominous_woods"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"sand": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:stained_hardened_clay",
+					"metadata": 13
+				},
+				"material": "minecraft:sand",
+				"cluster-size": 99
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 59,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:ominous_woods"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"clay": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:stained_hardened_clay",
+					"metadata": 13
+				},
+				"material": "minecraft:clay",
+				"cluster-size": 99
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 59,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:ominous_woods"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

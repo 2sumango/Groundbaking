@@ -1,0 +1,38 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wool",
+      "data": 11
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 11
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 11
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "duneons:coin"
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 11
+    },
+    {
+      "item": "duneons:coin"
+    }
+  ],
+  "result": {
+    "item": "duneons:wizardarmor2body",
+    "count": 1
+  }
+}

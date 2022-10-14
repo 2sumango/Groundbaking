@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "naturaldecormod:blocks/ropelockcrossedinal",
+    "top": "naturaldecormod:blocks/ropelockcrossedinal",
+    "side": "naturaldecormod:blocks/ropelockcrossedinal"
+  }
+}

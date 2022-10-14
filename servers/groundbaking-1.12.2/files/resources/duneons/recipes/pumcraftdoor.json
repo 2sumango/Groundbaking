@@ -1,0 +1,19 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:vangarddoor"
+    },
+    "1": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "duneons:punkindoor",
+    "count": 4
+  }
+}

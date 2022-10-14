@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/zozo_plush",
+  "textures": {
+    "all": "duneons:blocks/zozo",
+    "particle": "duneons:blocks/zozo",
+    "0": "duneons:blocks/zozo",
+    "missing": "duneons:blocks/zozo"
+  }
+}

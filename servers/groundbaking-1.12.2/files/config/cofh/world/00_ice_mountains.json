@@ -1,0 +1,155 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"snow_layer": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": "minecraft:snow_layer",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 68,
+			"max-height": 71,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:ice_mountains"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"snow_layer2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": "minecraft:snow_layer",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 81,
+			"max-height": 85,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:ice_mountains"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"snow_layer3": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": "minecraft:snow_layer",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 89,
+			"max-height": 94,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:ice_mountains"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"snow_layer4": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": "minecraft:snow_layer",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 98,
+			"max-height": 103,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:ice_mountains"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"snow_layer1": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": "minecraft:snow_layer",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 72,
+			"max-height": 77,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:ice_mountains"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

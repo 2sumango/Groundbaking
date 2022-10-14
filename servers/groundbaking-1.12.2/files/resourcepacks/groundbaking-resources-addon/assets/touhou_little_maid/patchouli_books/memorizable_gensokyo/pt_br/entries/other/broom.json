@@ -1,0 +1,26 @@
+{
+  "sortnum": 3,
+  "name": "Vassoura de Marisa",
+  "icon": "touhou_little_maid:marisa_broom",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:marisa_broom",
+      "text": "A vassoura é uma ferramenta de vôo conveniente que permite ao jogador clicar com o botão direito do mouse na vassoura e usar as teclas AWSD do teclado para navegar.$(br2)A maid também monta na vassoura se estiver perto da vassoura, e a maid que se sentar na vassoura se moverá no estado de vôo na maioria dos casos."
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/broom.png"
+      ],
+      "title": "Vassoura de Marisa",
+      "border": true,
+      "text": "Maid montando na vassoura."
+    },
+    {
+      "type": "text",
+      "text": "No entanto, atualmente apenas jogadores no modo criativo podem montar na vassoura. Você pode modificar nas configuração para desativar essa opção."
+    }
+  ]
+}

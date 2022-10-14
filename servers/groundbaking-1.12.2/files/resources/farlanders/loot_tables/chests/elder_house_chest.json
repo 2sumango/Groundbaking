@@ -1,0 +1,102 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"name": "chest",
+			"rolls": {
+				"min": 5,
+				"max": 7
+			},
+			"entries": [
+				{
+					"type": "item",
+					"name": "farlanders:endumium_crystal"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:emerald"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:gold_ingot"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:iron_ingot"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:blaze_powder"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:blaze_rod"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:coal"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:experience_bottle"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:spider_eye"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:slime_ball"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:nether_wart"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:magma_cream"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:gunpowder"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:ghast_tear"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:gold_nugget"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:fermented_spider_eye"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:fire_charge"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:flint"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:ender_pearl"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:ender_eye"
+				},
+				{
+					"type": "item",
+					"name": "farlanders:ender_horn"
+				},
+				{
+					"type": "item",
+					"name": "farlanders:titan_hide"
+				}
+			]
+		}
+	]
+}

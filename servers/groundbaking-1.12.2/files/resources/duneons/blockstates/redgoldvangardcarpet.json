@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:redgoldvangardcarpet"
+    },
+    "facing=north": {
+      "model": "duneons:redgoldvangardcarpet"
+    },
+    "facing=east": {
+      "model": "duneons:redgoldvangardcarpet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:redgoldvangardcarpet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:redgoldvangardcarpet",
+      "y": 270
+    }
+  }
+}

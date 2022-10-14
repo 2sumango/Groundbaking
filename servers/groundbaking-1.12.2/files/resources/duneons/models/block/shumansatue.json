@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/angel_statue",
+  "textures": {
+    "all": "duneons:blocks/sssss",
+    "particle": "duneons:blocks/sssss",
+    "0": "duneons:blocks/sssss"
+  }
+}

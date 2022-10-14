@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "jaff:iron_hook"
+        },
+        "title": {
+            "translate": "advancements.story.iron_hook.title"
+        },
+        "description": {
+            "translate": "advancements.story.iron_hook.description"
+        }
+    },
+    "parent": "minecraft:story/smelt_iron",
+    "criteria": {
+        "iron_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "jaff:iron_hook"
+                    }
+                ]
+            }
+        }
+    }
+}

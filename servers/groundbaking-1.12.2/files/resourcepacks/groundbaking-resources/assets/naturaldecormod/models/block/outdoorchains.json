@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/chainblock",
+  "textures": {
+    "all": "naturaldecormod:blocks/chaintem",
+    "particle": "naturaldecormod:blocks/chaintem",
+    "chain": "naturaldecormod:blocks/chain",
+    "chainReverse": "naturaldecormod:blocks/chaineverse"
+  }
+}

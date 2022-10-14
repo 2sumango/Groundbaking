@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"variant=skyroot": {
+			"model": "aether:woven_sticks/woven_skyroot_sticks"
+		}
+	}
+}

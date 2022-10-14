@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mapgadgets:items/potion_maker_overlay",
+        "layer1": "mapgadgets:items/potion_maker"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:boxfood"
+    },
+    "facing=north": {
+      "model": "duneons:boxfood"
+    },
+    "facing=east": {
+      "model": "duneons:boxfood",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:boxfood",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:boxfood",
+      "y": 270
+    }
+  }
+}

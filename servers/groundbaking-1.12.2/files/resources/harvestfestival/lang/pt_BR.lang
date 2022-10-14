@@ -1,0 +1,1320 @@
+#en_US.lang by joshie and Yulife ;)
+#pt_BR.lang by Brittah :)
+harvestfestival.tab.farming=Harvest Festival - Agricultura
+harvestfestival.tab.cooking=Harvest Festival - Culin�ria
+harvestfestival.tab.mining=Harvest Festival - Minera��o
+harvestfestival.tab.town=Harvest Festival - Distrito
+harvestfestival.tab.gathering=Harvest Festival - Coleta
+harvestfestival.mode.true=Harvest Festival foi definido para modo f�cil!
+harvestfestival.mode.false=Harvest Festival foi definido para modo dif�cil!
+harvestfestival.check.head=Ap�s a compra, a galinha fica na cabe�a!
+harvestfestival.check.lead=Na lideran�a ap�s a compra.
+
+#Commands
+hf.commands.help.header=--- Showing HF help page %d of %d (/hf help <page>) ---
+
+#Tooltips
+harvestfestival.tooltip.cosmetic=Cosm�tico
+harvestfestival.tooltip.mythic_stone=Usar para atualiza��o.
+harvestfestival.tooltip.flower=Chamador da Deusa
+
+#Animals
+harvestfestival.spawner.tooltip=Aperte shift para nascer filhotes
+harvestfestival.spawner.cow=Vaca
+harvestfestival.spawner.sheep=Ovelha
+harvestfestival.spawner.chicken=Galinha
+entity.harvestfestival.cow.name=Vaca
+entity.harvestfestival.sheep.name=Ovelha
+entity.harvestfestival.chicken.name=Galinha
+#Animal Related Items
+harvestfestival.tool.milker=Ordenhador
+harvestfestival.tool.brush=Escova para animais
+harvestfestival.tool.medicine=Rem�dio Veterin�rio
+harvestfestival.tool.chicken.feed=Ra��o de Frango
+harvestfestival.tool.miracle.potion=Po��o Milagrosa
+
+#Buildings
+harvestfestival.town.failure=Voc� n�o pode construir aqui!
+harvestfestival.town.dimension=Infelizmente as cidades s� podem ser constru�das no Overworld, ent�o tente construir!
+harvestfestival.town.distance=Voc� s� pode ter esse tipo de edif�cio por cidade, tente colocar este mais longe!
+harvestfestival.town.building=Este edif�cio est� atualmente na fila para ser constru�do nesta cidade, s� pode um edif�cio por cidade!
+harvestfestival.town.permission=Voc� n�o tem permiss�o para construir aqui!
+harvestfestival.town.preview=Visualiza��o Marcada!
+harvestfestival.town.sneak=Shift + Bot�o direito!
+harvestfestival.town.click=Use o Bot�o direito
+harvestfestival.town.confirm=confirmar
+harvestfestival.town.cancel=cancelar
+harvestfestival.town.cancelled=Foi cancelado
+harvestfestival.structures.blueprint=Diagrama: %s
+harvestfestival.structures.spawn=[SPAWN] %s
+harvestfestival.structures.barn=Rancho de Animais
+harvestfestival.structures.blacksmith=Ferraria
+harvestfestival.structures.cafe=Cafeteria
+harvestfestival.structures.carpenter=Carpintaria
+harvestfestival.structures.church=Templo
+harvestfestival.structures.clockmaker=Relojoaria
+harvestfestival.structures.fishinghole=Pesqueiro
+harvestfestival.structures.fishinghut=Loja de Pesca
+harvestfestival.structures.goddesspond=Lago da Deusa
+harvestfestival.structures.mininghill=Mina
+harvestfestival.structures.mininghut=Loja de min�rios
+harvestfestival.structures.poultryfarm=Granja
+harvestfestival.structures.supermarket=Loja Geral
+harvestfestival.structures.townhall=Prefeitura
+harvestfestival.structures.shipping=Caixa de Transporte
+harvestfestival.structures.null=Inv�lido
+
+#Cheat Items (Translators don't bother tranlating these, I just use them to help with dev)
+harvestfestival.cheat.coord.setter=[BuildingGen] Coordinate Setter
+harvestfestival.cheat.code.generator=[BuildingGen] Code Generator
+harvestfestival.air=[BuildingGen] Internal Air
+harvestfestival.cheat.air.placer=[BuildingGen] Internal Air Placer
+harvestfestival.cheat.air.remover=[BuildingGen] Internal Air Remover
+
+#Crops
+harvestfestival.crop.sickle=Precisa usar uma foice.
+harvestfestival.crop.seeds.format=%1s %2s
+harvestfestival.crop.seeds=Sementes
+harvestfestival.crop.seeds.days=dias
+harvestfestival.crop.seeds.useless=Tempo para crescer
+harvestfestival.crop.seeds.corrupted=Sementes corrompidas. Poxa Vida!
+harvestfestival.crop.null.crop=Qualquer
+harvestfestival.crop.beetroot=Beterraba
+harvestfestival.crop.cabbage=Repolho
+harvestfestival.crop.carrot=Cenoura
+harvestfestival.crop.corn=Milho
+harvestfestival.crop.cucumber=Pepino
+harvestfestival.crop.eggplant=Berinjela
+harvestfestival.crop.grass.block=Grama
+harvestfestival.crop.grass.item=Feno
+harvestfestival.crop.green.pepper=Pimenta Verde
+harvestfestival.crop.onion=Cebola
+harvestfestival.crop.pineapple=Abacaxi
+harvestfestival.crop.potato=Batata
+harvestfestival.crop.pumpkin=Ab�bora
+harvestfestival.crop.spinach=Espinafre
+harvestfestival.crop.strawberry=Morango
+harvestfestival.crop.sweet.potato=Batata Doce
+harvestfestival.crop.tomato=Tomate
+harvestfestival.crop.turnip=Nabo
+harvestfestival.crop.watermelon=Melancia
+harvestfestival.crop.wheat=Trigo
+harvestfestival.crop.nether.wart=Fungo
+harvestfestival.crop.tutorial.turnip=Nabo Robusto
+harvestfestival.crop.hemp=Industria textil
+harvestfestival.crop.hemp.tooltip=Requer n�vel de luz 12+
+
+#General Items
+harvestfestival.general.shoot.bamboo=Bamboo Shoot
+harvestfestival.general.mushroom.matsutake=Matsutake Mushroom
+
+#Cookbook
+harvestfestival.utensils=Utens�lios
+harvestfestival.cookbook=Livro de Receitas
+harvestfestival.recipe.format=Receita de %s
+harvestfestival.recipe.invalid=Receita Perdida!
+
+#Meals
+harvestfestival.meal.learnt=Parab�ns! Voc� aprendeu uma receita nova!
+harvestfestival.meal.intro=Bem-vinda ao seu livro de receitas. Dentro dele, voc� n�o vai encontrar nada! Voc� precisar� aprender algumas receitas primeiro, comprando algumas na cafeteria. \n\n H� tamb�m uma fofoca de que as pessoas da cidade t�m algumas receitas secretas, talvez voc� tamb�m deva conhec�-las.
+harvestfestival.meal.missing=Imposs�vel!
+harvestfestival.meal.missing.description=Est� faltando alguns ingredientes!
+harvestfestival.meal.success=Sucesso!
+harvestfestival.meal.success.description=N�s achamos %1s. Ok, agora coloque os ingredientes para fazer %2s
+harvestfestival.meal.failure=Falhou!
+harvestfestival.meal.failure.description=N�o foi poss�vel encontrar um %1s para colocar os ingredientes %2s
+harvestfestival.meal.missing_oven=N�o tem forno!
+harvestfestival.meal.missing_oven.description=Encontramos um %1s. No entanto, ele precisa ter um forno por baixo, a fim de caber os ingredientes %1s
+harvestfestival.meal.missing_counter=N�o tem Cortador!
+harvestfestival.meal.missing_counter.description=N�s achamos um %1s. No entanto, ele precisa ter um contador debaixo dele, a fim de caber os ingredientes %2s
+harvestfestival.meal.description=Descri��o:
+harvestfestival.meal.recipe=Receita
+harvestfestival.meal.hunger=Restaurar
+harvestfestival.meal.sell=Vender para
+harvestfestival.meal.sat=Preencher
+harvestfestival.meal.exhaust=Exaustos
+harvestfestival.meal.fry.stir=Fritar
+harvestfestival.meal.rice.fried=Arroz frito
+harvestfestival.meal.pancake.savoury=Panqueca salgada
+harvestfestival.meal.pancake.savoury.description=Batata frita e melado s�o gostosos e n�o s�o apenas para o caf� da manh�, estas panquecas salgadas cai muito bem com cebolinhas.
+harvestfestival.meal.fries.french=Batatas fritas
+harvestfestival.meal.fries.french.description=Batatas onduladas, sem d�vida tem a forma mais transcendente de amidos b�sicos, fritos com a mais universal das especiarias � excelente para muitas refei��es.
+harvestfestival.meal.popcorn=Pipoca
+harvestfestival.meal.popcorn.description=Pegue apenas uma x�cara, e normalmente deve comer apenas isso.�Este alimento � leve e fofo, usar �leos nobres e especiarias deixa mais gostoso.
+harvestfestival.meal.cornflakes=Flocos de milho
+harvestfestival.meal.cornflakes.description=Se voc� for louco fritaria este cl�ssico nutriente no caf� da manh�. � melhor assar no forno. Uma dica! Colocar a��car fica uma del�cia.
+harvestfestival.meal.egg.scrambled=Ovos mexidos
+harvestfestival.meal.egg.scrambled.description=A solu��o para deixar �os ovos mexidos macios � adicionar o sal e deix�-lo descansar por dois minutos antes de cozinhar, qualquer outro ingrediente podem ser adicionados antes da panela.
+harvestfestival.meal.omelet=Omelete
+harvestfestival.meal.omelet.description=Batatas fritas bem macias, omelete e leite � um cl�ssico almo�o. Mas dependendo do que for adicionado a mais, torna uma refei��o para qualquer ocasi�o.
+harvestfestival.meal.omelet.rice=Panqueca com arroz
+harvestfestival.meal.omelet.rice.description=O arroz ligeiramente seco absorve os ovos batidos e seus amidos ajudam dar liga no arroz. Este receita permite a adi��o de mais ingredientes que uma omelete simples.
+harvestfestival.meal.pancake=Panqueca
+harvestfestival.meal.pancake.description=Panquecas, bolos, ou todos os nomes que se d�o para p�es, s�o preparados aqui em grande demanda. Essas receitas tem origem do oeste de Constantinopla.
+harvestfestival.meal.potsticker=Bolinho de vegetais
+harvestfestival.meal.potsticker.description=Os raros vegetais s�o salgados e enrolados em uma massa para bolinhos. Depois frite at� que fiquem igual pastel. A suavidade vem dos vegetais cozidos no vapor.
+harvestfestival.meal.risotto=Risoto
+harvestfestival.meal.risotto.description=Este prato italiano tradicional � a adi��o de tomates, cebolas e uma x�cara de arroz. O amido disolvido faz o arroz ter uma textura lisa.
+harvestfestival.meal.juice.pineapple=Suco de abacaxi
+harvestfestival.meal.juice.pineapple.description=Doce e azedo, o suco de abacaxi sacia a sede e restaura as vitaminas. Alguns pensam que n�o � doce ou azedo o bastante.
+harvestfestival.meal.juice.tomato=Suco de tomate
+harvestfestival.meal.juice.tomato.description=Inventado como um substituto de �ltima hora para a falta do suco de laranja, � o uso b�sico em coquet�is atuais.
+harvestfestival.meal.milk.strawberry=Leite com morango
+harvestfestival.meal.milk.strawberry.description=Este leite adocicado com frutas pode ajudar as pessoas com dor de est�mago, e pode facilitar a digest�o. Algumas pessoas preferem um pouco mais doce.
+harvestfestival.meal.juice.vegetable=Suco de vegetais
+harvestfestival.meal.juice.vegetable.description=� um suco que n�o cont�m frutas, receitas tradicionais incluem tomate e algumas especiarias. S�o �timos acompanhados por saladas. E tamb�m pode ser excelente suco.
+harvestfestival.meal.latte.vegetable=Leite de vegetais
+harvestfestival.meal.latte.vegetable.description=Os �leos vegetais ligam-se a �cidos l�cticos, ligando todas essas vitaminas saud�veis e s�o facilmente digeridas, sem coment�rios sobre seu gosto.
+harvestfestival.meal.ketchup=Ketchup
+harvestfestival.meal.ketchup.description=ketchup � um dos condimentos cl�ssicos. Alguns preferem que seja doce, salgado, ou picante.
+harvestfestival.meal.butter=Manteiga
+harvestfestival.meal.butter.description=O leite batido corretamente tem sua gordura e os �leos sepados. Um conservante comum ajuda a manter a firmeza da manteiga, e o seu sabor.
+harvestfestival.meal.fishsticks=Palitos de peixe
+harvestfestival.meal.fishsticks.description=Uma das carnes que ficam melhores se picadas, corte o peixe em forma de palitos, n�o muito finos, depois de empanados frite ou asse. Seve como um lanche ou refei��o �til.
+harvestfestival.meal.salad=Salada
+harvestfestival.meal.salad.description=Esta receita fica muito boa com batata frita fresca. E � o contraste perfeito com carnes gordas pesadas. H� tantas combina��es para escolher! Embora, muitos preferem s� com �leo e sal.
+harvestfestival.meal.sandwich=Sandu�che
+harvestfestival.meal.sandwich.description=O alimento port�til e essencial, � bom consumi-los enquanto jogo ou trabalho tarde demais. Mais como ele com algo para umedec�-lo ou adicionar alguma maciez.
+harvestfestival.meal.turnip.pickled=Nabos em conserva
+harvestfestival.meal.turnip.pickled.description=A conserva deixa o sabor do nabo sutil, alguns preferem usos mais extremos do tempero mais comum do mundo.
+harvestfestival.meal.cucumber.pickled=Pepino em conserva
+harvestfestival.meal.cucumber.pickled.description=O pepino em conseva, tanto seu alimentos e condimentos, s�o deliciosos e refrescantes.
+harvestfestival.meal.sushi=Sushi
+harvestfestival.meal.sushi.description=O sushi tradicional na culin�ria japonesa. Arroz envolve palitos de peixe formando um rolinho. Parece uma obra de arte.
+harvestfestival.meal.sashimi=Sashimi
+harvestfestival.meal.sashimi.description=Este m�todo simples de prepara��o de peixe requer cortes delicados, mas sem cozinhar.
+harvestfestival.meal.sashimi.chirashi=Chirashi Sushi
+harvestfestival.meal.sashimi.chirashi.description=Uma tigela de arroz com peixe em fatias no topo, os sabores contrastantes de v�rios tipos de peixe fornecem uma infinidade de combina��es em um prato simples.
+harvestfestival.meal.milk.hot=Leite quente
+harvestfestival.meal.milk.hot.description=Pegue o leite e ferva! O leite quente pode ajud�-lo a dormir profundamente ou acalmar um est�mago indisposto.
+harvestfestival.meal.chocolate.hot=Chocolate quente
+harvestfestival.meal.chocolate.hot.description=Considero a bebida dos deuses, o cacau derretido adicionado ao creme doce produz a bebida a mais fina conhecida pelos deuses ou � humanidade. Alguns preferem mais doce.
+harvestfestival.meal.stew.pumpkin=Guisado de ab�bora
+harvestfestival.meal.stew.pumpkin.description=Este guisado tradicional � feito a partir da polpa da ab�bora, lentamente aquecida at� que se liquefiquem, os f�s dizem que � como a torta de ab�bora l�quida.
+harvestfestival.meal.stew.fish=Caldo de peixe
+harvestfestival.meal.stew.fish.description=Tecnicamente, � uma sopa mar�tima. O ensopado de peixe tira proveito da �gua do mar encontrada em peixes para adicionar volume a sua subst�ncia carnuda.
+harvestfestival.meal.egg.boiled=Ovo cozido
+harvestfestival.meal.egg.boiled.description=Colocando ovos em �gua fria e, em seguida, ferva a �gua por 10 minutos, em seguida, deixe esfriar. � tudo o que � necess�rio para fazer este prato. Esfriar e servir.
+harvestfestival.meal.spinach.boiled=Espinafre cozido
+harvestfestival.meal.spinach.boiled.description=As crian�as s�o mais sens�veis aos sabores azedos. Por essa raz�o, oferecer este prato para as crian�as � um erro de gera��es.
+harvestfestival.meal.potato.candied=Batata cristalizada
+harvestfestival.meal.potato.candied.description=A batata-doce � fant�stica tanto em nutri��o e sabor. S�o doces e suculentas, n�o podemos culpar as pessoas por querer mais.
+harvestfestival.meal.dumplings=Torta
+harvestfestival.meal.dumplings.description=Com legumes ou frango, n�o tem erro, fica delicioso. Dar uma leve fritada nos legumes faz com que n�o murcham ou perdem seu sabor.
+harvestfestival.meal.noodles=Macarr�o
+harvestfestival.meal.noodles.description=Macarr�o de todas as formas s�o uma parte substancial de muitas refei��es e cozinhas. Servido com molho ou temperado.
+harvestfestival.meal.soup.rice=Sopa de arroz
+harvestfestival.meal.soup.rice.description=Sopa de arroz, esta mistura n�o tem outra fonte de l�quido. Colocar salsinha e cebolinha fica uma del�cia!
+harvestfestival.meal.porridge=Mingau
+harvestfestival.meal.porridge.description=O leite e o amido de milho pr�-cozidos se dissolvem e vira um mingau nutritivo! Colocar manteiga pode deixar mais cremoso.
+harvestfestival.meal.egg.overrice=Ovos sobre o Arroz
+harvestfestival.meal.egg.overrice.description=Quebre um ovo sobre as bolas de arroz. Em uma panela aque�a lentamente durante 20 minutos. O ovo vai�envolver entre os gr�os e lig�-lo juntamente com prote�nas deliciosas.
+harvestfestival.meal.stew=Ensopado
+harvestfestival.meal.stew.description=A simples adi��o de farinha no leite lenvemente aquecido cria uma excelente base de ensopado que pode ser acompanhado de muitas refei��es! Fica delicioso.
+harvestfestival.meal.corn.baked=Milho cozido
+harvestfestival.meal.corn.baked.description=Milho cozido � importante, pois os a��cares ficam dentro dos gr�os cozidos. Embora n�o seja doce o suficiente para alguns. A umidade da Manteiga acentua o sabor.
+harvestfestival.meal.riceballs.toasted=Bolas de arroz torradas
+harvestfestival.meal.riceballs.toasted.description=Bolas de arroz torrado mant�m toda a portabilidade e conveni�ncia, mas ganha uma textura n�tida e fica junto com seu sabor, que s� � melhorada pelo calor.
+harvestfestival.meal.toast=Torrada
+harvestfestival.meal.toast.description=P�o crocante uma vez utilizados para adicionar sabor �s bebidas. Fa�a um "brinde"! Agora sabemos que tem bom gosto por conta pr�pria.
+harvestfestival.meal.dinnerroll=P�ozinho
+harvestfestival.meal.dinnerroll.description=Essa massa � feita com ovos, dilu�dos com leite e sal. Tecnicamente  � um tipo de omelete. Mas � mais conhecido como um p�o.
+harvestfestival.meal.doria=D�ria
+harvestfestival.meal.doria.description=Este p�o cozido cont�m arroz fofo e cebola frita. Pode ser doce e salgada. Geralmente � feita em uma ca�arola.
+harvestfestival.meal.cookies=Cookies
+harvestfestival.meal.cookies.description=Port�til, doce, crocante, saboroso, o lanche ideal dos deuses. O que poderia torn�-lo melhor?
+harvestfestival.meal.cookies.chocolate=Biscoitos de chocolate
+harvestfestival.meal.cookies.chocolate.description=Ao espalhar o chocolate pela massa de biscoito voc� tem sabor acentuado de chocolate. Ent�o, n�s adicionamos mais chocolate na forma depois de assados.
+harvestfestival.meal.cake.chocolate=Bolo de chocolate
+harvestfestival.meal.cake.chocolate.description=Adicionando chocolate na massa do bolo tradicional, podemos obter o bolo de chocolate. N�o como muito, pode engordar! Humm � uma del�cia, principalmente se colocar cobertura.
+harvestfestival.meal.toast.french=Torrada francesa
+harvestfestival.meal.toast.french.description=Mergulhe o p�o torrado no ovo batido com os outros ingredientes e frite, no �leo bem quente. � incr�vel. Pode adicionar algum ingrediente extra.
+harvestfestival.meal.doughnut=Rosquinha
+harvestfestival.meal.doughnut.description=An�is de gl�ria e admira��o. Esque�a a a fome. Fica muito bom se acompanhar com ch�, caf� e outras bebidas quentes. Maravilhoso.
+harvestfestival.meal.fish.grilled=Peixe grelhado
+harvestfestival.meal.fish.grilled.description=Grelhar os peixes acentua o sabor, ficam crocantes e ao mesmo tempo macio. Pode colocar pimentas, isso depende do seu m�todo de prepara��o.
+harvestfestival.meal.eggplant.happy=Beringela frita
+harvestfestival.meal.eggplant.happy.description=Berinjela frita traz um sorriso para a maioria das pessoas! Eu mesma sorriu de volta.
+harvestfestival.meal.burnt.counter=Prato feito � m�o fracassou!
+harvestfestival.meal.burnt.pot=Prato feito na panela falhou!
+harvestfestival.meal.burnt.frying.pan=Refei��o frita falhou!
+harvestfestival.meal.burnt.mixer=Falha no liquidificador!
+harvestfestival.meal.burnt.oven=Falha no fog�o!
+
+#Ingredients
+harvestfestival.ingredient.butter=Manteiga
+harvestfestival.ingredient.cookies=Cookies
+harvestfestival.ingredient.egg.scrambled=Cookies
+harvestfestival.ingredient.ketchup=Ketchup
+harvestfestival.ingredient.sashimi=Sashimi
+harvestfestival.ingredient.oil=�leo de cozinha
+harvestfestival.ingredient.riceball=Bolinho de Arroz
+harvestfestival.ingredient.salt=Sal
+harvestfestival.ingredient.flour=Farinha
+harvestfestival.ingredient.chocolate=Chocolate
+
+#Utensils
+harvestfestival.utensil.blade=Liquidificador
+harvestfestival.utensil.knife=Faca
+
+#Sizeables
+harvestfestival.sizeable.format=%1s %2s
+harvestfestival.sizeable.small=[Pequeno]
+harvestfestival.sizeable.medium=[M�dio]
+harvestfestival.sizeable.large=[Grande]
+harvestfestival.sizeable.egg=Ovo
+harvestfestival.sizeable.milk=Jarro de Leite
+harvestfestival.sizeable.wool=L�
+harvestfestival.sizeable.fish=Peixe
+harvestfestival.sizeable.cheese=Queijo
+harvestfestival.sizeable.yoghurt=Iorgute
+harvestfestival.sizeable.mayonnaise=Maionese
+harvestfestival.sizeable.matsutake=Cogumelo Matsutake
+harvestfestival.sizeable.toadstool=Cogumelo venenoso
+harvestfestival.sizeable.shiitake=Cogumelo Shiitake
+harvestfestival.sizeable.yarn=Conversar
+
+#Tools
+#Hoe
+harvestfestival.tool.discharge=Redefinir a ferramenta para o n�vel de carga normal!
+harvestfestival.tool.charge=Aumentar o n�vel da ferramenta %s
+harvestfestival.hoe.tooltip.charge.basic=N�vel de carga normal (1x1)
+harvestfestival.hoe.tooltip.charge.copper=N�vel de carga de cobre (1x2)
+harvestfestival.hoe.tooltip.charge.silver=N�vel de carga de prata (1x3)
+harvestfestival.hoe.tooltip.charge.gold=N�vel de Carga de Ouro (1x4)
+harvestfestival.hoe.tooltip.charge.mystril=N�vel de carga de Mystril (1x6)
+harvestfestival.hoe.tooltip.charge.cursed=N�vel de Carga Amaldi�oado / Aben�oado (3x12)
+harvestfestival.hoe.tooltip.charge.mythic=N�vel de carga m�tica (5x18)
+harvestfestival.hoe.tooltip.charge=Mantenha o bot�o direito do mouse apertado
+harvestfestival.hoe.tooltip.discharge=Mover + Clique bot�o direito para redefinir
+harvestfestival.hoe.basic=Enxada
+harvestfestival.hoe.copper=Enxada de Cobre 
+harvestfestival.hoe.silver=Enxada de Prata
+harvestfestival.hoe.gold=Enxada de Ouro
+harvestfestival.hoe.mystril=Enxada de Mystril
+harvestfestival.hoe.cursed=Enxada Amaldi�oada
+harvestfestival.hoe.blessed=Enxada Aben�oada
+harvestfestival.hoe.mythic=Enxada M�stica
+
+#Sickle
+harvestfestival.sickle.basic=Foice
+harvestfestival.sickle.copper=Foice de Cobre
+harvestfestival.sickle.silver=Foice de Prata
+harvestfestival.sickle.gold=Foice de Ouro
+harvestfestival.sickle.mystril=Foice de Mystril
+harvestfestival.sickle.cursed=Foice Amaldi�oada
+harvestfestival.sickle.blessed=Foice Aben�oada
+harvestfestival.sickle.mythic=Foice M�stica
+
+#Watering Can
+harvestfestival.wateringcan.basic=Regador
+harvestfestival.wateringcan.copper=Regador de Cobre
+harvestfestival.wateringcan.silver=Regador de Prata
+harvestfestival.wateringcan.gold=Regador de Ouro
+harvestfestival.wateringcan.mystril=Regador de Mystril
+harvestfestival.wateringcan.cursed=Regador Amaldi�oado
+harvestfestival.wateringcan.blessed=Regador Aben�oado
+harvestfestival.wateringcan.mythic=Regador M�stico
+
+#Hammer
+harvestfestival.hammer.basic=Martelo
+harvestfestival.hammer.copper=Martelo de Cobre
+harvestfestival.hammer.silver=Martelo de Prata
+harvestfestival.hammer.gold=Martelo de Ouro
+harvestfestival.hammer.mystril=Martelo de Mystril
+harvestfestival.hammer.cursed=Martelo Amaldi�oado
+harvestfestival.hammer.blessed=Martelo Aben�oado
+harvestfestival.hammer.mythic=Martelo M�stico
+
+#Axe
+harvestfestival.axe.basic=Machado
+harvestfestival.axe.copper=Machado de Cobre
+harvestfestival.axe.silver=Machado de Prata
+harvestfestival.axe.gold=Machado de Ouro
+harvestfestival.axe.mystril=Machado de Mystril
+harvestfestival.axe.cursed=Machado Amaldi�oado
+harvestfestival.axe.blessed=Machado Aben�oado
+harvestfestival.axe.mythic=Machado M�stico
+
+#Effects
+harvestfestival.effect.fatigue=Cansado
+harvestfestival.effect.exhaustion=Esgotado
+harvestfestival.effect.cursed=Amaldi�oado
+
+#Treats
+harvestfestival.treat.cow=Ra��o para Vaca
+harvestfestival.treat.sheep=Ra��o para Ovelha
+harvestfestival.treat.chicken=Ra��o para Galinha
+harvestfestival.treat.horse=Ra��o para Cavalo
+harvestfestival.treat.pig=Ra��o para Porco
+harvestfestival.treat.cat=Ra��o para Gato
+harvestfestival.treat.dog=Ra��o para Cachorro
+harvestfestival.treat.generic=Ra��o
+
+#Blocks
+harvestfestival.cookware.fridge=Geladeira
+harvestfestival.cookware.fridge.top=Geladeira
+harvestfestival.cookware.counter=Balc�o de cozinha
+harvestfestival.cookware.pot=Panela
+harvestfestival.cookware.frying.pan=Frigideira
+harvestfestival.cookware.mixer=Liquidificador 
+harvestfestival.cookware.oven.off=Fog�o
+harvestfestival.cookware.oven.on=Fog�o ligado
+harvestfestival.cookware.chopping.board=T�bua de Carne
+harvestfestival.cookware.mixing.bowl=Misturando na panela
+harvestfestival.cookware.baking=Assadeira
+harvestfestival.cookware.steamer=Irrigador
+
+harvestfestival.storage.shipping=Caixa de Transporte
+harvestfestival.sized.incubator=Incubadora
+harvestfestival.trough.wood=Cocho
+harvestfestival.sprinkler.wood=Borrifador
+harvestfestival.tray.nest.empty=Ninho
+harvestfestival.tray.small.chicken=Ninho com ovo pequeno
+harvestfestival.tray.medium.chicken=Ninho com ovo m�dio
+harvestfestival.tray.large.chicken=Ninho com ovo grande
+harvestfestival.tray.feeder.empty=Bandeja para ra��o
+harvestfestival.tray.feeder.full=Bandeja com ra��o
+
+harvestfestival.flowers.goddess=Flor Divina
+harvestfestival.flowers.weed=Erva daninha
+
+harvestfestival.wood.branch.small=Galho Pequeno
+harvestfestival.wood.branch.medium=Galho M�dio
+harvestfestival.wood.branch.large=Galho Grande
+harvestfestival.wood.stump.small=Tronco Pequeno
+harvestfestival.wood.stump.medium=Tronco M�dio
+harvestfestival.wood.stump.large=Tronco Grande
+harvestfestival.rock.stone.small=Pedregulho Pequeno
+harvestfestival.rock.stone.medium=Pedregulho M�dio
+harvestfestival.rock.stone.large=Pedregulho Grande
+harvestfestival.rock.boulder.small=Pedra Pequeno
+harvestfestival.rock.boulder.medium=Pedra M�dia
+harvestfestival.rock.boulder.large=Pedra Grande
+
+#Mine Blocks
+harvestfestival.dirt=Ch�o da Mina
+harvestfestival.dirt.winter=Ch�o da Mina
+harvestfestival.dirt.decorative=Ch�o da Mina
+harvestfestival.dirt.decorative.winter=Mine Floor
+harvestfestival.hole=Buraco da Mina
+harvestfestival.stone.real=Parede da Mina
+harvestfestival.stone.decorative=Parede da Mina
+harvestfestival.ladder.wood=Escada da mina
+harvestfestival.ore.rock=Rocha
+harvestfestival.ore.copper=N� de Cobre
+harvestfestival.ore.silver=N� de Prata
+harvestfestival.ore.gold=N� de Ouro
+harvestfestival.ore.mystril=N� de Mystril
+harvestfestival.ore.gem=N� de J�ia
+harvestfestival.portal=Portal da Mina
+
+#Mine Materials
+harvestfestival.material.junk=Min�rio sem Valor
+harvestfestival.material.copper=Min�rio de Cobre
+harvestfestival.material.silver=Min�rio de Prata
+harvestfestival.material.gold=Min�rio de Ouro
+harvestfestival.material.mystril=Min�rio de Mystril
+harvestfestival.material.mythic=Pedra M�stica
+
+#Mine Mobs
+harvestfestival.darkspawner.cow=Vaca Sombria
+harvestfestival.darkspawner.sheep=Ovelha Sombria
+harvestfestival.darkspawner.chicken=Galinha Sombria
+harvestfestival.darkspawner.chick=Pintinho Sombrio
+entity.harvestfestival.dark_cow.name=Vaca Sombria
+entity.harvestfestival.dark_sheep.name=Vaca Sombria
+entity.harvestfestival.dark_chicken.name=Galinha Sombria
+entity.harvestfestival.dark_chick.name=Pintinho Sombrio
+
+#Mine Tools
+harvestfestival.miningtool.escape.rope=Corda de Escape
+
+tile.goddess.water.name=Lago da Deusa
+
+#Seasons
+harvestfestival.season.spring=Primavera
+harvestfestival.season.summer=Ver�o
+harvestfestival.season.autumn=Outono
+harvestfestival.season.winter=Inverno
+harvestfestival.season.nether=Infernal
+harvestfestival.season.end=Devoid
+harvestfestival.calendar.date=%1s %2s
+harvestfestival.calendar.monday=Segunda-feira
+harvestfestival.calendar.tuesday=Ter�a-feira
+harvestfestival.calendar.wednesday=Quarta-feira
+harvestfestival.calendar.thursday=Quinta-feira
+harvestfestival.calendar.friday=Sexta-feira
+harvestfestival.calendar.saturday=S�bado
+harvestfestival.calendar.sunday=Domingo
+harvestfestival.year=Ano
+
+#Weathers
+harvestfestival.weather.sunny.set=Definir o tempo para ensolarado
+harvestfestival.weather.rain.set=Definir o tempo para chuvoso
+harvestfestival.weather.snow.set=Definir o tempo para nevar
+harvestfestival.weather.typhoon.set=Definir o tempo para tuf�o
+harvestfestival.weather.blizzard.set=Definir o tempo para uma nevasca
+
+#NPC Tools
+harvestfestival.npctool.blue.feather=Pena Azul
+harvestfestival.npctool.npc.killer=Espada Assassina
+harvestfestival.npctool.calendar=H� quantos anos est� na cidade?
+harvestfestival.npctool.clock=Qual � o hor�rio de funcionamento da loja?
+harvestfestival.npctool.weather=Como estar� o tempo, amanh�?
+harvestfestival.npctool.gift=D� um presente!
+
+# NPC Names
+## NOTE FOR TRANSLATORS, READ
+# For the Harvest Goddess, use the name that is used by the Harvest Festival Games
+# in your own language, as for the other characters, name them whatever you like!
+# can be your friends, yourself, hints at famous people in your language or whatever
+# the names don't need to be the same.
+# WARNING: Use of any NON a-Z character will change the renderer to use the vanilla font instead
+# So for best looks, if you can try to only use names with that, if the means you don't translate names
+# then sorry. It's not really feasible for me to support unicode with the custom font
+harvestfestival.npc.goddess.name=Deusa da Colheita
+harvestfestival.npc.katlin.name=Anast�cia
+harvestfestival.npc.daniel.name=Daniel
+harvestfestival.npc.cloe.name=Cloe
+harvestfestival.npc.liara.name=Lara
+harvestfestival.npc.jade.name=Jade
+harvestfestival.npc.jenni.name=J�ssica
+harvestfestival.npc.jamie.name=Dion�sio
+harvestfestival.npc.abi.name=�ris
+harvestfestival.npc.tiberius.name=Tib�rio
+harvestfestival.npc.jacob.name=Jacob
+harvestfestival.npc.fenn.name=Eduardo
+harvestfestival.npc.jim.name=James
+harvestfestival.npc.brandon.name=Bernardo
+harvestfestival.npc.thomas.name=Tomas
+harvestfestival.npc.candice.name=Alice
+harvestfestival.npc.yulif.name=Yulif
+harvestfestival.npc.ashlee.name=D�borah
+harvestfestival.npc.girafi.name=Jonas
+
+## NOTE FOR TRANSLATORS, READ
+# When translating these, do not directly translate, just come up with your own
+# funny, or generic greetings related to each character, things that work best
+# in your own language, as these are just generic, do translate the quests
+# semi-literally though, as they are important so the user knows what to do,
+# but take liberty there to, just make sure the user still knows what they
+# have to do in order to complete the quest in question. For many of the greetings you
+# can remove or add more, for the greetings like: harvestfestival.npc.goddess.greeting
+# you can add up to 32 greetings
+#Key-Codes for conversations
+# %1$s=Money - Player has
+# %2$s=Player's Romantic Interest's name
+# %3$s=Entity's Romantic Interest's name
+# %4$s=Players Name
+# %5$s=NPC Name
+#Conversations
+#Error
+harvestfestival.npc.error=N�o foi poss�vel encontrar a tradu��o para a chave: %s ou tecla %s
+#Generic - Weather
+harvestfestival.npc.generic.weather.good=O tempo est� �timo, hein?
+harvestfestival.npc.generic.weather.bad=Que tempo horr�vel!
+
+#Generic Adult Thanks
+harvestfestival.npc.generic.adult.gift.awesome=Obrigado pelo bel�ssimo presente! Eu adoro isso!
+harvestfestival.npc.generic.adult.gift.good=Uau! obrigado pelo presente incr�vel! Eu amo isso.
+harvestfestival.npc.generic.adult.gift.decent=Obrigado pelo presente.
+harvestfestival.npc.generic.adult.gift.dislike=Humm obrigado, eu acho.
+harvestfestival.npc.generic.adult.gift.bad=O que voc� estava pensando? Por que eu iria querer isso?
+harvestfestival.npc.generic.adult.gift.terrible=O que h� de errado com voc�, Por que eu receberia um presente t�o est�pido?
+#No Thanks
+harvestfestival.npc.generic.adult.gift.reject=Eu realmente aprecio isto, mas eu n�o posso aceitar outro presente de voc� hoje.
+harvestfestival.npc.generic.adult.gift.no=Esse item � muito valioso, eu simplesmente n�o posso aceit�-lo como um presente!
+
+#Generic Child Thanks
+harvestfestival.npc.generic.child.gift.awesome=OMG! Yes, Yes Yes, Muit�ssimo obrigado! � incr�vel! 
+harvestfestival.npc.generic.child.gift.good=Impressionante! Obrigado pelo lindo presente.
+harvestfestival.npc.generic.child.gift.decent=Legal, obrigado!
+harvestfestival.npc.generic.child.gift.dislike=Hmm, eu n�o tenho tanta certeza se vou gostar disso.
+harvestfestival.npc.generic.child.gift.bad=Por que voc� faria isso comigo? :(
+harvestfestival.npc.generic.child.gift.terrible=EU ODEIO VOC�, FIQUE LONGE DE MIM !!!
+#No Thanks
+harvestfestival.npc.generic.child.gift.reject=N�o obrigado! Talvez amanh� :D
+
+#Generic Elder Thanks
+harvestfestival.npc.generic.elder.gift.awesome=Em toda a minha vida, eu nunca recebi um presente t�o lindo. De todo meu cora��o, muito obrigado!
+harvestfestival.npc.generic.elder.gift.good=Que generoso da sua parte me dar isso. Obrigado.
+harvestfestival.npc.generic.elder.gift.decent=Obrigado por me fazer sorrir.
+harvestfestival.npc.generic.elder.gift.dislike=Isso n�o foi uma boa id�ia.
+harvestfestival.npc.generic.elder.gift.bad=Est� tentando me insultar?
+harvestfestival.npc.generic.elder.gift.terrible=Voc� merece apanhar por me dar um presente t�o terr�vel.
+#No Thanks
+harvestfestival.npc.generic.elder.gift.reject=Desculpe meu jovem, mas com todo respeito eu n�o posso ter outro presente de voc� hoje.
+
+#Goddess
+harvestfestival.npc.goddess.greeting1=Como voc� est�, meu querido?
+harvestfestival.npc.goddess.greeting2=Que �timo dia para plantar!
+harvestfestival.npc.goddess.greeting3=Precisa de mais alguma coisa, querido?
+harvestfestival.npc.goddess.greeting4=Por favor, n�o leve muito tempo! Estou com pressa.
+harvestfestival.npc.goddess.greeting5=Do que voc� precisa?
+harvestfestival.npc.goddess.greeting6=Se voc� perder vai precisar de outro diagrama. � s� me trazer mais madeira e eu ficarei feliz te ajudar.
+harvestfestival.npc.goddess.greeting7=Oh, � t�o bom ver voc� de novo %4$s!
+harvestfestival.npc.goddess.greeting8=Ei, querido, como foram as coisas?
+harvestfestival.npc.goddess.greeting9=Tenho certeza que um dia o gnomo da colheita vai voltar, tem sido t�o solit�rio.
+harvestfestival.npc.goddess.greeting10=Eu realmente acho que voc� deve ser capaz de cultivar flores, isso n�o � justo.
+harvestfestival.npc.goddess.greeting11=Onde voc� estava, � bom ver voc� de novo.
+harvestfestival.npc.goddess.greeting12=Ol� %4$s, As coisas est�o indo bem para voc�?
+harvestfestival.npc.goddess.greeting13=A natureza � realmente linda, n�o �?
+harvestfestival.npc.goddess.greeting14=Se voc� gosta de me dar presente, a maneira mais f�cil � apenas atirar um item em minha lagoa!
+harvestfestival.npc.goddess.marriage.reject=Eu n�o estou disposta a ser sua, querido.
+harvestfestival.npc.goddess.marriage.accept=Bem, isso n�o � uma surpresa, meu querido. Eu vou ficar com voc�!
+harvestfestival.npc.goddess.gift.awesome=Este presente me agrada imensamente.
+harvestfestival.npc.goddess.gift.good=Este presente me agrada muito.
+harvestfestival.npc.goddess.gift.decent=Este presente me agrada.
+harvestfestival.npc.goddess.gift.dislike=Este presente n�o me agrada.
+harvestfestival.npc.goddess.gift.bad=Esse presente � um insulto!
+harvestfestival.npc.goddess.gift.terrible=Como se atreve a me insultar assim?
+
+# Goddess Weather
+harvestfestival.npc.goddess.weather.sunny1=Oh, querido, amanh� estar� um lindo dia de sol!
+harvestfestival.npc.goddess.weather.sunny2=Amanh�, ser� um dia gloriosamente ensolarado!!
+harvestfestival.npc.goddess.weather.sunny3=O sol brilhar� o dia todo amanh�, ser� lindo.
+harvestfestival.npc.goddess.weather.rain1=Ser� um dia chuvoso amanh�, n�o h� necessidade de regar suas colheitas!
+harvestfestival.npc.goddess.weather.rain2=As nuvens est�o ficar�o cinza amanh�, preparam-se para um chuvisco.
+harvestfestival.npc.goddess.weather.rain3=Gotas, muitas gotas de chuva, como se abrisse um chuveiro, � o se pode esperar amanh�!
+harvestfestival.npc.goddess.weather.typhoon1=Oh N�o! Por todos os Deuses! Amanh� ser� terr�vel, um tuf�o se formar�!
+harvestfestival.npc.goddess.weather.typhoon2=Isso n�o ficar� bom, deve se proteger, amanh� um tuf�o chegar� com toda for�a!
+harvestfestival.npc.goddess.weather.typhoon3=Amanh�, vem uma tempestade terr�vel, um tuf�o est� vindo para a cidade!
+harvestfestival.npc.goddess.weather.snow1=Est� chegando uma frente fria. Amanh� ficar� muito frio. � melhor se proteger da neve!
+harvestfestival.npc.goddess.weather.snow2=Acho que amanh� todos n�s estaremos congelados e cantarolando. Voc� quer construir um boneco de neve?
+harvestfestival.npc.goddess.weather.snow3=Oh! previs�o do tempo para amanh� � de muito frio. Olha a neve!
+harvestfestival.npc.goddess.weather.blizzard1=Voc� pode congelar amanh�, o tempo ficar� terr�vel, uma nevasca est� vindo!
+harvestfestival.npc.goddess.weather.blizzard2=Ouvi dizer que uma Criatura da Neve est� vindo amanh�. E ele vai trazer uma nevasca com ele!
+harvestfestival.npc.goddess.weather.blizzard3=UAU, haver� uma nevasca amanh�. � melhor voc� assistir.
+
+#Katlin
+harvestfestival.npc.katlin.greeting1=Como tem passado?
+harvestfestival.npc.katlin.greeting2=Na minha �poca... Deixa pra l�! Voc� n�o quer ouvir essa hist�ria de novo. Como voc� est� hoje?
+harvestfestival.npc.katlin.greeting3=Jovens nos dias de hoje. Ol�.
+harvestfestival.npc.katlin.greeting4=Estou muito mais feliz agora, eu e Tomas n�o somos mais uma coisa.
+harvestfestival.npc.katlin.greeting5=Passo todas as minhas noites de domingo tricotando. Depois de ir a igreja no per�odo da manh�.
+harvestfestival.npc.katlin.greeting6=Na minha �poca, as coisas eram diferentes. Eram melhores.
+harvestfestival.npc.katlin.greeting7=Lara perdeu seus pais tragicamente quando era jovem. Ent�o, eu e Tomas tivemos que cuidar dela.
+harvestfestival.npc.katlin.greeting8=Tomas foi meu marido por 33 anos. Sinto falta dele, �s vezes.
+harvestfestival.npc.katlin.greeting9=Quando eu era uma menina, minha m�e costumava... Bem... � melhor eu n�o te dizer isso.
+harvestfestival.npc.katlin.greeting10=Algum dia eu vou fazer o melhor cobertor que voc� j� viu.
+harvestfestival.npc.katlin.greeting11=Bom dia, o que voc� tem feito?
+harvestfestival.npc.katlin.gift.awesome=Voc� sabe como acalmar um velho cora��o! Isso � tudo o que eu precisava.
+harvestfestival.npc.katlin.gift.good=Para um jovem, voc� d� bons presentes.
+harvestfestival.npc.katlin.gift.decent=Isso � aceit�vel.
+harvestfestival.npc.katlin.gift.dislike=Isso n�o � aceit�vel.
+harvestfestival.npc.katlin.gift.bad=Na minha �poca, n�s d�vamos �timos presentes.
+harvestfestival.npc.katlin.gift.terrible=Voc� est� tentando me matar? Que presente terr�vel.
+
+#Danieuru/Chylex
+harvestfestival.npc.daniel.shop=Estou aberto todos os dias da semana, exceto �s quintas-feiras das 10:00 �s 16:00.
+harvestfestival.npc.daniel.greeting1=Eu sempre amei reparar! Desde quando eu era crian�a, ficava pelos aredores aprendendo como se fazia.
+harvestfestival.npc.daniel.greeting2=As ferramentas � a minha paix�o. Elas s�o as coisas mais importantes da minha vida.
+harvestfestival.npc.daniel.greeting3=As pessoas me chamam de louco por acreditar em Drag�es. Mas um dia eles ir�o v�-los. Isso se forem ao The End... E a� sim! Eles n�o v�o me chamar de louco.
+harvestfestival.npc.daniel.greeting4=Se eu pudesse fazer outra coisa sen�o trabalhar com ferramentas, eu seria um matador de drag�es.
+harvestfestival.npc.daniel.greeting5=Voc� sabia que eu costumava ser um velocista ol�mpico na minha juventude? Eu era melhor do que todos os outros em Minecraftl�ndia.
+harvestfestival.npc.daniel.greeting6=Homens ou Mulheres?! Ora, n�o me incomode. Eu gosto de todos o tipos. Variedade � o tempero da vida.
+harvestfestival.npc.daniel.greeting7=Eu realmente me interessei pela J�ssica e pelo Yulif ultimamente. Mas n�o � tudo o que me interessa.
+harvestfestival.npc.daniel.greeting8=Se voc� precisa de suas ferramentas reparadas, basta trazer-me material certo e a ferramenta.
+harvestfestival.npc.daniel.greeting9=Se voc� precisar de uma melhoria, basta trazer-me uma ferramenta 100 %%, um pouco de ouro e algo para melhor�-la.
+harvestfestival.npc.daniel.greeting10=Eu j� fui para o The End, e voc�?
+harvestfestival.npc.daniel.greeting11=Eu me tornei um ferreiro porque eu queria fazer minhas pr�prias ferramentas. S� assim consegui chegar ao The End. Realmente, era um sonho de vida!
+harvestfestival.npc.daniel.greeting12=Se eu pudesse visitar qualquer pa�s, hmm, eu provavelmente iria visitar a Rep�blica Checa com a D�borah.
+harvestfestival.npc.daniel.greeting13=N�o h� nada que eu odeie mais do que o oceano. Acho que est� relacionado com o meu fasc�nio pelo Ender.
+harvestfestival.npc.daniel.marriage.reject=Prefiro passar meu tempo polindo minhas ferramentas do que com voc�.
+harvestfestival.npc.daniel.marriage.accept=Minhas ferramentas podem esperar, devemos nos casar imediatamente!
+harvestfestival.npc.daniel.gift.awesome=E eu pensei que o The End foi a melhor coisa que j� experimentei.
+harvestfestival.npc.daniel.gift.good=Voc� d� �timos presentes.
+harvestfestival.npc.daniel.gift.decent=Est� tudo bem.
+harvestfestival.npc.daniel.gift.dislike=N�o est� tudo bem.
+harvestfestival.npc.daniel.gift.bad=Voc� d� presentes ruins.
+harvestfestival.npc.daniel.gift.terrible=E eu pensei que a rejei��o de Yulif era ruim o suficiente. Mas agora voc� me deu isso? Que horror!
+
+#Cloe
+harvestfestival.npc.cloe.greeting1=Ler um bom livro, faz qualquer garota feliz.
+harvestfestival.npc.cloe.greeting2=Meu pai � exigente demais. Eu n�o consigo lidar com a press�o.
+harvestfestival.npc.cloe.greeting3=Eu s� n�o entendo as garotas �s vezes.
+harvestfestival.npc.cloe.greeting4=N�o h� nada que eu goste mais do que um filme de terror!
+harvestfestival.npc.cloe.greeting5=Honestamente, eu n�o sei realmente o que eu quero fazer para minha vida.
+harvestfestival.npc.cloe.greeting6=Este mundo est� t�o confuso! S� sei, que n�o sei de mais nada.
+harvestfestival.npc.cloe.greeting7=Eu li uns 20 livros quando tinha apenas 5 anos. Juro pelos Deuses!
+harvestfestival.npc.cloe.greeting8=Eu n�o sei como a �ris pode suportar toda essa gentileza. Isso me parece t�o falso, que me deixa louca.
+harvestfestival.npc.cloe.greeting9=Somos t�o insignificantes. Voc� n�o acha?!
+harvestfestival.npc.cloe.greeting10=Por favor, n�o diga a ningu�m... Mas eu adoro de pinguins. Estranho?........Eu sei, eu sei.
+harvestfestival.npc.cloe.greeting11=Bem, meu tio � um pouco estranho ... Ele passa a maior parte do tempo trabalhando. S� fica trabalhando n�o sei no qu�. Talvez um dia ele vai ter uma vida.
+harvestfestival.npc.cloe.greeting12=Eu n�o posso acreditar que minha m�e escolheu isso aqui!
+harvestfestival.npc.cloe.marriage.reject=Por que eu iria querer casar?! Casa � uma grande perda de tempo.
+harvestfestival.npc.cloe.marriage.accept=Estou pronta para crescer, e passar a minha vida com voc�.
+harvestfestival.npc.cloe.gift.awesome=Voc� n�o est� no meu cora��o! O homem certo n�o � voc�.
+harvestfestival.npc.cloe.gift.good=Obrigada pelo presente, � lindo.
+harvestfestival.npc.cloe.gift.decent=Obrigada.
+harvestfestival.npc.cloe.gift.dislike=Err, o qu�?
+harvestfestival.npc.cloe.gift.bad=Err, n�o obrigada ...
+harvestfestival.npc.cloe.gift.terrible=Eu pensei que meus pais eram os piores, mas voc� consegue ser pior.
+
+#Liara/ApsciLiara
+harvestfestival.npc.liara.shop=A cafeteria fica aberta d�s nove da manh� at� cinco da tarde. Ficamos aberto todos os dias da semana!
+harvestfestival.npc.liara.greeting1=Eu realmente amo este tempo, tempo perfeito para assar um bolo!
+harvestfestival.npc.liara.greeting2=Cozinhar � o que mais gosto! Eu adoro ver o sorriso no rosto das pessoas quando elas d�o a primeira mordida nos meus pratos deliciosos!
+harvestfestival.npc.liara.greeting3=Voc� est� com fome? Estou sempre com fome, n�o � de admirar que eu gosto de cozinhar.
+harvestfestival.npc.liara.greeting4=Tente vir na cafeteria �s ter�as-feiras, h� sempre algo especial.
+harvestfestival.npc.liara.greeting5=A comida faz o mundo girar, e isso me deixa tonta.
+harvestfestival.npc.liara.greeting6=N�o h� nada como um bom peda�o de chocolate! Comer chocolate deixa toda garota feliz.
+harvestfestival.npc.liara.greeting7=Voc� n�o vai acreditar, mas eu estou realmente bem.
+harvestfestival.npc.liara.greeting8=Se voc� est� procurando utens�lios, eu s� vendo aos domingos.
+harvestfestival.npc.liara.greeting9=Eu vendo receitas diferentes a cada semana e a cada temporada.
+harvestfestival.npc.liara.greeting10=Se voc� n�o sabe, voc� pode cozinhar a carne no forno.
+harvestfestival.npc.liara.greeting11=Vou lhe dar um conselho. Leia as descri��es no livro da receita. Muitas vezes eles v�o te dar uma pequena dica para melhorar a receita.
+harvestfestival.npc.liara.greeting12=Quando eu fui para a escola de culin�ria, havia uma garota, acho que seu nome come�ou com a letra "P". Ela era uma p�ssima cozinheira.
+harvestfestival.npc.liara.greeting13=Eu realmente sinto falta dos meus pais. Mas perd�-los fez me dedicar a minha carreira de culin�ria.
+harvestfestival.npc.liara.greeting14=Eu fui apaixonada por cozinhar toda a minha vida. Eu me lembro quando eu tinha dez anos, eu estava vendendo cupcake e ganhava 1000 de ouro por semana! Mas agora estou t�o feliz por eu finalmente come�ar a abrir meu pr�prio neg�cio
+harvestfestival.npc.liara.greeting15=A cafeteria est� aberta todos os dias! Das nove e meia da manh� �s cinco da noite.
+harvestfestival.npc.liara.marriage.reject=A cafeteria � a minha casa. Eu n�o quero viver com voc�.
+harvestfestival.npc.liara.marriage.accept=Obrigada, eu vou casar com voc�, eu vou cozinhar muitas refei��es.
+harvestfestival.npc.liara.gift.awesome=Obrigada, isso vai ser lembrado para sempre.
+harvestfestival.npc.liara.gift.good=Muito obrigada.
+harvestfestival.npc.liara.gift.decent=Obrigada.
+harvestfestival.npc.liara.gift.dislike=N�o, Obrigada!
+harvestfestival.npc.liara.gift.bad=Eu n�o gosto disso.
+harvestfestival.npc.liara.gift.terrible=Gostaria de lhe agradecer, mas voc� me deu a pior coisa que algu�m poderia me dar. Adeus.
+
+#Jade
+harvestfestival.npc.jade.greeting1=Ei! As ovelhas adoram conhecer o mundo! Cuide bem das ovelhas, se n�o, elas podem ir embora!
+harvestfestival.npc.jade.greeting2=O c�u est� caindo, o c�u est� caindo!
+harvestfestival.npc.jade.greeting3=Eu iria adorar ter uma planta��o! Mas meu irm�o, Yulif n�o gosta que eu fa�o nada! Ele � possessivo!
+harvestfestival.npc.jade.greeting4=Ent�o, muitas pessoas me desejaram o mal. Mas eu sou uma garota legal.
+harvestfestival.npc.jade.greeting5=Gostaria de ter um gato, mas Yulif os odeia.
+harvestfestival.npc.jade.greeting6=Minha casa � um pouco apertada. N�o tem muito espa�o.
+harvestfestival.npc.jade.greeting7=Eu realmente gostaria de come�ar a vender flores, mas ouvi dizer que � para uma futura atualiza��o, o que isso significa?
+harvestfestival.npc.jade.greeting8=� realmente muito apertado a minha casa.
+harvestfestival.npc.jade.greeting9=Voc� pode ter notado algumas pedras, ervas daninhas e gravetos ao redor. Voc� vai precisar de um martelo ou machado para peg�-las.
+harvestfestival.npc.jade.greeting10=A maneira a mais r�pida de conquistar um cora��o � dando-lhes presentes. Na verdade, se voc� der algo que seja importante a algu�m, esse algu�m lhe dar� outro presente de volta!
+harvestfestival.npc.jade.greeting11=Dormir � a maneira mais r�pida de crescer suas colheitas.
+harvestfestival.npc.jade.greeting12=Eu realmente n�o sei porque voc� n�o pode fertilizar suas planta��es. Quem sabe um dia voc� consegue?!
+harvestfestival.npc.jade.greeting13=Lembre-se que a grama e o trigo precisam de uma foice para serem colhidos.
+harvestfestival.npc.jade.greeting14=Lembre-se que a grama e o trigo precisam de uma foice para serem colhidos.
+harvestfestival.npc.jade.marriage.reject=Estou em uma fase da vida que n�o penso em casamento.
+harvestfestival.npc.jade.marriage.accept=Eu estou pronta para me casar! Eu aceito!!
+harvestfestival.npc.jade.gift.awesome=� realmente um presente impressionante!
+harvestfestival.npc.jade.gift.good=Que presente bom!
+harvestfestival.npc.jade.gift.decent=Eu aprecio isso.
+harvestfestival.npc.jade.gift.dislike=Eu n�o posso apreciar isso.
+harvestfestival.npc.jade.gift.bad=Que presente ruim!
+harvestfestival.npc.jade.gift.terrible=� realmente um presente terr�vel!
+
+#Jenni/Othlon
+harvestfestival.npc.jenni.shop=Ei, amigo, s� para lembr�-lo, ficamos aberto todos os dias, exceto domingo, das 9:00 �s 17:00. Ah! E aos s�bados estamos aberto das 11 �s 15h.
+harvestfestival.npc.jenni.greeting1=Ei, meu bom amigo! Me procure, caso precisar de qualquer mercadoria em geral!
+harvestfestival.npc.jenni.greeting2=Tanto quanto eu amo os meus clientes, eu amo minha arte.
+harvestfestival.npc.jenni.greeting3=N�o diga a ningu�m, mas eu sou, secretamente, uma grande f� de Dan�a do Ventre.
+harvestfestival.npc.jenni.greeting4=�s vezes eu gostaria de abrir os domingos, mas depois me lembro do quanto eu amo ficar descansando.
+harvestfestival.npc.jenni.greeting5=A av� da Lara n�o faz uma boa sopa!
+harvestfestival.npc.jenni.greeting6=Meus pre�os s�o os melhores da cidade. O pre�o do meu sorvete de baunilha � uma pechincha.
+harvestfestival.npc.jenni.greeting7=Eu n�o pude deixar de notar que voc� � da Austr�lia. Oh, voc� n�o �? De onde voc� �?
+harvestfestival.npc.jenni.greeting8=Eu tenho que dizer que esta loja � minha maior realiza��o, estou t�o orgulhosa.
+harvestfestival.npc.jenni.greeting9=A Alice e eu costum�vamos ser mais pr�ximas, mas as coisas mudaram. N�s ainda estamos morando na mesma casa, n�o posso pagar o aluguel daqui sozinha.
+harvestfestival.npc.jenni.greeting10=No meu tempo livre eu amo fazer um pouco de artesanatos.
+harvestfestival.npc.jenni.greeting11=Meu animal favorito � o porco, e minha fruta favorita � a cereja.
+harvestfestival.npc.jenni.greeting12=Meu estoque � bastante limitado, mas um dia serei capaz de vender mais coisas.
+harvestfestival.npc.jenni.marriage.reject=Ainda n�o chegamos l�.
+harvestfestival.npc.jenni.marriage.accept=Meu caro amigo, a partir de agora serei sua linda esposa.
+harvestfestival.npc.jenni.gift.awesome=Meu bom amigo, isso � simplesmente perfeito, eu simplesmente adoro!
+harvestfestival.npc.jenni.gift.good=Voc� realmente � um bom amigo.
+harvestfestival.npc.jenni.gift.decent=Voc� � um bom amigo.
+harvestfestival.npc.jenni.gift.dislike=Obrigada, meu amigo.
+harvestfestival.npc.jenni.gift.bad=Voc� poderia ter feito melhor, mas est� tudo bem.
+harvestfestival.npc.jenni.gift.terrible=Eu pensei que voc� nunca poderia me ofender. Mas voc� me deu isso, por qu�?
+
+#Jaimii
+harvestfestival.npc.jamie.greeting1=Esta � a minha cidade! E sei que voc� se lembra disso.
+harvestfestival.npc.jamie.greeting2=Minha fam�lia ganhou as elei��es da cidade nos �ltimos 100 anos.
+harvestfestival.npc.jamie.greeting3=Minhas duas meninas s�o t�o preciosas para mim. N�o se atreva a machuc�-las.
+harvestfestival.npc.jamie.greeting4=� muito dif�cil ser prefeito, as pessoas te amam demais.
+harvestfestival.npc.jamie.greeting5=Ei %4$s, Voc� viu minha casa? Ela � muito pequena.
+harvestfestival.npc.jamie.greeting6=No futuro, eu farei alguns concursos. Mas por agora, estou feliz em gerenciar esta cidade.
+harvestfestival.npc.jamie.greeting7=N�o tenho certeza quem colocou voc� no comando da constru��o desta cidade. Eu teria feito um trabalho muito melhor.
+harvestfestival.npc.jamie.greeting8=Meu pai sempre me disse que eu seria o melhor. E olhe para mim. Hoje sou prefeito!
+harvestfestival.npc.jamie.greeting9=Eu provavelmente deveria lhe dizer sobre como Anast�cia quebrou o cora��o de Tomas. Mas bem... eu n�o gosto de fofoca... Mas posso te dizer que ela tem um cora��o de pedra. Pobre coitado.
+harvestfestival.npc.jamie.greeting10=H� v�rias gera��es minha fam�lia tem sido prefeito da cidade, ningu�m poderia fazer este trabalho melhor.
+harvestfestival.npc.jamie.greeting11=Eu n�o sei por que tenho que pagar por todas essas coisas para os outros. � o meu dinheiro.
+harvestfestival.npc.jamie.greeting12=Eu realmente espero que Cloe cres�a. Ela est� realmente fazendo minha fam�lia ficar mal.
+harvestfestival.npc.jamie.gift.awesome=Finalmente, voc� realmente me deu algo aceit�vel.
+harvestfestival.npc.jamie.gift.good=Eu acho que ele vai fazer, apenas.
+harvestfestival.npc.jamie.gift.decent=E voc� acha que eu gosto disso?
+harvestfestival.npc.jamie.gift.dislike=Voc� insulta o nome da fam�lia com este presente.
+harvestfestival.npc.jamie.gift.bad=Esta � possivelmente uma das piores coisas que voc� poderia ter me dado.
+harvestfestival.npc.jamie.gift.terrible=� isso, se eu tiver plena autoridade eu iria bani-lo desta cidade. Voc� me insulta, insulta minha fam�lia, mancha esta cidade. N�o tente fazer isso nunca mais.
+
+#Abii
+harvestfestival.npc.abi.greeting1=Ooo, t�o fofo. O que � isso? OMG!
+harvestfestival.npc.abi.greeting2=Ol�, %4$s! Onde voc� estava?
+harvestfestival.npc.abi.greeting3=Eu tenho saudade de voce!
+harvestfestival.npc.abi.greeting4=Oh! Voc� � um m�ximo!
+harvestfestival.npc.abi.greeting5=Minha mam�e � muito brava. :(
+harvestfestival.npc.abi.greeting6=Eu queria tanto ser uma princesa! 
+harvestfestival.npc.abi.greeting7=O Eduardo nunca me notou....... Sabe eu gosto dele! E queria que ele fosse meu pr�ncipe! 
+harvestfestival.npc.abi.greeting8=Papai me disse que se eu for boazinha, vou ganhar um p�nei de natal.
+harvestfestival.npc.abi.greeting9=Eu amo minha irm� mais velha. Voc� a conhece, � a Cloe!
+harvestfestival.npc.abi.greeting10=Nunca quero crescer! 
+harvestfestival.npc.abi.greeting11=Venha brincar comigo!
+harvestfestival.npc.abi.greeting12=Eu quero um coelho, � t�o bonitinho. Muito fofinho!
+harvestfestival.npc.abi.greeting13=WOW voc� � realmente alto!
+harvestfestival.npc.abi.greeting14=Voc� quer jogar comigo? 
+harvestfestival.npc.abi.greeting15=Meus pais me disseram para eu n�o falar com estranhos ...! Desculpe!
+harvestfestival.npc.abi.gift.awesome=Eu amo isso! Eu amo isso! Obrigada!
+harvestfestival.npc.abi.gift.good=Oooo, eu realmente gosto disso.
+harvestfestival.npc.abi.gift.decent=Aww, t�o legal.
+harvestfestival.npc.abi.gift.dislike=Hmm, n�o � t�o legal.
+harvestfestival.npc.abi.gift.bad=Awww, eu n�o queria isso.
+harvestfestival.npc.abi.gift.terrible=O qu�? Eu odeio voc�, eu odeio voc�. T�o mau!
+
+#Tiberius/WayofTime
+harvestfestival.npc.tiberius.time=Parece que voc� esteve nesta cidade %s h� anos.
+harvestfestival.npc.tiberius.first=Este � o seu primeiro ano na cidade!
+harvestfestival.npc.tiberius.greeting1=O tempo � uma coisa fascinante, um segundo estava devagar, ent�o, do nada o tempo fica r�pido como a velocidade da luz!
+harvestfestival.npc.tiberius.greeting2=Quando eu era uma crian�a minha cantiga favorita era Marcha Soldado.
+harvestfestival.npc.tiberius.greeting3=Que horas s�o?
+harvestfestival.npc.tiberius.greeting4=Minha esta��o favorita � a primavera. ..... ... j� que � quando come�a um novo ano!
+harvestfestival.npc.tiberius.greeting5=Eu nunca entendi por que algumas pessoas t�m medo de ver sangue. Eu tinha um amigo, e ele mergulhou em lago com sanguessugas. Xiii.... �ele fez um rebuli�o, ele passou por um baita medo. Mas acho que a vergonha foi maior. O pessoal encontrou ele com....  Bom, acho que n�o � o momento para isso.
+harvestfestival.npc.tiberius.greeting6=Se voc� soubesse o que eu consegui fazer. Voc� ficaria chocado.
+harvestfestival.npc.tiberius.greeting7=Eu acho que a �ltima coisa insana que fiz, foi quando Edu era apenas um beb�, isso faz muito tempo.
+harvestfestival.npc.tiberius.greeting8=O Eduardo pode causar muitos problemas daqui algum tempo. Aquele rapaz precisa de alguma disciplina.
+harvestfestival.npc.tiberius.greeting9=A �nica coisa que eu posso dizer sobre presentes, � que se voc� presenteia algu�m no seu anivers�rio, eles v�o gostar de voc� ainda mais.
+harvestfestival.npc.tiberius.greeting10=H� quanto tempo est� nesta cidade?
+harvestfestival.npc.tiberius.greeting11=Eu sempre achei o per�odo da era do Egito Antigo o mais irritante. E voc�?
+harvestfestival.npc.tiberius.greeting12=Espero que meu irm�o  venha para a cidade um dia. Ele tem um fasc�nio pelas abelhas.
+harvestfestival.npc.tiberius.marriage.reject=Ainda n�o estou pronto para me casar.
+harvestfestival.npc.tiberius.marriage.accept=Estou pronto para me tornar seu marido. Te achei interessante desde o momento em que te vi, %4$s!
+harvestfestival.npc.tiberius.gift.awesome=Acho isso um presente maravilhoso. N�o h� nada melhor no mundo.
+harvestfestival.npc.tiberius.gift.good=Este presente � muito bom.
+harvestfestival.npc.tiberius.gift.decent=Voc� � gentil.
+harvestfestival.npc.tiberius.gift.dislike=Voc� n�o � t�o gentil como eu pensava!
+harvestfestival.npc.tiberius.gift.bad=Este presente � muito ruim.
+harvestfestival.npc.tiberius.gift.terrible=Pra mim, esse presente � terr�vel. N�o h� nada pior no mundo.
+
+#Jakob
+harvestfestival.npc.jacob.shop=Se voc� est� atr�s de algumas traia de pesca, estamos abertos quarta-feira a sexta-feira da 1h da tarde �s 7h da noite.
+harvestfestival.npc.jacob.greeting1=A pesca � o meu jogo. .... A prop�sito eu sou Jacob, prazer!
+harvestfestival.npc.jacob.greeting2=Um dia eu vou pegar um peixe-palha�o indescrit�vel! Eu prometo a voc�!
+harvestfestival.npc.jacob.greeting3=N�o h� nada melhor que ficar sentado a espera de um peixe morder a isca. � t�o relaxante.
+harvestfestival.npc.jacob.greeting4=Parece que vai hoje em breve. ...... Espere! Vai chove j� j�!
+harvestfestival.npc.jacob.greeting5=Eu realmente estive me perguntando se eu deveria me especializar na aquicultura.
+harvestfestival.npc.jacob.greeting6=Ei, se voc� est� procurando alguma traia de pesca, ent�o eu sou o homem certo para voc�.
+harvestfestival.npc.jacob.greeting7=Meu av� era um grande pescador. Foi ele que me inspirou a abrir minha loja de equipamentos para pesca.
+harvestfestival.npc.jacob.greeting8=Se eu passasse toda a minha vida pescando, ficaria feliz.
+harvestfestival.npc.jacob.greeting9=Se voc� n�o percebeu at� agora, minha paix�o � a pesca.
+harvestfestival.npc.jacob.greeting10=� sempre bom ter alguns peixes novos para pegar. Tem sido um sonho longo da vida.
+harvestfestival.npc.jacob.greeting11=Apenas continue nadando ...
+harvestfestival.npc.jacob.marriage.reject=Estou realmente � procura de alguma sereia do mar.
+harvestfestival.npc.jacob.marriage.accept=Voc� � minha estrela-do-mar! Estou ansioso para ser seu marido.
+harvestfestival.npc.jacob.gift.awesome=A pesca � a minha paix�o, e voc� n�o sabe exatamente o que eu quero.
+harvestfestival.npc.jacob.gift.good=Todas essas coisas s�o boas. Obrigado.
+harvestfestival.npc.jacob.gift.decent=Obrigado pelo presente am�vel.
+harvestfestival.npc.jacob.gift.dislike=N�o tenho tanta certeza sobre isso.
+harvestfestival.npc.jacob.gift.bad=Eu realmente n�o gosto do que voc� acabou de me dar.
+harvestfestival.npc.jacob.gift.terrible=Voc� est� louco? Eu jamais iria querer isso.
+
+#Pokefenn
+harvestfestival.npc.fenn.greeting1=Ol� %4$s!! Um dia, eu vou cultivar algumas videiras, e voc� vai escal�-las comigo!
+harvestfestival.npc.fenn.greeting2=As pessoas tem medo de mim. Mas n�o tenha medo, %4$s! Eu posso ser pequeno, mas eu sei tudo sobre totens!
+harvestfestival.npc.fenn.greeting3=Eu queria que meu pai n�o fosse t�o exigente. Ele n�o me deixa fazer nada. Tudo pra ele est� errado.
+harvestfestival.npc.fenn.greeting4.greeting3=Voc� j� ouviu falar de Minecraft?....... � o meu jogo favorito!
+harvestfestival.npc.fenn.greeting5=Bom dia!
+harvestfestival.npc.fenn.greeting6=A �ris realmente me assusta, voc� a conheceu?
+harvestfestival.npc.fenn.greeting7=Eu queria que meu pai me deixasse sair mais.
+harvestfestival.npc.fenn.greeting8=Quando eu crescer quero ser um arborista de �rvores misteriosas!  ......... Talvez!
+harvestfestival.npc.fenn.greeting9=Meu pokemon favorito � Bulbasaur.
+harvestfestival.npc.fenn.greeting10=Eu adoro brincar com os pequenos insetos!
+harvestfestival.npc.fenn.greeting11=Ohh, eu lembrei que quero ser uma �rvore quando eu crescer!
+harvestfestival.npc.fenn.greeting12=Quero que meu pai fa�a uma casa na �rvore para mim. Mas ele nunca tem tempo!
+harvestfestival.npc.fenn.gift.awesome=Woah !!!!!!! Isso ... � ... INCR�VEL!
+harvestfestival.npc.fenn.gift.good=Valeu!!! Eu adoro isso!
+harvestfestival.npc.fenn.gift.decent=Oo, Eu adoro isso.
+harvestfestival.npc.fenn.gift.dislike=Hmmm, por que?
+harvestfestival.npc.fenn.gift.bad=Por qu�? Porque eu n�o gosto. :(
+harvestfestival.npc.fenn.gift.terrible=N�o, n�o, n�o, n�o, n�o, n�o, n�o! Este n�oooo!! Isso eu n�o quero!
+
+#Jim/SpitefulFox
+harvestfestival.npc.jim.shop=O Rancho de animais est� aberto das 10h �s 15h. De segunda a s�bado.
+harvestfestival.npc.jim.greeting1=Qual � o seu animal favorito? O meu � a raposa, o amaldi�oas e rancorosas.
+harvestfestival.npc.jim.greeting2=Lembre-se que voc� sempre pode vir me ver, se voc� quer que seus animais tenham filhotes!
+harvestfestival.npc.jim.greeting3=Ultimamente eu tenho que dar um pux�o quando alimento minhas galinhas, tem sido uma experi�ncia educacional.
+harvestfestival.npc.jim.greeting4=Voc� sabe, este mundo � rid�culo �s vezes, outro dia vi um esquilo atacar um banco.
+harvestfestival.npc.jim.greeting5=Voc� j� notou como alguns pa�ses, colocam a letra 'u' em todas as suas palavras?! ...... � loucura, nem me pergunte.
+harvestfestival.npc.jim.greeting6=Nada � melhor na vida, quando estou na sela.
+harvestfestival.npc.jim.greeting7=Os cochos podem ser colocados at� tr�s em uma fileira, as vacas e as ovelhas comer�o quando est�o com fome se voc� os encher com forragem.
+harvestfestival.npc.jim.greeting8=Voc� sabia que os grandes animais v�o comer suas colheitas de erva, mesmo antes de voc� colh�-los?
+harvestfestival.npc.jim.greeting9=Se voc� alimentar e tratar bem seus animais, eles far�o mais coisas para voc�.
+harvestfestival.npc.jim.marriage.reject=N�o quero casar.
+harvestfestival.npc.jim.marriage.accept=Eu desejei este dia por muito tempo. Eu com certeza me casarei com voc�!
+harvestfestival.npc.jim.gift.awesome=Voc� � incr�vel. Este � um presente maravilhoso.
+harvestfestival.npc.jim.gift.good=Eu n�o gosto de ser mimado, ent�o este � um grande presente.
+harvestfestival.npc.jim.gift.decent=Este � um presente decente.
+harvestfestival.npc.jim.gift.dislike=Eu n�o posso dizer que eu gosto completamente deste presente.
+harvestfestival.npc.jim.gift.bad=Esta n�o foi uma boa escolha para um presente.
+harvestfestival.npc.jim.gift.terrible=Se voc� me conhecesse, n�o ousaria me dar isso.
+
+#Brandon/Cricket
+harvestfestival.npc.brandon.shop=Se voc� precisar de algum equipamento de minera��o, estou aberto de segunda a s�bado, das 11h �s 16h.
+harvestfestival.npc.brandon.greeting1=Sempre que estou nas minas, e encontro um diamante fico muito animado!
+harvestfestival.npc.brandon.greeting2=Eu n�o sei sobre voc�, mas eu tenho ins�nia todas as noites, as vezes nunca consego dormir ... e fico ouvindo os grilos.
+harvestfestival.npc.brandon.greeting3=Qual � o seu sorvete favorito? Mine's Vanilla Plus. Pelo menos costumava ser, at� que algu�m o roubou ...
+harvestfestival.npc.brandon.greeting4=Voc� j� ficou cansado de minerar? Eu nunca fiquei.
+harvestfestival.npc.brandon.greeting5=Eu nunca vou entender por que as pessoas t�m medo do escuro. N�o h� nada melhor do que a minera��o sem ver para onde voc� est� indo.
+harvestfestival.npc.brandon.greeting6=Lembre-se! se voc� ver um buraco escuro, com rachaduras na superf�cie, voc� provavelmente pode colocar uma escada para descer.
+harvestfestival.npc.brandon.greeting7=Vou lhe contar um segredo sobre como minarar melhor. Voc� precisa descer a mina! Voc� vai achar mais min�rios e pedras tamb�m. Quem dera, isso fosse bom para a agricultura.
+harvestfestival.npc.brandon.greeting8=Se voc� j� est� preso no fundo da mina, basta usar uma corda de escape para sair.
+harvestfestival.npc.brandon.greeting9=Se eu n�o estivesse na minera��o, eu provavelmente esculpiria tr�s tipos de pedras. N�o sei dizer poque seria tr�s.
+harvestfestival.npc.brandon.greeting10=Eu fiquei farto de ser odiado na cidade, agora eu gasto todo o meu tempo nas minas.
+harvestfestival.npc.brandon.greeting11=Cuidado, h� alguns animais perigosos aqui.
+harvestfestival.npc.brandon.greeting12=Eu tenho pensado em me entender com algu�m, ningu�m parece gostar de mim.
+harvestfestival.npc.brandon.marriage.reject=Voc� realmente acha que me casaria com algu�m como voc�?
+harvestfestival.npc.brandon.marriage.accept=Eu estava esperando por algu�m melhor, mas vou me casar com voc�.
+harvestfestival.npc.brandon.gift.awesome=Eu n�o poderia agradecer-lhe o suficiente. Eu tenho procurado estes por anos!
+harvestfestival.npc.brandon.gift.good=Este material � sempre algo incr�vel para receber.
+harvestfestival.npc.brandon.gift.decent=Obrigado, foi legal.
+harvestfestival.npc.brandon.gift.dislike=Eu acho que foi legal.
+harvestfestival.npc.brandon.gift.bad=Voc� n�o sabe? Eu odeio essas coisas.
+harvestfestival.npc.brandon.gift.terrible=Afaste-se de mim agora. Como se atreve a me insultar com esse presente.
+
+#Tomas
+harvestfestival.npc.thomas.greeting1=Eu vou te salvar de seus pecados.
+harvestfestival.npc.thomas.greeting2=Lembre-se! Se voc� precisar de alguma ferramenta maldita, aben�oada eu ficarei feliz em ajudar.
+harvestfestival.npc.thomas.greeting3=S� os Deuses podem te salvar agora.
+harvestfestival.npc.thomas.greeting4=A gra�a do senhor esteja com voc�.
+harvestfestival.npc.thomas.greeting7=Que os Deuses tenham miseric�rdia de voc�.
+harvestfestival.npc.thomas.greeting8=Acredito que posso voar.
+harvestfestival.npc.thomas.greeting9=Por que eu me casei com aquela bruxa, a Anast�cia! Conhece?
+harvestfestival.npc.thomas.greeting10=Voc� precisa ver a igreja aos domingos. � bastante lotado.
+harvestfestival.npc.thomas.greeting11=Estou t�o orgulhoso de �ris, minha filha ca�ula. Acho que Cloe tem muito a aprender com ela.
+harvestfestival.npc.thomas.greeting12=O poder de Cristo est� em voc�!
+harvestfestival.npc.thomas.gift.awesome=Que presente magn�fico! Isto � simplesmente perfeito. Deus te ama, crian�a.
+harvestfestival.npc.thomas.gift.good=Este � um presente celestial, obrigado.
+harvestfestival.npc.thomas.gift.decent=Te aben�oe meu filho.
+harvestfestival.npc.thomas.gift.dislike=Isto �, errado, tudo bem.
+harvestfestival.npc.thomas.gift.bad=Voc� insulta os Deuses com este presente!
+harvestfestival.npc.thomas.gift.terrible=Eu irei conden�-lo ao inferno por este presente, isso n�o est� certo.
+
+#Candice
+harvestfestival.npc.candice.greeting1=Adoro o meu trabalho e partilho-o com os meus amigos.
+harvestfestival.npc.candice.greeting2=Algumas pessoas apenas existem! Outras vivem!
+harvestfestival.npc.candice.greeting3=As vezes n�o sei quem sou, pra onde vou e o que fa�o aqui! Que � esse mundo?
+harvestfestival.npc.candice.greeting4=Venha at� aqui, tenho algo no meu olho.
+harvestfestival.npc.candice.greeting5=Ol� %4$s! Eu espero que voc� est� se sentindo bem? Voc� est� t�o lindo hoje!
+harvestfestival.npc.candice.greeting6=Ei, bonit�o, eu tenho uma dica para voc�. Voc� n�o precisa de regar a grama, ela vai crescer de qualquer maneira!
+harvestfestival.npc.candice.greeting7=Voc� sabia que eu normalmente trabalho com James. Eu ordenho as vacas!
+harvestfestival.npc.candice.greeting8=Voc� provavelmente vai querer dar aos seus animais diferentes tipos de ra��es.
+harvestfestival.npc.candice.greeting9=Voc� parece confuso? Tenho certeza de que j� nos falamos antes.
+harvestfestival.npc.candice.greeting10=Eu sou do Texas, e voc�?
+harvestfestival.npc.candice.greeting11=Fale com as pessoas e fa�a amigos!
+harvestfestival.npc.candice.greeting12=Se voc� precisar de um ombro para chorar, n�o conte comigo.
+harvestfestival.npc.candice.marriage.reject=Sem chance, eu n�o estou procurando casamento.
+harvestfestival.npc.candice.marriage.accept=Voc� � t�o perfeito... T�o lindo! Seremos o casal mais lindo! Eu aceito a sua proposta!
+harvestfestival.npc.candice.gift.awesome=Santo Deus! Voc� � lindo. Absolutamente incr�vel, eu simplesmente adoro.
+harvestfestival.npc.candice.gift.good=Voc� sabe como fazer uma garota sorrir, n�o �?
+harvestfestival.npc.candice.gift.decent=Obrigada, seu lindo.
+harvestfestival.npc.candice.gift.dislike=Hmm, ele vai fazer.
+harvestfestival.npc.candice.gift.bad=Humm, eu n�o tenho certeza se � isso que eu quero.
+harvestfestival.npc.candice.gift.terrible=Eu n�o posso acreditar que voc� me daria isso. Voc� n�o gosta de mim?
+
+#Yulife
+harvestfestival.npc.yulif.shop=Se voc� estiver procurando por constru��es, estarei dispon�vel apenas das 9h �s 17h30, de domingo a sexta-feira.
+harvestfestival.npc.yulif.greeting1=Construir coisas � t�o demorado. Quando vou receber uma pausa?
+harvestfestival.npc.yulif.greeting2=As pessoas me tratam como um escravo. N�o existe descanso para quem � construtor!
+harvestfestival.npc.yulif.greeting3=Voc� j� conheceu o James? Ele n�o � muito justo?
+harvestfestival.npc.yulif.greeting4=Estou cansado de todo este trabalho duro. Quando voc� apreciar� minhas constru��es?
+harvestfestival.npc.yulif.greeting5=Estou cansado de ficar trabalhando por a�! Eu estou morrendo de cansa�o agora.
+harvestfestival.npc.yulif.greeting6=Se voc� ficar no meu caminho, eu n�o posso construir.
+harvestfestival.npc.yulif.greeting7=Eu ouvi os pre�os das madeiras e pedras. � muito caro! Mas n�o tem como baixar os pre�os! � essa crise!
+harvestfestival.npc.yulif.greeting8=Como voc� est� %4$s?
+harvestfestival.npc.yulif.greeting9=Se voc� precisar de mim, lembre-se que voc� pode vir aqui e falar comigo e me contratar para uma nova constru��o.
+harvestfestival.npc.yulif.greeting10=Eu vou ter mais constru��o para voc� a partir que nossa cidade cresce.
+harvestfestival.npc.yulif.greeting11=Quando precisar saber se algu�m est� disposto a negociar � s� perguntar!
+harvestfestival.npc.yulif.greeting12=�s vezes eu me esfor�o demais, muitos projetos de uma vez.
+harvestfestival.npc.yulif.greeting13=A Jade pode n�o gostar de como eu a trato �s vezes. Ela � tudo que tenho!  E sempre ser� minha irm�zinha. Preciso cuidar dela. Entende?
+harvestfestival.npc.yulif.marriage.reject=Ehhh eu n�o estou pronto para se casar.
+harvestfestival.npc.yulif.marriage.accept=Voc� � t�o gentil, eu serei seu marido.
+harvestfestival.npc.yulif.gift.awesome=Como � que voc� sabe que eu adoro isso? Obrigado.
+harvestfestival.npc.yulif.gift.good=Sim! Realmente voc� sabe dar bons presentes.
+harvestfestival.npc.yulif.gift.decent=Obrigado.
+harvestfestival.npc.yulif.gift.dislike=Err, ok, obrigado?
+harvestfestival.npc.yulif.gift.bad=Err, o qu�? Por que eu iria querer isso?
+harvestfestival.npc.yulif.gift.terrible=Caramba, voc� realmente acha que eu gostaria? Por favor, n�o fale comigo.
+
+harvestfestival.npc.builder.build=N�o se preocupe atualmente estou trabalhando na constru��o da estrutura para %s.
+harvestfestival.npc.builder.paint=Atualmente, estou colocando algumas pinturas, e tal para %s.
+harvestfestival.npc.builder.decorate=Trabalhando duro, acrescentando os toques finais para %s.
+harvestfestival.npc.builder.movein=N�o me incomode estou apenas ajudando todos %s.
+harvestfestival.npc.builder.basement.build=Posso parecer louca, mas n�o tenho medo, atualmente estou trabalhando no por�o para %s.
+harvestfestival.npc.builder.basement.paint=Estou colocando todas as pinturas para o por�o do %s.
+harvestfestival.npc.builder.basement.decorate=Apenas adicionando os toques finais ao por�o do %s.
+harvestfestival.npc.builder.basement.movein=N�o me incomode ajudando todos a %s.
+
+#Ashlee
+harvestfestival.npc.ashlee.shop=Se voc� precisar alguma coisa, n�o deixe de perguntar. Mas apenas de 5h �s 11h, de segunda � s�bado.
+harvestfestival.npc.ashlee.greeting1=Eu com certeza amo tratar das galinhas!
+harvestfestival.npc.ashlee.greeting2=Estou t�o cansada, trabalhando com galinhas � um trabalho t�o duro!
+harvestfestival.npc.ashlee.greeting3=Deste dia em diante, eu espero que eu possa dormir melhor.
+harvestfestival.npc.ashlee.greeting4=A maioria dos criadores de frango odeiam raposas, eu os amo. Elas s�o t�o peludas, como eu!
+harvestfestival.npc.ashlee.greeting5=C�, C�, C� Corococ�. Quando essas garotas v�o parar esse Corococ�?
+harvestfestival.npc.ashlee.greeting6=Alimentar seus frangos � m�o vai fazer elas te amar mais, mas � mais trabalho.
+harvestfestival.npc.ashlee.greeting7=As galinhas est�o felizes em comer doces e deleites de frango.
+harvestfestival.npc.ashlee.greeting8=Os meninos costumavam provocar-me na escola, mas olhando para mim agora, cercada de pintinhos!
+harvestfestival.npc.ashlee.greeting9=Incubadoras podem ser caras, mas elas d�o um grande retorno financeiro.
+harvestfestival.npc.ashlee.greeting10=Quanto melhor voc� tratar seu animal, mais eles ir�o produzir para voc�.
+harvestfestival.npc.ashlee.greeting11=Mantenha as galinhas perto dos ninhos, elas podem ir para longe deles.
+harvestfestival.npc.ashlee.marriage.reject=O que voc� gostaria de propor?
+harvestfestival.npc.ashlee.marriage.accept=Woah, voc� � uma raposinha linda, vou casar com voc�.
+harvestfestival.npc.ashlee.gift.awesome=Voc� � uma raposa linda, eu amo-o com todo o meu cora��o peludo!
+harvestfestival.npc.ashlee.gift.good=Esta raposinha est� feliz em receber isso.
+harvestfestival.npc.ashlee.gift.decent=Presente agrad�vel!
+harvestfestival.npc.ashlee.gift.dislike=Por favor, n�o me d� isso.
+harvestfestival.npc.ashlee.gift.bad=Por que voc� me daria isso?
+harvestfestival.npc.ashlee.gift.terrible=Este presente � a pior coisa que j� recebi.
+
+#Girafi
+harvestfestival.npc.girafi.greeting1=Ol� companheiro humano, eu sou um comerciante humilde, se voc� tiver qualquer ovos, leite ou l� eu vou alegremente comercializar com voc� neste mundo de baunilha!
+harvestfestival.npc.girafi.greeting2=Bom dia senhor, estive planejando minha pr�xima viagem por um tempo, e eu estou pensando que eu vou para a Dinamarca.
+harvestfestival.npc.girafi.greeting3=� maravilhoso ver voc� novamente!
+harvestfestival.npc.girafi.greeting4=Eu poderia falar o dia todo sobre minhas aventuras pelo mundo, eu falei sobre a vez que eu sufoquei uma lula e ... Deixa pra l�!
+harvestfestival.npc.girafi.greeting5=Ol�, como vai?
+harvestfestival.npc.girafi.greeting6=Oh! � um prazer v�-lo mais uma vez.
+harvestfestival.npc.girafi.greeting7=Todo mundo tem dias bons e dias ruins, voc� acabou de fazer o meu dia ficar melhor.
+harvestfestival.npc.girafi.greeting8=Estou disposto a trocar por ovos, leite e l�, n�o se esque�a!
+harvestfestival.npc.girafi.greeting9=Eu explorei muitos biomas, na verdade muitos deles de fato!
+harvestfestival.npc.girafi.greeting10=Eu n�o poderia estar mais feliz agora.
+harvestfestival.npc.girafi.marriage.reject=Foi um prazer conhec�-lo. Mas eu n�o sinto o mesmo por voc�.
+harvestfestival.npc.girafi.marriage.accept=Isto � simplesmente maravilhoso, terei prazer em me casar com voc�, e lev�-la em algum lugar distante.
+harvestfestival.npc.girafi.gift.awesome=Nossa, voc� sabe como agradar os sentimentos de um cavalheiro. N�o posso lhe agradecer profundamente.
+harvestfestival.npc.girafi.gift.good=Voc� � um ser humano maravilhoso, obrigado.
+harvestfestival.npc.girafi.gift.decent=Este presente � bom.
+harvestfestival.npc.girafi.gift.dislike=Desculpe, mas isso n�o me faz sentir bem.
+harvestfestival.npc.girafi.gift.bad=Este presente � algo que eu nunca compraria para mim.
+harvestfestival.npc.girafi.gift.terrible=Esta � possivelmente a �ltima coisa na terra que eu jamais consideraria possuir. Voc� me odeia?
+
+###Shop greetings
+# WARNING FOR SHOP NAMES:
+# Using any character other than the following will change the renderer to use the vanilla font instead
+# So for best looks, if you can try to only use names with that, if the means you don't translate names
+# then sorry. It's not really feasible for me to support unicode with the custom font
+# Accepted characters for names
+# a-z A-Z 0-9 , . ' �
+
+#General Store
+harvestfestival.shop.general=Loja Geral
+harvestfestival.shop.general.greeting1=Bem-vindo � loja geral da J�ssica Bugigangas, como posso ajud�-lo?
+harvestfestival.shop.general.greeting2=Estamos sempre com estoque, posso ajudar?
+harvestfestival.shop.general.greeting3=Esta loja � o melhor da cidade! O que voc� precisa?
+harvestfestival.shop.general.options=O que voc� quer?
+harvestfestival.shop.general.options.shop=@Comprar
+harvestfestival.shop.general.options.chat=@Bater papo!
+
+#Poultry Farm
+harvestfestival.shop.poultry=Granja do SrFox
+harvestfestival.shop.poultry.greeting1=Galinhas fornecem itens essenciais para n�s, como posso ajud�-lo?
+harvestfestival.shop.poultry.greeting2=Nossa familia tem essa loja h� 300 anos, o que voc� deseja?
+harvestfestival.shop.poultry.greeting3=Bem-vindo ao C�! C�! Corococ� Granja Camp. Como posso ajudar?
+
+#Cafe
+harvestfestival.shop.cafe=Cafeteria
+harvestfestival.shop.cafe.greeting1=Temos comida, venha e pegue! Sim?
+harvestfestival.shop.cafe.greeting2=Servimos de tudo, bem-vindos!
+harvestfestival.shop.cafe.greeting3=O jantar est� pronto!
+
+#Animal Ranch
+harvestfestival.shop.barn=Rancho de Animais
+harvestfestival.shop.barn.greeting1=N�s n�o vendemos s� animais, vendemos o mais forte!
+harvestfestival.shop.barn.greeting2=Bem-vindo ao rancho, voc� precisa de alguma coisa?
+harvestfestival.shop.barn.greeting3=Quem precisa de galinhas? Se voc� pode ter vacas e ovelhas!
+
+#Blacksmith
+harvestfestival.shop.blacksmith=Ferraria
+harvestfestival.shop.blacksmith.greeting1=Venham todos e vejam minhas mercadorias!
+harvestfestival.shop.blacksmith.greeting2=Estou sempre feliz em vender belas ferramentas.
+harvestfestival.shop.blacksmith.greeting3=Precisa de algumas ferramentas?
+
+#Carpenter
+harvestfestival.shop.carpenter=Carpintaria
+harvestfestival.shop.carpenter.greeting1=Precisa de uma nova constru��o, deixe-me ajud�-lo.
+harvestfestival.shop.carpenter.greeting2=Tenho os melhores diagramas.
+harvestfestival.shop.carpenter.greeting3=Posso construir os melhores edif�cios para voc�!
+
+#Miner
+harvestfestival.shop.miner=Loja de Min�rios
+harvestfestival.shop.miner.greeting1=Venda seus min�rios!
+harvestfestival.shop.miner.greeting2=Cansada de ficar presa? Compre uma corda de escape aqui!
+harvestfestival.shop.miner.greeting3=N�o consegue seguir em frente? Compre escadas para te ajudar.
+
+#Blood Mage
+harvestfestival.shop.bloodmage=Arte das Trevas
+harvestfestival.shop.bloodmage.greeting1=Bem-vinda querida crian�a, para o mais sombrio dos lugares.
+harvestfestival.shop.bloodmage.greeting2=Prepare-se para se surpreender! Eu irei te mostrar a mais sombrias das magias!
+harvestfestival.shop.bloodmage.greeting3=Nesta noite escura e misteriosa, estou feliz por agradar seus olhos.
+
+#Blood Mage
+harvestfestival.shop.baitshop=Loja de Pesca
+harvestfestival.shop.baitshop.greeting1=T�o feliz por finalmente estar aberto para neg�cios, bem-vindo.
+harvestfestival.shop.baitshop.greeting2=Se voc� quiser algum peixe, ent�o venha comprar alguns dos meus equipamentos.
+harvestfestival.shop.baitshop.greeting3=Compre suas varas de pesca aqui! Se quiser, por favor!
+
+#Miscellaneous
+harvestfestival.marriage=Presente para casamento
+harvestfestival.marriage.locked=Bloqueado
+harvestfestival.marriage.unlocked=Desbloqueado
+
+###Quests
+##Tutorial Quests
+#Intro
+harvestfestival.quest.tutorial.intro.title=Deusa da Colheita
+harvestfestival.quest.tutorial.intro.hello=Ol�, meu querido! N�o sei se te conhe�o. N�s nos conhecemos?
+harvestfestival.quest.tutorial.intro.question=[� a primeira vez que est� jogando?]
+harvestfestival.quest.tutorial.intro.tutorial=@Sim!
+harvestfestival.quest.tutorial.intro.skip=@N�o, eu sei o que estou fazendo.
+harvestfestival.quest.tutorial.intro.completed=Bem, ent�o eu devo ter perdido a minha mem�ria! Aqui tem algumas flores, espero que elas fa�am esquecer o que acabou de acontecer ...
+harvestfestival.quest.tutorial.intro.backstory=Bem, prazer em conhec�-lo %4$s. Eu sou a Deusa da Colheita. Gostaria de lhe contar uma pequena hist�ria. H� muito tempo, aqui nesta terra em que vivemos, havia uma cidade cheia de pessoas. Era uma vila bem movimentada. As pessoas dessa vila, perderam suas casas por causa de uma forte tempestade. Eles perderam tudo! Mas agora eu ouvi que eles querem voltar! Para isso, eles precisam da sua ajuda. Ah! Apenas para voc� saber, eu vou sumir depois de um tempo. Mas voc� sempre pode me chamar usando a flor divina. Vou deixar uma a cada vez que eu sumir. Bom, � tudo que tenho para te dizer agora, nos vemos mais tarde! 
+
+#Carpenter
+harvestfestival.quest.tutorial.carpenter.wood.dozen=uma d�zia
+harvestfestival.quest.tutorial.carpenter.wood.dozentwo=duas d�zias
+harvestfestival.quest.tutorial.carpenter.wood.stack=Uma stack de
+harvestfestival.quest.tutorial.carpenter.wood.stackhalf=Meia stack de
+harvestfestival.quest.tutorial.carpenter.wood.stackquarter=Um quarto de stack de
+harvestfestival.quest.tutorial.carpenter.welcome=Ol� meu querido, � bom v�-lo novamente. Eu estava pensando sobre como podemos construir a cidade. Eu ouvi rumores de que um sujeito chamado Yulif � um excelente carpinteiro. Ele e sua irm�, a Jade, t�m procurado trabalho, e cham�-los para c�, poderia ser a coisa certa para eles. A Jade tamb�m ajudaria. Com certeza! Ela ama a natureza, e seria um grande trunfo para come�armos. Acho que s� precisamos de algo para atra�-los, talvez se voc� pudesse me buscar %s de madeira. Feito isso, tenho algo para voc�, que s� pode funcionar.
+harvestfestival.quest.tutorial.carpenter.reminder.wood=Ol�, novamente, voc� esqueceu?  Estamos tentando levar nossos primeiros moradores para a cidade. Eu s� preciso %s de madeira para ajud�-la a come�ar.
+harvestfestival.quest.tutorial.carpenter.thanks.build=Perfeito! � tudo que precisamos! Eu tenho a coisa perfeita para voc�. � um diagrama. Voc� deve us�-lo para selecionar a �rea que voc� quer que a constru��o seja feita! Quando voc� selecionar o diagrama, ver� uma imagem em 3d de uma constru��o. Quando voc� encontrar o local perfeito, clique o bot�o direito. Se o Yulif ainda n�o apareceu, ele aparecer� e come�ar� a construir imediatamente! Voc� s� tem que esperar um pouco at� ficar pronto. Tome nota do que deve ser constru�do, mas cada constru��o deve ser constru�da uma de cada vez. Ah! e n�o se preocupe se ele morrer ou algo tr�gico acontecer! Ele deve aparecer no outro dia e voltar ao trabalho imediatamente! Acho que � tudo o que tenho a te dizer. Por isso, vou deix�-la para construir a Carpintaria. Ah, mais uma coisa, antes que eu esque�a! Quando ele terminar a constru��o a Jade sair� da casa e caminhar por a�. Ela geralmente fica no andar de cima da casa. Ent�o, eu sugiro que voc� v� conversar com ela. Ela sempre tem sementes! E ficar� feliz em trocar uma flor pelas sementes! At� mais!
+harvestfestival.quest.tutorial.carpenter.reminder.carpenter=Docinho, voc� deveria ir ver a Jade. N�o �? Se voc� ainda n�o tem uma Carpintaria constru�da e n�o visitou-a no andar de cima com uma flor, acredito que voc� est� em apuros. Perdeu o diagrama? Se voc� perdeu, basta me trazer mais madeira %s e lhe outro. Tudo bem?
+harvestfestival.quest.tutorial.carpenter.reminder.give=Gra�as! T�m um outro diagrama! E ande logo, v� ver a Jade!
+harvestfestival.quest.tutorial.carpenter.reminder.flowers=Prazer em conhec�-lo, eu sou Jade. Agora estou um pouco uhhh.... ocupada. Estou procurando uma flor.
+harvestfestival.quest.tutorial.carpenter.thanks.flowers=Ei! Parece que voc� tem uma flor para mim! A Deusa da Colheita me contou tudo sobre voc�, mal posso esperar para ver a cidade crescer. Eu acho que a deusa ir� te agradecer por nos ajudar. Ent�o, voc� deve ir v�-la. Mas depois, por favor, volte e visite-me tenho algo que eu quero te mostrar!
+harvestfestival.quest.tutorial.carpenter.thanks.finish=Muito bem, meu querido! Esta cidade ser� constru�da r�pidinho com voc� no controle. Para construir e comprar itens vai te custar algumas riquezas. Por�m, ficarei feliz em dar-lhe um presente inicial de 1000 moedas de ouro. Espero que voc� gaste sabiamente. Agora, v� ao encontro de Jade novamente! Obrigada pela ajuda. Tchauzinho!
+
+#Crops Tutorial
+harvestfestival.quest.tutorial.crops.intro=Oi %4$s! Como te prometi, tenho algo para lhe contar! Voc� conhece ou j� ouviu falar sobre agricultura? Algu�m j� te ensinou?
+harvestfestival.quest.tutorial.crops.question=Voc� sabe cultivar colheitas?
+harvestfestival.quest.tutorial.crops.tutorial=@N�o, como fa�o para cultivar colheitas?
+harvestfestival.quest.tutorial.crops.skip=@Eu sei como fazer.
+harvestfestival.quest.tutorial.crops.completed=Well then if you know everything, please just take these items to get started.
+harvestfestival.quest.tutorial.crops.completed=Bem, ent�o, se voc� sabe tudo, por favor, tome estes itens para come�ar.
+harvestfestival.quest.tutorial.crops.start=Voc� n�o sabe! Tudo bem, ficarei feliz em ensinar voc�! Para come�ar a agricultura � necess�rio lavrar um terreno. Feito isto, voc� pode plantar algumas sementes neste local. Tenha em mente que as sementes usam uma �rea de 3x3. Voc� precisar� regar as sementes todos os dias, ou elas n�o ir�o germinar, e tamb�m deve certificar-se que voc� est� cultivando as colheitas corretas para cada esta��o do ano. Para usar a enxada, voc� precisa clicar com o bot�o direito e limpar a grama da terra agr�cola. Fa�a isto antes de regar a terra! No entanto, voc� precisar� preencher o regador com �gua. Pegue estas sementes e volte aqui quando tiver crescido 9 nabos robustos. Ah, uma �ltima dica, voc� pode acelerar o crescimento da colheita. E para isso, � s� voc� dormir. As colheitas crescer�o mais r�pido, e esta � a maneira a mais r�pida de faz�-las crescer! 
+harvestfestival.quest.tutorial.crops.reminder.turnips=Ol� de novo. Parece que ainda voc� n�o tem nove nabos robustos. Se voc� est� apuros e perdeu sua enxada, basta voltar aqui com uma enxada de pedra e lhe darei outra. E ficarei feliz! Se voc� precisar de outro regador, eu tenho dispon�vel aqui alguns baldes. Ah, e se voc� quer um saco de nabos duros s� me trazer cinco flores. Ok?
+harvestfestival.quest.tutorial.crops.thanks.flowers=Oh! Meu docinho, obrigada! Aceite estas sementes de nabos robustos como um agradecimento.
+harvestfestival.quest.tutorial.crops.thanks.hoe=Perfeito, aqui est� a minha enxada.
+harvestfestival.quest.tutorial.crops.thanks.bucket=� o que eu estou procurando, voc� pode pegar estes baldes dispon�veis.
+harvestfestival.quest.tutorial.crops.complete=Uau! Voc� fez um trabalho fant�stico cultivando estes nabos robustos. Estou at� pensando em peg�-los para mim. Mas deixarei com voc�. N�o quero que desperce o seu valioso tempo comigo. Preciso lhe dizer algo, voc� pode obter moedas de ouro vendendo estes nabos. Voc� s� precisar� de uma caixa de transporte. Se voc� quiser, pode comprar diretamente com o meu irm�o. Mas s� quando ele estiver aberto para os neg�cios. Para usar a caixa de transporte, tudo o que voc� precisa fazer � clicar com o bot�o direito do mouse com o item na m�o, e eles ser�o enviados. Assim, no dia seguinte, no per�odo da manh�, voc� receber� as moedas de ouro. Isso para todos os itens que voc� enviar. Se voc� n�o quiser enviar tudo � m�o, basta colocar um funil ao lado da caixa de transporte para serem enviados. Receber� o lucro do estabelecimento que colocou! Mas voc� precisa saber, os nabos que voc� cultivou n�o valem muito. Voc� precisa cultivar outras especialidades, se voc� quiser ganhar mais dinheiro. Pode obter as sementes comigo. Mas ofere�o, apenas, pequenas ofertas, mas sempre ficarei feliz em troc�-las por cinco flores a qualquer momento. Sugiro que voc� converse com meu irm�o, a Loja Geral deve ser constru�da o mais r�pido poss�vel. As pessoas l� devem ser capazes de vender-lhe muito mais variedade de sementes que eu jamais poderei trocar! Como �ltima recompensa, pegue esta foice. Voc� vai precisar dela para colher algumas colheitas, e � muito eficaz para aniquilar os zumbis!
+
+#Chicken Care
+harvestfestival.quest.tutorial.chicken.reminder.talk=Lindinho, parece que voc� fez uma cria��o de aves. Sugiro que voc� v� falar com D�borah.
+harvestfestival.quest.tutorial.chicken.reminder.poultry=Ol�, meu querido, n�o se esque�a que voc� vai querer uma cria��o de aves.
+harvestfestival.quest.tutorial.chicken.start=Eu amo esse lugar. N�o � maravilhoso, Sr. Fox? Espero ter de ficar aqui por mais tempo. ........Oh, ol�! Desculpe, eu n�o vi voc� a�, eu estava apenas..... ehhh. Deixa pra l�. De qualquer forma, bem-vinda � minha granja! Meu nome � D�borah.
+harvestfestival.quest.tutorial.chicken.question=Voc� sabe como cuidar de galinhas?
+harvestfestival.quest.tutorial.chicken.tutorial=@Mostre-me por favor!
+harvestfestival.quest.tutorial.chicken.skip=@D�-me os produtos!
+harvestfestival.quest.tutorial.chicken.completed=Oh bem, ent�o isso � bom. Por favor, tome este frango de reposi��o e algumas coisas para ajudar.
+harvestfestival.quest.tutorial.chicken.throw=Ahh, ent�o voc� n�o sabe? Bom, em primeiro lugar, voc� deve aliment�-las! Se voc� n�o fizer isso, elas ficar�o doentes e parar de produzir qualquer coisa para voc�! Voc� pode alimentar as galinhas � m�o ou com uma bandeja de alimenta��o. As galinhas s�o como n�s, precisamos tamb�m de amor. Para mostrar que as ama deve peg�-las no colo todos os dias. Voc� pode pegar galinhas clicando com o bot�o direito nelas, elas v�o adorar! Para coloc�-las no ch�o, basta clicar com o bot�o direito no ch�o novamente. Alimentar as galinhas � m�o faz com que elas amem voc� um pouco mais. Se a galinha est� feliz produzir� ovos maiores e melhores. Aqui est� a ra��o. Voc� pode criar as galinhas e tamb�m am�-las? Ent�o, pode sempre me procurar!
+harvestfestival.quest.tutorial.chicken.reminder.throw=Pedi-lhe para pegar uma galinha e aliment�-la com ra��o espec�fica de para galinhas. Lembra?
+harvestfestival.quest.tutorial.chicken.egg=Muito bem. Parece que agora voc� sabe como cuidar das suas galinhas. Como eu disse antes, as galinhas mais felizes fazem ovos maiores. Mas como voc� conseguir� isso? Bem, meu caro, simplesmente coloque os ninhos pr�ximos. E, assim, a galinha vai botar os ovos. No entanto, elas s� v�o botar apenas um ovo por dia. E s� botar�o ovos se forem alimentadas. Toda vez que voc� coletar os ovos n�o esque�a de trocar por ouro. Tenho essa caixa de ninho, volte aqui quando tiver ovos das suas pr�prias galinhas.
+harvestfestival.quest.tutorial.chicken.reminder.egg=Lembre-se que sempre preciso de ovos de galinha. Se voc� precisar de um novo ninho, pode comprar uma de mim.
+harvestfestival.quest.tutorial.chicken.complete=Voc� tem trabalhado duro, por isso, ficarei feliz em dar-lhe este ovo raro! E se voc� quiser mais, precisa continuar a cuidar das suas galinhas. Oh certo! Tem algo mais voc� precisa  saber, e ainda voc� n�o sabe. Quando chover voc� precisa protege-las em um abrigo, e coloc�-las para fora o dia ficar ensolarado. Em tem algo sobre as incubadoras tamb�m. Com uma incubadora voc� pode chocar os ovos das suas galinhas. Para isso, precisa colocar um ovo dentro da incubadora e esperar alguns dias e, em seguida, um pintinho ir� nascer! Desta maneira, os pintinhos nasceram j� afei�oados por voc�, desta forma, � melhor para aumentar a cria��o do simplemente comprar mais galinhas. A prop�sito, obrigada por deixar eu abrir minha loja aqui!
+
+#Cow Care
+harvestfestival.quest.tutorial.cow.reminder.intro=Parece que tem um Rancho de animais constru�do, por isso, voc� deve ir falar com James.
+harvestfestival.quest.tutorial.cow.reminder.barn=Eu acho que precisa construir um rancho de animais, assim, voc� vai aprender sobre vacas e ovelhas.
+harvestfestival.quest.tutorial.cow.start=Estou muito feliz por voc� ter me convidado a vir pra c�. Eu sou o James, e cuido do Rancho de Animais. Quero te agradecer dando-lhe essa vaca sobressalente.
+harvestfestival.quest.tutorial.cow.question=Voc� sabe como cuidar das vacas?
+harvestfestival.quest.tutorial.cow.tutorial=@N�o, preciso de instru��es.
+harvestfestival.quest.tutorial.cow.skip=@Eu j� sei.
+harvestfestival.quest.tutorial.cow.completed=� isso mesmo? Bem, aqui est� ela. Leve estes para ajud�-lo tamb�m.
+harvestfestival.quest.tutorial.cow.info=� isso mesmo? Ent�o, � melhor eu te ensinar. Aprender o b�sico � f�cil, estes animais maiores gostam de ser alimentados e amados, mas eles tamb�m precisam ser mantidos limpos se quizer que eles fiquem saud�veis. Eles gostam de ser alimentados com forragem, pode aliment�-los � m�o para conseguir um b�nus, ou com um cocho. Para demonstrar que as ama, voc� deve falar com elas, segurando o bot�o direito sobre elas, at� que elas retribua esse amor de volta. Fa�a a mesma coisa quando for escov�-las, mas desta vez com uma escova na m�o, isso serve para mant�-las limpa. Agora voc� deve ir, alimente suas vacas e deixe-as sempre limpas.
+harvestfestival.quest.tutorial.cow.reminder.talk=Eu te aconselhei a alimentar suas vacas � m�o e sempre mante-las limpa usando a escova. Voc� lembra?
+harvestfestival.quest.tutorial.cow.milk=Muito bem, parece que voc� sabe como deixar suas vacas felizes. As vacas podem produzir leite todos os dias. Para retirar o leite, voc� precisa segurar o bot�o direito nelas, assim voc� ir� ordenha-las. Lembre-se, seja o mais am�vel poss�vel, assim, seus animais produzir� mais e mais produtos v�o te dar. V� e depois que ordenhar traga me leite de sua vaca.
+harvestfestival.quest.tutorial.cow.reminder.milk=Voc� esqueceu? Eu pedi para voc� ordenhar sua vaca.
+harvestfestival.quest.tutorial.cow.complete=Voc� tem feito um excelente trabalho. Por isso, vou te dar alguns conselhos. As vacas gostam quando o dia est� ensolarado, e preferem ficarem protegidas quando o tempo est� chuvoso. E para voc� procriar animais basta comprar a Po��o Milagrosa, pode compr�-las de mim. Essa po��o vai deixar prenha suas vacas, e depois de alguns dias, elas v�o dar a luz e nascer um bezerro, que nascer� com a metada a afetividade dos seus pais. � tudo que tenho por agora. Por favor, venha  me visitar novamente.
+
+#General Store Introduction
+harvestfestival.quest.tutorial.supermarket.reminder.talk=Voc� provavelmente deve ir e falar com Alice ou J�ssica, agora que voc� tem a Loja Geral constru�da.
+harvestfestival.quest.tutorial.supermarket.reminder.supermarket=Apenas um lembrete! Se voc� quiser mais sementes, pode obter na Loja Geral que foi constru�da!
+harvestfestival.quest.tutorial.supermarket.welcome.owner=Ei, sou a J�ssica, dona da Loja Geral. � muito bom me mudar para a cidade. Eu vendo todos os tipos de mercadorias e sementes de todos os tipos. Se precisar de algo, me pergunte. Hor�rio de funcionamento � nos dias �teis, 09:00 - 17:00. Exceto nas quarta-feiras e domingos, quando estamos fechados. Tamb�m estamos abertos por 4 horas no s�bado das 11:00 �s 15:00. Parece que voc� � nossa primeira cliente tamb�m, ent�o vou lhe dar um brinde!
+harvestfestival.quest.tutorial.supermarket.welcome.guest=Ol�! Enfim me encontrarei com algu�m. E parece que n�o � s� um rostinho bonito! Eu sou a Alice. J�ssica no t�rreo � a propriet�ria daqui, eu sou apenas uma inquilina. Se precisar de algo, estamos abertos todos os dias, exceto quarta-feira e domingo, das 09:00h �s 17:00h. Abrimos tamb�m aos s�bados das 11:00 �s 15:00. Ela me disse para te dar isso.
+
+#Cafe Cooking Lesson
+harvestfestival.quest.tutorial.cafe.welcome=Bem-vindo a minha Cafeteria. Eu sou Lara e a propriet�ria. Aqui temos uma verdadeira paix�o por cozinhar e temos o melhor alimento que voc� pode encontrar. Estou feliz em poder te ensinar a cozinhar, � claro se voc� n�o souber.
+harvestfestival.quest.tutorial.cafe.question=Voc� precisa aprender a cozinhar?
+harvestfestival.quest.tutorial.cafe.tutorial=@Sim, eu preciso!
+harvestfestival.quest.tutorial.cafe.skip=@Eu aprendo sozinha!
+harvestfestival.quest.tutorial.cafe.completed=�timo, isso � simplesmente incr�vel! Estou feliz em dar-lhe estas coisas para voc� come�ar.
+harvestfestival.quest.tutorial.cafe.explain=Ent�o, ok! Ficarei feliz em te ensinar. Para come�ar, voc� vai precisar de algum tipo de utens�lio. O mais b�sico seria o balc�o da cozinha que j� vem com uma faca. Voc� tamb�m precisar� saber como preparar uma receita. Eu tenho v�rias receitas, e voc� pode compr�-las de mim, mas vou te dar essa receita de nabo em conserva para come�ar. Voc� s� tem que l�r a receita para saber como faz. Para isso, clique com o bot�o direito, com a receita na m�o. Agora, se quiser ver a receita, basta pegar um livro de receitas. Selecione o utens�lio e, em seguida, a receita. Voc� poder� ent�o ver uma lista dos artigos no lado direito que voc� vai precisar. Se voc� tem os ingredientes e o utens�lio no lugar, clique em cozinhar para colocar todos os ingredientes no utens�lio. Deve ent�o come�ar a cozinhar. Em seguida, voc� precisar� cortar com alimentos, clicando o bot�o direito. Se voc� precisar de utens�lios de cozinha, pode comprar na minha loja, ficarei feliz em vend�-los para voc�, mas eles s� est�o dispon�veis nos fins de semana. Uma �ltima coisa. As receitas no livro s�o os princ�pios b�sicos, voc� deve tentar experimentar e colocar diferentes ingredientes extras, assim voc� pode conseguir uma receita melhor. Obrigada pela sua aten��o.
+
+#Upgrading Tools Tutorial
+harvestfestival.quest.tutorial.upgrading.reminder.blacksmith.yulif=Voc� provavelmente deveria ver o Ferreiro.
+harvestfestival.quest.tutorial.upgrading.reminder.blacksmith.goddess=Ol�, querido, parece que o Ferreiro quer te ver.
+harvestfestival.quest.tutorial.upgrading.reminder.blacksmith.jim=Daniel me disse que estava interessado em v�-lo.
+harvestfestival.quest.tutorial.upgrading.reminder.blacksmith.jenni=Voc� deve ir e falar com Daniel.
+harvestfestival.quest.tutorial.upgrading.reminder.blacksmith.candice=Ol� lindo, Daniel quer v�-lo.
+harvestfestival.quest.tutorial.upgrading.reminder.blacksmith.jade=Ouvi um rumor de que o Ferreiro estava te procurando, ele precisa falar com voc� sobre alguma coisa.
+harvestfestival.quest.tutorial.upgrading.reminder.blacksmith.brandon=Quero te dar uma coisa, mas voc� deve ir e ver Daniel primeiro.
+harvestfestival.quest.tutorial.upgrading.blacksmith.yulif=Voc� precisa construir uma Ferraria.
+harvestfestival.quest.tutorial.upgrading.blacksmith.goddess=Oi, meu querido, eu recomendo voc� construir uma ferraria logo em seguida.
+harvestfestival.quest.tutorial.upgrading.blacksmith.jim=Contruir uma Ferraria � um grande investimento.
+harvestfestival.quest.tutorial.upgrading.blacksmith.jenni=Voc� deve construir um ferreiro.
+harvestfestival.quest.tutorial.upgrading.blacksmith.candice=Eu adoraria trabalhar com um metal bem duro. Voc� pode construir uma ferraria pra mim?
+harvestfestival.quest.tutorial.upgrading.blacksmith.jade=H� rumores de que um Ferreiro quer se mudar para nossa cidade.
+harvestfestival.quest.tutorial.upgrading.blacksmith.brandon=� �timo estar aqui. Eu acho que voc� deveria convidar um ferreiro tamb�m, o melhor � o Daniel.
+harvestfestival.quest.tutorial.upgrading.intro=Se eu precisar de estar em outro lugar que n�o fosse aqui, este lugar seria o The End. Eu j� te contei sobre minhas aventuras por l�. Oh, espere, n�o nos conhecemos? Eu sou Daniel, o Ferreiro. Voc� precisa de alguma ajuda?
+harvestfestival.quest.tutorial.upgrading.question=Voc� sabe como forjar ferramentas?
+harvestfestival.quest.tutorial.upgrading.tutorial=@Eu n�o sei de nada.
+harvestfestival.quest.tutorial.upgrading.skip=@Eu sei tudo.
+harvestfestival.quest.tutorial.upgrading.completed=Isso � bom, ent�o. Tenho um pouco de min�rio para voc�.
+harvestfestival.quest.tutorial.upgrading.explain=Ent�o, ok! Eu ficarei feliz em te ensinar. A primeira coisa para se saber � que existe uma barra de durabilidade nas ferramentas e que podem ser melhoradas. Se olhar bem, vai notar uma barra de porcentagem. Quando chegar em 100 %% traga-as para mim. Eu tamb�m vou precisar de algum min�rio para trabalhar, bem como o pagamento dos meus servi�os. Irei trabalhar nelas por alguns dias, s� assim ter� suas ferramentas de volta, totalmente reparadas. Enfim, �  s� isso. Na verdade, pegue estas!h, as well as payment for my services. I�ll work on them for a few days, then you can have your tools back fully upgraded. You might be asking me how to get the materials you�ll need. Well you�ll need to head down the mine, taking with you a hammer. You can find nodes down there which you can smash with a hammer to obtain ore. Anyway that�s about it. I hear Brandon the Miner has a gift for you though.
+harvestfestival.quest.tutorial.upgrading.reminder.visit=O Mineiro quer te ver.
+harvestfestival.quest.tutorial.upgrading.complete=Ol�. Eu s� estive na mina, e bem, foi muito terr�vel. Desde que voc� me trouxe para esta cidade, eu posso te dar esse min�rio sem valor que encontrei. Pegue. Eu n�o quero isso.
+
+#Building the Goddess a Home
+harvestfestival.quest.tutorial.pond.please=Voc� fez um trabalho not�vel ao trazer esta cidade de volta. Estou realmente feliz por v�-la crescer! Eu adoraria morrar aqui tamb�m. Se voc� puder me construir uma casa para eu morar, te recompensarei por isso.
+harvestfestival.quest.tutorial.pond.thanks=Voc� trabalhou muito para por esta cidade de p�. Obrigada! Eu tamb�m estou grata pela casa que voc� construiu pra mim. Para mostrar meu apre�o eu gostaria de dar-lhe alguns morangos � uma pequena bonifica��o.
+
+##Trading Quests
+# Priest Blessing Quest
+harvestfestival.quest.trade.cursed.accept=Muito obrigado jovenzinho, agora posso aben�oar suas ferramentas! Vai demorar um pouco, ent�o volte em tr�s dias.
+harvestfestival.quest.trade.cursed.gold=Ahh! Eu vejo que voc� tem uma ferramenta amaldi�oada! Por uma pequena qualtia   de %s ouro eu posso aben�o�-la, assim, vai remover essa maldi��o.
+harvestfestival.quest.trade.cursed.wait=� bom ver voc�, a b�n��o de suas ferramentas est� indo bem, vai demorar um pouco mais, por favor volte em %s dias
+harvestfestival.quest.trade.cursed.done=Seu %s est� pronto! Todos aben�oados pra voc�! Pegue aqui!
+
+# Priest Repair Quests
+harvestfestival.quest.trade.bless.repair.gold=Parece que voc� tem uma ferramenta aben�oada. Posso consertar isso por uma pequena quantia de %s de ouro.
+harvestfestival.quest.trade.bless.repair.done=E com todo o poder que a mim me cabe vou aben�oar seu %s novamente e restaurar seus poderes..
+
+# Trader Johan Quests
+harvestfestival.quest.trade.vanilla.egg=Muito obrigado por estes ovos. Ser� um prazer troc�-los por alguma coisa de minha terra natal.
+harvestfestival.quest.trade.vanilla.milk=Olhe estes frascos de leites, s�o deliciosos! Pegue este balde de leite como um agradecimento.
+harvestfestival.quest.trade.vanilla.wool=Sua l� � t�o fina, que vai fazer roupas grandes. Por favor, tome esta l�, � melhor para tecer!
+
+# Blacksmith Upgrades
+harvestfestival.quest.trade.upgrade.level=Sua ferramenta n�o est� em 100 %%! Por favor, volte depois.
+harvestfestival.quest.trade.upgrade.gold=Para reparar esta ferramenta, voc� ter� um custo de %s, por favor, volte quando tiver o suficiente.
+harvestfestival.quest.trade.upgrade.material=Para reparar esta ferramenta vou precisar de %1s %2s.
+harvestfestival.quest.trade.upgrade.accept=Isso eu posso fazer, por favor volte em 3 dias para pegar sua ferramenta reparada.
+harvestfestival.quest.trade.upgrade.done=Eu terminei de trabalhar no seu %s. Foi um prazer fazer neg�cios com voc�.
+harvestfestival.quest.trade.upgrade.wait=Desculpe por dizer, mas sua ferramenta ainda n�o est� pronta, por favor volte em %s dias.
+harvestfestival.quest.trade.upgrade.repair.gold=Reparar esta ferramenta ir� te custar %s de ouro. Por favor, venha quando tiver o suficiente.
+harvestfestival.quest.trade.upgrade.repair.material=Para reparar esta ferramenta vou precisar de %s.
+harvestfestival.quest.trade.upgrade.repair.start=Isso eu posso fazer, por favor volte daqui dia para pegar sua ferramenta reparada.
+
+# Jade Seed Trades
+harvestfestival.quest.trade.seeds.reminder=Se precisar de mais sementes, traga-me mais 5 flores.
+harvestfestival.quest.trade.seeds.complete.yes=Obrigada pelas flores, aqui tem um saco de sementes.
+harvestfestival.quest.trade.seeds.complete.no=Desculpe, mas n�o tenho sementes para lhe dar nesta �poca do ano.
+
+# Jade Tools Trades
+harvestfestival.quest.trade.tools.hoe=Obrigada pela enxada! Eu tenho uma aqui pra voc�.
+harvestfestival.quest.trade.tools.wateringcan=Este balde � maravilhoso, tem outro regador?!
+harvestfestival.quest.trade.tools.sickle=As tesouras s�o apenas grandes, t�m minha foice de a sua disposi��o!
+harvestfestival.quest.trade.tools.reminder=Apenas para voc� saber, eu tenho a disposi��o alguns regadores, enxadas e foices. Se voc� precisar deles, basta trazer-me uma enxada, balde ou tesouras normais! E ficarei feliz em negociar com voc�!
+
+# Goddess Free Carpenter
+harvestfestival.quest.trade.carpenter.thanks=Obrigada, docinho, estou feliz em lhe dar um diagrama de constru��o de Carpintaria.
+
+## Recipe Quests
+harvestfestival.quest.recipe.corn.baked.text=Voc� � realmente agrad�vel, estou feliz te mostar minha receita secreta de Milho Assado.
+harvestfestival.quest.recipe.butter.text=Vou lhe contar meu segredinho que deixa minhas ferramentas t�o incr�veis, Eu passo um pouco de manteiga nelas.
+harvestfestival.quest.recipe.potato.candied.text=Por que? Porque foi expl�ndido ter te conhecido. E fico feliz te compartilhar esta receita de familia.
+harvestfestival.quest.recipe.cake.chocolate.text=Tem sido �timo conhecer, realmente tem. Este ser� conquistador, tem uma fatia de bolo?
+harvestfestival.quest.recipe.cookies.text=Os cookies deixam as pessoas felizes,  eu gostaria de te ensinar a fazer alguns.
+harvestfestival.quest.recipe.dinnerroll.text=Foi um prazer te conhecer. Eu tenho uma receita para voc� que Edu simplesmente adora.
+harvestfestival.quest.recipe.doughnut.text=Sem d�vida voc� � agora uma das minhas pessoas favoritas, eu tenho outra receita, e esta � a minha favorita.
+harvestfestival.quest.recipe.dumplings.text=Voc� � espirituosamente gentil. Por isso eu gostaria de oferecer estes bolinhos.
+harvestfestival.quest.recipe.fish.stew.text=Voc� j� pensou em como eu preparo um peixe? Bem, eu costumo fazerum guisado. Veja como eu fa�o!
+harvestfestival.quest.recipe.fishsticks.text=Eu gosto de manter as coisas organizadas quando eu estou cozinhando. Que tal alguns palitos de peixe?
+harvestfestival.quest.recipe.fries.french.text=N�s realmentes conhecemos uma a outra, n�o � mesmo? Eu viajei para muitos lugares. Mas eu ainda n�o encontrei em nenhum lugar uma receita igual a esta prestes a dar-lhe.
+harvestfestival.quest.recipe.toast.french.text=Oh! Meu querido, Conhecer voc� foi ador�vel. Eu realmente tenho praticado minha culin�ria, e estou feliz em compartilhar com voc� o pr�ximo n�vel de torradas.
+harvestfestival.quest.recipe.fish.grilled.text=Os guisados s�o delisiosos, mas quando eu quero realmente preparar algo, eu gosto de grelhar meu peixe, assim como este.
+harvestfestival.quest.recipe.chocolate.hot.text=Obrigada por passar seu tempo aqui comigo. Estou feliz em mostrar uma das minhas receitas na qual tenho trabalhado.
+harvestfestival.quest.recipe.milk.hot.text=Well Voc� realmente trouxe um brilho � minha vida com sua beleza. Eu amo meu leite quente, ainda mais quando est� quente. Assim como voc�!
+harvestfestival.quest.recipe.noodles.text=Ehh, eu acho que voc� � minha amiga agora. Eu realmente sei fazer macarr�o daqueles!
+harvestfestival.quest.recipe.omelet.rice.text=Parece que j� conhece meu passado e o que os outros pensam de mim. Acho que agora posso te chamar de amigo. E sabe o os amigos fazem? Compartilham receitas de omelete.
+harvestfestival.quest.recipe.pancake.savoury.text=Voc� pode gostar das panquecas doce, mas eu prefero as salgadas. Se voc� n�o sabe como fazer assim, aqui est� uma receita.
+harvestfestival.quest.recipe.juice.pineapple.text=Conhecer voc� tem sido um neg�cio doce. Ent�o aqui.
+harvestfestival.quest.recipe.popcorn.text=N�o h� nada que eu amo do que ir no cinema, assistir um filme sobre raposa e comer pipoca.
+harvestfestival.quest.recipe.porridge.text=Esta receita de mingau � algo que minha m�e costumava fazer. E agora, � medida que nos aproximamos, estou feliz em compartilhar com voc�, minha querida.
+harvestfestival.quest.recipe.potsticker.text=Por voc� ser um amigo maravilhoso e ficar sempre do meu lado, vou te presentear com uma barbatana bem grossa. Eu adoraria te dar presente.
+harvestfestival.quest.recipe.risotto.text=Voc� lembra que eu disse que s� sei fazer macarr�o? Bem, � o que tenho aprendido por esses dias, isso � o que eu tenho praticado.
+harvestfestival.quest.recipe.salad.text=Voc� tem sido uma boa amiga, ent�o pegue isso.
+harvestfestival.quest.recipe.egg.scrambled.text=Estou t�o confusa sobre o que fazer, voc� poderia sugerir alguns mexidos.
+harvestfestival.quest.recipe.soup.rice.text=Eu sou obrigada a lhe dar isso.
+harvestfestival.quest.recipe.stew.text=Cuidar de Lara foi uma tarefa muito ardua. Ela era uma crian�a problem�tica. Eu n�o conseguia encontrar nada para acalm�-la. At� que um dia, eu decidi apenas fazer um ensopado. E bem desde ent�o ela tem sido um anjo. Talvez compartilhando esta receita com outros, deixariam relaxados tamb�m.
+harvestfestival.quest.recipe.milk.strawberry.text=Meu querido, voc� sempre foi t�o gentil, tenho que te servir uma bebida dos deuses!
+harvestfestival.quest.recipe.toast.text=Yulif ainda n�o me ensinou a cozinhar muito bem. Mas eu sei fazer torradas.
+harvestfestival.quest.recipe.latte.vegetable.text=Preciso me livrar desse objeto profano r�pido. Por favor, pegue.
+
+###Achievements
+achievement.harvestfestival.summon=Deusa da Colheita
+achievement.harvestfestival.summon.desc=Convocar com uma flor divina
+achievement.harvestfestival.visitor=O in�cio
+achievement.harvestfestival.visitor.desc=Converse com a Jade
+achievement.harvestfestival.harvest=Progredindo! :P
+achievement.harvestfestival.harvest.desc=Colha seu primeiro nabo
+achievement.harvestfestival.onion=Durante o ver�o
+achievement.harvestfestival.onion.desc=E eu farei como a neve.
+achievement.harvestfestival.spinach=Popeye
+achievement.harvestfestival.spinach.desc=Eu ficarei forte at� o fim, porque eu como  Espinafre
+achievement.harvestfestival.milker= Leite Mooo!
+achievement.harvestfestival.milker.desc=Consiga leite ordenhando a vaca
+achievement.harvestfestival.milkerLarge=Carga de Gal�o
+achievement.harvestfestival.milkerLarge.desc=Consiga leites volumosos da sua vaca
+achievement.harvestfestival.egger=Kinder Ovo
+achievement.harvestfestival.egger.desc=Consiga ovos com as galinhas
+achievement.harvestfestival.eggerLarge=Ovos de P�scoa
+achievement.harvestfestival.eggerLarge.desc=Esse n�o � um ovo de P�scoa
+achievement.harvestfestival.firstShipping=Barulho a bordo!
+achievement.harvestfestival.firstShipping.desc=Envie seus primeiros itens
+achievement.harvestfestival.millionaire=Silvio Santos
+achievement.harvestfestival.millionaire.desc=Quem quer ser um milion�rio?
+achievement.harvestfestival.theMine=Descendo
+achievement.harvestfestival.theMine.desc=Entre na mina ...
+achievement.harvestfestival.killChick=Pegue isso!
+achievement.harvestfestival.killChick.desc=� um mist�rio...
+achievement.harvestfestival.killChicken=Todos crescidos
+achievement.harvestfestival.killChicken.desc=E eu pensei que os pintinhos eram resistentes
+achievement.harvestfestival.killSheep=Desculpe, Ovelha Dolly!!! 
+achievement.harvestfestival.killSheep.desc=Pelo menos eu posso fazer um cobertor
+achievement.harvestfestival.killCow=Moomoo
+achievement.harvestfestival.killCow.desc=Quem infectou esses animais?
+achievement.harvestfestival.firstChristmas=Feliz Natal!!!
+achievement.harvestfestival.firstChristmas.desc=Jingle Bells... Jingle Bells J� acabou o papeeeel...
+achievement.harvestfestival.birthday=Feliz Anivers�rio!
+achievement.harvestfestival.birthday.desc=Voc� precisa sair mais!
+achievement.harvestfestival.friend=Amigos
+achievement.harvestfestival.friend.desc=Amigo estou aqui! Amigo estou aqui!
+achievement.harvestfestival.marriage=Amor e casamento
+achievement.harvestfestival.marriage.desc=� o amor! Que mexe com a minha cabe�a e deixa assim!
+achievement.harvestfestival.junk=�spero!
+achievement.harvestfestival.junk.desc=N�s temos que come�ar em algum lugar
+achievement.harvestfestival.copper=Te vejo depois
+achievement.harvestfestival.copper.desc=Onde est� meu estanho?
+achievement.harvestfestival.silver=Bala de prata
+achievement.harvestfestival.silver.desc=Agora s� precisamos de lobisomens
+achievement.harvestfestival.gold=Port�o Dourado
+achievement.harvestfestival.gold.desc=Se n�o for de ouro n�o presta?
+achievement.harvestfestival.mystril=Brilhante
+achievement.harvestfestival.mystril.desc=Legal, isso � mystril
+achievement.harvestfestival.cooking=Primeira refei��o
+achievement.harvestfestival.cooking.desc=Fa�a sua primeira refei��o
+achievement.harvestfestival.recipes=MasterChef
+achievement.harvestfestival.recipes.desc=Aprenda 50 Receitas
+
+###Sounds
+harvestfestival.subtitle.fryingpan=Fritando!
+harvestfestival.subtitle.counter=Cortando!
+harvestfestival.subtitle.fridge=Porta do frigor�fico
+harvestfestival.subtitle.mixer=Barulho!
+harvestfestival.subtitle.oven=Forno ligado!
+harvestfestival.subtitle.ovendoor=Porta do forno
+harvestfestival.subtitle.ovendone=Forno desligado. Plin!
+harvestfestival.subtitle.pot=Borbulhando
+harvestfestival.subtitle.smashrock=Que duro!
+harvestfestival.subtitle.smashwood=Madeira quebrando!
+harvestfestival.subtitle.blessing=Som Celestial
+harvestfestival.subtitle.godddess=Sinos da Deusa
+harvestfestival.subtitle.recipe=Receita aprendida!
+
+#Config
+harvestfestival.config.tooltip=

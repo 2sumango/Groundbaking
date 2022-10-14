@@ -1,0 +1,32 @@
+#BLOCCHI
+tile.blue_meteor_ore.name=Синий метеор
+tile.red_meteor_ore.name=Красный метеор
+#ITEMS
+item.blue_meteor_powder.name=Порох синего метеора
+item.red_meteor_powder.name=Порох красного метеора
+item.telescope.name=Телескоп
+#CONFIGURATION
+config.a_update_chat_message=показывать сообщение о новом обновлении
+config.b_show_message_start_meteor=показывать сообщения запуска метеора
+config.c_message_start_meteor=текст запуска метеора
+config.d_show_approximate_coord=показать приблизительные координаты
+config.e_show_exact_coord=показать точные координаты
+config.f_explosion_with_flames=взрыв с пламенем
+config.meteor_message1=метеор упадет на землю
+config.meteor_message2=через
+config.meteor_message3=секунд
+config.meteor_message4= примерно в координатах:
+config.meteor_message5= в координатах: 
+#CHAT MESSAGE
+jjmeteor.chat.new_update_1=Доступна для скачивания, версия
+jjmeteor.chat.new_update_2=мода JJ Meteor
+chat.meteor_success=Метеор запущен
+chat.meteor_error=Неправильная команда: /meteor x y z destroy second drop_item drop_number
+chat.meteor_error_2=Мод не смог определить точку удара, пожалуйста, уменьшите минимальное расстояние приземления от игрока или уменьшите запрещенные зоны
+chat.meteor_in_atmosphere=Замечен метеор, ожидаемое время приземления через
+chat.minut=минут
+chat.imminent_impact=Неизбежный удар
+#COMMAND
+command.meteor_desc=Запустить метеор: /meteor x y z destroy second drop_item drop_number
+#TABS
+itemGroup.jjmeteor=JJ Meteor

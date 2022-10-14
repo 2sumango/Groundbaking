@@ -1,0 +1,11 @@
+{
+  "parent": "naturaldecormod:custom/sugarocactusfinal",
+  "textures": {
+    "all": "naturaldecormod:blocks/uguaroactuside",
+    "particle": "naturaldecormod:blocks/uguaroactuside",
+    "suguarocactusside": "naturaldecormod:blocks/uguaroactuside",
+    "suguarocactussidereversed": "naturaldecormod:blocks/uguaroactusideeversed",
+    "suguarocactustop": "naturaldecormod:blocks/uguaroactusop",
+    "suguarocactustopreverse": "naturaldecormod:blocks/uguaroactusopeverse"
+  }
+}

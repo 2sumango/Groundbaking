@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:cavepainting"
+    },
+    "facing=north": {
+      "model": "duneons:cavepainting"
+    },
+    "facing=east": {
+      "model": "duneons:cavepainting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:cavepainting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:cavepainting",
+      "y": 270
+    }
+  }
+}

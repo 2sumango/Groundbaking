@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "duneons:blocks/scarecrow_pinkim_block",
+    "particle": "duneons:blocks/scarecrow_pinkim_block"
+  }
+}

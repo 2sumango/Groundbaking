@@ -1,0 +1,32 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "4": {
+      "item": "duneons:feather2"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "duneons:staffbluethingv",
+    "count": 1
+  }
+}

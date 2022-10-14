@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/purple_cobblestone",
+    "up": "duneons:blocks/purple_cobblestone",
+    "north": "duneons:blocks/purple_cobblestone",
+    "east": "duneons:blocks/purple_cobblestone",
+    "south": "duneons:blocks/purple_cobblestone",
+    "west": "duneons:blocks/purple_cobblestone",
+    "particle": "duneons:blocks/purple_cobblestone"
+  }
+}

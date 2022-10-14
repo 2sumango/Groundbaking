@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/purple_vangard_potion",
+  "textures": {
+    "0": "duneons:blocks/purple_vangard_potion",
+    "missing": "duneons:blocks/purple_vangard_potion"
+  }
+}

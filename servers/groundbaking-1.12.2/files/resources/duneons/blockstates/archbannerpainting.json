@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:archbannerpainting"
+    },
+    "facing=north": {
+      "model": "duneons:archbannerpainting"
+    },
+    "facing=east": {
+      "model": "duneons:archbannerpainting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:archbannerpainting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:archbannerpainting",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_flower",
+      "data": 1
+    },
+    "1": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:epiphyteorchid",
+    "count": 1
+  }
+}

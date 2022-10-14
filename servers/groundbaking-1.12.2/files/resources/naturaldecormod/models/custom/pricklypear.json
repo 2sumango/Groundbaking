@@ -1,0 +1,259 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "1",
+      "from": [
+        0,
+        -1,
+        8
+      ],
+      "to": [
+        18,
+        21,
+        8
+      ],
+      "faces": {
+        "north": {
+          "texture": "#PricklyPear",
+          "uv": [
+            0,
+            0,
+            9,
+            11
+          ]
+        },
+        "south": {
+          "texture": "#PricklyPearBack",
+          "uv": [
+            0,
+            0,
+            9,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "name": "2",
+      "from": [
+        8,
+        -1,
+        0
+      ],
+      "to": [
+        8,
+        14,
+        18
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": -45.0
+      },
+      "faces": {
+        "east": {
+          "texture": "#PricklyPear",
+          "uv": [
+            0,
+            3,
+            9,
+            11
+          ]
+        },
+        "west": {
+          "texture": "#PricklyPearBack",
+          "uv": [
+            0,
+            3,
+            9,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "name": "3",
+      "from": [
+        8,
+        -1,
+        0
+      ],
+      "to": [
+        8,
+        11,
+        18
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 45.0
+      },
+      "faces": {
+        "east": {
+          "texture": "#PricklyPear",
+          "uv": [
+            0,
+            5,
+            9,
+            11
+          ]
+        },
+        "west": {
+          "texture": "#PricklyPearBack",
+          "uv": [
+            0,
+            5,
+            9,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "name": "4",
+      "from": [
+        8,
+        -1,
+        0
+      ],
+      "to": [
+        8,
+        21,
+        18
+      ],
+      "faces": {
+        "east": {
+          "texture": "#PricklyPearBack",
+          "uv": [
+            0,
+            0,
+            9,
+            11
+          ]
+        },
+        "west": {
+          "texture": "#PricklyPear",
+          "uv": [
+            0,
+            0,
+            9,
+            11
+          ]
+        }
+      }
+    }
+  ]
+}

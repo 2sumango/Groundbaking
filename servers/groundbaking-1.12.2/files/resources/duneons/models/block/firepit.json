@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/firepit",
+  "textures": {
+    "all": "duneons:blocks/brazier",
+    "particle": "duneons:blocks/brazier",
+    "missing": "duneons:blocks/brazier",
+    "30": "duneons:blocks/ot_fire",
+    "31": "duneons:blocks/brazier"
+  }
+}

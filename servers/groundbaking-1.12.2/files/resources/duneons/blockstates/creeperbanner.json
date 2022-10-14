@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:creeperbanner"
+    },
+    "facing=north": {
+      "model": "duneons:creeperbanner"
+    },
+    "facing=east": {
+      "model": "duneons:creeperbanner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:creeperbanner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:creeperbanner",
+      "y": 270
+    }
+  }
+}

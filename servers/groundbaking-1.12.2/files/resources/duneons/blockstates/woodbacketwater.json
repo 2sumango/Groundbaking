@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:woodbacketwater"
+    },
+    "facing=north": {
+      "model": "duneons:woodbacketwater"
+    },
+    "facing=east": {
+      "model": "duneons:woodbacketwater",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:woodbacketwater",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:woodbacketwater",
+      "y": 270
+    }
+  }
+}

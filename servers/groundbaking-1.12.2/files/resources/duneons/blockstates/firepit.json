@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:firepit"
+    },
+    "facing=north": {
+      "model": "duneons:firepit"
+    },
+    "facing=east": {
+      "model": "duneons:firepit",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:firepit",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:firepit",
+      "y": 270
+    }
+  }
+}

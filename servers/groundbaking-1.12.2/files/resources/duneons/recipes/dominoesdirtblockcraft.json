@@ -1,0 +1,28 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "1": {
+      "item": "duneons:latticebriker"
+    },
+    "2": {
+      "item": "duneons:latticebriker"
+    },
+    "3": {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "duneons:dominoesdirtblock",
+    "count": 1
+  }
+}

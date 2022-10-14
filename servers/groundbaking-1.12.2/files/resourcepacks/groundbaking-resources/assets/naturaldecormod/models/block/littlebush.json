@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/tropicalbush",
+  "textures": {
+    "all": "naturaldecormod:blocks/ropicalush",
+    "particle": "naturaldecormod:blocks/ropicalush",
+    "Bush": "naturaldecormod:blocks/ropicalush",
+    "BushReversed": "naturaldecormod:blocks/ropicalusheverse"
+  }
+}

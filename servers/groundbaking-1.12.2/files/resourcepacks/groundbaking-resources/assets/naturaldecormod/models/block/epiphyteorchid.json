@@ -1,0 +1,10 @@
+{
+  "parent": "naturaldecormod:custom/orchidhanging",
+  "textures": {
+    "all": "naturaldecormod:blocks/rchidangingeverse",
+    "particle": "naturaldecormod:blocks/rchidangingeverse",
+    "fernepiphyte": "naturaldecormod:blocks/rchidanging",
+    "fernepiphytereverse": "naturaldecormod:blocks/rchidangingeverse",
+    "transparent": "naturaldecormod:blocks/ransparent"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/dark_stone_dirt",
+    "up": "duneons:blocks/dark_stone_dirt",
+    "north": "duneons:blocks/dark_stone_dirt",
+    "east": "duneons:blocks/dark_stone_dirt",
+    "south": "duneons:blocks/dark_stone_dirt",
+    "west": "duneons:blocks/dark_stone_dirt",
+    "particle": "duneons:blocks/dark_stone_dirt"
+  }
+}

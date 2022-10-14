@@ -1,0 +1,9 @@
+{
+  "parent": "koopascritters:custom/yelloweyednestone",
+  "textures": {
+    "all": "koopascritters:blocks/ellowyegg",
+    "particle": "koopascritters:blocks/ellowyegg",
+    "pebbles": "koopascritters:blocks/tickirt",
+    "yelloweyeegg": "koopascritters:blocks/ellowyegg"
+  }
+}

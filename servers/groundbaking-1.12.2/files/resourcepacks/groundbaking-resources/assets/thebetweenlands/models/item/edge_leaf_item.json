@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "thebetweenlands:items/strictly_herblore/plant_drops/edge_leaf_item"
+  },
+  "display": {
+      "gui": {
+          "scale": [ 0.795, 0.795, 0.795 ]
+      }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/drum_cymbal",
+  "textures": {
+    "all": "duneons:blocks/t_gongofweakening",
+    "particle": "duneons:blocks/t_gongofweakening",
+    "0": "duneons:blocks/t_gongofweakening"
+  }
+}

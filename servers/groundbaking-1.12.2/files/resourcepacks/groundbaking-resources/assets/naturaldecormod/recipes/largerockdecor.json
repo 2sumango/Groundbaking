@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:rockdecormedium"
+    },
+    {
+      "item": "naturaldecormod:rockdecormedium"
+    },
+    {
+      "item": "naturaldecormod:rockdecormedium"
+    },
+    {
+      "item": "naturaldecormod:rockdecormedium"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:rockdecorlarge",
+    "count": 2
+  }
+}

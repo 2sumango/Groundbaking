@@ -1,0 +1,6 @@
+{       
+	"parent": "block/carpet",
+    "textures": {
+        "wool": "mod_lavacow:blocks/pileofsludge"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/portal_raid",
+  "textures": {
+    "all": "duneons:blocks/portal",
+    "particle": "duneons:blocks/portal",
+    "0": "duneons:blocks/portal"
+  }
+}

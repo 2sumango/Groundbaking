@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/stone_table_map",
+  "textures": {
+    "all": "duneons:blocks/t_maptable",
+    "particle": "duneons:blocks/t_maptable",
+    "0": "duneons:blocks/t_maptable",
+    "missing": "duneons:blocks/t_maptable"
+  }
+}

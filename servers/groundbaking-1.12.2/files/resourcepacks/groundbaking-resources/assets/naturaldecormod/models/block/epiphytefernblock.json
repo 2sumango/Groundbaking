@@ -1,0 +1,10 @@
+{
+  "parent": "naturaldecormod:custom/epiphytefernfinal",
+  "textures": {
+    "all": "naturaldecormod:blocks/fernpiphyte",
+    "particle": "naturaldecormod:blocks/fernpiphyte",
+    "Transparent": "naturaldecormod:blocks/ransparent",
+    "fernEpiphyteReverse": "naturaldecormod:blocks/fernpiphyteeverse",
+    "fernEpiphyte": "naturaldecormod:blocks/fernpiphyte"
+  }
+}

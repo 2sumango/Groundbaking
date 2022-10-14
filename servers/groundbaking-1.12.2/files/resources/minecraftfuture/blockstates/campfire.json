@@ -1,0 +1,10 @@
+{
+    "multipart": [
+        {   "when": { "lit": "false"},
+            "apply": { "model": "minecraftfuture:campfire"}
+        },
+        {   "when": { "lit": "true"},
+            "apply": { "model": "minecraftfuture:campfire_on"}
+        }
+    ]
+}

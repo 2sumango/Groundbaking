@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bigtombstone"
+    },
+    "facing=north": {
+      "model": "duneons:bigtombstone"
+    },
+    "facing=east": {
+      "model": "duneons:bigtombstone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bigtombstone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bigtombstone",
+      "y": 270
+    }
+  }
+}

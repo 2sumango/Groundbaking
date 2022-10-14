@@ -1,0 +1,16 @@
+{
+  "sortnum": 0,
+  "name": "Invocar Maid",
+  "icon": "minecraft:spawn_egg{EntityTag:{id:'touhou_little_maid:entity.passive.maid'}}",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "O jeito de conseguir uma maid é muito especial e precisa ser feito através de um altar de multi-blocos.$(br2)É provável que a fabricação mude no futuro, por favor, verifique o altar no JEI.$(br2)Depois que a maid for invocada com sucesso em um altar de multi-blocos, você receberá uma caixa de bolo embrulhada com a maid. Você pode clicar com o botão direito na caixa de bolo para abri-la."
+    },
+    {
+      "type": "text",
+      "text": "Você precisa clicar três vezes com o botão direito para abrir a caixa de bolo e dai ela. irá desaparecer.$(br2)Você vai precisar de um bolo para domesticar a maid. os itens de domesticação podem ser alterados no arquivo de configurações, que já foi mencionado.$(br2)A maid domesticada é quase idêntica a um pet do vanilla, porem você pode clicar com o botão direito para abrir sua Interface."
+    }
+  ]
+}

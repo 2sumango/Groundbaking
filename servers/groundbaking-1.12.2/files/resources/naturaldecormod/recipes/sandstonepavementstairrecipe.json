@@ -1,0 +1,33 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:sandstonepavement"
+    },
+    "3": {
+      "item": "naturaldecormod:sandstonepavement"
+    },
+    "4": {
+      "item": "naturaldecormod:sandstonepavement"
+    },
+    "6": {
+      "item": "naturaldecormod:sandstonepavement"
+    },
+    "7": {
+      "item": "naturaldecormod:sandstonepavement"
+    },
+    "8": {
+      "item": "naturaldecormod:sandstonepavement"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:sandstonepavementstairs",
+    "count": 4
+  }
+}

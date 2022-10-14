@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [{
+      "type": "forge:ore_dict",
+      "ore": "cropAubergine"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "cropEggplant"
+    }],
+    {
+      "item": "minecraft:carrot",
+      "data": 0
+    },
+    {
+      "item": "minecraft:beetroot",
+      "data": 0
+    },
+    {
+      "item": "minecraft:baked_potato",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "mysticalworld:stuffed_aubergine",
+    "data": 0
+  }
+}

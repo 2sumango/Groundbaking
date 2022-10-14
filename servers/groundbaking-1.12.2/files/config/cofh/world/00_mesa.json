@@ -1,0 +1,363 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"bedding_granite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_slate_slab_green",
+				"material": "minecraft:red_sandstone",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 60,
+			"max-height": 65,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"top_grass": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:grass",
+				"material": "minecraft:red_sandstone",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 95,
+			"max-height": 120,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"top_grass2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:grass",
+				"material": "minecraft:sand",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 95,
+			"max-height": 120,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"saplings": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:sapling_2",
+					"metadata": 2
+				},
+				"material": "minecraft:deadbush",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 55,
+			"max-height": 250,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dirt": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_cinder",
+				"material": {
+					"name": "minecraft:stained_hardened_clay",
+					"metadata": 1
+				},
+					"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 63,
+			"max-height": 64,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"calcite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_cinder",
+				"material": "minecraft:red_sandstone",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 66,
+			"max-height": 66,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"calcite2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_cinder",
+				"material": "minecraft:sand",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 66,
+			"max-height": 66,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"calcite3": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_cinder",
+				"material": "minecraft:red_sandstone",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 66,
+			"max-height": 66,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"calcite_Y63": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_cinder",
+				"material": "minecraft:red_sandstone",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 63,
+			"max-height": 63,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"calcite_Y63_1": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_cinder",
+				"material": "minecraft:sand",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 66,
+			"max-height": 66,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"calcite_Y63_2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "earthworks:block_cinder",
+				"material": "minecraft:red_sandstone",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 66,
+			"max-height": 66,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:mesa",
+							"minecraft:mesa_rock",
+							"minecraft:mesa_clear_rock"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

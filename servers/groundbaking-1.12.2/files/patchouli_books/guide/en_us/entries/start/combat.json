@@ -1,0 +1,43 @@
+{
+    "name": "Introduction - Combat",
+    "icon": "minecraft:wooden_sword",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "When it comes to surviving out in the world, the key factor to defending yourself is knowing how to confront dangers. The mechanics surrounding this are pretty straightforward, but are documented for your learning pleasure.                                     The Overview of Mechanics;    -Dodging                      -Blocking                    -Weapon Weights               -Weapon Types"
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/combat.png"],
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "Rolling:                                                    First off, when moving around, you can roll by pressing the Roll Key configured in your controls. Rolling allows you to make quick, abrupt movements to avoid dangers                                                     Default Key:                   [Middle Mouse Button]"
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/weapon1.png","fiesta:assets/textures/gui/book/dodging.png"],
+            "border": "true"
+        },              
+        {
+            "type": "text",
+            "text": "Weapons:                                                    When using swords, you can block by right clicking, which will block [75%] of incoming damage, as opposed to a Shield blocking [100%].                                             Different weapons types can swing faster or slower.  Tinker's weapons offer a wide variety to choose from for all kinds of playstyles.  For ANY tool, you can apply qualities to them that can influence their weight, damage, or attack speed."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/weapon1.png","fiesta:assets/textures/gui/book/weapon2.png"],
+            "border": "true"
+        },           
+        {
+            "type": "text",
+            "text": "You've learned everything you need to know about the new combat mechanics! This section of the guide book is now cleared.                    Make sure to take your time reviewing the book contents; keep note of everything you have picked up."
+        },        
+        {
+            "type": "spotlight",
+            "item": "minecraft:wooden_sword",
+            "text": "       End of Chapter 3"
+        }                    
+    ]
+}

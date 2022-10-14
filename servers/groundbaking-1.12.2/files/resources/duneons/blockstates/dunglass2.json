@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dunglass2"
+    },
+    "facing=north": {
+      "model": "duneons:dunglass2"
+    },
+    "facing=east": {
+      "model": "duneons:dunglass2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dunglass2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dunglass2",
+      "y": 270
+    }
+  }
+}

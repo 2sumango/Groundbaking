@@ -1,0 +1,174 @@
+{
+  "consumeCatalyst": false,
+  "location": "groundbaking:stone_furnace",
+  "traits": {},
+  "allowRotate": true,
+  "showInJei": true,
+  "baseRenderer": {
+    "state": {
+      "id": "minecraft:furnace",
+      "meta": 2
+    },
+    "type": "blockstate"
+  },
+  "formedRenderer": {
+    "state": {
+      "id": "chisel:cobblestone",
+      "meta": 4
+    },
+    "type": "blockstate"
+  },
+  "isOpaqueCube": true,
+  "basePattern": {
+    "structureDir": [
+      "BACK",
+      "UP",
+      "RIGHT"
+    ],
+    "pattern": [
+      [
+        "ABA",
+        "ACA",
+        "ADA"
+      ],
+      [
+        "B@B",
+        "EFG",
+        "D D"
+      ],
+      [
+        "ABA",
+        "AHA",
+        "ADA"
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "chisel:cobblestone",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "groundbaking:stone_furnace",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "minecraft:stone_slab",
+            "meta": 11
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "minecraft:furnace",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "chisel:cobblestone2",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "minecraft:furnace",
+            "meta": 2
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "futuremc:campfire",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "G": {
+        "states": [
+          {
+            "id": "minecraft:furnace",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "H": {
+        "states": [
+          {
+            "id": "minecraft:furnace",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ]
+    }
+  },
+  "recipeMap": "empty"
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "arcaneworld:levitator",
+    "count": 1
+  },
+  "pattern": [
+    "WWW",
+    "WSW",
+    "WRW"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "W": {
+      "type": "forge:ore_dict",
+      "ore": "plankWood"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "blockSapphire"
+    },
+    "R": {
+      "type": "forge:ore_dict",
+      "ore": "dustRedstone"
+    }
+  }
+}

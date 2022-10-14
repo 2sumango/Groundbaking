@@ -1,0 +1,6 @@
+maid_pack.little_maid_mob.name=Little Maid Mob
+maid_pack.little_maid_mob.desc=来自于 Little Maid Mob 模组的模型
+model.little_maid_mob.mob_littlemaid.desc=小女仆
+model.little_maid_mob.default.desc=§8默认模型
+model.little_maid_mob.aug.desc=§8Aug 模型
+model.little_maid_mob.sr2.desc=§8SR2 模型

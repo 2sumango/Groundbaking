@@ -1,0 +1,103 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "textures": {
+      "seat_side": "betterwithmods:blocks/seat_side",
+      "seat_cushion": "betterwithmods:blocks/seat_cushion",
+      "seat_legs": "betterwithmods:blocks/seat_legs"
+  },
+  "display": {
+      "gui": {
+          "rotation": [ 30, 45, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 0.55, 0.55, 0.55 ]
+      },
+      "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 0, 3, 0 ],
+          "scale": [ 0.25, 0.25, 0.25 ]
+      },
+      "fixed": {
+          "rotation": [ 0, 180, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "head": {
+          "rotation": [ 0, 180, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "firstperson_righthand": {
+          "rotation": [ 0, 315, 0 ],
+          "translation": [ 0, 2.5, 0 ],
+          "scale": [ 0.4, 0.4, 0.4 ]
+      },
+      "thirdperson_righthand": {
+          "rotation": [ 75, 315, 0 ],
+          "translation": [ 0, 2.5, 0 ],
+          "scale": [ 0.375, 0.375, 0.375 ]
+      }
+  },
+  "elements": [
+      {
+          "name": "seat",
+          "from": [ 0, 8, 0 ], 
+          "to": [ 16, 12, 16 ], 
+          "faces": {
+              "north": { "texture": "#seat_side", "uv": [ 0, 12, 16, 16 ] },
+              "east": { "texture": "#seat_side", "uv": [ 0, 12, 16, 16 ] },
+              "south": { "texture": "#seat_side", "uv": [ 0, 12, 16, 16 ] },
+              "west": { "texture": "#seat_side", "uv": [ 0, 12, 16, 16 ] },
+              "up": { "texture": "#seat_cushion", "uv": [ 0, 0, 16, 16 ] },
+              "down": { "texture": "#seat_legs", "uv": [ 0, 0, 16, 16 ] }
+          }
+      },
+      {
+          "name": "leg1",
+          "from": [ 1, 0, 1 ], 
+          "to": [ 5, 8, 5 ], 
+          "faces": {
+              "north": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "east": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "south": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "west": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "down": { "texture": "#seat_legs", "uv": [ -1, 0, 3, 4 ] }
+          }
+      },
+      {
+          "name": "leg2",
+          "from": [ 1, 0, 11 ], 
+          "to": [ 5, 8, 15 ], 
+          "faces": {
+              "north": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "east": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "south": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "west": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "down": { "texture": "#seat_legs", "uv": [ -1, 0, 3, 4 ] }
+          }
+      },
+      {
+          "name": "leg3",
+          "from": [ 11, 0, 1 ], 
+          "to": [ 15, 8, 5 ], 
+          "faces": {
+              "north": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "east": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "south": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "west": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "down": { "texture": "#seat_legs", "uv": [ -1, 0, 3, 4 ] }
+          }
+      },
+      {
+          "name": "leg4",
+          "from": [ 11, 0, 11 ], 
+          "to": [ 15, 8, 15 ], 
+          "faces": {
+              "north": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "east": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "south": { "texture": "#seat_legs", "uv": [ 2, 1, 6, 9 ] },
+              "west": { "texture": "#seat_legs", "uv": [ 3, 1, 7, 9 ] },
+              "down": { "texture": "#seat_legs", "uv": [ -1, 0, 3, 4 ] }
+          }
+      }
+  ]
+}

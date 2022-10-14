@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+			"model": "aether:crafting_tables/skyroot_crafting_table"
+		}
+	}
+}

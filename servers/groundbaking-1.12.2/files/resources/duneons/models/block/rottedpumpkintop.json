@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/rotted_pumpkin_top",
+    "up": "duneons:blocks/rotted_pumpkin_top",
+    "north": "duneons:blocks/rotted_pumpkin_side",
+    "east": "duneons:blocks/rotted_pumpkin_side",
+    "south": "duneons:blocks/rotted_pumpkin_side",
+    "west": "duneons:blocks/rotted_pumpkin_side",
+    "particle": "duneons:blocks/rotted_pumpkin_top"
+  }
+}

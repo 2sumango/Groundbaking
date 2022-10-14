@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/golem_totem",
+  "textures": {
+    "0": "duneons:blocks/golem_totem",
+    "missing": "duneons:blocks/golem_totem"
+  }
+}

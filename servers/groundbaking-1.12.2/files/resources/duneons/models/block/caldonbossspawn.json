@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/caldron_dungeon",
+  "textures": {
+    "all": "duneons:blocks/caldron_dungeon",
+    "particle": "duneons:blocks/caldron_dungeon",
+    "0": "duneons:blocks/caldron_dungeon",
+    "missing": "duneons:blocks/caldron_dungeon"
+  }
+}

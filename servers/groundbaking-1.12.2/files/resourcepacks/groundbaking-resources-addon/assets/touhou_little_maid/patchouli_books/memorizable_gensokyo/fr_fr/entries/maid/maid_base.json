@@ -1,0 +1,24 @@
+{
+  "sortnum": 1,
+  "name": "Maid : Les bases",
+  "icon": "touhou_little_maid:garage_kit{ModelId:'touhou_little_maid:kirisame_marisa'}",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Il y a beaucoup de fonctions basique que les maids sont en mesure d'exécuter, comme :$(li)par défaut, la maid ramasse automatiquement les objets, les flèches et les orbes d'EXP proche d'elle. L'interface de la maid a un bouton pour changer le mode de ramassage;$(li)Par défaut, la maid suivra toujours le joueur."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Shift + clic droit avec la main vide sur la maid la fera s'asseoir. Elle ne fera alors plus rien, y compris éviter le danger.$(li)Lorsque la maid monte sur une autre entité, Shift + clic droit avec une main vide la fera descendre.$(li)Le joueur peut utiliser une pomme dorée ou une potion sur une maid en faisant un clic droit sur elle et en tenant l'objet."
+    },
+    {
+      "type": "text",
+      "text": "$(li)L'expérience obtenue par la maid peut être convertie en fiole d'expérience si le joueur fait un clic droit sur elle tout en tenant une fiole vide.$(li)La maid peut équiper un crâne, l'adaptant à son modèle.$(li)Faites un clic droit sur la maid avec une étiquette pour la renommer."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Après avoir installé Journey Map Mod, vous pouvez directement entrer et enregistrer les coordonnées de la mort de la maid comme coordonnées de la carte de voyage. Elles peuvent également être affiché sur une carte en plein écran de Journey Map."
+    }
+  ]
+}

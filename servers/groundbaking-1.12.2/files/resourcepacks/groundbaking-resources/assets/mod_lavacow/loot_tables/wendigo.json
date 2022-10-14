@@ -1,0 +1,56 @@
+{
+  "pools": [
+    {
+      "name": "mod_lavacow:ithaqua",
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "item",
+          "name": "mod_lavacow:scythe_claw",
+          "weight": 4,
+          "functions": [
+			{
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },          
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:wool",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 12
+            },
+          	{
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },   
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

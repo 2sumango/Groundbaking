@@ -1,0 +1,16 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:brickpavement"
+    },
+    {
+      "item": "naturaldecormod:granitepavementbricks"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:classicmixedpavement",
+    "count": 2
+  }
+}

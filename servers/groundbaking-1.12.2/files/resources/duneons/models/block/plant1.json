@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/plant_2",
+  "textures": {
+    "all": "duneons:blocks/plant_2",
+    "particle": "duneons:blocks/plant_2",
+    "0": "duneons:blocks/plant_2",
+    "missing": "duneons:blocks/plant_2"
+  }
+}

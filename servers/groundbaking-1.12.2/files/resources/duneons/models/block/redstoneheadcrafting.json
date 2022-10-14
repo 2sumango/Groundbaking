@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/redstone_monstrosy_head",
+  "textures": {
+    "all": "duneons:blocks/_edtoneonstrosity_1",
+    "particle": "duneons:blocks/_edtoneonstrosity_1",
+    "0": "duneons:blocks/_edtoneonstrosity_1"
+  }
+}

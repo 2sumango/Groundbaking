@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/grove_2",
+  "textures": {
+    "all": "duneons:blocks/t_gravestone0",
+    "particle": "duneons:blocks/t_gravestone0",
+    "0": "duneons:blocks/t_gravestone0"
+  }
+}

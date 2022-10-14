@@ -1,0 +1,39 @@
+{
+  "group": "silencer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "rocketboots:refined_iron_plate"
+    },
+    "1": {
+      "item": "rocketboots:refined_iron_plate"
+    },
+    "2": {
+      "item": "rocketboots:refined_iron_plate"
+    },
+    "3": {
+      "item": "rocketboots:refined_iron_plate"
+    },
+    "4": {
+      "item": "rocketboots:refined_iron_ingot"
+    },
+    "5": {
+      "item": "rocketboots:refined_iron_plate"
+    },
+    "6": {
+      "item": "rocketboots:refined_iron_plate"
+    },
+    "8": {
+      "item": "rocketboots:refined_iron_plate"
+    }
+  },
+  "result": {
+    "item": "rocketboots:silencer",
+    "count": 2
+  }
+}

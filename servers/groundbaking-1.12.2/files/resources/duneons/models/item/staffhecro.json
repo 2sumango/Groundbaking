@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/staff_nemeless_item",
+  "textures": {
+    "0": "duneons:blocks/nameless_king"
+  }
+}

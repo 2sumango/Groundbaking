@@ -1,0 +1,175 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "fiesta:gui/0.png",
+            "posX" : -81,
+            "posY" : 30,
+            "width" : 160,
+            "height" : 160,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "multiplayer":
+        {
+            "text" : "Press to Start",
+            "posX" : -76,
+            "posY" : 80,
+            "width" : 152,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "play.mango.us.to:25565"
+
+            }            
+        },
+        "singleplayer":
+        {
+            "text" : "Singleplayer",
+            "posX" : 33,
+            "posY" : 80,
+            "width" : 152,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }      
+        },
+        "discord":
+        {
+            "text" : "Discord",
+            "posX" : -188,
+            "posY" : 80,
+            "width" : 152,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/RsHmPhG98m"
+
+            }            
+        },
+
+        "modname":
+        {
+            "text" : "Groundbaking! 0.0",        
+            "posX" : -261,
+            "posY" : 250,
+            "width" : 0,
+            "height" : 0,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        "version":
+        {
+            "text" : "© Mojang, Forge",        
+            "posX" : 275,
+            "posY" : 250,
+            "width" : 0,
+            "height" : 0,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -48,
+            "posY" : 110,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }            
+        },
+        
+        "localization":
+        {
+            "text" : "",
+            "posX" : 204,
+            "posY" : 154,
+            "width" : 33,
+            "height" : 20,
+            "action" :{
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "reload":
+        {
+            "text" : "+",
+            "posX" : -60,
+            "posY" : 110,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "refresh"
+            }            
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }     
+    },
+    
+    "other":
+    {
+        "modpack":
+        {
+            "text" : "Fiesta! Ver. 001",
+            "posX" : 190,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },       
+        "splash-text":
+        {
+            "posX" : 55,
+            "posY" : 116,
+            "color" : -256,
+            "alignment" : "top_center",
+            "file" : "texts/splashes.txt"
+        },        
+        "panorama":
+        {
+            "images" : "fiesta:gui/panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

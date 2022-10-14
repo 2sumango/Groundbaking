@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/popflower",
+  "textures": {
+    "all": "duneons:blocks/t_popflower",
+    "particle": "duneons:blocks/t_popflower",
+    "0": "duneons:blocks/t_popflower",
+    "missing": "duneons:blocks/t_popflower"
+  }
+}

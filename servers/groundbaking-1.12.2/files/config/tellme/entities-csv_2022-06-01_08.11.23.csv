@@ -1,0 +1,1818 @@
+"Mod name","Registry name","Entity class name","ID"
+"Abyssal Depths","abyssaldepths:bannerfish","Banner",7
+"Abyssal Depths","abyssaldepths:blackcap_basslet","BlackCap",9
+"Abyssal Depths","abyssaldepths:butterflyfish","Butterflyfish",3
+"Abyssal Depths","abyssaldepths:clownfish","Clownfish",1
+"Abyssal Depths","abyssaldepths:fairy_basslet","Fairy",8
+"Abyssal Depths","abyssaldepths:fish","CommonFish",0
+"Abyssal Depths","abyssaldepths:masked_butterflyfish","Masked",4
+"Abyssal Depths","abyssaldepths:raccoon_butterflyfish","Raccoon",5
+"Abyssal Depths","abyssaldepths:sailfish","Sailfish",10
+"Abyssal Depths","abyssaldepths:sea_serpent","SeaSerpent",12
+"Abyssal Depths","abyssaldepths:seahorse","Seahorse",2
+"Abyssal Depths","abyssaldepths:spotfin_butterflyfish","Spotfin",6
+"Abyssal Depths","abyssaldepths:swordfish","Swordfish",11
+"Aether II","aether:aechor_plant","EntityAechorPlant",0
+"Aether II","aether:aerbunny","EntityAerbunny",1
+"Aether II","aether:aerwhale","EntityAerwhale",5
+"Aether II","aether:bolt","EntityBolt",34
+"Aether II","aether:burrukai","EntityBurrukai",12
+"Aether II","aether:carrion_sprout","EntityCarrionSprout",2
+"Aether II","aether:cockatrice","EntityCockatrice",3
+"Aether II","aether:daggerfrost_snowball","EntityDaggerfrostSnowball",33
+"Aether II","aether:dart","EntityDart",32
+"Aether II","aether:edison","EntityEdison",11
+"Aether II","aether:ethereal_wisp","EntityEtherealWisp",24
+"Aether II","aether:fangrin","EntityFangrin",27
+"Aether II","aether:fleeting_wisp","EntityFleetingWisp",25
+"Aether II","aether:floating_block","EntityFloatingBlock",30
+"Aether II","aether:frostpine_totem","EntityFrostpineTotem",21
+"Aether II","aether:glactrix","EntityGlactrix",16
+"Aether II","aether:glitterwing","EntityGlitterwing",10
+"Aether II","aether:josediya","EntityJosediya",14
+"Aether II","aether:kirrid","EntityKirrid",4
+"Aether II","aether:kraisith","EntityKraisith",22
+"Aether II","aether:moa","EntityMoa",37
+"Aether II","aether:moving_block","EntityMovingBlock",31
+"Aether II","aether:mysterious_figure","EntityMysteriousFigure",17
+"Aether II","aether:necromancer","EntityNecromancer",13
+"Aether II","aether:nex_spirit","EntityNexSpirit",28
+"Aether II","aether:parachute","EntityParachute",35
+"Aether II","aether:pink_baby_swet","EntityPinkBabySwet",29
+"Aether II","aether:shade_of_arkenzus","EntityShadeOfArkenzus",23
+"Aether II","aether:sheepuff","EntitySheepuff",20
+"Aether II","aether:skyroot_lizard","EntitySkyrootLizard",19
+"Aether II","aether:soaring_wisp","EntitySoaringWisp",26
+"Aether II","aether:swet","EntitySwet",8
+"Aether II","aether:taegore","EntityTaegore",9
+"Aether II","aether:tempest","EntityTempest",7
+"Aether II","aether:tivalier","EntityTivalier",15
+"Aether II","aether:tnt_present","EntityTNTPresent",36
+"Aether II","aether:varanys","EntityVaranys",18
+"Aether II","aether:zephyr","EntityZephyr",6
+"AetherWorks","aetherworks:entity_arrow","AWArrow",0
+"AetherWorks","aetherworks:entity_magma","AWMagma",1
+"Ancient Beasts","ancientbeasts:ball","EntityBall",6
+"Ancient Beasts","ancientbeasts:beam","EntityBeam",16
+"Ancient Beasts","ancientbeasts:boulder","EntityBoulder",13
+"Ancient Beasts","ancientbeasts:boulderer","EntityBoulderer",21
+"Ancient Beasts","ancientbeasts:damcell","EntityDamcell",18
+"Ancient Beasts","ancientbeasts:damcell_spike","EntityDamcellSpike",19
+"Ancient Beasts","ancientbeasts:fake_vessel","EntityFakeDuplicate",8
+"Ancient Beasts","ancientbeasts:frost_walker","EntityFrostWalker",10
+"Ancient Beasts","ancientbeasts:frostash_fox","EntityFrostashFox",9
+"Ancient Beasts","ancientbeasts:ghost","EntityGhost",2
+"Ancient Beasts","ancientbeasts:giant_zombie","EntityGiant",12
+"Ancient Beasts","ancientbeasts:ice_crystal","EntityIceCrystal",11
+"Ancient Beasts","ancientbeasts:ice_dart","EntityIceDart",4
+"Ancient Beasts","ancientbeasts:lil_vessel","EntityLilVessel",17
+"Ancient Beasts","ancientbeasts:netherhound","EntityNetherhound",20
+"Ancient Beasts","ancientbeasts:owlstack","EntityOwlstack",22
+"Ancient Beasts","ancientbeasts:rifted_enderman","EntityRiftedEnderman",23
+"Ancient Beasts","ancientbeasts:rifted_pearl","EntityRiftedPearl",24
+"Ancient Beasts","ancientbeasts:sand_shot","EntitySandSpit",15
+"Ancient Beasts","ancientbeasts:sandy","EntitySandy",1
+"Ancient Beasts","ancientbeasts:tornado","EntityTornado",14
+"Ancient Beasts","ancientbeasts:v_head","EntityVesselHead",5
+"Ancient Beasts","ancientbeasts:vessel","EntityVessel",7
+"Ancient Beasts","ancientbeasts:zealot","EntityZealot",3
+"Arcane World","arcaneworld:overgrown_sheep","EntityOvergrownSheep",1
+"Arcane World","arcaneworld:rift","EntityRift",0
+"Artifacts","artifacts:hallow_star","EntityHallowStar",1
+"Artifacts","artifacts:mimic","EntityMimic",0
+"Astral Sorcery","astralsorcery:entitycrystal","EntityCrystal",2
+"Astral Sorcery","astralsorcery:entitycrystaltool","EntityCrystalTool",7
+"Astral Sorcery","astralsorcery:entityflare","EntityFlare",3
+"Astral Sorcery","astralsorcery:entitygrapplinghook","EntityGrapplingHook",8
+"Astral Sorcery","astralsorcery:entityhighlighted","EntityItemHighlighted",0
+"Astral Sorcery","astralsorcery:entityilluminationspark","EntityIlluminationSpark",5
+"Astral Sorcery","astralsorcery:entityitemdamageresistant","EntityItemExplosionResistant",13
+"Astral Sorcery","astralsorcery:entityliquidspark","EntityLiquidSpark",10
+"Astral Sorcery","astralsorcery:entitynocturnalspark","EntityNocturnalSpark",6
+"Astral Sorcery","astralsorcery:entityobservatoryhelper","EntityObservatoryHelper",11
+"Astral Sorcery","astralsorcery:entityshootingstar","EntityShootingStar",12
+"Astral Sorcery","astralsorcery:entityspectraltool","EntitySpectralTool",9
+"Astral Sorcery","astralsorcery:entitystarburst","EntityStarburst",4
+"Astral Sorcery","astralsorcery:entitystardust","EntityItemStardust",1
+"Bear With Me","bearwithme:entities/black_bear","EntityBlackBear",2
+"Bear With Me","bearwithme:entities/grizzly_bear","EntityGrizzlyBear",1
+"Bear With Me","bearwithme:entities/panda_bear","EntityPandaBear",3
+"Beasts","beasts:anemone_crawler","EntityAnemoneCrawler",13
+"Beasts","beasts:beasts_painting","EntityBeastsPainting",10
+"Beasts","beasts:butterfly_fish","EntityButterflyFish",18
+"Beasts","beasts:chorus_branchie","EntityChorusBranchie",3
+"Beasts","beasts:coconut_bomb","EntityCoconutBomb",7
+"Beasts","beasts:coconut_crab","EntityCoconutCrab",1
+"Beasts","beasts:coral_branchie","EntityCoralBranchie",2
+"Beasts","beasts:falling_coconut","EntityFallingCoconut",11
+"Beasts","beasts:giant_garden_eel","EntityGiantGardenEel",8
+"Beasts","beasts:hermit_turtle","EntityHermitTurtle",12
+"Beasts","beasts:landwhale","EntityLandwhale",6
+"Beasts","beasts:legfish","EntityLegfish",14
+"Beasts","beasts:pufferfish_dog","EntityPufferfishDog",0
+"Beasts","beasts:scallop","EntityScallop",15
+"Beasts","beasts:skewer_shrimp","EntitySkewerShrimp",9
+"Beasts","beasts:slime_slug","EntitySlimeSlug",17
+"Beasts","beasts:thrown_coconut","EntityThrownCoconut",19
+"Beasts","beasts:trimola","EntityTrimola",16
+"Beasts","beasts:vile_eel","EntityVileEel",5
+"Beasts","beasts:wood_branchie","EntityWoodBranchie",4
+"Better Animals Plus","betteranimalsplus:badger","EntityBadger",16
+"Better Animals Plus","betteranimalsplus:badgerdirt","EntityBadgerDirt",32
+"Better Animals Plus","betteranimalsplus:blackbear","EntityBearNeutral",1
+"Better Animals Plus","betteranimalsplus:boar","EntityBoar",13
+"Better Animals Plus","betteranimalsplus:bobbit_worm","EntityBobbitWorm",25
+"Better Animals Plus","betteranimalsplus:brownbear","EntityBear",0
+"Better Animals Plus","betteranimalsplus:coyote","EntityCoyote",5
+"Better Animals Plus","betteranimalsplus:crab","EntityCrab",19
+"Better Animals Plus","betteranimalsplus:deer","EntityDeer",2
+"Better Animals Plus","betteranimalsplus:eel_freshwater","EntityFreshwaterEel",27
+"Better Animals Plus","betteranimalsplus:eel_saltwater","EntitySaltwaterEel",28
+"Better Animals Plus","betteranimalsplus:feralwolf","EntityFeralWolf",4
+"Better Animals Plus","betteranimalsplus:fox","EntityFox",6
+"Better Animals Plus","betteranimalsplus:goat","EntityGoat",9
+"Better Animals Plus","betteranimalsplus:golden_goose_egg","EntityGoldenGooseEgg",37
+"Better Animals Plus","betteranimalsplus:goose","EntityGoose",26
+"Better Animals Plus","betteranimalsplus:goose_egg","EntityGooseEgg",36
+"Better Animals Plus","betteranimalsplus:hirschgeist","EntityHirschgeist",8
+"Better Animals Plus","betteranimalsplus:horseshoecrab","EntityHorseshoeCrab",20
+"Better Animals Plus","betteranimalsplus:jellyfish","EntityJellyfish",10
+"Better Animals Plus","betteranimalsplus:kermodebear","EmptyEntity",33
+"Better Animals Plus","betteranimalsplus:lammergeier","EntityLammergeier",3
+"Better Animals Plus","betteranimalsplus:lamprey","EntityLamprey",17
+"Better Animals Plus","betteranimalsplus:moose","EntityMoose",22
+"Better Animals Plus","betteranimalsplus:nautilus","EntityNautilus",18
+"Better Animals Plus","betteranimalsplus:pheasant","EntityPheasant",11
+"Better Animals Plus","betteranimalsplus:pheasantegg","EntityPheasantEgg",34
+"Better Animals Plus","betteranimalsplus:reindeer","EntityReindeer",12
+"Better Animals Plus","betteranimalsplus:shark","EntityShark",21
+"Better Animals Plus","betteranimalsplus:songbird","EntitySongbird",15
+"Better Animals Plus","betteranimalsplus:squirrel","EntitySquirrel",14
+"Better Animals Plus","betteranimalsplus:tarantula","EntityTarantula",7
+"Better Animals Plus","betteranimalsplus:tarantulahair","EntityTarantulaHair",31
+"Better Animals Plus","betteranimalsplus:turkey","EntityTurkey",23
+"Better Animals Plus","betteranimalsplus:turkeyegg","EntityTurkeyEgg",35
+"Better Animals Plus","betteranimalsplus:walrus","EntityWalrus",30
+"Better Animals Plus","betteranimalsplus:whale","EntityWhale",29
+"Better Animals Plus","betteranimalsplus:zotzpyre","EntityZotzpyre",24
+"Better Nether","betternether:firefly","EntityFirefly",0
+"Better With Mods","betterwithmods:bwm_dynamite","EntityDynamite",1
+"Better With Mods","betterwithmods:bwm_fishing_hook","EntityHCFishHook",9
+"Better With Mods","betterwithmods:bwm_jungle_spider","EntityJungleSpider",11
+"Better With Mods","betterwithmods:bwm_mining_charge","EntityMiningCharge",3
+"Better With Mods","betterwithmods:bwm_spider_web","EntitySpiderWeb",8
+"Better With Mods","betterwithmods:bwm_tentacle","EntityTentacle",10
+"Better With Mods","betterwithmods:bwm_urn","EntityUrn",2
+"Better With Mods","betterwithmods:entity_broadhead_arrow","EntityBroadheadArrow",5
+"Better With Mods","betterwithmods:entity_falling_gourd","EntityFallingGourd",6
+"Better With Mods","betterwithmods:entity_sheared_creeper","EntityShearedCreeper",4
+"Better With Mods","betterwithmods:extending_rope","EntityExtendingRope",0
+"Better With Mods","betterwithmods:falling_block_custom","EntityFallingBlockCustom",7
+"Biomes O' Plenty","biomesoplenty:bop_boat","EntityBOPBoat",2
+"Biomes O' Plenty","biomesoplenty:mudball","EntityMudball",1
+"Biomes O' Plenty","biomesoplenty:wasp","EntityWasp",3
+"Botania","botania:babylon_weapon","EntityBabylonWeapon",17
+"Botania","botania:corporea_spark","EntityCorporeaSpark",11
+"Botania","botania:doppleganger","EntityDoppleganger",5
+"Botania","botania:ender_air_bottle","EntityEnderAirBottle",12
+"Botania","botania:falling_star","EntityFallingStar",18
+"Botania","botania:flame_ring","EntityFlameRing",3
+"Botania","botania:magic_landmine","EntityMagicLandmine",6
+"Botania","botania:magic_missile","EntityMagicMissile",9
+"Botania","botania:mana_burst","EntityManaBurst",0
+"Botania","botania:mana_storm","EntityManaStorm",16
+"Botania","botania:pink_wither","EntityPinkWither",14
+"Botania","botania:pixie","EntityPixie",2
+"Botania","botania:player_mover","EntityPlayerMover",15
+"Botania","botania:pool_minecart","EntityPoolMinecart",13
+"Botania","botania:signal_flare","EntitySignalFlare",1
+"Botania","botania:spark","EntitySpark",7
+"Botania","botania:thorn_chakram","EntityThornChakram",10
+"Botania","botania:thrown_item","EntityThrownItem",8
+"Botania","botania:vine_ball","EntityVineBall",4
+"Champions","champions:arctic_spark","EntityArcticSpark",2
+"Champions","champions:cinder_spark","EntityCinderSpark",3
+"Champions","champions:entity_jail","EntityJail",1
+"Chococraft 3","chococraft:chocobo","EntityChocobo",0
+"Chocolate Quest Repoured Mod","cqrepoured:boar_mage","EntityCQRBoarmage",44
+"Chocolate Quest Repoured Mod","cqrepoured:boarman","EntityCQRBoarman",30
+"Chocolate Quest Repoured Mod","cqrepoured:bubble_entity","EntityBubble",51
+"Chocolate Quest Repoured Mod","cqrepoured:calamity_crystal","EntityCalamityCrystal",63
+"Chocolate Quest Repoured Mod","cqrepoured:calamity_spawner","EntityCalamitySpawner",64
+"Chocolate Quest Repoured Mod","cqrepoured:colored_lightning_bolt","EntityColoredLightningBolt",53
+"Chocolate Quest Repoured Mod","cqrepoured:dummy","EntityCQRDummy",16
+"Chocolate Quest Repoured Mod","cqrepoured:dwarf","EntityCQRDwarf",17
+"Chocolate Quest Repoured Mod","cqrepoured:electric_field_entity","EntityElectricField",58
+"Chocolate Quest Repoured Mod","cqrepoured:end_laser","EntityEndLaser",62
+"Chocolate Quest Repoured Mod","cqrepoured:end_targeting_laser","EntityEndLaserTargeting",61
+"Chocolate Quest Repoured Mod","cqrepoured:ender_calamity","EntityCQREnderCalamity",59
+"Chocolate Quest Repoured Mod","cqrepoured:ender_king","EntityCQREnderKing",60
+"Chocolate Quest Repoured Mod","cqrepoured:enderman","EntityCQREnderman",18
+"Chocolate Quest Repoured Mod","cqrepoured:exterminator","EntityCQRExterminator",65
+"Chocolate Quest Repoured Mod","cqrepoured:exterminator_laser","EntityExterminatorHandLaser",66
+"Chocolate Quest Repoured Mod","cqrepoured:flying_skull","EntityFlyingSkullMinion",50
+"Chocolate Quest Repoured Mod","cqrepoured:giant_endermite","EntityGiantEndermite",37
+"Chocolate Quest Repoured Mod","cqrepoured:giant_silverfish","EntityGiantSilverfishNormal",38
+"Chocolate Quest Repoured Mod","cqrepoured:giant_silverfish1","EntityGiantSilverfishRed",39
+"Chocolate Quest Repoured Mod","cqrepoured:giant_silverfish2","EntityGiantSilverfishGreen",40
+"Chocolate Quest Repoured Mod","cqrepoured:giant_spider","EntityCQRGiantSpider",48
+"Chocolate Quest Repoured Mod","cqrepoured:giant_tortoise","EntityCQRGiantTortoise",42
+"Chocolate Quest Repoured Mod","cqrepoured:goblin","EntityCQRGoblin",20
+"Chocolate Quest Repoured Mod","cqrepoured:golem","EntityCQRGolem",21
+"Chocolate Quest Repoured Mod","cqrepoured:gremlin","EntityCQRGremlin",19
+"Chocolate Quest Repoured Mod","cqrepoured:human","EntityCQRHuman",22
+"Chocolate Quest Repoured Mod","cqrepoured:ice_spike","EntityIceSpike",56
+"Chocolate Quest Repoured Mod","cqrepoured:illager","EntityCQRIllager",23
+"Chocolate Quest Repoured Mod","cqrepoured:illusion_walker_king","EntityWalkerKingIllusion",52
+"Chocolate Quest Repoured Mod","cqrepoured:lich","EntityCQRLich",43
+"Chocolate Quest Repoured Mod","cqrepoured:mandril","EntityCQRMandril",26
+"Chocolate Quest Repoured Mod","cqrepoured:minotaur","EntityCQRMinotaur",25
+"Chocolate Quest Repoured Mod","cqrepoured:mummy","EntityCQRMummy",27
+"Chocolate Quest Repoured Mod","cqrepoured:necromancer","EntityCQRNecromancer",45
+"Chocolate Quest Repoured Mod","cqrepoured:nether_dragon","EntityCQRNetherDragon",41
+"Chocolate Quest Repoured Mod","cqrepoured:npc","EntityCQRNPC",24
+"Chocolate Quest Repoured Mod","cqrepoured:ogre","EntityCQROgre",28
+"Chocolate Quest Repoured Mod","cqrepoured:orc","EntityCQROrc",29
+"Chocolate Quest Repoured Mod","cqrepoured:pirate","EntityCQRPirate",31
+"Chocolate Quest Repoured Mod","cqrepoured:pirate_captain","EntityCQRPirateCaptain",47
+"Chocolate Quest Repoured Mod","cqrepoured:pirate_parrot","EntityCQRPirateParrot",55
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_bubble","ProjectileBubble",10
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_bullet","ProjectileBullet",1
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_cannon_ball","ProjectileCannonBall",2
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_earth_quake","ProjectileEarthQuake",3
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_energy_orb","ProjectileEnergyOrb",15
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_firewall_part","ProjectileFireWallPart",7
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_homing_ender_eye","ProjectileHomingEnderEye",14
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_hookshot_hook","ProjectileHookShotHook",8
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_hot_fireball","ProjectileHotFireball",11
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_poison_spell","ProjectilePoisonSpell",4
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_spider_ball","ProjectileSpiderBall",5
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_spider_hook","ProjectileSpiderHook",9
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_thrown_block","ProjectileThrownBlock",13
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_vampiric_spell","ProjectileVampiricSpell",6
+"Chocolate Quest Repoured Mod","cqrepoured:projectile_web","ProjectileWeb",12
+"Chocolate Quest Repoured Mod","cqrepoured:skeleton","EntityCQRSkeleton",32
+"Chocolate Quest Repoured Mod","cqrepoured:slime_part","EntitySlimePart",0
+"Chocolate Quest Repoured Mod","cqrepoured:spectre","EntityCQRSpectre",33
+"Chocolate Quest Repoured Mod","cqrepoured:spider_egg","EntitySpiderEgg",57
+"Chocolate Quest Repoured Mod","cqrepoured:summoning_circle","EntitySummoningCircle",49
+"Chocolate Quest Repoured Mod","cqrepoured:triton","EntityCQRTriton",34
+"Chocolate Quest Repoured Mod","cqrepoured:walker","EntityCQRWalker",35
+"Chocolate Quest Repoured Mod","cqrepoured:walker_king","EntityCQRWalkerKing",46
+"Chocolate Quest Repoured Mod","cqrepoured:walker_tornado","EntityWalkerTornado",54
+"Chocolate Quest Repoured Mod","cqrepoured:zombie","EntityCQRZombie",36
+"CoroUtil Library","coroutil:bat_smart","EntityBatSmart",0
+"CustomNPCs","customnpcs:customnpc","EntityCustomNpc",23
+"CustomNPCs","customnpcs:customnpc64x32","EntityNPC64x32",24
+"CustomNPCs","customnpcs:customnpcalex","EntityNpcAlex",25
+"CustomNPCs","customnpcs:customnpcchairmount","EntityChairMount",27
+"CustomNPCs","customnpcs:customnpcclassic","EntityNpcClassicPlayer",26
+"CustomNPCs","customnpcs:customnpcprojectile","EntityProjectile",28
+"CustomNPCs","customnpcs:npccrystal","EntityNpcCrystal",15
+"CustomNPCs","customnpcs:npcdragon","EntityNpcDragon",20
+"CustomNPCs","customnpcs:npcdwarffemale","EntityNPCDwarfFemale",9
+"CustomNPCs","customnpcs:npcdwarfmale","EntityNPCDwarfMale",4
+"CustomNPCs","customnpcs:npcelffemale","EntityNPCElfFemale",14
+"CustomNPCs","customnpcs:npcelfmale","EntityNPCElfMale",13
+"CustomNPCs","customnpcs:npcenderchibi","EntityNpcEnderchibi",16
+"CustomNPCs","customnpcs:npcenderman","EntityNPCEnderman",21
+"CustomNPCs","customnpcs:npcfurryfemale","EntityNPCFurryFemale",10
+"CustomNPCs","customnpcs:npcfurrymale","EntityNPCFurryMale",5
+"CustomNPCs","customnpcs:npcgolem","EntityNPCGolem",22
+"CustomNPCs","customnpcs:npchumanfemale","EntityNPCHumanFemale",3
+"CustomNPCs","customnpcs:npchumanmale","EntityNPCHumanMale",0
+"CustomNPCs","customnpcs:npcnagafemale","EntityNpcNagaFemale",18
+"CustomNPCs","customnpcs:npcnagamale","EntityNpcNagaMale",17
+"CustomNPCs","customnpcs:npcorcfemale","EntityNPCOrcFemale",12
+"CustomNPCs","customnpcs:npcorcfmale","EntityNPCOrcMale",11
+"CustomNPCs","customnpcs:npcpony","EntityNpcPony",2
+"CustomNPCs","customnpcs:npcskeleton","EntityNpcSkeleton",8
+"CustomNPCs","customnpcs:npcslime","EntityNpcSlime",19
+"CustomNPCs","customnpcs:npcvillager","EntityNPCVillager",1
+"CustomNPCs","customnpcs:npczombiefemale","EntityNpcMonsterFemale",7
+"CustomNPCs","customnpcs:npczombiemale","EntityNpcMonsterMale",6
+"CyclopsTek","cyclopstek:cyclops","EntityCyclops",1
+"Davinci's Vessels","davincisvessels:parachute","EntityParachute",3
+"Davinci's Vessels","davincisvessels:seat","EntitySeat",2
+"Davinci's Vessels","davincisvessels:ship","EntityShip",1
+"Dawn Of Time : Builder Edition","dawnoftimebuilder:japanese_dragon","EntityJapaneseDragon",1
+"Dawn Of Time : Builder Edition","dawnoftimebuilder:seat","EntitySeat",2
+"Dawn Of Time : Builder Edition","dawnoftimebuilder:silkmoth","EntitySilkmoth",0
+"Dimensional Doors","dimdoors:mob_monolith","EntityMonolith",0
+"DrZhark's Mo'Creatures Mod","mocreatures:anchovy","MoCEntityAnchovy",56
+"DrZhark's Mo'Creatures Mod","mocreatures:angelfish","MoCEntityAngelFish",57
+"DrZhark's Mo'Creatures Mod","mocreatures:angler","MoCEntityAngler",58
+"DrZhark's Mo'Creatures Mod","mocreatures:ant","MoCEntityAnt",73
+"DrZhark's Mo'Creatures Mod","mocreatures:bass","MoCEntityBass",59
+"DrZhark's Mo'Creatures Mod","mocreatures:bee","MoCEntityBee",74
+"DrZhark's Mo'Creatures Mod","mocreatures:biggolem","MoCEntityGolem",45
+"DrZhark's Mo'Creatures Mod","mocreatures:bird","MoCEntityBird",6
+"DrZhark's Mo'Creatures Mod","mocreatures:blackbear","MoCEntityBlackBear",7
+"DrZhark's Mo'Creatures Mod","mocreatures:boar","MoCEntityBoar",8
+"DrZhark's Mo'Creatures Mod","mocreatures:bunny","MoCEntityBunny",9
+"DrZhark's Mo'Creatures Mod","mocreatures:butterfly","MoCEntityButterfly",75
+"DrZhark's Mo'Creatures Mod","mocreatures:caveogre","MoCEntityCaveOgre",41
+"DrZhark's Mo'Creatures Mod","mocreatures:clownfish","MoCEntityClownFish",60
+"DrZhark's Mo'Creatures Mod","mocreatures:cod","MoCEntityCod",61
+"DrZhark's Mo'Creatures Mod","mocreatures:crab","MoCEntityCrab",76
+"DrZhark's Mo'Creatures Mod","mocreatures:cricket","MoCEntityCricket",77
+"DrZhark's Mo'Creatures Mod","mocreatures:crocodile","MoCEntityCrocodile",10
+"DrZhark's Mo'Creatures Mod","mocreatures:deer","MoCEntityDeer",12
+"DrZhark's Mo'Creatures Mod","mocreatures:dolphin","MoCEntityDolphin",62
+"DrZhark's Mo'Creatures Mod","mocreatures:dragonfly","MoCEntityDragonfly",78
+"DrZhark's Mo'Creatures Mod","mocreatures:duck","MoCEntityDuck",11
+"DrZhark's Mo'Creatures Mod","mocreatures:egg","MoCEntityEgg",2
+"DrZhark's Mo'Creatures Mod","mocreatures:elephant","MoCEntityElephant",13
+"DrZhark's Mo'Creatures Mod","mocreatures:ent","MoCEntityEnt",14
+"DrZhark's Mo'Creatures Mod","mocreatures:firefly","MoCEntityFirefly",79
+"DrZhark's Mo'Creatures Mod","mocreatures:fireogre","MoCEntityFireOgre",43
+"DrZhark's Mo'Creatures Mod","mocreatures:fishy","MoCEntityFishy",63
+"DrZhark's Mo'Creatures Mod","mocreatures:flamewraith","MoCEntityFlameWraith",42
+"DrZhark's Mo'Creatures Mod","mocreatures:fly","MoCEntityFly",80
+"DrZhark's Mo'Creatures Mod","mocreatures:fox","MoCEntityFox",15
+"DrZhark's Mo'Creatures Mod","mocreatures:goat","MoCEntityGoat",16
+"DrZhark's Mo'Creatures Mod","mocreatures:goldfish","MoCEntityGoldFish",64
+"DrZhark's Mo'Creatures Mod","mocreatures:greenogre","MoCEntityGreenOgre",44
+"DrZhark's Mo'Creatures Mod","mocreatures:grizzlybear","MoCEntityGrizzlyBear",17
+"DrZhark's Mo'Creatures Mod","mocreatures:hellrat","MoCEntityHellRat",47
+"DrZhark's Mo'Creatures Mod","mocreatures:hippotang","MoCEntityHippoTang",65
+"DrZhark's Mo'Creatures Mod","mocreatures:horsemob","MoCEntityHorseMob",46
+"DrZhark's Mo'Creatures Mod","mocreatures:jellyfish","MoCEntityJellyFish",66
+"DrZhark's Mo'Creatures Mod","mocreatures:kitty","MoCEntityKitty",18
+"DrZhark's Mo'Creatures Mod","mocreatures:kittybed","MoCEntityKittyBed",3
+"DrZhark's Mo'Creatures Mod","mocreatures:komododragon","MoCEntityKomodo",19
+"DrZhark's Mo'Creatures Mod","mocreatures:leoger","MoCEntityLeoger",20
+"DrZhark's Mo'Creatures Mod","mocreatures:leopard","MoCEntityLeopard",21
+"DrZhark's Mo'Creatures Mod","mocreatures:liard","MoCEntityLiard",22
+"DrZhark's Mo'Creatures Mod","mocreatures:liger","MoCEntityLiger",24
+"DrZhark's Mo'Creatures Mod","mocreatures:lion","MoCEntityLion",23
+"DrZhark's Mo'Creatures Mod","mocreatures:lither","MoCEntityLither",25
+"DrZhark's Mo'Creatures Mod","mocreatures:litterbox","MoCEntityLitterBox",4
+"DrZhark's Mo'Creatures Mod","mocreatures:maggot","MoCEntityMaggot",81
+"DrZhark's Mo'Creatures Mod","mocreatures:manderin","MoCEntityManderin",67
+"DrZhark's Mo'Creatures Mod","mocreatures:mantaray","MoCEntityMantaRay",70
+"DrZhark's Mo'Creatures Mod","mocreatures:manticore","MoCEntityManticore",48
+"DrZhark's Mo'Creatures Mod","mocreatures:manticorepet","MoCEntityManticorePet",0
+"DrZhark's Mo'Creatures Mod","mocreatures:minigolem","MoCEntityMiniGolem",49
+"DrZhark's Mo'Creatures Mod","mocreatures:mole","MoCEntityMole",26
+"DrZhark's Mo'Creatures Mod","mocreatures:mouse","MoCEntityMouse",27
+"DrZhark's Mo'Creatures Mod","mocreatures:ostrich","MoCEntityOstrich",28
+"DrZhark's Mo'Creatures Mod","mocreatures:pandabear","MoCEntityPandaBear",29
+"DrZhark's Mo'Creatures Mod","mocreatures:panthard","MoCEntityPanthard",30
+"DrZhark's Mo'Creatures Mod","mocreatures:panther","MoCEntityPanther",31
+"DrZhark's Mo'Creatures Mod","mocreatures:panthger","MoCEntityPanthger",32
+"DrZhark's Mo'Creatures Mod","mocreatures:petscorpion","MoCEntityPetScorpion",1
+"DrZhark's Mo'Creatures Mod","mocreatures:piranha","MoCEntityPiranha",68
+"DrZhark's Mo'Creatures Mod","mocreatures:raccoon","MoCEntityRaccoon",34
+"DrZhark's Mo'Creatures Mod","mocreatures:rat","MoCEntityRat",50
+"DrZhark's Mo'Creatures Mod","mocreatures:roach","MoCEntityRoach",83
+"DrZhark's Mo'Creatures Mod","mocreatures:salmon","MoCEntitySalmon",69
+"DrZhark's Mo'Creatures Mod","mocreatures:scorpion","MoCEntityScorpion",52
+"DrZhark's Mo'Creatures Mod","mocreatures:shark","MoCEntityShark",71
+"DrZhark's Mo'Creatures Mod","mocreatures:silverskeleton","MoCEntitySilverSkeleton",51
+"DrZhark's Mo'Creatures Mod","mocreatures:snail","MoCEntitySnail",82
+"DrZhark's Mo'Creatures Mod","mocreatures:snake","MoCEntitySnake",35
+"DrZhark's Mo'Creatures Mod","mocreatures:stingray","MoCEntityStingRay",72
+"DrZhark's Mo'Creatures Mod","mocreatures:tiger","MoCEntityTiger",36
+"DrZhark's Mo'Creatures Mod","mocreatures:trock","MoCEntityThrowableRock",5
+"DrZhark's Mo'Creatures Mod","mocreatures:turkey","MoCEntityTurkey",38
+"DrZhark's Mo'Creatures Mod","mocreatures:turtle","MoCEntityTurtle",37
+"DrZhark's Mo'Creatures Mod","mocreatures:werewolf","MoCEntityWerewolf",53
+"DrZhark's Mo'Creatures Mod","mocreatures:wildhorse","MoCEntityHorse",39
+"DrZhark's Mo'Creatures Mod","mocreatures:wildpolarbear","MoCEntityPolarBear",33
+"DrZhark's Mo'Creatures Mod","mocreatures:wraith","MoCEntityWraith",54
+"DrZhark's Mo'Creatures Mod","mocreatures:wwolf","MoCEntityWWolf",55
+"DrZhark's Mo'Creatures Mod","mocreatures:wyvern","MoCEntityWyvern",40
+"Draconic Evolution","draconicevolution:chaosguardian","EntityChaosGuardian",6
+"Draconic Evolution","draconicevolution:customarrow","EntityCustomArrow",11
+"Draconic Evolution","draconicevolution:dragonheartitem","EntityDragonHeart",5
+"Draconic Evolution","draconicevolution:enderenergymanipulator","EntityEnderEnergyManipulator",13
+"Draconic Evolution","draconicevolution:entitychaosenergyvortex","EntityChaosImplosion",10
+"Draconic Evolution","draconicevolution:guardiancrystal","EntityGuardianCrystal",8
+"Draconic Evolution","draconicevolution:guardianprojectile","EntityGuardianProjectile",7
+"Draconic Evolution","draconicevolution:lootcore","EntityLootCore",12
+"Draconic Evolution","draconicevolution:persistentitem","EntityPersistentItem",1
+"Dynamic Sword Skills","dynamicswordskills:leapingblow","EntityLeapingBlow",0
+"Dynamic Sword Skills","dynamicswordskills:swordbeam","EntitySwordBeam",1
+"Eerie Entities","eerieentities:cursed_armor","EntityCursedArmor",3
+"Eerie Entities","eerieentities:nether_knight","EntityNetherKnight",2
+"Eerie Entities","eerieentities:pumpkin_slime","EntityPumpkinSlime",1
+"Eerie Entities","eerieentities:wisp","EntityWisp",0
+"Electroblob's Wizardry","ebwizardry:arrow_rain","EntityArrowRain",60
+"Electroblob's Wizardry","ebwizardry:black_hole","EntityBlackHole",47
+"Electroblob's Wizardry","ebwizardry:blaze_minion","EntityBlazeMinion",5
+"Electroblob's Wizardry","ebwizardry:blizzard","EntityBlizzard",48
+"Electroblob's Wizardry","ebwizardry:boulder","EntityBoulder",68
+"Electroblob's Wizardry","ebwizardry:bubble","EntityBubble",65
+"Electroblob's Wizardry","ebwizardry:combustion_rune","EntityCombustionRune",53
+"Electroblob's Wizardry","ebwizardry:darkness_orb","EntityDarknessOrb",36
+"Electroblob's Wizardry","ebwizardry:dart","EntityDart",26
+"Electroblob's Wizardry","ebwizardry:decay","EntityDecay",56
+"Electroblob's Wizardry","ebwizardry:decoy","EntityDecoy",16
+"Electroblob's Wizardry","ebwizardry:earthquake","EntityEarthquake",61
+"Electroblob's Wizardry","ebwizardry:ember","EntityEmber",40
+"Electroblob's Wizardry","ebwizardry:evil_wizard","EntityEvilWizard",20
+"Electroblob's Wizardry","ebwizardry:fire_sigil","EntityFireSigil",50
+"Electroblob's Wizardry","ebwizardry:firebolt","EntityFirebolt",37
+"Electroblob's Wizardry","ebwizardry:firebomb","EntityFirebomb",29
+"Electroblob's Wizardry","ebwizardry:flamecatcher_arrow","EntityFlamecatcherArrow",28
+"Electroblob's Wizardry","ebwizardry:force_arrow","EntityForceArrow",25
+"Electroblob's Wizardry","ebwizardry:force_orb","EntityForceOrb",34
+"Electroblob's Wizardry","ebwizardry:forcefield","EntityForcefield",49
+"Electroblob's Wizardry","ebwizardry:frost_sigil","EntityFrostSigil",51
+"Electroblob's Wizardry","ebwizardry:hailstorm","EntityHailstorm",62
+"Electroblob's Wizardry","ebwizardry:healing_aura","EntityHealAura",55
+"Electroblob's Wizardry","ebwizardry:husk_minion","EntityHuskMinion",1
+"Electroblob's Wizardry","ebwizardry:ice_barrier","EntityIceBarrier",69
+"Electroblob's Wizardry","ebwizardry:ice_charge","EntityIceCharge",33
+"Electroblob's Wizardry","ebwizardry:ice_giant","EntityIceGiant",14
+"Electroblob's Wizardry","ebwizardry:ice_lance","EntityIceLance",27
+"Electroblob's Wizardry","ebwizardry:ice_shard","EntityIceShard",23
+"Electroblob's Wizardry","ebwizardry:ice_spike","EntityIceSpike",67
+"Electroblob's Wizardry","ebwizardry:ice_wraith","EntityIceWraith",9
+"Electroblob's Wizardry","ebwizardry:iceball","EntityIceball",43
+"Electroblob's Wizardry","ebwizardry:large_magic_fireball","EntityLargeMagicFireball",42
+"Electroblob's Wizardry","ebwizardry:levitating_block","EntityLevitatingBlock",46
+"Electroblob's Wizardry","ebwizardry:lightning_arrow","EntityLightningArrow",24
+"Electroblob's Wizardry","ebwizardry:lightning_disc","EntityLightningDisc",39
+"Electroblob's Wizardry","ebwizardry:lightning_hammer","EntityHammer",45
+"Electroblob's Wizardry","ebwizardry:lightning_sigil","EntityLightningSigil",52
+"Electroblob's Wizardry","ebwizardry:lightning_wraith","EntityLightningWraith",10
+"Electroblob's Wizardry","ebwizardry:magic_fireball","EntityMagicFireball",41
+"Electroblob's Wizardry","ebwizardry:magic_missile","EntityMagicMissile",22
+"Electroblob's Wizardry","ebwizardry:magic_slime","EntityMagicSlime",15
+"Electroblob's Wizardry","ebwizardry:meteor","EntityMeteor",44
+"Electroblob's Wizardry","ebwizardry:phoenix","EntityPhoenix",13
+"Electroblob's Wizardry","ebwizardry:poison_bomb","EntityPoisonBomb",30
+"Electroblob's Wizardry","ebwizardry:radiant_totem","EntityRadiantTotem",58
+"Electroblob's Wizardry","ebwizardry:remnant","EntityRemnant",21
+"Electroblob's Wizardry","ebwizardry:ring_of_fire","EntityFireRing",54
+"Electroblob's Wizardry","ebwizardry:shadow_wraith","EntityShadowWraith",17
+"Electroblob's Wizardry","ebwizardry:shield","EntityShield",64
+"Electroblob's Wizardry","ebwizardry:silverfish_minion","EntitySilverfishMinion",7
+"Electroblob's Wizardry","ebwizardry:skeleton_minion","EntitySkeletonMinion",2
+"Electroblob's Wizardry","ebwizardry:smoke_bomb","EntitySmokeBomb",32
+"Electroblob's Wizardry","ebwizardry:spark","EntitySpark",35
+"Electroblob's Wizardry","ebwizardry:spark_bomb","EntitySparkBomb",31
+"Electroblob's Wizardry","ebwizardry:spider_minion","EntitySpiderMinion",4
+"Electroblob's Wizardry","ebwizardry:spirit_horse","EntitySpiritHorse",12
+"Electroblob's Wizardry","ebwizardry:spirit_wolf","EntitySpiritWolf",11
+"Electroblob's Wizardry","ebwizardry:storm_elemental","EntityStormElemental",18
+"Electroblob's Wizardry","ebwizardry:stormcloud","EntityStormcloud",63
+"Electroblob's Wizardry","ebwizardry:stray_minion","EntityStrayMinion",3
+"Electroblob's Wizardry","ebwizardry:thunderbolt","EntityThunderbolt",38
+"Electroblob's Wizardry","ebwizardry:tornado","EntityTornado",66
+"Electroblob's Wizardry","ebwizardry:vex_minion","EntityVexMinion",8
+"Electroblob's Wizardry","ebwizardry:wither_skeleton_minion","EntityWitherSkeletonMinion",6
+"Electroblob's Wizardry","ebwizardry:withering_totem","EntityWitheringTotem",59
+"Electroblob's Wizardry","ebwizardry:wizard","EntityWizard",19
+"Electroblob's Wizardry","ebwizardry:zombie_minion","EntityZombieMinion",0
+"Electroblob's Wizardry","ebwizardry:zombie_spawner","EntityZombieSpawner",57
+"EmberRoot Zoo","emberroot:creeper","EntityConcussionCreeper",7
+"EmberRoot Zoo","emberroot:deers","EntityDeer",0
+"EmberRoot Zoo","emberroot:dire_wolf","EntityDireWolf",11
+"EmberRoot Zoo","emberroot:ember_projectile","EntityGolemLaser",4
+"EmberRoot Zoo","emberroot:enderminy","EntityEnderminy",14
+"EmberRoot Zoo","emberroot:entityowlegg","EntityOwlEgg",10
+"EmberRoot Zoo","emberroot:fairies","EntityFairy",2
+"EmberRoot Zoo","emberroot:fallenmount","EntityFallenMount",16
+"EmberRoot Zoo","emberroot:hero","EntityFallenHero",6
+"EmberRoot Zoo","emberroot:knight_fallen","EntityFallenKnight",15
+"EmberRoot Zoo","emberroot:owl","EntityOwl",8
+"EmberRoot Zoo","emberroot:rainbow_golem","EntityAncientGolem",5
+"EmberRoot Zoo","emberroot:rainbowslime","EntityRainbowSlime",3
+"EmberRoot Zoo","emberroot:rootsonesprite","EntitySprite",18
+"EmberRoot Zoo","emberroot:rootsonespriteboss","EntitySpriteGuardianBoss",22
+"EmberRoot Zoo","emberroot:rootsonespritegreater","EntityGreaterSprite",21
+"EmberRoot Zoo","emberroot:rootsonespriteling","EntitySpriteling",19
+"EmberRoot Zoo","emberroot:rootsonespriteprojectile","EntitySpriteProjectile",20
+"EmberRoot Zoo","emberroot:skeleton_frozen","EntityFrozenKnight",23
+"EmberRoot Zoo","emberroot:slime","EntityDireSlime",9
+"EmberRoot Zoo","emberroot:sprouts","EntitySprout",1
+"EmberRoot Zoo","emberroot:timberwolf","EntityTimberWolf",17
+"EmberRoot Zoo","emberroot:withercat","EntityWitherCat",12
+"EmberRoot Zoo","emberroot:witherwitch","EntityWitherWitch",13
+"Embers Rekindled","embers:ancient_golem","EntityAncientGolem",2
+"Embers Rekindled","embers:ember_light","EntityEmberLight",3
+"Embers Rekindled","embers:ember_packet","EntityEmberPacket",0
+"Embers Rekindled","embers:ember_projectile","EntityEmberProjectile",1
+"Embers Rekindled","embers:magma_projectile","EntityMagmaProjectile",5
+"Embers Rekindled","embers:magma_worm","EntityMagmaWorm",4
+"Engender - Draconic Evolution Addon","ageofchaos:chaosguardianhelpful","EntityChaosGuardian",1
+"Engender - Draconic Evolution Addon","ageofchaos:draconicportal","EntityDraconicPortal",3
+"Engender - Draconic Evolution Addon","ageofchaos:guardianprojectileother","EntityGuardianProjectile",2
+"Engender - The Age of Minecraft","ageofminecraft:abomniablesnowmanhelpful","EntityAbomniableSnowman",39
+"Engender - The Age of Minecraft","ageofminecraft:areaeffectcloudother","EntityAreaEffectCloudOther",64
+"Engender - The Age of Minecraft","ageofminecraft:bathelpful","EntityBat",1
+"Engender - The Age of Minecraft","ageofminecraft:blazehelpful","EntityBlaze",26
+"Engender - The Age of Minecraft","ageofminecraft:cavespiderhelpful","EntityCaveSpider",27
+"Engender - The Age of Minecraft","ageofminecraft:chickenhelpful","EntityChicken",2
+"Engender - The Age of Minecraft","ageofminecraft:cowhelpful","EntityCow",3
+"Engender - The Age of Minecraft","ageofminecraft:creederhelpful","EntityCreeder",28
+"Engender - The Age of Minecraft","ageofminecraft:creeperhelpful","EntityCreeper",20
+"Engender - The Age of Minecraft","ageofminecraft:disintigrationray","EntityDisintigrationRay",61
+"Engender - The Age of Minecraft","ageofminecraft:elderguardianhelpful","EntityElderGuardian",40
+"Engender - The Age of Minecraft","ageofminecraft:enderdragonhelpful","EntityEnderDragon",41
+"Engender - The Age of Minecraft","ageofminecraft:endermanhelpful","EntityEnderman",29
+"Engender - The Age of Minecraft","ageofminecraft:endermitehelpful","EntityEndermite",15
+"Engender - The Age of Minecraft","ageofminecraft:eversourcehelpful","EntityEversource",42
+"Engender - The Age of Minecraft","ageofminecraft:evokerhelpful","EntityEvoker",43
+"Engender - The Age of Minecraft","ageofminecraft:frostray","EntityFrostRay",62
+"Engender - The Age of Minecraft","ageofminecraft:ghasthelpful","EntityGhast",30
+"Engender - The Age of Minecraft","ageofminecraft:ghastherhelpful","EntityGhasther",44
+"Engender - The Age of Minecraft","ageofminecraft:gianthelpful","EntityGiant",45
+"Engender - The Age of Minecraft","ageofminecraft:guardianhelpful","EntityGuardian",31
+"Engender - The Age of Minecraft","ageofminecraft:icegolemhelpful","EntityIceGolem",46
+"Engender - The Age of Minecraft","ageofminecraft:icespiderhelpful","EntityIceSpider",32
+"Engender - The Age of Minecraft","ageofminecraft:icyendercreeperhelpful","EntityIcyEnderCreeper",33
+"Engender - The Age of Minecraft","ageofminecraft:illusionerhelpful","EntityIllusioner",47
+"Engender - The Age of Minecraft","ageofminecraft:invisiblefangsprojectile","EntityInvisibleFangsProjectile",66
+"Engender - The Age of Minecraft","ageofminecraft:lavaslimehelpful","EntityMagmaCube",23
+"Engender - The Age of Minecraft","ageofminecraft:llamahelpful","EntityLlama",11
+"Engender - The Age of Minecraft","ageofminecraft:magicmissile","EntityMagicMissile",58
+"Engender - The Age of Minecraft","ageofminecraft:magmagolemhelpful","EntityMagmaGolem",49
+"Engender - The Age of Minecraft","ageofminecraft:manaorb","EntityManaOrb",67
+"Engender - The Age of Minecraft","ageofminecraft:mushroomcowhelpful","EntityMooshroom",4
+"Engender - The Age of Minecraft","ageofminecraft:ozelothelpful","EntityOcelot",9
+"Engender - The Age of Minecraft","ageofminecraft:parrothelpful","EntityParrot",5
+"Engender - The Age of Minecraft","ageofminecraft:pighelpful","EntityPig",6
+"Engender - The Age of Minecraft","ageofminecraft:pigzombiehelpful","EntityPigZombie",34
+"Engender - The Age of Minecraft","ageofminecraft:polarbearhelpful","EntityPolarBear",21
+"Engender - The Age of Minecraft","ageofminecraft:portal","EntityPortal",52
+"Engender - The Age of Minecraft","ageofminecraft:portallightning","EntityPortalLightning",60
+"Engender - The Age of Minecraft","ageofminecraft:prisongolemhelpful","EntityPrisonGolem",50
+"Engender - The Age of Minecraft","ageofminecraft:prisonslimehelpful","EntityPrisonSlime",24
+"Engender - The Age of Minecraft","ageofminecraft:prisonspiderhelpful","EntityPrisonSpider",35
+"Engender - The Age of Minecraft","ageofminecraft:rabbithelpful","EntityRabbit",7
+"Engender - The Age of Minecraft","ageofminecraft:sheephelpful","EntitySheep",8
+"Engender - The Age of Minecraft","ageofminecraft:shulkerhelpful","EntityShulker",36
+"Engender - The Age of Minecraft","ageofminecraft:silverfishhelpful","EntitySilverfish",14
+"Engender - The Age of Minecraft","ageofminecraft:skeletonhelpful","EntitySkeleton",19
+"Engender - The Age of Minecraft","ageofminecraft:slimehelpful","EntitySlime",22
+"Engender - The Age of Minecraft","ageofminecraft:snowballharmful","EntitySnowballHarmful",63
+"Engender - The Age of Minecraft","ageofminecraft:snowmanhelpful","EntitySnowman",13
+"Engender - The Age of Minecraft","ageofminecraft:spiderhelpful","EntitySpider",17
+"Engender - The Age of Minecraft","ageofminecraft:squidhelpful","EntitySquid",10
+"Engender - The Age of Minecraft","ageofminecraft:tippedarrowother","EntityTippedArrowOther",65
+"Engender - The Age of Minecraft","ageofminecraft:vexhelpful","EntityVex",25
+"Engender - The Age of Minecraft","ageofminecraft:villagergolemhelpful","EntityIronGolem",48
+"Engender - The Age of Minecraft","ageofminecraft:villagerhelpful","EntityVillager",12
+"Engender - The Age of Minecraft","ageofminecraft:vindicatorhelpful","EntityVindicator",37
+"Engender - The Age of Minecraft","ageofminecraft:witchhelpful","EntityWitch",38
+"Engender - The Age of Minecraft","ageofminecraft:witherbosscommandblockhelpful","EntityCommandBlockWither",53
+"Engender - The Age of Minecraft","ageofminecraft:witherbosshelpful","EntityWither",51
+"Engender - The Age of Minecraft","ageofminecraft:witherstormbossheadhelpful","EntityWitherStormHead",55
+"Engender - The Age of Minecraft","ageofminecraft:witherstormbosshelpful","EntityWitherStorm",54
+"Engender - The Age of Minecraft","ageofminecraft:witherstormbosstentacledevourerhelpful","EntityWitherStormTentacleDevourer",57
+"Engender - The Age of Minecraft","ageofminecraft:witherstormbosstentaclehelpful","EntityWitherStormTentacle",56
+"Engender - The Age of Minecraft","ageofminecraft:witherstormskull","EntityWitherStormSkull",59
+"Engender - The Age of Minecraft","ageofminecraft:wolfhelpful","EntityWolf",16
+"Engender - The Age of Minecraft","ageofminecraft:zombiehelpful","EntityZombie",18
+"ExtraBotany","extrabotany:aurafire","EntityAuraFire",20
+"ExtraBotany","extrabotany:bottledstar","EntityBottledStar",16
+"ExtraBotany","extrabotany:darkpixie","EntityDarkPixie",8
+"ExtraBotany","extrabotany:domain","EntityDomain",10
+"ExtraBotany","extrabotany:fb","EntityFlyingBoat",7
+"ExtraBotany","extrabotany:flower_weapon","EntityFlowerWeapon",0
+"ExtraBotany","extrabotany:gaiaiii","EntityGaiaIII",1
+"ExtraBotany","extrabotany:judahoath","EntityJudahOath",14
+"ExtraBotany","extrabotany:judahspear","EntityJudahSpear",13
+"ExtraBotany","extrabotany:judahsword","EntityJudahSword",21
+"ExtraBotany","extrabotany:magicarrow","EntityMagicArrow",5
+"ExtraBotany","extrabotany:petpixie","EntityPetPixie",15
+"ExtraBotany","extrabotany:skulllandmine","EntitySkullLandmine",3
+"ExtraBotany","extrabotany:skullminion","EntitySkullMinion",4
+"ExtraBotany","extrabotany:skullmissile","EntitySkullMissile",2
+"ExtraBotany","extrabotany:splashgrenade","EntitySplashGrenade",6
+"ExtraBotany","extrabotany:subspace","EntitySubspace",11
+"ExtraBotany","extrabotany:subspacelance","EntitySubspaceLance",19
+"ExtraBotany","extrabotany:subspacespear","EntitySubspaceSpear",12
+"ExtraBotany","extrabotany:sworddomain","EntitySwordDomain",9
+"ExtraBotany","extrabotany:void","EntityVoid",17
+"ExtraBotany","extrabotany:voidherrscher","EntityVoidHerrscher",18
+"Familiar Fauna","familiarfauna:familiarfauna.butterfly","EntityButterfly",1
+"Familiar Fauna","familiarfauna:familiarfauna.deer","EntityDeer",2
+"Familiar Fauna","familiarfauna:familiarfauna.dragonfly","EntityDragonfly",3
+"Familiar Fauna","familiarfauna:familiarfauna.pixie","EntityPixie",4
+"Familiar Fauna","familiarfauna:familiarfauna.snail","EntitySnail",5
+"Familiar Fauna","familiarfauna:familiarfauna.turkey","EntityTurkey",6
+"Fish's Undead Rising","mod_lavacow:acidjet","EntityAcidJet",22
+"Fish's Undead Rising","mod_lavacow:avaton","EntityAvaton",30
+"Fish's Undead Rising","mod_lavacow:banshee","EntityBanshee",28
+"Fish's Undead Rising","mod_lavacow:boneworm","EntityBoneWorm",21
+"Fish's Undead Rising","mod_lavacow:deathcoil","EntityDeathCoil",36
+"Fish's Undead Rising","mod_lavacow:foglet","EntityFoglet",3
+"Fish's Undead Rising","mod_lavacow:forsaken","EntityForsaken",33
+"Fish's Undead Rising","mod_lavacow:ghostbomb","EntityGhostBomb",31
+"Fish's Undead Rising","mod_lavacow:ghostray","EntityGhostRay",27
+"Fish's Undead Rising","mod_lavacow:holygrenade","EntityHolyGrenade",23
+"Fish's Undead Rising","mod_lavacow:ithaqua","EntityWendigo",7
+"Fish's Undead Rising","mod_lavacow:lavacow","EntityLavaCow",0
+"Fish's Undead Rising","mod_lavacow:lilsludge","EntityLilSludge",11
+"Fish's Undead Rising","mod_lavacow:mimic","EntityMimic",8
+"Fish's Undead Rising","mod_lavacow:mummy","EntityMummy",37
+"Fish's Undead Rising","mod_lavacow:parasite","EntityParasite",2
+"Fish's Undead Rising","mod_lavacow:pingu","EntityPingu",24
+"Fish's Undead Rising","mod_lavacow:piranha","EntityPiranha",18
+"Fish's Undead Rising","mod_lavacow:piranhalauncher","EntityPiranhaLauncher",20
+"Fish's Undead Rising","mod_lavacow:ptera","EntityPtera",14
+"Fish's Undead Rising","mod_lavacow:raven","EntityRaven",13
+"Fish's Undead Rising","mod_lavacow:salamander","EntitySalamander",6
+"Fish's Undead Rising","mod_lavacow:sandburst","EntitySandBurst",35
+"Fish's Undead Rising","mod_lavacow:scarecrow","EntityScarecrow",16
+"Fish's Undead Rising","mod_lavacow:skeletonking","EntitySkeletonKing",34
+"Fish's Undead Rising","mod_lavacow:sludgejet","EntitySludgeJet",10
+"Fish's Undead Rising","mod_lavacow:sludgelord","EntitySludgeLord",9
+"Fish's Undead Rising","mod_lavacow:sonicbomb","EntitySonicBomb",32
+"Fish's Undead Rising","mod_lavacow:unburied","EntityUnburied",26
+"Fish's Undead Rising","mod_lavacow:undeadswine","EntityUndeadSwine",5
+"Fish's Undead Rising","mod_lavacow:undertaker","EntityUndertaker",25
+"Fish's Undead Rising","mod_lavacow:vespa","EntityVespa",15
+"Fish's Undead Rising","mod_lavacow:vespacocoon","EntityVespaCocoon",17
+"Fish's Undead Rising","mod_lavacow:warsmallfireball","EntityWarSmallFireball",12
+"Fish's Undead Rising","mod_lavacow:weta","EntityWeta",29
+"Fish's Undead Rising","mod_lavacow:zombiefrozen","EntityZombieFrozen",4
+"Fish's Undead Rising","mod_lavacow:zombiemushroom","EntityZombieMushroom",1
+"Fish's Undead Rising","mod_lavacow:zombiepiranha","EntityZombiePiranha",19
+"Fishing Made Better","fishingmadebetter:fmblavafishhook","EntityFMBLavaFishHook",0
+"Fishing Made Better","fishingmadebetter:fmbvoidfishhook","EntityFMBVoidFishHook",1
+"ForageCraft","foragecraft:rock_flat","EntityRockFlat",2
+"ForageCraft","foragecraft:rock_normal","EntityRockNormal",1
+"Fossils and Archeology Revival","fossil:fossil.alligator_gar","EntityAlligatorGar",212
+"Fossils and Archeology Revival","fossil:fossil.allosaurus","EntityAllosaurus",230
+"Fossils and Archeology Revival","fossil:fossil.ancient_javelin","AncientJavelinEntity",1
+"Fossils and Archeology Revival","fossil:fossil.ankylosaurus","EntityAnkylosaurus",225
+"Fossils and Archeology Revival","fossil:fossil.anu","EntityAnu",17
+"Fossils and Archeology Revival","fossil:fossil.anubite","EntityAnubite",39
+"Fossils and Archeology Revival","fossil:fossil.anudead","EntityAnuDead",15
+"Fossils and Archeology Revival","fossil:fossil.anueffect","EntityAnuStatue",13
+"Fossils and Archeology Revival","fossil:fossil.arthropleura","EntityArthropleura",261
+"Fossils and Archeology Revival","fossil:fossil.birdegg","EntityBirdEgg",9
+"Fossils and Archeology Revival","fossil:fossil.brachiosaurus","EntityBrachiosaurus",222
+"Fossils and Archeology Revival","fossil:fossil.ceratosaurus","EntityCeratosaurus",232
+"Fossils and Archeology Revival","fossil:fossil.citipati","EntityCitipati",236
+"Fossils and Archeology Revival","fossil:fossil.coelacanth","EntityCoelacanth",211
+"Fossils and Archeology Revival","fossil:fossil.compsognathus","EntityCompsognathus",224
+"Fossils and Archeology Revival","fossil:fossil.confuciusornis","EntityConfuciusornis",243
+"Fossils and Archeology Revival","fossil:fossil.crassigyrinus","EntityCrassigyrinus",258
+"Fossils and Archeology Revival","fossil:fossil.debugtest","EntityDebugTest",40
+"Fossils and Archeology Revival","fossil:fossil.debugtest_2","EntityWorseDebugTest",41
+"Fossils and Archeology Revival","fossil:fossil.deinonychus","EntityDeinonychus",227
+"Fossils and Archeology Revival","fossil:fossil.dilophosaurus","EntityDilophosaurus",221
+"Fossils and Archeology Revival","fossil:fossil.dinoegg","EntityDinosaurEgg",8
+"Fossils and Archeology Revival","fossil:fossil.diplocaulus","EntityDiplocaulus",259
+"Fossils and Archeology Revival","fossil:fossil.diplodocus","EntityDiplodocus",237
+"Fossils and Archeology Revival","fossil:fossil.dodo","EntityDodo",244
+"Fossils and Archeology Revival","fossil:fossil.dryosaurus","EntityDryosaurus",233
+"Fossils and Archeology Revival","fossil:fossil.edaphosaurus","EntityEdaphosaurus",260
+"Fossils and Archeology Revival","fossil:fossil.elasmotherium","EntityElasmotherium",252
+"Fossils and Archeology Revival","fossil:fossil.failuresaurus","EntityFailuresaurus",5
+"Fossils and Archeology Revival","fossil:fossil.friendlypigzombie","EntityFriendlyPigZombie",12
+"Fossils and Archeology Revival","fossil:fossil.gallimimus","EntityGallimimus",228
+"Fossils and Archeology Revival","fossil:fossil.gastornis","EntityGastornis",245
+"Fossils and Archeology Revival","fossil:fossil.henodus","EntityHenodus",239
+"Fossils and Archeology Revival","fossil:fossil.icthyosaurus","EntityIcthyosaurus",240
+"Fossils and Archeology Revival","fossil:fossil.javelin","JavelinEntity",0
+"Fossils and Archeology Revival","fossil:fossil.kelenken","EntityKelenken",246
+"Fossils and Archeology Revival","fossil:fossil.liopleurodon","EntityLiopleurodon",229
+"Fossils and Archeology Revival","fossil:fossil.mammoth","EntityMammoth",249
+"Fossils and Archeology Revival","fossil:fossil.megalania","EntityMegalania",254
+"Fossils and Archeology Revival","fossil:fossil.megaloceros","EntityMegaloceros",253
+"Fossils and Archeology Revival","fossil:fossil.megalodon","EntityMegalodon",255
+"Fossils and Archeology Revival","fossil:fossil.megalograptus","EntityMegalograptus",242
+"Fossils and Archeology Revival","fossil:fossil.meganeura","EntityMeganeura",241
+"Fossils and Archeology Revival","fossil:fossil.mosasaurus","EntityMosasaurus",219
+"Fossils and Archeology Revival","fossil:fossil.nautilus","EntityNautilus",210
+"Fossils and Archeology Revival","fossil:fossil.ornitholestes","EntityOrnitholestes",238
+"Fossils and Archeology Revival","fossil:fossil.pachycephalosaurus","EntityPachycephalosaurus",226
+"Fossils and Archeology Revival","fossil:fossil.parasaurolophus","EntityParasaurolophus",235
+"Fossils and Archeology Revival","fossil:fossil.phorusrhacos","EntityPhorusrhacos",247
+"Fossils and Archeology Revival","fossil:fossil.platybelodon","EntityPlatybelodon",256
+"Fossils and Archeology Revival","fossil:fossil.plesiosaur","EntityPlesiosaurus",218
+"Fossils and Archeology Revival","fossil:fossil.pterosaur","EntityPteranodon",217
+"Fossils and Archeology Revival","fossil:fossil.quagga","EntityQuagga",251
+"Fossils and Archeology Revival","fossil:fossil.sarcosuchus","EntitySarcosuchus",231
+"Fossils and Archeology Revival","fossil:fossil.sentrypigman","EntitySentryPigman",18
+"Fossils and Archeology Revival","fossil:fossil.smilodon","EntitySmilodon",250
+"Fossils and Archeology Revival","fossil:fossil.spinosaurus","EntitySpinosaurus",223
+"Fossils and Archeology Revival","fossil:fossil.stegosaurus","EntityStegosaurus",220
+"Fossils and Archeology Revival","fossil:fossil.stone_tablet","StoneTabletEntity",2
+"Fossils and Archeology Revival","fossil:fossil.sturgeon","EntitySturgeon",213
+"Fossils and Archeology Revival","fossil:fossil.tarslime","EntityTarSlime",16
+"Fossils and Archeology Revival","fossil:fossil.therizinosaurus","EntityTherizinosaurus",234
+"Fossils and Archeology Revival","fossil:fossil.tiktaalik","EntityTiktaalik",257
+"Fossils and Archeology Revival","fossil:fossil.titanis","EntityTitanis",248
+"Fossils and Archeology Revival","fossil:fossil.toyball","EntityToyBall",103
+"Fossils and Archeology Revival","fossil:fossil.toyscratchingpost","EntityToyScratchingPost",105
+"Fossils and Archeology Revival","fossil:fossil.toytetheredlog","EntityToyTetheredLog",104
+"Fossils and Archeology Revival","fossil:fossil.triceratops","EntityTriceratops",214
+"Fossils and Archeology Revival","fossil:fossil.tyrannosaurus","EntityTyrannosaurus",216
+"Fossils and Archeology Revival","fossil:fossil.velociraptor","EntityVelociraptor",215
+"Frozen Fiend","iceologer:icecube","EntityIceCube",2
+"Frozen Fiend","iceologer:iceologer","EntityIceologer",1
+"Future MC","futuremc:bee","EntityBee",4
+"Future MC","futuremc:cod","EntityCod",5
+"Future MC","futuremc:panda","EntityPanda",3
+"Future MC","futuremc:pufferfish","EntityPufferfish",6
+"Future MC","futuremc:salmon","EntitySalmon",7
+"Future MC","futuremc:trident","EntityTrident",1
+"Future MC","futuremc:tropical_fish","EntityTropicalFish",8
+"Grimoire of Gaia 3","grimoireofgaia:ant","EntityGaiaAnt",1
+"Grimoire of Gaia 3","grimoireofgaia:ant_hill","EntityGaiaPropAntHill",2
+"Grimoire of Gaia 3","grimoireofgaia:ant_ranger","EntityGaiaAntRanger",3
+"Grimoire of Gaia 3","grimoireofgaia:anubis","EntityGaiaAnubis",4
+"Grimoire of Gaia 3","grimoireofgaia:arachne","EntityGaiaArachne",5
+"Grimoire of Gaia 3","grimoireofgaia:banshee","EntityGaiaBanshee",6
+"Grimoire of Gaia 3","grimoireofgaia:baphomet","EntityGaiaBaphomet",7
+"Grimoire of Gaia 3","grimoireofgaia:bee","EntityGaiaBee",8
+"Grimoire of Gaia 3","grimoireofgaia:beholder","EntityGaiaBeholder",9
+"Grimoire of Gaia 3","grimoireofgaia:bomb","EntityGaiaProjectileBomb",87
+"Grimoire of Gaia 3","grimoireofgaia:bone_knight","EntityGaiaBoneKnight",10
+"Grimoire of Gaia 3","grimoireofgaia:bubble","EntityGaiaProjectileBubble",88
+"Grimoire of Gaia 3","grimoireofgaia:butler","EntityGaiaIllagerButler",11
+"Grimoire of Gaia 3","grimoireofgaia:campfire","EntityGaiaPropCampfire",12
+"Grimoire of Gaia 3","grimoireofgaia:cecaelia","EntityGaiaCecaelia",13
+"Grimoire of Gaia 3","grimoireofgaia:centaur","EntityGaiaCentaur",14
+"Grimoire of Gaia 3","grimoireofgaia:chest","EntityGaiaPropChestMimic",15
+"Grimoire of Gaia 3","grimoireofgaia:cobble_golem","EntityGaiaCobbleGolem",16
+"Grimoire of Gaia 3","grimoireofgaia:cobblestone_golem","EntityGaiaCobblestoneGolem",17
+"Grimoire of Gaia 3","grimoireofgaia:creep","EntityGaiaCreep",18
+"Grimoire of Gaia 3","grimoireofgaia:creeper_girl","EntityGaiaNPCCreeperGirl",72
+"Grimoire of Gaia 3","grimoireofgaia:cyan_flower","EntityGaiaPropFlowerCyan",19
+"Grimoire of Gaia 3","grimoireofgaia:cyclops","EntityGaiaMonoeye",45
+"Grimoire of Gaia 3","grimoireofgaia:deathword","EntityGaiaDeathword",20
+"Grimoire of Gaia 3","grimoireofgaia:debug_mob","EntityDebugMob",0
+"Grimoire of Gaia 3","grimoireofgaia:dhampir","EntityGaiaDhampir",21
+"Grimoire of Gaia 3","grimoireofgaia:dryad","EntityGaiaDryad",22
+"Grimoire of Gaia 3","grimoireofgaia:dullahan","EntityGaiaDullahan",23
+"Grimoire of Gaia 3","grimoireofgaia:dwarf","EntityGaiaDwarf",24
+"Grimoire of Gaia 3","grimoireofgaia:ender_dragon_girl","EntityGaiaEnderDragonGirl",25
+"Grimoire of Gaia 3","grimoireofgaia:ender_eye","EntityGaiaEnderEye",26
+"Grimoire of Gaia 3","grimoireofgaia:ender_girl","EntityGaiaNPCEnderGirl",74
+"Grimoire of Gaia 3","grimoireofgaia:flesh_lich","EntityGaiaFleshLich",27
+"Grimoire of Gaia 3","grimoireofgaia:gelatinous_slime","EntityGaiaGelatinousSlime",28
+"Grimoire of Gaia 3","grimoireofgaia:goblin","EntityGaiaGoblin",29
+"Grimoire of Gaia 3","grimoireofgaia:goblin_feral","EntityGaiaGoblinFeral",30
+"Grimoire of Gaia 3","grimoireofgaia:gorgon","EntityGaiaGorgon",71
+"Grimoire of Gaia 3","grimoireofgaia:gryphon","EntityGaiaGryphon",32
+"Grimoire of Gaia 3","grimoireofgaia:harpy","EntityGaiaHarpy",33
+"Grimoire of Gaia 3","grimoireofgaia:harpy_wizard","EntityGaiaHarpyWizard",34
+"Grimoire of Gaia 3","grimoireofgaia:holstaurus","EntityGaiaNPCHolstaurus",76
+"Grimoire of Gaia 3","grimoireofgaia:horse","EntityGaiaHorse",35
+"Grimoire of Gaia 3","grimoireofgaia:hunter","EntityGaiaHunter",36
+"Grimoire of Gaia 3","grimoireofgaia:illager_fire","EntityGaiaIllagerFire",37
+"Grimoire of Gaia 3","grimoireofgaia:illager_inquisitor","EntityGaiaIllagerInquisitor",38
+"Grimoire of Gaia 3","grimoireofgaia:kikimora","EntityGaiaKikimora",39
+"Grimoire of Gaia 3","grimoireofgaia:kobold","EntityGaiaKobold",40
+"Grimoire of Gaia 3","grimoireofgaia:magic","EntityGaiaProjectileMagic",89
+"Grimoire of Gaia 3","grimoireofgaia:magic_random","EntityGaiaProjectileMagicRandom",90
+"Grimoire of Gaia 3","grimoireofgaia:mandragora","EntityGaiaMandragora",78
+"Grimoire of Gaia 3","grimoireofgaia:matango","EntityGaiaMatango",41
+"Grimoire of Gaia 3","grimoireofgaia:mermaid","EntityGaiaMermaid",42
+"Grimoire of Gaia 3","grimoireofgaia:mimic","EntityGaiaMimic",79
+"Grimoire of Gaia 3","grimoireofgaia:minotaur","EntityGaiaMinotaur",43
+"Grimoire of Gaia 3","grimoireofgaia:minotaurus","EntityGaiaMinotaurus",44
+"Grimoire of Gaia 3","grimoireofgaia:mite","EntityGaiaMite",31
+"Grimoire of Gaia 3","grimoireofgaia:mummy","EntityGaiaMummy",46
+"Grimoire of Gaia 3","grimoireofgaia:naga","EntityGaiaNaga",47
+"Grimoire of Gaia 3","grimoireofgaia:nine_tails","EntityGaiaNineTails",48
+"Grimoire of Gaia 3","grimoireofgaia:oni","EntityGaiaOni",49
+"Grimoire of Gaia 3","grimoireofgaia:orc","EntityGaiaOrc",50
+"Grimoire of Gaia 3","grimoireofgaia:poison","EntityGaiaProjectilePoison",91
+"Grimoire of Gaia 3","grimoireofgaia:satyress","EntityGaiaSatyress",51
+"Grimoire of Gaia 3","grimoireofgaia:selkie","EntityGaiaSelkie",52
+"Grimoire of Gaia 3","grimoireofgaia:shaman","EntityGaiaShaman",53
+"Grimoire of Gaia 3","grimoireofgaia:sharko","EntityGaiaSharko",54
+"Grimoire of Gaia 3","grimoireofgaia:siren","EntityGaiaSiren",55
+"Grimoire of Gaia 3","grimoireofgaia:slime_girl","EntityGaiaNPCSlimeGirl",73
+"Grimoire of Gaia 3","grimoireofgaia:sludge_girl","EntityGaiaSludgeGirl",56
+"Grimoire of Gaia 3","grimoireofgaia:small_fireball","EntityGaiaProjectileSmallFireball",92
+"Grimoire of Gaia 3","grimoireofgaia:spawner_beholder","EntityGaiaSpawnerBeholder",80
+"Grimoire of Gaia 3","grimoireofgaia:spawner_ender_dragon_girl","EntityGaiaSpawnerEnderDragonGirl",81
+"Grimoire of Gaia 3","grimoireofgaia:spawner_gorgon","EntityGaiaSpawnerGorgon",82
+"Grimoire of Gaia 3","grimoireofgaia:spawner_minotaur","EntityGaiaSpawnerMinotaur",83
+"Grimoire of Gaia 3","grimoireofgaia:spawner_sphinx","EntityGaiaSpawnerSphinx",84
+"Grimoire of Gaia 3","grimoireofgaia:spawner_valkyrie","EntityGaiaSpawnerValkyrie",85
+"Grimoire of Gaia 3","grimoireofgaia:spawner_vampire","EntityGaiaSpawnerVampire",86
+"Grimoire of Gaia 3","grimoireofgaia:sphinx","EntityGaiaSphinx",57
+"Grimoire of Gaia 3","grimoireofgaia:sporeling","EntityGaiaSporeling",59
+"Grimoire of Gaia 3","grimoireofgaia:spriggan","EntityGaiaSpriggan",58
+"Grimoire of Gaia 3","grimoireofgaia:succubus","EntityGaiaSuccubus",60
+"Grimoire of Gaia 3","grimoireofgaia:toad","EntityGaiaToad",61
+"Grimoire of Gaia 3","grimoireofgaia:trader","EntityGaiaNPCTrader",75
+"Grimoire of Gaia 3","grimoireofgaia:valkyrie","EntityGaiaValkyrie",62
+"Grimoire of Gaia 3","grimoireofgaia:vampire","EntityGaiaVampire",65
+"Grimoire of Gaia 3","grimoireofgaia:vase","EntityGaiaPropVase",63
+"Grimoire of Gaia 3","grimoireofgaia:vase_nether","EntityGaiaPropVaseNether",64
+"Grimoire of Gaia 3","grimoireofgaia:web","EntityGaiaProjectileWeb",93
+"Grimoire of Gaia 3","grimoireofgaia:werecat","EntityGaiaWerecat",66
+"Grimoire of Gaia 3","grimoireofgaia:weresheep","EntityGaiaNPCWeresheep",77
+"Grimoire of Gaia 3","grimoireofgaia:witch","EntityGaiaWitch",67
+"Grimoire of Gaia 3","grimoireofgaia:wither_cow","EntityGaiaWitherCow",68
+"Grimoire of Gaia 3","grimoireofgaia:yeti","EntityGaiaYeti",69
+"Grimoire of Gaia 3","grimoireofgaia:yuki-onna","EntityGaiaYukiOnna",70
+"Harvest Festival Legacy","harvestfestival:basket","EntityBasket",14
+"Harvest Festival Legacy","harvestfestival:builder","EntityNPCBuilder",1
+"Harvest Festival Legacy","harvestfestival:chicken","EntityHarvestChicken",5
+"Harvest Festival Legacy","harvestfestival:cow","EntityHarvestCow",3
+"Harvest Festival Legacy","harvestfestival:dark_chick","EntityDarkChick",9
+"Harvest Festival Legacy","harvestfestival:dark_chicken","EntityDarkChicken",8
+"Harvest Festival Legacy","harvestfestival:dark_cow","EntityDarkCow",6
+"Harvest Festival Legacy","harvestfestival:dark_sheep","EntityDarkSheep",7
+"Harvest Festival Legacy","harvestfestival:goddess","EntityNPCGoddess",10
+"Harvest Festival Legacy","harvestfestival:hook","EntityFishHookHF",11
+"Harvest Festival Legacy","harvestfestival:miner","EntityNPCMiner",13
+"Harvest Festival Legacy","harvestfestival:sheep","EntityHarvestSheep",4
+"Harvest Festival Legacy","harvestfestival:villager","EntityNPCVillager",0
+"Harvester's Night","harvestersnight:harvester","EntityHarvester",1
+"Ice and Fire","iceandfire:amphithere","EntityAmphithere",934
+"Ice and Fire","iceandfire:amphitherearrow","EntityAmphithereArrow",935
+"Ice and Fire","iceandfire:cyclops","EntityCyclops",917
+"Ice and Fire","iceandfire:deathworm","EntityDeathWorm",920
+"Ice and Fire","iceandfire:deathwormegg","EntityDeathWormEgg",921
+"Ice and Fire","iceandfire:dragonarrow","EntityDragonArrow",902
+"Ice and Fire","iceandfire:dragonegg","EntityDragonEgg",901
+"Ice and Fire","iceandfire:dragonfire","EntityDragonFire",904
+"Ice and Fire","iceandfire:dragonfirecharge","EntityDragonFireCharge",908
+"Ice and Fire","iceandfire:dragonice","EntityDragonIceProjectile",906
+"Ice and Fire","iceandfire:dragonicecharge","EntityDragonIceCharge",909
+"Ice and Fire","iceandfire:dragonskull","EntityDragonSkull",903
+"Ice and Fire","iceandfire:firedragon","EntityFireDragon",905
+"Ice and Fire","iceandfire:gorgon","EntityGorgon",914
+"Ice and Fire","iceandfire:hippocampus","EntityHippocampus",919
+"Ice and Fire","iceandfire:hippogryph","EntityHippogryph",912
+"Ice and Fire","iceandfire:hippogryphegg","EntityHippogryphEgg",911
+"Ice and Fire","iceandfire:icedragon","EntityIceDragon",907
+"Ice and Fire","iceandfire:if_cockatrice","EntityCockatrice",922
+"Ice and Fire","iceandfire:if_cockatriceegg","EntityCockatriceEgg",923
+"Ice and Fire","iceandfire:if_pixie","EntityPixie",915
+"Ice and Fire","iceandfire:if_troll","EntityTroll",927
+"Ice and Fire","iceandfire:myrmex_egg","EntityMyrmexEgg",933
+"Ice and Fire","iceandfire:myrmex_queen","EntityMyrmexQueen",932
+"Ice and Fire","iceandfire:myrmex_royal","EntityMyrmexRoyal",931
+"Ice and Fire","iceandfire:myrmex_sentinel","EntityMyrmexSentinel",930
+"Ice and Fire","iceandfire:myrmex_soldier","EntityMyrmexSoldier",929
+"Ice and Fire","iceandfire:myrmex_worker","EntityMyrmexWorker",928
+"Ice and Fire","iceandfire:seaserpent","EntitySeaSerpent",936
+"Ice and Fire","iceandfire:seaserpentarrow","EntitySeaSerpentArrow",938
+"Ice and Fire","iceandfire:seaserpentbubble","EntitySeaSerpentBubbles",937
+"Ice and Fire","iceandfire:siren","EntitySiren",918
+"Ice and Fire","iceandfire:snowvillager","EntitySnowVillager",910
+"Ice and Fire","iceandfire:stonestatue","EntityStoneStatue",913
+"Ice and Fire","iceandfire:stymphalianarrow","EntityStymphalianArrow",926
+"Ice and Fire","iceandfire:stymphalianbird","EntityStymphalianBird",924
+"Ice and Fire","iceandfire:stymphalianfeather","EntityStymphalianFeather",925
+"Immersive Engineering","immersiveengineering:chemthrowershot","EntityChemthrowerShot",4
+"Immersive Engineering","immersiveengineering:explosive","EntityIEExplosive",7
+"Immersive Engineering","immersiveengineering:fluorescenttube","EntityFluorescentTube",8
+"Immersive Engineering","immersiveengineering:railgunshot","EntityRailgunShot",5
+"Immersive Engineering","immersiveengineering:revolvershot","EntityRevolvershot",0
+"Immersive Engineering","immersiveengineering:revolvershotflare","EntityRevolvershotFlare",6
+"Immersive Engineering","immersiveengineering:revolvershothoming","EntityRevolvershotHoming",2
+"Immersive Engineering","immersiveengineering:revolvershotwolfpack","EntityWolfpackShot",3
+"Immersive Engineering","immersiveengineering:skylinehook","EntitySkylineHook",1
+"Inspirations","inspirations:arrow","EntityModArrow",0
+"Koopa's Critters","koopascritters:africanlandsnail","EntityCustom",41
+"Koopa's Critters","koopascritters:asianleopardcat","EntityCustom",47
+"Koopa's Critters","koopascritters:bahamianrockiguana","EntityCustom",43
+"Koopa's Critters","koopascritters:californiaquail","EntityCustom",17
+"Koopa's Critters","koopascritters:chinesecavegecko","EntityCustom",65
+"Koopa's Critters","koopascritters:chinstrappenguin","EntityCustom",31
+"Koopa's Critters","koopascritters:chuckwalla","EntityCustom",19
+"Koopa's Critters","koopascritters:desertrainfrog","EntityCustom",56
+"Koopa's Critters","koopascritters:entitybulletcaliforniaquailegg","EntityArrowCustom",62
+"Koopa's Critters","koopascritters:entitybulletguineafowlegg","EntityArrowCustom",55
+"Koopa's Critters","koopascritters:firesalamander","EntityCustom",35
+"Koopa's Critters","koopascritters:guineafowl","EntityCustom",15
+"Koopa's Critters","koopascritters:impala","EntityCustom",5
+"Koopa's Critters","koopascritters:maraboustork","EntityCustom",25
+"Koopa's Critters","koopascritters:marsupualmole","EntityCustom",58
+"Koopa's Critters","koopascritters:munjacdeer","EntityCustom",11
+"Koopa's Critters","koopascritters:northernrockhopperpenguin","EntityCustom",3
+"Koopa's Critters","koopascritters:pallascat","EntityCustom",29
+"Koopa's Critters","koopascritters:rainbowrocklizard","EntityCustom",13
+"Koopa's Critters","koopascritters:redpandakc","EntityCustom",60
+"Koopa's Critters","koopascritters:rosyboa","EntityCustom",23
+"Koopa's Critters","koopascritters:serval","EntityCustom",21
+"Koopa's Critters","koopascritters:slowloris","EntityCustom",53
+"Koopa's Critters","koopascritters:spoonbill_kc","EntityCustom",67
+"Koopa's Critters","koopascritters:sulcatatortoise","EntityCustom",51
+"Koopa's Critters","koopascritters:treelobster","EntityCustom",49
+"Koopa's Critters","koopascritters:tricolorhognose","EntityCustom",63
+"Koopa's Critters","koopascritters:ukarimonkey","EntityCustom",33
+"Koopa's Critters","koopascritters:viscacha","EntityCustom",27
+"Koopa's Critters","koopascritters:yelloweyedpenguin","EntityCustom",1
+"Koopa's Critters","koopascritters:yellowfootedtortoise","EntityCustom",9
+"Lycanites Mobs","lycanitesmobs:abaia","EntityAbaia",220
+"Lycanites Mobs","lycanitesmobs:abtu","EntityAbtu",143
+"Lycanites Mobs","lycanitesmobs:aegis","EntityAegis",182
+"Lycanites Mobs","lycanitesmobs:afrit","EntityAfrit",148
+"Lycanites Mobs","lycanitesmobs:aglebemu","EntityAglebemu",127
+"Lycanites Mobs","lycanitesmobs:amalgalich","EntityAmalgalich",121
+"Lycanites Mobs","lycanitesmobs:archvile","EntityArchvile",161
+"Lycanites Mobs","lycanitesmobs:argus","EntityArgus",218
+"Lycanites Mobs","lycanitesmobs:arisaur","EntityArisaur",101
+"Lycanites Mobs","lycanitesmobs:arix","EntityArix",109
+"Lycanites Mobs","lycanitesmobs:asmodeus","EntityAsmodeus",132
+"Lycanites Mobs","lycanitesmobs:aspid","EntityAspid",171
+"Lycanites Mobs","lycanitesmobs:astaroth","EntityAstaroth",123
+"Lycanites Mobs","lycanitesmobs:balayang","EntityBalayang",221
+"Lycanites Mobs","lycanitesmobs:banshee","EntityBanshee",181
+"Lycanites Mobs","lycanitesmobs:barghest","EntityBarghest",105
+"Lycanites Mobs","lycanitesmobs:behemoth","EntityBehemoth",144
+"Lycanites Mobs","lycanitesmobs:beholder","EntityBeholder",151
+"Lycanites Mobs","lycanitesmobs:belph","EntityBelph",202
+"Lycanites Mobs","lycanitesmobs:bobeko","EntityBobeko",124
+"Lycanites Mobs","lycanitesmobs:cacodemon","EntityCacodemon",110
+"Lycanites Mobs","lycanitesmobs:calpod","EntityCalpod",197
+"Lycanites Mobs","lycanitesmobs:cephignis","EntityCephignis",204
+"Lycanites Mobs","lycanitesmobs:chupacabra","EntityChupacabra",108
+"Lycanites Mobs","lycanitesmobs:cinder","EntityCinder",179
+"Lycanites Mobs","lycanitesmobs:clink","EntityClink",160
+"Lycanites Mobs","lycanitesmobs:cockatrice","EntityCockatrice",209
+"Lycanites Mobs","lycanitesmobs:conba","EntityConba",212
+"Lycanites Mobs","lycanitesmobs:concapede","EntityConcapedeHead",118
+"Lycanites Mobs","lycanitesmobs:concapedesegment","EntityConcapedeSegment",199
+"Lycanites Mobs","lycanitesmobs:crusk","EntityCrusk",116
+"Lycanites Mobs","lycanitesmobs:cryptkeeper","EntityCryptkeeper",140
+"Lycanites Mobs","lycanitesmobs:crystalshard","CustomProjectileModelEntity",1038
+"Lycanites Mobs","lycanitesmobs:crystalshard","CustomProjectileModelEntity",1038
+"Lycanites Mobs","lycanitesmobs:crystalshard","CustomProjectileModelEntity",1038
+"Lycanites Mobs","lycanitesmobs:crystalshard","CustomProjectileModelEntity",1038
+"Lycanites Mobs","lycanitesmobs:crystalshard","CustomProjectileModelEntity",1038
+"Lycanites Mobs","lycanitesmobs:darkling","EntityDarkling",188
+"Lycanites Mobs","lycanitesmobs:dawon","EntityDawon",146
+"Lycanites Mobs","lycanitesmobs:devilgatling","EntityDevilGatling",1052
+"Lycanites Mobs","lycanitesmobs:djinn","EntityDjinn",113
+"Lycanites Mobs","lycanitesmobs:dweller","EntityDweller",176
+"Lycanites Mobs","lycanitesmobs:eechetik","EntityEechetik",114
+"Lycanites Mobs","lycanitesmobs:ent","EntityEnt",213
+"Lycanites Mobs","lycanitesmobs:epion","EntityEpion",189
+"Lycanites Mobs","lycanitesmobs:erepede","EntityErepede",184
+"Lycanites Mobs","lycanitesmobs:ettin","EntityEttin",141
+"Lycanites Mobs","lycanitesmobs:eyewig","EntityEyewig",126
+"Lycanites Mobs","lycanitesmobs:fear","FearEntity",120
+"Lycanites Mobs","lycanitesmobs:feradon","EntityFeradon",206
+"Lycanites Mobs","lycanitesmobs:frostweaver","EntityFrostweaver",216
+"Lycanites Mobs","lycanitesmobs:geist","EntityGeist",128
+"Lycanites Mobs","lycanitesmobs:geken","EntityGeken",156
+"Lycanites Mobs","lycanitesmobs:geonach","EntityGeonach",153
+"Lycanites Mobs","lycanitesmobs:ghoul","EntityGhoul",119
+"Lycanites Mobs","lycanitesmobs:gnekk","EntityGnekk",210
+"Lycanites Mobs","lycanitesmobs:gorger","EntityGorger",175
+"Lycanites Mobs","lycanitesmobs:gorgomite","EntityGorgomite",135
+"Lycanites Mobs","lycanitesmobs:grell","EntityGrell",133
+"Lycanites Mobs","lycanitesmobs:grigori","EntityGrigori",208
+"Lycanites Mobs","lycanitesmobs:grue","EntityGrue",168
+"Lycanites Mobs","lycanitesmobs:hellfirebarrier","EntityHellfireBarrier",1043
+"Lycanites Mobs","lycanitesmobs:hellfirebarrierpart","EntityHellfireBarrierPart",1050
+"Lycanites Mobs","lycanitesmobs:hellfireorb","EntityHellfireOrb",1047
+"Lycanites Mobs","lycanitesmobs:hellfirewall","EntityHellfireWall",1042
+"Lycanites Mobs","lycanitesmobs:hellfirewave","EntityHellfireWave",1049
+"Lycanites Mobs","lycanitesmobs:hellfirewavepart","EntityHellfireWavePart",1041
+"Lycanites Mobs","lycanitesmobs:helllaser","EntityHellLaser",1040
+"Lycanites Mobs","lycanitesmobs:helllaserend","EntityHellLaserEnd",1046
+"Lycanites Mobs","lycanitesmobs:hellshield","EntityHellShield",1051
+"Lycanites Mobs","lycanitesmobs:herma","EntityHerma",163
+"Lycanites Mobs","lycanitesmobs:hitarea","EntityHitArea",0
+"Lycanites Mobs","lycanitesmobs:ignibus","EntityIgnibus",217
+"Lycanites Mobs","lycanitesmobs:ika","EntityIka",162
+"Lycanites Mobs","lycanitesmobs:ioray","EntityIoray",190
+"Lycanites Mobs","lycanitesmobs:jabberwock","EntityJabberwock",150
+"Lycanites Mobs","lycanitesmobs:jengu","EntityJengu",192
+"Lycanites Mobs","lycanitesmobs:joust","EntityJoust",130
+"Lycanites Mobs","lycanitesmobs:joustalpha","EntityJoustAlpha",122
+"Lycanites Mobs","lycanitesmobs:khalk","EntityKhalk",129
+"Lycanites Mobs","lycanitesmobs:kobold","EntityKobold",106
+"Lycanites Mobs","lycanitesmobs:krake","EntityKrake",183
+"Lycanites Mobs","lycanitesmobs:lacedon","EntityLacedon",104
+"Lycanites Mobs","lycanitesmobs:laserend","LaserEndProjectileEntity",1045
+"Lycanites Mobs","lycanitesmobs:lobber","EntityLobber",154
+"Lycanites Mobs","lycanitesmobs:lurker","EntityLurker",149
+"Lycanites Mobs","lycanitesmobs:maka","EntityMaka",205
+"Lycanites Mobs","lycanitesmobs:makaalpha","EntityMakaAlpha",107
+"Lycanites Mobs","lycanitesmobs:maug","EntityMaug",115
+"Lycanites Mobs","lycanitesmobs:morock","EntityMorock",145
+"Lycanites Mobs","lycanitesmobs:necrovore","EntityNecrovore",203
+"Lycanites Mobs","lycanitesmobs:nymph","EntityNymph",134
+"Lycanites Mobs","lycanitesmobs:pinky","EntityPinky",174
+"Lycanites Mobs","lycanitesmobs:pixen","EntityPixen",200
+"Lycanites Mobs","lycanitesmobs:quetzodracl","EntityQuetzodracl",170
+"Lycanites Mobs","lycanitesmobs:quillbeast","EntityQuillbeast",159
+"Lycanites Mobs","lycanitesmobs:rahovart","EntityRahovart",215
+"Lycanites Mobs","lycanitesmobs:raiko","EntityRaiko",166
+"Lycanites Mobs","lycanitesmobs:reaper","EntityReaper",167
+"Lycanites Mobs","lycanitesmobs:reiver","EntityReiver",103
+"Lycanites Mobs","lycanitesmobs:remobra","EntityRemobra",198
+"Lycanites Mobs","lycanitesmobs:roa","EntityRoa",193
+"Lycanites Mobs","lycanitesmobs:roc","EntityRoc",194
+"Lycanites Mobs","lycanitesmobs:salamander","EntitySalamander",196
+"Lycanites Mobs","lycanitesmobs:serpix","EntitySerpix",136
+"Lycanites Mobs","lycanitesmobs:shade","EntityShade",180
+"Lycanites Mobs","lycanitesmobs:shadowfirebarrier","EntityShadowfireBarrier",1044
+"Lycanites Mobs","lycanitesmobs:shambler","EntityShambler",147
+"Lycanites Mobs","lycanitesmobs:silex","EntitySilex",169
+"Lycanites Mobs","lycanitesmobs:skylus","EntitySkylus",111
+"Lycanites Mobs","lycanitesmobs:spectre","EntitySpectre",137
+"Lycanites Mobs","lycanitesmobs:spriggan","EntitySpriggan",100
+"Lycanites Mobs","lycanitesmobs:strider","EntityStrider",157
+"Lycanites Mobs","lycanitesmobs:summoningportal","PortalEntity",1048
+"Lycanites Mobs","lycanitesmobs:sutiramu","EntitySutiramu",178
+"Lycanites Mobs","lycanitesmobs:sylph","EntitySylph",185
+"Lycanites Mobs","lycanitesmobs:tarantula","EntityTarantula",214
+"Lycanites Mobs","lycanitesmobs:thresher","EntityThresher",125
+"Lycanites Mobs","lycanitesmobs:tpumpkyn","EntityTpumpkyn",219
+"Lycanites Mobs","lycanitesmobs:treant","EntityTreant",165
+"Lycanites Mobs","lycanitesmobs:tremor","EntityTremor",152
+"Lycanites Mobs","lycanitesmobs:triffid","EntityTriffid",201
+"Lycanites Mobs","lycanitesmobs:trite","EntityTrite",191
+"Lycanites Mobs","lycanitesmobs:troll","EntityTroll",155
+"Lycanites Mobs","lycanitesmobs:uvaraptor","EntityUvaraptor",117
+"Lycanites Mobs","lycanitesmobs:vapula","EntityVapula",164
+"Lycanites Mobs","lycanitesmobs:ventoraptor","EntityVentoraptor",195
+"Lycanites Mobs","lycanitesmobs:vespid","EntityVespid",138
+"Lycanites Mobs","lycanitesmobs:vespidqueen","EntityVespidQueen",102
+"Lycanites Mobs","lycanitesmobs:volcan","EntityVolcan",186
+"Lycanites Mobs","lycanitesmobs:vorach","EntityVorach",177
+"Lycanites Mobs","lycanitesmobs:warg","EntityWarg",139
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:waterjet","CustomProjectileEntity",1039
+"Lycanites Mobs","lycanitesmobs:wendigo","EntityWendigo",112
+"Lycanites Mobs","lycanitesmobs:wildkin","EntityWildkin",172
+"Lycanites Mobs","lycanitesmobs:wisp","EntityWisp",173
+"Lycanites Mobs","lycanitesmobs:wraamon","EntityWraamon",211
+"Lycanites Mobs","lycanitesmobs:wraith","EntityWraith",158
+"Lycanites Mobs","lycanitesmobs:xaphan","EntityXaphan",207
+"Lycanites Mobs","lycanitesmobs:yale","EntityYale",187
+"Lycanites Mobs","lycanitesmobs:zephyr","EntityZephyr",142
+"Lycanites Mobs","lycanitesmobs:zoataur","EntityZoataur",131
+"Maelstrom Mod","mm:alternative_maelstrom_gauntlet_stage_1","EntityAlternativeMaelstromGauntletStage1",135
+"Maelstrom Mod","mm:alternative_maelstrom_gauntlet_stage_2","EntityAlternativeMaelstromGauntletStage2",136
+"Maelstrom Mod","mm:azure_bullet","ProjectilePiercingBullet",229
+"Maelstrom Mod","mm:azure_golem","EntityAzureGolem",107
+"Maelstrom Mod","mm:azure_portal_spawn","EntityAzurePortalSpawn",209
+"Maelstrom Mod","mm:azure_villager","EntityAzureVillager",105
+"Maelstrom Mod","mm:beast_attack","ProjectileBeastAttack",203
+"Maelstrom Mod","mm:beast_fireball","ProjectileBeastFireball",251
+"Maelstrom Mod","mm:beast_quake","ProjectileBeastQuake",236
+"Maelstrom Mod","mm:black_fireball","ProjectileBlackFireball",214
+"Maelstrom Mod","mm:black_gold_sword_particle","ParticleSpawnerSwordSwing",501
+"Maelstrom Mod","mm:bone","ProjectileBone",237
+"Maelstrom Mod","mm:bone_quake","ProjectileBoneQuake",238
+"Maelstrom Mod","mm:brownstone_cannon","ProjectileBrownstoneCannon",226
+"Maelstrom Mod","mm:bullet","ProjectileBullet",204
+"Maelstrom Mod","mm:chaos_fireball","ProjectileChaosFireball",244
+"Maelstrom Mod","mm:chaos_knight","EntityChaosKnight",130
+"Maelstrom Mod","mm:cliff_fly","EntityCliffFly",124
+"Maelstrom Mod","mm:cliff_golem","EntityCliffGolem",122
+"Maelstrom Mod","mm:cliff_portal_spawn","EntityCliffPortalSpawn",227
+"Maelstrom Mod","mm:crimson_crystal","EntityCrimsonCrystal",254
+"Maelstrom Mod","mm:crimson_portal_spawn","EntityCrimsonPortalSpawn",246
+"Maelstrom Mod","mm:crimson_tower_spawner","EntityCrimsonTowerSpawner",242
+"Maelstrom Mod","mm:crimson_wanderer","ProjectileCrimsonWanderer",253
+"Maelstrom Mod","mm:dream_elk","EntityDreamElk",102
+"Maelstrom Mod","mm:explosion_particle","ParticleSpawnerExplosion",500
+"Maelstrom Mod","mm:explosive_drill","ProjectileExplosiveDrill",228
+"Maelstrom Mod","mm:fireball","ProjectileFireball",212
+"Maelstrom Mod","mm:floating_skull","EntityFloatingSkull",108
+"Maelstrom Mod","mm:geyser","EntityGeyser",225
+"Maelstrom Mod","mm:golden_boss","EntityGoldenBoss",119
+"Maelstrom Mod","mm:golden_fireball","ProjectileGoldenFireball",222
+"Maelstrom Mod","mm:golden_mage_attack","ProjectileGoldenMissile",220
+"Maelstrom Mod","mm:golden_pillar","EntityGoldenPillar",116
+"Maelstrom Mod","mm:golden_rune","EntityGoldenRune",218
+"Maelstrom Mod","mm:healer_orb","EntityHealerOrb",243
+"Maelstrom Mod","mm:herobrine_1","EntityHerobrineOne",109
+"Maelstrom Mod","mm:herobrine_controller","Herobrine",110
+"Maelstrom Mod","mm:herobrine_slash","ProjectileHerobrineQuake",213
+"Maelstrom Mod","mm:homing_flame","ProjectileHomingFlame",252
+"Maelstrom Mod","mm:horror","EntityHorror",101
+"Maelstrom Mod","mm:horror_attack","ProjectileHorrorAttack",202
+"Maelstrom Mod","mm:iron_shade","EntityIronShade",125
+"Maelstrom Mod","mm:large_golden_rune","EntityLargeGoldenRune",241
+"Maelstrom Mod","mm:maelstrom_beast","EntityMaelstromBeast",126
+"Maelstrom Mod","mm:maelstrom_cannon","ProjectileMaelstromCannon",205
+"Maelstrom Mod","mm:maelstrom_crawler","EntityBeast",103
+"Maelstrom Mod","mm:maelstrom_fury","EntityMaelstromFury",134
+"Maelstrom Mod","mm:maelstrom_gauntlet","EntityMaelstromGauntlet",132
+"Maelstrom Mod","mm:maelstrom_healer","EntityMaelstromHealer",131
+"Maelstrom Mod","mm:maelstrom_illager","EntityMaelstromIllager",104
+"Maelstrom Mod","mm:maelstrom_lancer","EntityMaelstromLancer",129
+"Maelstrom Mod","mm:maelstrom_mage","EntityMaelstromMage",106
+"Maelstrom Mod","mm:maelstrom_meteor","ProjectileMaelstromMeteor",240
+"Maelstrom Mod","mm:maelstrom_missile","ProjectileMaelstromMissile",224
+"Maelstrom Mod","mm:maelstrom_quake","ProjectileMaelstromQuake",223
+"Maelstrom Mod","mm:maelstrom_rune","ProjectileMaelstromRune",250
+"Maelstrom Mod","mm:maelstrom_statue_of_nirvana","EntityMaelstromStatueOfNirvana",133
+"Maelstrom Mod","mm:maelstrom_tower_destroyer","EntityMaelstromTowerDestroyer",503
+"Maelstrom Mod","mm:maelstrom_wisp","ProjectileMaelstromWisp",232
+"Maelstrom Mod","mm:maelstrom_witch","EntityMaelstromWitch",121
+"Maelstrom Mod","mm:mega_fireball","ProjectileMegaFireball",248
+"Maelstrom Mod","mm:meteor","ProjectileMeteor",233
+"Maelstrom Mod","mm:meteor_spawner","ProjectileMeteorSpawner",234
+"Maelstrom Mod","mm:monolith","EntityMonolith",127
+"Maelstrom Mod","mm:monolith_fireball","ProjectileMonolithFireball",239
+"Maelstrom Mod","mm:nexus_armorer","NexusArmorer",113
+"Maelstrom Mod","mm:nexus_bladesmith","NexusBladesmith",115
+"Maelstrom Mod","mm:nexus_gunsmith","NexusGunTrader",111
+"Maelstrom Mod","mm:nexus_mage","NexusMageTrader",112
+"Maelstrom Mod","mm:nexus_particle","EntityNexusParticleSpawner",231
+"Maelstrom Mod","mm:nexus_saiyan","NexusSpecialTrader",114
+"Maelstrom Mod","mm:pillar_flames","ProjectilePillarFlames",217
+"Maelstrom Mod","mm:pumpkin","ProjectilePumpkin",210
+"Maelstrom Mod","mm:quake","ProjectileQuake",207
+"Maelstrom Mod","mm:rainbow_particle","ParticleSpawnerRainbow",502
+"Maelstrom Mod","mm:repeater","ProjectileRepeater",211
+"Maelstrom Mod","mm:rune_wisp","ProjectileRuneWisp",245
+"Maelstrom Mod","mm:shade","EntityShade",100
+"Maelstrom Mod","mm:skull_attack","ProjectileSkullAttack",208
+"Maelstrom Mod","mm:statue_maelstrom_missile","ProjectileStatueMaelstromMissile",249
+"Maelstrom Mod","mm:swamp_crawler","EntitySwampCrawler",123
+"Maelstrom Mod","mm:swamp_spittle","ProjectileSwampSpittle",230
+"Maelstrom Mod","mm:sword_slash","ProjectileSwordSlash",235
+"Maelstrom Mod","mm:tuning_fork_lazer_renderer","EntityTuningForkLazer",247
+"Maelstrom Mod","mm:white_monolith","EntityWhiteMonolith",128
+"Maelstrom Mod","mm:will-o-the-wisp","ProjectileWillOTheWisp",206
+"Metallurgy 4: Reforged","metallurgy:pierknight","EntityPierKnight",1
+"Midnight","midnight:bladeshroom_cap","EntityBladeshroomCap",3
+"Midnight","midnight:cloud","EntityCloud",14
+"Midnight","midnight:crystal_bug","EntityCrystalBug",5
+"Midnight","midnight:deceitful_snapper","EntityDeceitfulSnapper",10
+"Midnight","midnight:hunter","EntityHunter",2
+"Midnight","midnight:nightstag","EntityNightStag",9
+"Midnight","midnight:nova","EntityNova",4
+"Midnight","midnight:penumbrian","EntityPenumbrian",6
+"Midnight","midnight:rift","EntityRift",0
+"Midnight","midnight:rifter","EntityRifter",1
+"Midnight","midnight:skulk","EntitySkulk",11
+"Midnight","midnight:spore_bomb","EntitySporeBomb",13
+"Midnight","midnight:stinger","EntityStinger",8
+"Midnight","midnight:thrown_geode","EntityThrownGeode",12
+"Midnight","midnight:tree_hopper","EntityTreeHopper",7
+"MightyEnderChicken","mightyenderchicken:ent_chaoschicken","EntityChaosChicken",1
+"MightyEnderChicken","mightyenderchicken:ent_chickenspawner","EntityChickenSpawner",3
+"MightyEnderChicken","mightyenderchicken:ent_eggbomb","EntityEggBomb",2
+"MightyEnderChicken","mightyenderchicken:ent_enderchicken","EntityEnderChicken",0
+"Minecraft","minecraft:area_effect_cloud","EntityAreaEffectCloud",3
+"Minecraft","minecraft:armor_stand","EntityArmorStand",30
+"Minecraft","minecraft:arrow","EntityTippedArrow",10
+"Minecraft","minecraft:bat","EntityBat",65
+"Minecraft","minecraft:blaze","EntityBlaze",61
+"Minecraft","minecraft:boat","EntityBoat",41
+"Minecraft","minecraft:cave_spider","EntityCaveSpider",59
+"Minecraft","minecraft:chest_minecart","EntityMinecartChest",43
+"Minecraft","minecraft:chicken","EntityChicken",93
+"Minecraft","minecraft:commandblock_minecart","EntityMinecartCommandBlock",40
+"Minecraft","minecraft:cow","EntityCow",92
+"Minecraft","minecraft:creeper","EntityCreeper",50
+"Minecraft","minecraft:donkey","EntityDonkey",31
+"Minecraft","minecraft:dragon_fireball","EntityDragonFireball",26
+"Minecraft","minecraft:egg","EntityEgg",7
+"Minecraft","minecraft:elder_guardian","EntityElderGuardian",4
+"Minecraft","minecraft:ender_crystal","EntityEnderCrystal",200
+"Minecraft","minecraft:ender_dragon","EntityDragon",63
+"Minecraft","minecraft:ender_pearl","EntityEnderPearl",14
+"Minecraft","minecraft:enderman","EntityEnderman",58
+"Minecraft","minecraft:endermite","EntityEndermite",67
+"Minecraft","minecraft:evocation_fangs","EntityEvokerFangs",33
+"Minecraft","minecraft:evocation_illager","EntityEvoker",34
+"Minecraft","minecraft:eye_of_ender_signal","EntityEnderEye",15
+"Minecraft","minecraft:falling_block","EntityFallingBlock",21
+"Minecraft","minecraft:fireball","EntityLargeFireball",12
+"Minecraft","minecraft:fireworks_rocket","EntityFireworkRocket",22
+"Minecraft","minecraft:furnace_minecart","EntityMinecartFurnace",44
+"Minecraft","minecraft:ghast","EntityGhast",56
+"Minecraft","minecraft:giant","EntityGiantZombie",53
+"Minecraft","minecraft:guardian","EntityGuardian",68
+"Minecraft","minecraft:hopper_minecart","EntityMinecartHopper",46
+"Minecraft","minecraft:horse","EntityHorse",100
+"Minecraft","minecraft:husk","EntityHusk",23
+"Minecraft","minecraft:illusion_illager","EntityIllusionIllager",37
+"Minecraft","minecraft:item","EntityItem",1
+"Minecraft","minecraft:item_frame","EntityItemFrame",18
+"Minecraft","minecraft:leash_knot","EntityLeashKnot",8
+"Minecraft","minecraft:llama","EntityLlama",103
+"Minecraft","minecraft:llama_spit","EntityLlamaSpit",104
+"Minecraft","minecraft:magma_cube","EntityMagmaCube",62
+"Minecraft","minecraft:minecart","EntityMinecartEmpty",42
+"Minecraft","minecraft:mooshroom","EntityMooshroom",96
+"Minecraft","minecraft:mule","EntityMule",32
+"Minecraft","minecraft:ocelot","EntityOcelot",98
+"Minecraft","minecraft:painting","EntityPainting",9
+"Minecraft","minecraft:parrot","EntityParrot",105
+"Minecraft","minecraft:pig","EntityPig",90
+"Minecraft","minecraft:polar_bear","EntityPolarBear",102
+"Minecraft","minecraft:potion","EntityPotion",16
+"Minecraft","minecraft:rabbit","EntityRabbit",101
+"Minecraft","minecraft:sheep","EntitySheep",91
+"Minecraft","minecraft:shulker","EntityShulker",69
+"Minecraft","minecraft:shulker_bullet","EntityShulkerBullet",25
+"Minecraft","minecraft:silverfish","EntitySilverfish",60
+"Minecraft","minecraft:skeleton","EntitySkeleton",51
+"Minecraft","minecraft:skeleton_horse","EntitySkeletonHorse",28
+"Minecraft","minecraft:slime","EntitySlime",55
+"Minecraft","minecraft:small_fireball","EntitySmallFireball",13
+"Minecraft","minecraft:snowball","EntitySnowball",11
+"Minecraft","minecraft:snowman","EntitySnowman",97
+"Minecraft","minecraft:spawner_minecart","EntityMinecartMobSpawner",47
+"Minecraft","minecraft:spectral_arrow","EntitySpectralArrow",24
+"Minecraft","minecraft:spider","EntitySpider",52
+"Minecraft","minecraft:squid","EntitySquid",94
+"Minecraft","minecraft:stray","EntityStray",6
+"Minecraft","minecraft:tnt","EntityTNTPrimed",20
+"Minecraft","minecraft:tnt_minecart","EntityMinecartTNT",45
+"Minecraft","minecraft:vex","EntityVex",35
+"Minecraft","minecraft:villager","EntityVillager",120
+"Minecraft","minecraft:villager_golem","EntityIronGolem",99
+"Minecraft","minecraft:vindication_illager","EntityVindicator",36
+"Minecraft","minecraft:witch","EntityWitch",66
+"Minecraft","minecraft:wither","EntityWither",64
+"Minecraft","minecraft:wither_skeleton","EntityWitherSkeleton",5
+"Minecraft","minecraft:wither_skull","EntityWitherSkull",19
+"Minecraft","minecraft:wolf","EntityWolf",95
+"Minecraft","minecraft:xp_bottle","EntityExpBottle",17
+"Minecraft","minecraft:xp_orb","EntityXPOrb",2
+"Minecraft","minecraft:zombie","EntityZombie",54
+"Minecraft","minecraft:zombie_horse","EntityZombieHorse",29
+"Minecraft","minecraft:zombie_pigman","EntityPigZombie",57
+"Minecraft","minecraft:zombie_villager","EntityZombieVillager",27
+"Minecraft Dungeons Mod","duneons:archillager","EntityCustom",82
+"Minecraft Dungeons Mod","duneons:archkill","EntityCustom",160
+"Minecraft Dungeons Mod","duneons:badcreeper","EntityCustom",128
+"Minecraft Dungeons Mod","duneons:badspider","EntityCustom",126
+"Minecraft Dungeons Mod","duneons:badxombie","EntityCustom",124
+"Minecraft Dungeons Mod","duneons:bluebabykey","EntityCustom",130
+"Minecraft Dungeons Mod","duneons:bluekeysleep","EntityCustom",134
+"Minecraft Dungeons Mod","duneons:bluething","EntityCustom",84
+"Minecraft Dungeons Mod","duneons:cauldron_boss","EntityCustom",220
+"Minecraft Dungeons Mod","duneons:chefillager","EntityCustom",213
+"Minecraft Dungeons Mod","duneons:entitybulletbonebow","EntityArrowCustom",170
+"Minecraft Dungeons Mod","duneons:entitybulletcauldron_boss","EntityArrowCustom",221
+"Minecraft Dungeons Mod","duneons:entitybulletcorruptedbeacona","EntityArrowCustom",215
+"Minecraft Dungeons Mod","duneons:entitybulletelytepowerbow","EntityArrowCustom",176
+"Minecraft Dungeons Mod","duneons:entitybulletguardianbow","EntityArrowCustom",177
+"Minecraft Dungeons Mod","duneons:entitybulletironbow","EntityArrowCustom",178
+"Minecraft Dungeons Mod","duneons:entitybulletlongbow","EntityArrowCustom",179
+"Minecraft Dungeons Mod","duneons:entitybulletpowerfulbow","EntityArrowCustom",175
+"Minecraft Dungeons Mod","duneons:entitybulletredbow","EntityArrowCustom",169
+"Minecraft Dungeons Mod","duneons:entitybulletredsnake","EntityArrowCustom",180
+"Minecraft Dungeons Mod","duneons:entitybulletsmallbow","EntityArrowCustom",181
+"Minecraft Dungeons Mod","duneons:entitybullett_geomancer_pillar_wall","EntityArrowCustom",200
+"Minecraft Dungeons Mod","duneons:entitybulletthegreenmenace","EntityArrowCustom",182
+"Minecraft Dungeons Mod","duneons:entitybulletthepinkscoundrel","EntityArrowCustom",183
+"Minecraft Dungeons Mod","duneons:entitybullettwinbow","EntityArrowCustom",184
+"Minecraft Dungeons Mod","duneons:executione","EntityCustom",90
+"Minecraft Dungeons Mod","duneons:frozenzombie","EntityCustom",209
+"Minecraft Dungeons Mod","duneons:ghost","EntityCustom",88
+"Minecraft Dungeons Mod","duneons:hostile","EntityCustom",171
+"Minecraft Dungeons Mod","duneons:jackolantern","EntityCustom",216
+"Minecraft Dungeons Mod","duneons:junglezombie","EntityCustom",211
+"Minecraft Dungeons Mod","duneons:keygolem","EntityCustom",96
+"Minecraft Dungeons Mod","duneons:madman","EntityCustom",94
+"Minecraft Dungeons Mod","duneons:magicalcreeper","EntityCustom",118
+"Minecraft Dungeons Mod","duneons:magicalhusk","EntityCustom",122
+"Minecraft Dungeons Mod","duneons:magicalspider","EntityCustom",120
+"Minecraft Dungeons Mod","duneons:magicalzombie","EntityCustom",116
+"Minecraft Dungeons Mod","duneons:megaspider","EntityCustom",108
+"Minecraft Dungeons Mod","duneons:mossyskeleton","EntityCustom",207
+"Minecraft Dungeons Mod","duneons:necromancer","EntityCustom",106
+"Minecraft Dungeons Mod","duneons:no","EntityCustom",218
+"Minecraft Dungeons Mod","duneons:obsidianmonstrosity","EntityCustom",230
+"Minecraft Dungeons Mod","duneons:pigchest","EntityCustom",102
+"Minecraft Dungeons Mod","duneons:redstone_monstrosy_mossy_sit","EntityCustom",228
+"Minecraft Dungeons Mod","duneons:redstonecube","EntityCustom",193
+"Minecraft Dungeons Mod","duneons:redstonemonster","EntityCustom",150
+"Minecraft Dungeons Mod","duneons:redstonemonstrosity","EntityCustom",92
+"Minecraft Dungeons Mod","duneons:redstonemonstrosysummon","EntityCustom",226
+"Minecraft Dungeons Mod","duneons:skeletonvangard","EntityCustom",162
+"Minecraft Dungeons Mod","duneons:skeletonvangarddead","EntityCustom",201
+"Minecraft Dungeons Mod","duneons:sleepkey1","EntityCustom",132
+"Minecraft Dungeons Mod","duneons:sorcererillager","EntityCustom",136
+"Minecraft Dungeons Mod","duneons:sorcererillagerangry","EntityCustom",138
+"Minecraft Dungeons Mod","duneons:stonebell","EntityCustom",185
+"Minecraft Dungeons Mod","duneons:t_geomancer_pillar_bomb","EntityCustom",197
+"Minecraft Dungeons Mod","duneons:t_geomancer_pillar_wall","EntityCustom",199
+"Minecraft Dungeons Mod","duneons:villagerlama","EntityCustom",173
+"Minecraft Dungeons Mod","duneons:vindicator_variant1","EntityCustom",203
+"Minecraft Dungeons Mod","duneons:vindicator_variant2","EntityCustom",205
+"Minecraft Dungeons Mod","duneons:warriorvillager","EntityCustom",112
+"Minecraft Dungeons Mod","duneons:zombiedagger","EntityCustom",98
+"Minecraft Dungeons Mod","duneons:zombieminer","EntityCustom",187
+"Mo' Spells","mospells:barakoa_spirit_minion","EntityBarakoaSpiritMinion",5
+"Mo' Spells","mospells:frostmaw_minion","EntityFrostmawMinion",4
+"Mo' Spells","mospells:magic_ice_ball","EntityMagicIceBall",1
+"Mo' Spells","mospells:magic_ice_breath","EntityMagicIceBreath",0
+"Mo' Spells","mospells:magic_supernova","EntityMagicSuperNova",6
+"Mo' Spells","mospells:naga_minion","EntityNagaMinion",2
+"Mo' Spells","mospells:rupture","EntityRupture",3
+"Mowzie's Mobs","mowziesmobs:axe_attack","EntityAxeAttack",15
+"Mowzie's Mobs","mowziesmobs:baby_foliaath","EntityBabyFoliaath",1
+"Mowzie's Mobs","mowziesmobs:barako","EntityBarako",7
+"Mowzie's Mobs","mowziesmobs:barakoan_barakoana","EntityBarakoanToBarakoana",3
+"Mowzie's Mobs","mowziesmobs:barakoan_player","EntityBarakoanToPlayer",6
+"Mowzie's Mobs","mowziesmobs:barakoana","EntityBarakoana",4
+"Mowzie's Mobs","mowziesmobs:barakoaya","EntityBarakoaya",5
+"Mowzie's Mobs","mowziesmobs:block_swapper","EntityBlockSwapper",23
+"Mowzie's Mobs","mowziesmobs:boulder","EntityBoulder",14
+"Mowzie's Mobs","mowziesmobs:dart","EntityDart",20
+"Mowzie's Mobs","mowziesmobs:ferrous_wroughtnaut","EntityWroughtnaut",2
+"Mowzie's Mobs","mowziesmobs:foliaath","EntityFoliaath",0
+"Mowzie's Mobs","mowziesmobs:frostmaw","EntityFrostmaw",8
+"Mowzie's Mobs","mowziesmobs:frozen_controller","EntityFrozenController",18
+"Mowzie's Mobs","mowziesmobs:grottol","EntityGrottol",9
+"Mowzie's Mobs","mowziesmobs:ice_ball","EntityIceBall",17
+"Mowzie's Mobs","mowziesmobs:icebreath","EntityIceBreath",16
+"Mowzie's Mobs","mowziesmobs:lantern","EntityLantern",10
+"Mowzie's Mobs","mowziesmobs:naga","EntityNaga",11
+"Mowzie's Mobs","mowziesmobs:poison_ball","EntityPoisonBall",21
+"Mowzie's Mobs","mowziesmobs:ring","EntityRing",19
+"Mowzie's Mobs","mowziesmobs:solar_beam","EntitySolarBeam",13
+"Mowzie's Mobs","mowziesmobs:sunstrike","EntitySunstrike",12
+"Mowzie's Mobs","mowziesmobs:super_nova","EntitySuperNova",22
+"Multi Mob Core","multimob:dummy","EntityDummy",0
+"Mutant Beasts","mutantbeasts:body_part","BodyPartEntity",0
+"Mutant Beasts","mutantbeasts:chemical_x","ChemicalXEntity",1
+"Mutant Beasts","mutantbeasts:creeper_minion","CreeperMinionEntity",2
+"Mutant Beasts","mutantbeasts:creeper_minion_egg","CreeperMinionEggEntity",3
+"Mutant Beasts","mutantbeasts:endersoul_clone","EndersoulCloneEntity",4
+"Mutant Beasts","mutantbeasts:endersoul_fragment","EndersoulFragmentEntity",5
+"Mutant Beasts","mutantbeasts:mutant_arrow","MutantArrowEntity",6
+"Mutant Beasts","mutantbeasts:mutant_creeper","MutantCreeperEntity",7
+"Mutant Beasts","mutantbeasts:mutant_enderman","MutantEndermanEntity",8
+"Mutant Beasts","mutantbeasts:mutant_skeleton","MutantSkeletonEntity",9
+"Mutant Beasts","mutantbeasts:mutant_snow_golem","MutantSnowGolemEntity",10
+"Mutant Beasts","mutantbeasts:mutant_zombie","MutantZombieEntity",11
+"Mutant Beasts","mutantbeasts:skull_spirit","SkullSpiritEntity",12
+"Mutant Beasts","mutantbeasts:spider_pig","SpiderPigEntity",13
+"Mutant Beasts","mutantbeasts:throwable_block","ThrowableBlockEntity",14
+"Mystical Lib","mysticalworld:entity_beetle","EntityBeetle",2
+"Mystical Lib","mysticalworld:entity_clam","EntityClam",10
+"Mystical Lib","mysticalworld:entity_deer","EntityDeer",5
+"Mystical Lib","mysticalworld:entity_endermini","EntityEndermini",6
+"Mystical Lib","mysticalworld:entity_fox","EntityFox",0
+"Mystical Lib","mysticalworld:entity_frog","EntityFrog",1
+"Mystical Lib","mysticalworld:entity_hell_sprout","EntityHellSprout",4
+"Mystical Lib","mysticalworld:entity_lava_cat","EntityLavaCat",8
+"Mystical Lib","mysticalworld:entity_owl","EntityOwl",7
+"Mystical Lib","mysticalworld:entity_silkworm","EntitySilkworm",9
+"Mystical Lib","mysticalworld:entity_sprout","EntitySprout",3
+"Natura","natura:imp","EntityImp",2
+"Natura","natura:nitrocreeper","EntityNitroCreeper",3
+"Natural Decor Mod","naturaldecormod:botanybeagle","EntityCustom",1
+"Natural Pledge","naturalpledge:sealarrow","EntitySealedArrow",0
+"Nyx","nyx:cauldron_tracker","CauldronTracker",0
+"Nyx","nyx:falling_meteor","FallingMeteor",2
+"Nyx","nyx:falling_star","FallingStar",1
+"Paraglider","paraglider:wind","EntityWind",0
+"PlusTiC","plustic:blindbandit","EntityBlindBandit",1
+"PlusTiC","plustic:supremeleader","EntitySupremeLeader",0
+"Primitive Mobs","primitivemobs:baby_spider","EntityBabySpider",15
+"Primitive Mobs","primitivemobs:bewitched_tome","EntityEnchantedBook",5
+"Primitive Mobs","primitivemobs:blazing_juggernaut","EntityBlazingJuggernaut",12
+"Primitive Mobs","primitivemobs:brain_slime","EntityBrainSlime",7
+"Primitive Mobs","primitivemobs:chameleon","EntityChameleon",1
+"Primitive Mobs","primitivemobs:dodo","EntityDodo",19
+"Primitive Mobs","primitivemobs:festive_creeper","EntityFestiveCreeper",9
+"Primitive Mobs","primitivemobs:filch_lizard","EntityFilchLizard",6
+"Primitive Mobs","primitivemobs:flame_spewer","EntityFlameSpewer",24
+"Primitive Mobs","primitivemobs:flame_spit","EntityFlameSpit",27
+"Primitive Mobs","primitivemobs:goblin","EntityGoblin",22
+"Primitive Mobs","primitivemobs:grovesprite","EntityGroveSprite",4
+"Primitive Mobs","primitivemobs:harpy","EntityHarpy",23
+"Primitive Mobs","primitivemobs:haunted_tool","EntityHauntedTool",3
+"Primitive Mobs","primitivemobs:lily_lurker","EntityLilyLurker",13
+"Primitive Mobs","primitivemobs:lost_miner","EntityLostMiner",17
+"Primitive Mobs","primitivemobs:mimic","EntityMimic",20
+"Primitive Mobs","primitivemobs:mother_spider","EntityMotherSpider",14
+"Primitive Mobs","primitivemobs:primitive_egg","EntityPrimitiveThrowable",29
+"Primitive Mobs","primitivemobs:primitive_tnt_primed","EntityPrimitiveTNTPrimed",26
+"Primitive Mobs","primitivemobs:rocket_creeper","EntityRocketCreeper",8
+"Primitive Mobs","primitivemobs:sheepman","EntitySheepman",21
+"Primitive Mobs","primitivemobs:skeleton_warrior","EntitySkeletonWarrior",11
+"Primitive Mobs","primitivemobs:spider_egg","EntitySpiderEgg",30
+"Primitive Mobs","primitivemobs:support_creeper","EntitySupportCreeper",10
+"Primitive Mobs","primitivemobs:thrown_block","EntityThrownBlock",28
+"Primitive Mobs","primitivemobs:traveling_merchant","EntityTravelingMerchant",18
+"Primitive Mobs","primitivemobs:treasure_slime","EntityTreasureSlime",2
+"Primitive Mobs","primitivemobs:trollager","EntityTrollager",16
+"Primitive Mobs","primitivemobs:void_eye","EntityVoidEye",25
+"Psi","psi:spell_charge","EntitySpellCharge",3
+"Psi","psi:spell_circle","EntitySpellCircle",1
+"Psi","psi:spell_grenade","EntitySpellGrenade",2
+"Psi","psi:spell_mine","EntitySpellMine",4
+"Psi","psi:spell_projectile","EntitySpellProjectile",0
+"Pyrotech","pyrotech:pyrotech.entityitembloom","EntityItemBloom",4
+"Pyrotech","pyrotech:pyrotech.entityitembook","EntityItemBook",3
+"Pyrotech","pyrotech:rock","EntityRock",0
+"Pyrotech","pyrotech:rock_grass","EntityRockGrass",1
+"Pyrotech","pyrotech:rock_netherrack","EntityRockNetherrack",2
+"Quark","quark:arrow_ender","EntityArrowEnder",5
+"Quark","quark:arrow_explosive","EntityArrowExplosive",6
+"Quark","quark:arrow_torch","EntityArrowTorch",7
+"Quark","quark:ashen","EntityAshen",1
+"Quark","quark:chest_passenger","EntityChestPassenger",13
+"Quark","quark:colored_item_frame","EntityColoredItemFrame",0
+"Quark","quark:crab","EntityCrab",22
+"Quark","quark:dragon_breath_bottle","EntityDragonBreathBottle",11
+"Quark","quark:dweller","EntityDweller",2
+"Quark","quark:flat_item_frame","EntityFlatItemFrame",9
+"Quark","quark:foxhound","EntityFoxhound",21
+"Quark","quark:frog","EntityFrog",18
+"Quark","quark:glass_item_frame","EntityGlassItemFrame",10
+"Quark","quark:gravisand","EntityGravisand",23
+"Quark","quark:leash_knot","EntityLeashKnot2TheKnotting",19
+"Quark","quark:pickarang","EntityPickarang",20
+"Quark","quark:pirate","EntityPirate",3
+"Quark","quark:soul_powder","EntitySoulPowder",8
+"Quark","quark:stoneling","EntityStoneling",17
+"Quark","quark:wraith","EntityWraith",4
+"Raiders","raiders:brute","EntityBrute",2
+"Raiders","raiders:droppod","EntityDropPod",7
+"Raiders","raiders:pyromaniac","EntityPyromaniac",5
+"Raiders","raiders:raider","EntityRaider",1
+"Raiders","raiders:ranger","EntityRanger",6
+"Raiders","raiders:signaltransmitter","EntitySignalTransmitter",8
+"Raiders","raiders:tweaker","EntityTweaker",4
+"Raiders","raiders:witch","EntityRaiderWitch",3
+"Railcraft","railcraft:bore","EntityTunnelBore",50
+"Railcraft","railcraft:cart_basic","EntityCartBasic",1
+"Railcraft","railcraft:cart_bed","EntityCartBed",31
+"Railcraft","railcraft:cart_cargo","EntityCartCargo",23
+"Railcraft","railcraft:cart_chest","EntityCartChest",2
+"Railcraft","railcraft:cart_chest_metals","EntityCartChestMetals",33
+"Railcraft","railcraft:cart_chest_void","EntityCartChestVoid",32
+"Railcraft","railcraft:cart_command_block","EntityCartCommand",6
+"Railcraft","railcraft:cart_furnace","EntityCartFurnace",3
+"Railcraft","railcraft:cart_gift","EntityCartGift",24
+"Railcraft","railcraft:cart_hopper","EntityCartHopper",5
+"Railcraft","railcraft:cart_jukebox","EntityCartJukebox",30
+"Railcraft","railcraft:cart_pumpkin","EntityCartPumpkin",25
+"Railcraft","railcraft:cart_redstone_flux","EntityCartRF",26
+"Railcraft","railcraft:cart_spawner","EntityCartSpawner",7
+"Railcraft","railcraft:cart_tank","EntityCartTank",27
+"Railcraft","railcraft:cart_tnt","EntityCartTNT",4
+"Railcraft","railcraft:cart_tnt_wood","EntityCartTNTWood",28
+"Railcraft","railcraft:cart_trade_station","EntityCartTradeStation",34
+"Railcraft","railcraft:cart_work","EntityCartWork",29
+"Railcraft","railcraft:cart_worldspike_admin","EntityCartWorldspikeAdmin",20
+"Railcraft","railcraft:cart_worldspike_personal","EntityCartWorldspikePersonal",21
+"Railcraft","railcraft:cart_worldspike_standard","EntityCartWorldspikeStandard",22
+"Railcraft","railcraft:fireproof_item","EntityItemFireproof",91
+"Railcraft","railcraft:firestone","EntityItemFirestone",90
+"Railcraft","railcraft:locomotive_creative","EntityLocomotiveCreative",43
+"Railcraft","railcraft:locomotive_electric","EntityLocomotiveElectric",42
+"Railcraft","railcraft:locomotive_steam_solid","EntityLocomotiveSteamSolid",40
+"Railcraft","railcraft:mow_track_layer","EntityCartTrackLayer",60
+"Railcraft","railcraft:mow_track_relayer","EntityCartTrackRelayer",61
+"Railcraft","railcraft:mow_track_remover","EntityCartTrackRemover",62
+"Railcraft","railcraft:mow_undercutter","EntityCartUndercutter",63
+"Random PSIdeas","rpsideas:entity_conjured_text","EntityConjuredText",2
+"Random PSIdeas","rpsideas:entity_fancy_circle","EntityFancyCircle",3
+"Random PSIdeas","rpsideas:entity_hail_particle","EntityHailParticle",4
+"Random PSIdeas","rpsideas:entity_summoned_clone","EntityClone",5
+"Random PSIdeas","rpsideas:gauss","EntityGaussPulse",0
+"Random PSIdeas","rpsideas:psi_firework","EntityPsireworkRocket",1
+"Random PSIdeas","rpsideas:psi_mana_burst","EntityPsiManaBurst",6
+"Real First Person 2","rfp2:playerdummy","EntityPlayerDummy",0
+"Roots Classic","rootsclassic:entityaccelerator","EntityAccelerator",110
+"Roots Classic","rootsclassic:skeleton_phantom","EntityFrozenKnight",111
+"Roots Classic","rootsclassic:tileaccelerator","EntityTileAccelerator",119
+"Scaling Health","scalinghealth:blightfire","EntityBlightFire",0
+"Snow! Real Magic!","snowrealmagic:snow","FallingSnowEntity",0
+"Spiders 2.0","spiderstpo:better_cave_spider","BetterCaveSpiderEntity",1
+"Spiders 2.0","spiderstpo:better_spider","BetterSpiderEntity",0
+"Steve's Carts 2","stevescarts:cake","EntityCake",3
+"Steve's Carts 2","stevescarts:cart.0","EntityMinecartModular",0
+"Steve's Carts 2","stevescarts:egg","EntityEasterEgg",2
+"The Aether","aether_legacy:aechor_plant","EntityAechorPlant",10
+"The Aether","aether_legacy:aerbunny","EntityAerbunny",4
+"The Aether","aether_legacy:aerwhale","EntityAerwhale",5
+"The Aether","aether_legacy:cockatrice","EntityCockatrice",7
+"The Aether","aether_legacy:enchanted_dart","EntityDartEnchanted",17
+"The Aether","aether_legacy:fire_ball","EntityFireBall",19
+"The Aether","aether_legacy:fire_minion","EntityFireMinion",23
+"The Aether","aether_legacy:floating_block","EntityFloatingBlock",25
+"The Aether","aether_legacy:flying_cow","EntityFlyingCow",2
+"The Aether","aether_legacy:golden_dart","EntityDartGolden",15
+"The Aether","aether_legacy:hammer_projectile","EntityHammerProjectile",29
+"The Aether","aether_legacy:ice_ball","EntityIceyBall",20
+"The Aether","aether_legacy:lightning_knife","EntityLightningKnife",30
+"The Aether","aether_legacy:mimic","EntityMimic",11
+"The Aether","aether_legacy:mini_cloud","EntityMiniCloud",24
+"The Aether","aether_legacy:moa","EntityMoa",0
+"The Aether","aether_legacy:parachute","EntityParachute",31
+"The Aether","aether_legacy:phoenix_arrow","EntityPhoenixArrow",27
+"The Aether","aether_legacy:phyg","EntityPhyg",1
+"The Aether","aether_legacy:poison_dart","EntityDartPoison",16
+"The Aether","aether_legacy:poison_needle","EntityPoisonNeedle",18
+"The Aether","aether_legacy:sentry","EntitySentry",8
+"The Aether","aether_legacy:sheepuff","EntitySheepuff",3
+"The Aether","aether_legacy:slider","EntitySlider",12
+"The Aether","aether_legacy:sun_spirit","EntitySunSpirit",14
+"The Aether","aether_legacy:swet","EntitySwet",6
+"The Aether","aether_legacy:thunder_ball","EntityThunderBall",21
+"The Aether","aether_legacy:tipped_phoenix_arrow","EntityTippedPhoenixArrow",33
+"The Aether","aether_legacy:tnt_present","EntityTNTPresent",26
+"The Aether","aether_legacy:valkyrie","EntityValkyrie",22
+"The Aether","aether_legacy:valkyrie_queen","EntityValkyrieQueen",13
+"The Aether","aether_legacy:whirlwind","EntityWhirlwind",32
+"The Aether","aether_legacy:zephyr","EntityZephyr",9
+"The Aether","aether_legacy:zephyr_snowball","EntityZephyrSnowball",28
+"The Beneath","beneath:hand","EntityHand",2
+"The Beneath","beneath:shadow","EntityShadow",1
+"The Betweenlands","thebetweenlands:anadia","EntityAnadia",162
+"The Betweenlands","thebetweenlands:angler","EntityAngler",2
+"The Betweenlands","thebetweenlands:angry_pebble","EntityAngryPebble",61
+"The Betweenlands","thebetweenlands:ash_sprite","EntityAshSprite",113
+"The Betweenlands","thebetweenlands:barrishee","EntityBarrishee",111
+"The Betweenlands","thebetweenlands:betweenlands_fish_hook","EntityBLFishHook",164
+"The Betweenlands","thebetweenlands:betweenstone_pebble","EntityBetweenstonePebble",147
+"The Betweenlands","thebetweenlands:bl_arrow","EntityBLArrow",23
+"The Betweenlands","thebetweenlands:bl_elexir","EntityElixir",70
+"The Betweenlands","thebetweenlands:blood_snail","EntityBloodSnail",18
+"The Betweenlands","thebetweenlands:boulder_sprite","EntityBoulderSprite",79
+"The Betweenlands","thebetweenlands:bubbler_crab","EntityBubblerCrab",175
+"The Betweenlands","thebetweenlands:bubbler_crab_bubble","EntityBubblerCrabBubble",179
+"The Betweenlands","thebetweenlands:cave_fish","EntityCaveFish",180
+"The Betweenlands","thebetweenlands:cc_ground_spawner","EntityCCGroundSpawner",123
+"The Betweenlands","thebetweenlands:chiromaw","EntityChiromaw",35
+"The Betweenlands","thebetweenlands:chiromaw_droppings","EntityChiromawDroppings",151
+"The Betweenlands","thebetweenlands:chiromaw_greebling_rider","EntityChiromawGreeblingRider",144
+"The Betweenlands","thebetweenlands:chiromaw_hatchling","EntityChiromawHatchling",152
+"The Betweenlands","thebetweenlands:chiromaw_matriarch","EntityChiromawMatriarch",149
+"The Betweenlands","thebetweenlands:chiromaw_tame","EntityChiromawTame",153
+"The Betweenlands","thebetweenlands:crypt_crawler","EntityCryptCrawler",109
+"The Betweenlands","thebetweenlands:dark_druid","EntityDarkDruid",0
+"The Betweenlands","thebetweenlands:decay_pit_target","EntityDecayPitTarget",115
+"The Betweenlands","thebetweenlands:draeton","EntityDraeton",140
+"The Betweenlands","thebetweenlands:draeton_chiromaw_tamed","EntityPullerChiromaw",143
+"The Betweenlands","thebetweenlands:draeton_dragonfly","EntityPullerDragonfly",141
+"The Betweenlands","thebetweenlands:draeton_firefly","EntityPullerFirefly",142
+"The Betweenlands","thebetweenlands:dragonfly","EntityDragonFly",16
+"The Betweenlands","thebetweenlands:dreadful_mummy","EntityDreadfulMummy",71
+"The Betweenlands","thebetweenlands:emberling","EntityEmberling",128
+"The Betweenlands","thebetweenlands:emberling_shaman","EntityEmberlingShaman",124
+"The Betweenlands","thebetweenlands:false_xp","EntityFalseXPOrb",138
+"The Betweenlands","thebetweenlands:firefly","EntityFirefly",10
+"The Betweenlands","thebetweenlands:fish_bait_item","EntityFishBait",161
+"The Betweenlands","thebetweenlands:fish_vortex","EntityFishVortex",183
+"The Betweenlands","thebetweenlands:fishing_spear","EntityFishingSpear",165
+"The Betweenlands","thebetweenlands:fishing_tackle_box_seat","EntityFishingTackleBoxSeat",166
+"The Betweenlands","thebetweenlands:flame_jet","EntityFlameJet",126
+"The Betweenlands","thebetweenlands:fortress_boss","EntityFortressBoss",62
+"The Betweenlands","thebetweenlands:fortress_boss_blockade","EntityFortressBossBlockade",65
+"The Betweenlands","thebetweenlands:fortress_boss_projectile","EntityFortressBossProjectile",66
+"The Betweenlands","thebetweenlands:fortress_boss_spawner","EntityFortressBossSpawner",64
+"The Betweenlands","thebetweenlands:fortress_boss_teleporter","EntityFortressBossTeleporter",68
+"The Betweenlands","thebetweenlands:fortress_boss_turret","EntityFortressBossTurret",67
+"The Betweenlands","thebetweenlands:freshwater_urchin","EntityFreshwaterUrchin",177
+"The Betweenlands","thebetweenlands:frog","EntityFrog",37
+"The Betweenlands","thebetweenlands:gallery_frame","EntityGalleryFrame",131
+"The Betweenlands","thebetweenlands:gas_cloud","EntityGasCloud",42
+"The Betweenlands","thebetweenlands:gecko","EntityGecko",27
+"The Betweenlands","thebetweenlands:glowing_goop","EntityGlowingGoop",182
+"The Betweenlands","thebetweenlands:grapping_hook_node","EntityGrapplingHookNode",58
+"The Betweenlands","thebetweenlands:greebling","EntityGreebling",77
+"The Betweenlands","thebetweenlands:greebling_coracle","EntityGreeblingCoracle",155
+"The Betweenlands","thebetweenlands:greebling_corpse","EntityGreeblingCorpse",154
+"The Betweenlands","thebetweenlands:greebling_volarpad_floater","EntityGreeblingVolarpadFloater",146
+"The Betweenlands","thebetweenlands:jellyfish","EntityJellyfish",171
+"The Betweenlands","thebetweenlands:jellyfish_cave","EntityJellyfishCave",173
+"The Betweenlands","thebetweenlands:large_sludge_worm","EntityLargeSludgeWorm",95
+"The Betweenlands","thebetweenlands:leech","EntityLeech",14
+"The Betweenlands","thebetweenlands:lightning","EntityBLLightningBolt",136
+"The Betweenlands","thebetweenlands:lurker","EntityLurker",25
+"The Betweenlands","thebetweenlands:lurker_skin_raft","EntityLurkerSkinRaft",100
+"The Betweenlands","thebetweenlands:mire_snail","EntityMireSnail",20
+"The Betweenlands","thebetweenlands:mire_snail_egg","EntityMireSnailEgg",22
+"The Betweenlands","thebetweenlands:mist_brige","EntityMistBridge",170
+"The Betweenlands","thebetweenlands:moving_spawner_hole","EntityMovingSpawnerHole",105
+"The Betweenlands","thebetweenlands:moving_wall","EntityMovingWall",127
+"The Betweenlands","thebetweenlands:multipart_dummy","EntityMultipartDummy",139
+"The Betweenlands","thebetweenlands:mummy_arm","EntityMummyArm",60
+"The Betweenlands","thebetweenlands:olm","EntityOlm",33
+"The Betweenlands","thebetweenlands:peat_mummy","EntityPeatMummy",52
+"The Betweenlands","thebetweenlands:predator_arrow_guide","EntityPredatorArrowGuide",90
+"The Betweenlands","thebetweenlands:pyrad","EntityPyrad",49
+"The Betweenlands","thebetweenlands:pyrad_flame","EntityPyradFlame",51
+"The Betweenlands","thebetweenlands:resurrection","EntityResurrection",137
+"The Betweenlands","thebetweenlands:rock_snot","EntityRockSnot",167
+"The Betweenlands","thebetweenlands:rock_snot_tendril","EntityRockSnotTendril",169
+"The Betweenlands","thebetweenlands:root_grabber","EntityRootGrabber",86
+"The Betweenlands","thebetweenlands:root_sprite","EntityRootSprite",88
+"The Betweenlands","thebetweenlands:rope_node","EntityRopeNode",57
+"The Betweenlands","thebetweenlands:sap_spit","EntitySapSpit",84
+"The Betweenlands","thebetweenlands:shambler","EntityShambler",101
+"The Betweenlands","thebetweenlands:shock","EntityShock",135
+"The Betweenlands","thebetweenlands:shockwave_block","EntityShockwaveBlock",41
+"The Betweenlands","thebetweenlands:shockwave_sword_item","EntityShockwaveSwordItem",40
+"The Betweenlands","thebetweenlands:silt_crab","EntitySiltCrab",47
+"The Betweenlands","thebetweenlands:sludge","EntitySludge",4
+"The Betweenlands","thebetweenlands:sludge_ball","EntitySludgeBall",73
+"The Betweenlands","thebetweenlands:sludge_jet","EntitySludgeJet",116
+"The Betweenlands","thebetweenlands:sludge_menace","EntitySludgeMenace",132
+"The Betweenlands","thebetweenlands:sludge_menace_multipart_dummy","DummyPart",134
+"The Betweenlands","thebetweenlands:sludge_wall_jet","EntitySludgeWallJet",120
+"The Betweenlands","thebetweenlands:small_sludge_worm","EntitySludgeWorm",91
+"The Betweenlands","thebetweenlands:smoll_sludge","EntitySmollSludge",75
+"The Betweenlands","thebetweenlands:snail_poison_jet","EntitySnailPoisonJet",24
+"The Betweenlands","thebetweenlands:spike_wave","EntitySpikeWave",85
+"The Betweenlands","thebetweenlands:spirit_tree_face_large","EntitySpiritTreeFaceLarge",82
+"The Betweenlands","thebetweenlands:spirit_tree_face_mask","EntitySpiritTreeFaceMask",87
+"The Betweenlands","thebetweenlands:spirit_tree_face_small","EntitySpiritTreeFaceSmall",81
+"The Betweenlands","thebetweenlands:splodeshroom","EntitySplodeshroom",121
+"The Betweenlands","thebetweenlands:spore_jet","EntitySporeJet",74
+"The Betweenlands","thebetweenlands:sporeling","EntitySporeling",12
+"The Betweenlands","thebetweenlands:stalker","EntityStalker",157
+"The Betweenlands","thebetweenlands:swamp_hag","EntitySwampHag",6
+"The Betweenlands","thebetweenlands:swarm","EntitySwarm",159
+"The Betweenlands","thebetweenlands:sword_energy","EntitySwordEnergy",39
+"The Betweenlands","thebetweenlands:tamed_spirit_tree_face","EntityTamedSpiritTreeFace",83
+"The Betweenlands","thebetweenlands:tar_beast","EntityTarBeast",45
+"The Betweenlands","thebetweenlands:tarminion","EntityTarminion",54
+"The Betweenlands","thebetweenlands:termite","EntityTermite",29
+"The Betweenlands","thebetweenlands:thrown_tarminion","EntityThrownTarminion",56
+"The Betweenlands","thebetweenlands:tiny_sludge_worm","EntityTinySludgeWorm",93
+"The Betweenlands","thebetweenlands:tiny_sludge_worm_helper","EntityTinySludgeWormHelper",98
+"The Betweenlands","thebetweenlands:tiny_worm_egg_sac","EntityTinyWormEggSac",97
+"The Betweenlands","thebetweenlands:toad","EntityGiantToad",31
+"The Betweenlands","thebetweenlands:triggered_falling_block","EntityTriggeredFallingBlock",117
+"The Betweenlands","thebetweenlands:triggered_sludge_wall_jet","EntityTriggeredSludgeWallJet",118
+"The Betweenlands","thebetweenlands:urchin_spike_aoe","EntityUrchinSpikeAOE",184
+"The Betweenlands","thebetweenlands:volarkite","EntityVolarkite",59
+"The Betweenlands","thebetweenlands:volatile_soul","EntityVolatileSoul",44
+"The Betweenlands","thebetweenlands:wall_lamprey","EntityWallLamprey",103
+"The Betweenlands","thebetweenlands:wall_living_root","EntityWallLivingRoot",107
+"The Betweenlands","thebetweenlands:weedwood_rowboat","EntityWeedwoodRowboat",69
+"The Betweenlands","thebetweenlands:wight","EntityWight",8
+"The Betweenlands","thebetweenlands:wild_emberling","EntityEmberlingWild",129
+"The Betweenlands","thebetweenlands:worm_ground_spawner","EntityWormGroundSpawner",148
+"The Farlanders","farlanders:classic_enderman","EntityClassicEnderman",9
+"The Farlanders","farlanders:elder_farlander","EntityElderFarlander",1
+"The Farlanders","farlanders:ender_golem","EntityEnderGolem",11
+"The Farlanders","farlanders:ender_guardian","EntityEnderGuardian",3
+"The Farlanders","farlanders:enderminion","EntityEnderminion",6
+"The Farlanders","farlanders:fanmade_enderman","EntityFanmadeEnderman",10
+"The Farlanders","farlanders:farlander","EntityFarlander",0
+"The Farlanders","farlanders:looter","EntityLooter",4
+"The Farlanders","farlanders:mystic_enderman","EntityMysticEnderman",8
+"The Farlanders","farlanders:mystic_enderminion","EntityMysticEnderminion",7
+"The Farlanders","farlanders:rebel","EntityRebel",5
+"The Farlanders","farlanders:titan","EntityTitan",12
+"The Farlanders","farlanders:wanderer","EntityWanderer",2
+"The Summoner","thesummoner:summoner","EntitySummoner",1
+"The Twilight Forest","twilightforest:adherent","EntityTFAdherent",56
+"The Twilight Forest","twilightforest:armored_giant","EntityTFArmoredGiant",53
+"The Twilight Forest","twilightforest:bighorn_sheep","EntityTFBighorn",1
+"The Twilight Forest","twilightforest:blockchain_goblin","EntityTFBlockGoblin",39
+"The Twilight Forest","twilightforest:boggard","EntityTFBoggard",78
+"The Twilight Forest","twilightforest:bunny","EntityTFBunny",17
+"The Twilight Forest","twilightforest:castle_guardian","EntityTFCastleGuardian",58
+"The Twilight Forest","twilightforest:chain_block","EntityTFChainBlock",75
+"The Twilight Forest","twilightforest:charm_effect","EntityTFCharmEffect",68
+"The Twilight Forest","twilightforest:cube_of_annihilation","EntityTFCubeOfAnnihilation",76
+"The Twilight Forest","twilightforest:death_tome","EntityTFDeathTome",22
+"The Twilight Forest","twilightforest:deer","EntityTFDeer",2
+"The Twilight Forest","twilightforest:falling_ice","EntityTFFallingIce",70
+"The Twilight Forest","twilightforest:fire_beetle","EntityTFFireBeetle",25
+"The Twilight Forest","twilightforest:firefly","EntityTFMobileFirefly",32
+"The Twilight Forest","twilightforest:giant_miner","EntityTFGiantMiner",52
+"The Twilight Forest","twilightforest:goblin_knight_lower","EntityTFGoblinKnightLower",41
+"The Twilight Forest","twilightforest:goblin_knight_upper","EntityTFGoblinKnightUpper",40
+"The Twilight Forest","twilightforest:harbinger_cube","EntityTFHarbingerCube",55
+"The Twilight Forest","twilightforest:hedge_spider","EntityTFHedgeSpider",9
+"The Twilight Forest","twilightforest:helmet_crab","EntityTFHelmetCrab",42
+"The Twilight Forest","twilightforest:hostile_wolf","EntityTFHostileWolf",7
+"The Twilight Forest","twilightforest:hydra","EntityTFHydra",10
+"The Twilight Forest","twilightforest:hydra_head","EntityTFHydraHead",59
+"The Twilight Forest","twilightforest:hydra_mortar","EntityTFHydraMortar",64
+"The Twilight Forest","twilightforest:ice_arrow","EntityIceArrow",73
+"The Twilight Forest","twilightforest:ice_crystal","EntityTFIceCrystal",54
+"The Twilight Forest","twilightforest:ice_snowball","EntityTFIceSnowball",74
+"The Twilight Forest","twilightforest:king_spider","EntityTFKingSpider",31
+"The Twilight Forest","twilightforest:knight_phantom","EntityTFKnightPhantom",43
+"The Twilight Forest","twilightforest:kobold","EntityTFKobold",20
+"The Twilight Forest","twilightforest:lich","EntityTFLich",11
+"The Twilight Forest","twilightforest:lich_bolt","EntityTFLichBolt",61
+"The Twilight Forest","twilightforest:lich_bomb","EntityTFLichBomb",65
+"The Twilight Forest","twilightforest:lich_minion","EntityTFLichMinion",13
+"The Twilight Forest","twilightforest:loyal_zombie","EntityTFLoyalZombie",14
+"The Twilight Forest","twilightforest:maze_slime","EntityTFMazeSlime",28
+"The Twilight Forest","twilightforest:mini_ghast","EntityTFMiniGhast",33
+"The Twilight Forest","twilightforest:minoshroom","EntityTFMinoshroom",24
+"The Twilight Forest","twilightforest:minotaur","EntityTFMinotaur",23
+"The Twilight Forest","twilightforest:mist_wolf","EntityTFMistWolf",30
+"The Twilight Forest","twilightforest:moonworm_shot","EntityTFMoonwormShot",66
+"The Twilight Forest","twilightforest:mosquito_swarm","EntityTFMosquitoSwarm",21
+"The Twilight Forest","twilightforest:naga","EntityTFNaga",5
+"The Twilight Forest","twilightforest:nature_bolt","EntityTFNatureBolt",60
+"The Twilight Forest","twilightforest:penguin","EntityTFPenguin",12
+"The Twilight Forest","twilightforest:pinch_beetle","EntityTFPinchBeetle",27
+"The Twilight Forest","twilightforest:quest_ram","EntityTFQuestRam",19
+"The Twilight Forest","twilightforest:raven","EntityTFRaven",18
+"The Twilight Forest","twilightforest:redcap","EntityTFRedcap",3
+"The Twilight Forest","twilightforest:redcap_sapper","EntityTFRedcapSapper",29
+"The Twilight Forest","twilightforest:rising_zombie","EntityTFRisingZombie",79
+"The Twilight Forest","twilightforest:roving_cube","EntityTFRovingCube",57
+"The Twilight Forest","twilightforest:seeker_arrow","EntitySeekerArrow",72
+"The Twilight Forest","twilightforest:skeleton_druid","EntityTFSkeletonDruid",6
+"The Twilight Forest","twilightforest:slider","EntityTFSlideBlock",77
+"The Twilight Forest","twilightforest:slime_beetle","EntityTFSlimeBeetle",26
+"The Twilight Forest","twilightforest:slime_blob","EntityTFSlimeProjectile",67
+"The Twilight Forest","twilightforest:snow_guardian","EntityTFSnowGuardian",47
+"The Twilight Forest","twilightforest:snow_queen","EntityTFSnowQueen",50
+"The Twilight Forest","twilightforest:squirrel","EntityTFSquirrel",16
+"The Twilight Forest","twilightforest:stable_ice_core","EntityTFIceShooter",48
+"The Twilight Forest","twilightforest:swarm_spider","EntityTFSwarmSpider",4
+"The Twilight Forest","twilightforest:thrown_ice","EntityTFIceBomb",71
+"The Twilight Forest","twilightforest:thrown_wep","EntityTFThrownWep",69
+"The Twilight Forest","twilightforest:tiny_bird","EntityTFTinyBird",15
+"The Twilight Forest","twilightforest:tome_bolt","EntityTFTomeBolt",63
+"The Twilight Forest","twilightforest:tower_broodling","EntityTFTowerBroodling",37
+"The Twilight Forest","twilightforest:tower_ghast","EntityTFTowerGhast",34
+"The Twilight Forest","twilightforest:tower_golem","EntityTFTowerGolem",35
+"The Twilight Forest","twilightforest:tower_termite","EntityTFTowerTermite",36
+"The Twilight Forest","twilightforest:troll","EntityTFTroll",51
+"The Twilight Forest","twilightforest:unstable_ice_core","EntityTFIceExploder",49
+"The Twilight Forest","twilightforest:ur_ghast","EntityTFUrGhast",38
+"The Twilight Forest","twilightforest:wand_bolt","EntityTFTwilightWandBolt",62
+"The Twilight Forest","twilightforest:wild_boar","EntityTFBoar",0
+"The Twilight Forest","twilightforest:winter_wolf","EntityTFWinterWolf",46
+"The Twilight Forest","twilightforest:wraith","EntityTFWraith",8
+"The Twilight Forest","twilightforest:yeti","EntityTFYeti",44
+"The Twilight Forest","twilightforest:yeti_alpha","EntityTFYetiAlpha",45
+"Tinkers' Construct","tconstruct:arrow","EntityArrow",10
+"Tinkers' Construct","tconstruct:blueslime","EntityBlueSlime",1
+"Tinkers' Construct","tconstruct:bolt","EntityBolt",11
+"Tinkers' Construct","tconstruct:fancy_frame","EntityFancyItemFrame",2
+"Tinkers' Construct","tconstruct:indestructible","IndestructibleEntityItem",0
+"Tinkers' Construct","tconstruct:shuriken","EntityShuriken",12
+"Tinkers' Construct","tconstruct:throwball","EntityThrowball",3
+"Total Tinkers","totaltinkers:explosive_arrow","EntityExplosiveArrow",2491
+"Total Tinkers","totaltinkers:javelin","EntityJavelin",9937
+"Touhou Little Maid","touhou_little_maid:entity.item.backpack","EntityBackpack",9
+"Touhou Little Maid","touhou_little_maid:entity.item.box","EntityBox",7
+"Touhou Little Maid","touhou_little_maid:entity.item.chair","EntityChair",3
+"Touhou Little Maid","touhou_little_maid:entity.item.extinguishing_agent","EntityExtinguishingAgent",14
+"Touhou Little Maid","touhou_little_maid:entity.item.maid_joy","EntityMaidJoy",16
+"Touhou Little Maid","touhou_little_maid:entity.item.maid_vehicle","EntityMaidVehicle",11
+"Touhou Little Maid","touhou_little_maid:entity.item.marisa_broom","EntityMarisaBroom",2
+"Touhou Little Maid","touhou_little_maid:entity.item.portable_audio","EntityPortableAudio",13
+"Touhou Little Maid","touhou_little_maid:entity.item.power_point","EntityPowerPoint",5
+"Touhou Little Maid","touhou_little_maid:entity.item.scarecrow","EntityScarecrow",12
+"Touhou Little Maid","touhou_little_maid:entity.item.suitcase","EntitySuitcase",8
+"Touhou Little Maid","touhou_little_maid:entity.item.throw_power_point","EntityThrowPowerPoint",15
+"Touhou Little Maid","touhou_little_maid:entity.item.trolley_audio","EntityTrolleyAudio",10
+"Touhou Little Maid","touhou_little_maid:entity.monster.fairy","EntityFairy",6
+"Touhou Little Maid","touhou_little_maid:entity.monster.rinnosuke","EntityRinnosuke",4
+"Touhou Little Maid","touhou_little_maid:entity.passive.maid","EntityMaid",0
+"Touhou Little Maid","touhou_little_maid:entity.projectile.danmaku","EntityDanmaku",1
+"Trident","trident:trident","EntityTrident",1
+"Tumbleweed","tumbleweed:tumbleweed","EntityTumbleweed",0
+"WirelessRedstone-CBE","wrcbe:tracker","EntityWirelessTracker",0
+"Yoyos","yoyos:yoyo","EntityYoyo",0
+"Yoyos","yoyos:yoyo_chaser","EntityChaserYoyo",3
+"Yoyos","yoyos:yoyo_sticky","EntityStickyYoyo",1
+"Zoology of Withernauts","turtdance:axe_beak","EntityAxeBeak",1
+"Zoology of Withernauts","turtdance:baby_necropolis_spider","EntityBabyNecropolisSpider",5
+"Zoology of Withernauts","turtdance:booglin","EntityBooglin",3
+"Zoology of Withernauts","turtdance:fugu","EntityFugu",6
+"Zoology of Withernauts","turtdance:necropolis_skeleton","EntityNecropolisSkeleton",0
+"Zoology of Withernauts","turtdance:necropolis_spider","EntityNecropolisSpider",4
+"Zoology of Withernauts","turtdance:vampire_bat","EntityVampireBat",2
+"[SBM] Merpig","merpig:merpig","EntityMerpig",50
+"aqua_creepers","aqua_creepers:aqua_creeper","EntityAquaCreeper",1
+"iChunUtil","ichunutil:entity_block","EntityBlock",500

@@ -1,0 +1,36 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "duneons:serpgold",
+    "count": 1
+  }
+}

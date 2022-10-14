@@ -1,0 +1,13 @@
+{
+  "sortnum": 17,
+  "name": "Extincteur",
+  "icon": "touhou_little_maid:extinguisher",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:extinguisher",
+      "text": "Il n'est utilisé que lorsque la maid est en tâche pompière et ne peut pas être utilisé par le joueur."
+    }
+  ]
+}

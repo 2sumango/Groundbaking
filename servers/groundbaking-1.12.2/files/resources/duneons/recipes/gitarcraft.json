@@ -1,0 +1,22 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:loggold"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "duneons:giter",
+    "count": 1
+  }
+}

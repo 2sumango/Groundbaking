@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:diamondchest"
+    },
+    "facing=north": {
+      "model": "duneons:diamondchest"
+    },
+    "facing=east": {
+      "model": "duneons:diamondchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:diamondchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:diamondchest",
+      "y": 270
+    }
+  }
+}

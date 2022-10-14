@@ -1,0 +1,19 @@
+#
+# ITEMS
+item.Ring.0.name=Miner's Ring
+#
+# GUI
+button.baubles=Artifacts
+button.normal=Normal
+#
+# Keybinding
+keybind.baublesinventory=Artifacts Inventory
+#
+# Description
+name.AMULET=Artifacts: Flower
+name.RING=Artifacts: Plume
+name.BELT=Artifacts: + Waist Location
+name.TRINKET=Artifacts: + Any Slot
+name.HEAD=Artifacts: + Head Location
+name.BODY=Artifacts: + Body Location
+name.CHARM=Artifacts: Timepiece

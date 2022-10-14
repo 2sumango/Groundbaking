@@ -1,0 +1,38 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+	  "all": "quark:items/rune"
+	},
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 4, 0],
+			"scale":[ 1, 1, 1 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 3, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 45, 45, 0 ],
+			"translation": [ 0, 3, 4 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		},
+		"firstperson_righthand": {
+		  "rotation": [ 0, -75, 0 ],
+		  "translation": [ 2.00, -2.00, 1 ],
+		  "scale": [ 0.45, 0.45, 0.45 ]
+	  },
+	  "firstperson_lefthand": {
+		  "rotation": [ 0, -75, 0 ],
+		  "translation": [ 2.00, -2.00, 1 ],
+		  "scale": [ 0.45, 0.45, 0.45 ]
+	  }  
+	}
+  }

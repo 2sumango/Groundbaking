@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/bricker_dirt",
+    "up": "duneons:blocks/bricker_dirt",
+    "north": "duneons:blocks/tower_bricker",
+    "east": "duneons:blocks/tower_bricker",
+    "south": "duneons:blocks/tower_bricker",
+    "west": "duneons:blocks/tower_bricker",
+    "particle": "duneons:blocks/bricker_dirt"
+  }
+}

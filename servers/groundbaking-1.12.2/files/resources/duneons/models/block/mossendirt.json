@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/mossen_dirt",
+    "up": "duneons:blocks/mossen_dirt",
+    "north": "duneons:blocks/mossen_dirt",
+    "east": "duneons:blocks/mossen_dirt",
+    "south": "duneons:blocks/mossen_dirt",
+    "west": "duneons:blocks/mossen_dirt",
+    "particle": "duneons:blocks/mossen_dirt"
+  }
+}

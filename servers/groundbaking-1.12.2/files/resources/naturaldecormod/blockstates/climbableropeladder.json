@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:climbableropeladder"
+    },
+    "facing=south": {
+      "model": "naturaldecormod:climbableropeladder"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:climbableropeladder"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:climbableropeladder",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "naturaldecormod:climbableropeladder",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "naturaldecormod:climbableropeladder",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "naturaldecormod:climbableropeladder",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

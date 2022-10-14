@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/truthseeker",
+  "textures": {
+    "0": "duneons:blocks/ruthseeker"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    {
+      "type": "flash_ring_enabled"
+    }
+  ],
+  "result": {
+    "item": "rpsideas:flash_ring"
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " E ",
+    "EGE",
+    " P "
+  ],
+  "key": {
+    "E": {
+      "type": "forge:ore_dict",
+      "ore": "ingotEbonyPsi"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "dustGlowstone"
+    },
+    "P": {
+      "type": "forge:ore_dict",
+      "ore": "gemPsi"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:pumpkinscarecrow"
+    },
+    "facing=north": {
+      "model": "duneons:pumpkinscarecrow"
+    },
+    "facing=east": {
+      "model": "duneons:pumpkinscarecrow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:pumpkinscarecrow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:pumpkinscarecrow",
+      "y": 270
+    }
+  }
+}

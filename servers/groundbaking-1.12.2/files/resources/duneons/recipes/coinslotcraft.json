@@ -1,0 +1,16 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:lotscoins"
+    }
+  },
+  "result": {
+    "item": "duneons:coin",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "group": "hornbonemealrecipe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "koopascritters:impallahorn"
+    }
+  },
+  "result": {
+    "item": "minecraft:dye",
+    "data": 15,
+    "count": 2
+  }
+}

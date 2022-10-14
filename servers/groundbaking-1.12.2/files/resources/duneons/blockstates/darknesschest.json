@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:darknesschest"
+    },
+    "facing=north": {
+      "model": "duneons:darknesschest"
+    },
+    "facing=east": {
+      "model": "duneons:darknesschest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:darknesschest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:darknesschest",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:redstoneheadcrafting"
+    },
+    "1": {
+      "item": "duneons:totemblock"
+    }
+  },
+  "result": {
+    "item": "duneons:redstonemonstertotem",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:chain"
+    },
+    "1": {
+      "item": "duneons:macefix"
+    }
+  },
+  "result": {
+    "item": "duneons:chainmace",
+    "count": 1
+  }
+}

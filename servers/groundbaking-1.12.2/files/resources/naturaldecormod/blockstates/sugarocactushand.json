@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:sugarocactushand"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:sugarocactushand"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:sugarocactushand",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:sugarocactushand",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:sugarocactushand",
+      "y": 270
+    }
+  }
+}

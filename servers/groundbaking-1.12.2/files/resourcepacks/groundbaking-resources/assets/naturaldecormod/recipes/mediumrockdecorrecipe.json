@@ -1,0 +1,26 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "naturaldecormod:rockdecorsmall"
+    },
+    "3": {
+      "item": "naturaldecormod:rockdecorsmall"
+    },
+    "4": {
+      "item": "naturaldecormod:rockdecorsmall"
+    },
+    "5": {
+      "item": "naturaldecormod:rockdecorsmall"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:rockdecormedium",
+    "count": 2
+  }
+}

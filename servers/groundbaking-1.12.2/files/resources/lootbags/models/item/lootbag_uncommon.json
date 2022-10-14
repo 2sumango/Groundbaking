@@ -1,0 +1,44 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "lootbags:blocks/loot_front",
+        "down": "lootbags:blocks/loot_map",
+        "up": "lootbags:blocks/loot_map",
+        "north": "lootbags:blocks/loot_front",
+        "east": "lootbags:blocks/loot_side",
+        "south": "lootbags:blocks/loot_side",
+        "west": "lootbags:blocks/loot_side"
+	},
+	"display": {
+	"gui": {
+		"rotation": [ 15, -25, -5 ],
+		"translation": [ 0, 1, 0 ],
+		"scale": [ 0.65, 0.65, 0.65 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 4, 0],
+			"scale":[ 1, 1, 1 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 3, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 45, 45, 0 ],
+			"translation": [ 0, 3, 4 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		},
+		"firstperson_righthand": {
+		  "rotation": [ 0, -75, 0 ],
+		  "translation": [ 2.00, -2.00, 1 ],
+		  "scale": [ 0.45, 0.45, 0.45 ]
+	  },
+	  "firstperson_lefthand": {
+		  "rotation": [ 0, -75, 0 ],
+		  "translation": [ 2.00, -2.00, 1 ],
+		  "scale": [ 0.45, 0.45, 0.45 ]
+	  }  
+	}
+}

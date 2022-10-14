@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/fescuegrass",
+  "textures": {
+    "all": "naturaldecormod:blocks/escuerassittle",
+    "particle": "naturaldecormod:blocks/escuerassittle",
+    "FescueGrass": "naturaldecormod:blocks/escuerass",
+    "FescueGrassMirrored": "naturaldecormod:blocks/escuerassirrored"
+  }
+}

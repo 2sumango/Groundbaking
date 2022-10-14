@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_open",
+  "textures": {
+    "texture": "naturaldecormod:blocks/jungle_trapdoor",
+    "particle": "naturaldecormod:blocks/jungle_trapdoor"
+  }
+}

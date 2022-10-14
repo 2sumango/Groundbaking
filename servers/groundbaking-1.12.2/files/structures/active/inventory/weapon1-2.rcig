@@ -1,0 +1,428 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "camploot",
+  "items": [
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tconstruct:broadsword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StatsOriginal": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 5.09
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 3
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 268
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 1
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 3.5
+                }
+              }
+            },
+            "Stats": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 5.09
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 3
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 268
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 1
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 3.5
+                }
+              }
+            },
+            "Special": {
+              "nbtType": "compound",
+              "nbt": {
+                "Categories": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "weapon"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "tool"
+                    }
+                  ]
+                }
+              }
+            },
+            "TinkerData": {
+              "nbtType": "compound",
+              "nbt": {
+                "Materials": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "wood"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "bone"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "lead"
+                    }
+                  ]
+                },
+                "Modifiers": {
+                  "nbtType": "list",
+                  "nbt": []
+                }
+              }
+            },
+            "Modifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "ecological"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -7444965
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "splintering"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -1186113
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "poisonous"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -11712152
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "heavy"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -11712152
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "Traits": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "string",
+                  "nbt": "ecological"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "splintering"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "poisonous"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "heavy"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tconstruct:broadsword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StatsOriginal": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 3.0
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 3
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 202
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 1
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 3.0
+                }
+              }
+            },
+            "Stats": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 3.0
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 3
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 161
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 1
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 3.0
+                }
+              }
+            },
+            "Special": {
+              "nbtType": "compound",
+              "nbt": {
+                "Categories": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "weapon"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "tool"
+                    }
+                  ]
+                }
+              }
+            },
+            "TinkerData": {
+              "nbtType": "compound",
+              "nbt": {
+                "Materials": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "wood"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "stone"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "copper"
+                    }
+                  ]
+                },
+                "Modifiers": {
+                  "nbtType": "list",
+                  "nbt": []
+                }
+              }
+            },
+            "Modifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "ecological"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -7444965
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "cheapskate"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -6710887
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "established"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -1204473
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "Traits": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "string",
+                  "nbt": "ecological"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "cheapskate"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "established"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wheat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wheat",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

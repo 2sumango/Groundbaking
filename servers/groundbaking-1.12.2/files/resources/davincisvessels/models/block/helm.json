@@ -1,0 +1,6 @@
+{
+    "parent": "block/thin_block",
+    "textures": {
+        "texture": "davincisvessels:blocks/engine_front"
+    }
+}

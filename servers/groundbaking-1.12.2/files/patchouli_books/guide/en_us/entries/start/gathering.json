@@ -1,0 +1,52 @@
+{
+    "name": "Introduction - Gathering",
+    "icon": "minecraft:wheat",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Now that you're familiar with what's in front of you, why don't you acquaint yourself with what's outside that?                             Gathering:                                                  Collecting dropped items requires you to Right Click or Sneak over the item.  When collected, it will display the items you've picked up in the bottom left of the screen."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/gather.png","fiesta:assets/textures/gui/book/gather2.png"],
+            "border": "true"
+        },             
+        {
+            "type": "text",
+            "text": "Harvesting:                                                  When harvesting full grown crops, you can simply Right Click them, and they will yield XP and their respective drops, while keeping the new crop planted for you.                                          Rocks and Sticks on the ground can be gathered by Right Clicking twice, once to pull them out of the ground and one more to collect."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/gather3.png","fiesta:assets/textures/gui/book/gather4.png"],
+            "border": "true"
+        },                             
+        {
+            "type": "text",
+            "text": "Obtaining wood can be done in several ways, which is the base of most of your early crafting. Harvesting a log with your fists yields a wood chunk, whilst digging through leaves will occasionally drop sticks.  To obtain the full logs from trees, you must harvest with an axe.                                        Ores and stones in the world are progression based, with their harvest level changing with biomes or elevation.  "
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/gather5.png"],
+            "border": "true"
+        },                         
+        {
+            "type": "text",
+            "text": "Advancing in the world requires a lot of farming, whether it be agriculture or farming off mobs.  Agriculture is the easiest way to generate quick XP, so naturally you will want to get yourself a farm with crops.                                               When tilling the land with a hoe, you can pull up different types of seeds. Some seeds are required to be purchased from villagers or looted out in the world."
+        },          
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/gather6.png"],
+            "border": "true"
+        },           
+        {
+            "type": "text",
+            "text": "You've learned everything you need to know about harvesting from the world. This section of the guide book is now cleared.                    Make sure to take your time reviewing the book contents; keep note of everything you have picked up."
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:wheat",
+            "text": "       End of Chapter 2"
+        }                    
+    ]
+}

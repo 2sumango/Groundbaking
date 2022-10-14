@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/andesite_column",
+  "textures": {
+    "all": "duneons:blocks/bricker_slab",
+    "particle": "duneons:blocks/bricker_slab",
+    "0": "duneons:blocks/bricker_slab"
+  }
+}

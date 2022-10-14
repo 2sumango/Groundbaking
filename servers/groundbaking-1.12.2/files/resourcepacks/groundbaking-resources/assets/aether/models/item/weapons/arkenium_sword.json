@@ -1,0 +1,32 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "aether:items/weapons/arkenium_sword"
+	},
+    "display": {            
+        "firstperson_righthand": {
+            "rotation": [ -30, 125, 40 ],
+            "translation": [ 6, 8, -18 ],
+            "scale": [ 3.25, 3.25, 2.55 ]
+        },       
+        "thirdperson_righthand": {
+            "rotation": [ -31, 115, 46 ],
+            "translation": [ 0, 7.25, -3.75 ],
+            "scale": [ 1.75, 1.75, 1.15 ]
+        },
+        "firstperson_lefthand": {
+          "rotation": [ -55, 125, -40 ],
+          "translation": [ 2, 3.25, -23 ],
+          "scale": [ 3.25, 3.25, 2.55 ]
+        },
+        "thirdperson_lefthand": {
+          "rotation": [ 0, 90, -55 ],
+          "translation": [ 0, 3.8, 0.5 ],
+          "scale": [ 1.75, 1.75, 1.15 ]
+        },         
+        "gui": {
+		      "rotation": [ 15, -170, -5 ],			
+          "scale": [ 1.6, 1.6, 1.6 ]
+        }     
+     }
+  }

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/brinder_block",
+    "up": "duneons:blocks/chiseled",
+    "north": "duneons:blocks/bricker_skeleton",
+    "east": "duneons:blocks/bricker_skeleton",
+    "south": "duneons:blocks/bricker_skeleton",
+    "west": "duneons:blocks/bricker_skeleton",
+    "particle": "duneons:blocks/brinder_block"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:rainbowglass"
+    },
+    "facing=north": {
+      "model": "duneons:rainbowglass"
+    },
+    "facing=east": {
+      "model": "duneons:rainbowglass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:rainbowglass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:rainbowglass",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "aether:crude_scatterglass_decorative",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "aether:crude_scatterglass_pane_decorative",
+		"data": 0,
+		"count": 16
+	}
+}

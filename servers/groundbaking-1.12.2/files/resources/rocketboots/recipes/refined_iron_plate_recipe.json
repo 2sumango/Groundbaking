@@ -1,0 +1,42 @@
+{
+  "group": "refironplate",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rocketboots:iron_plate"
+    },
+    "1": {
+      "item": "rocketboots:iron_plate"
+    },
+    "2": {
+      "item": "rocketboots:iron_plate"
+    },
+    "3": {
+      "item": "rocketboots:iron_plate"
+    },
+    "4": {
+      "item": "rocketboots:refined_iron_ingot"
+    },
+    "5": {
+      "item": "rocketboots:iron_plate"
+    },
+    "6": {
+      "item": "rocketboots:iron_plate"
+    },
+    "7": {
+      "item": "rocketboots:iron_plate"
+    },
+    "8": {
+      "item": "rocketboots:iron_plate"
+    }
+  },
+  "result": {
+    "item": "rocketboots:refined_iron_plate",
+    "count": 8
+  }
+}

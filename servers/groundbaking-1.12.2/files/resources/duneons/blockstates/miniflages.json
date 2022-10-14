@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:miniflages"
+    },
+    "facing=north": {
+      "model": "duneons:miniflages"
+    },
+    "facing=east": {
+      "model": "duneons:miniflages",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:miniflages",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:miniflages",
+      "y": 270
+    }
+  }
+}

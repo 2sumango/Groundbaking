@@ -1,0 +1,10 @@
+item.empty_grimoire.name=Пустой Гримуар
+item.grimoire_flame.name=Гримуар Пепла
+item.grimoire_ice.name=Гримуар Вьюги
+item.grimoire_sorcery.name=Гримуар Реальности
+item.grimoire_earth.name=Гримуар Природы
+item.grimoire_lightning.name=Гримуар Бури
+item.grimoire_holy.name=Гримуар Света
+item.grimoire_necromancy.name=Гримуар Теней
+item.zettai_grimoire.name=Абсолютный Гримуар
+itemGroup.grimorium=Абсолютные Гримуары

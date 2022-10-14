@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/harvester_book",
+  "textures": {
+    "0": "duneons:blocks/arvester"
+  }
+}

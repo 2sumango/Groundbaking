@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "pamhc2crops:block/cucumber_fruit",
+		"1": "pamhc2crops:block/cucumber_stage_3",
+		"particle": "pamhc2crops:block/cucumber_fruit"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [0, -1, 8],
+			"to": [16, 15, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [0, -1, 8],
+			"to": [16, 15, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Fruit1",
+			"from": [5.5, 0, 3],
+			"to": [11.5, 3, 6],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8.5, 2, 4.5]},
+			"faces": {
+				"north": {"uv": [0, 3, 3, 9], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 3], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 3, 3, 9], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"up": {"uv": [0, 3, 3, 9], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 3, 3, 9], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Fruit2",
+			"from": [4.5, 0, 10],
+			"to": [10.5, 3, 13],
+			"rotation": {"angle": -45, "axis": "z", "origin": [7.5, 2, 11.5]},
+			"faces": {
+				"north": {"uv": [0, 3, 3, 9], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 3], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 3, 3, 9], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"up": {"uv": [0, 3, 3, 9], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 3, 3, 9], "rotation": 270, "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "botania:items/sword_star"
+    },
+    "display": {            
+        "firstperson_righthand": {
+            "rotation": [ 71, -46, 35 ],
+            "translation": [ -13.5, 1.215, 7.55 ],
+            "scale": [ 2.25, 2.25, 1.15 ]
+        },       
+        "thirdperson_righthand": {
+            "rotation": [ 30, 75, 175 ],
+            "translation": [ -1.88, -13, 4 ],
+            "scale": [ 1.75, 1.75, 1.15 ]
+        },
+        "firstperson_lefthand": {
+          "rotation": [ -55, 125, -40 ],
+          "translation": [ 2, 3.25, -23 ],
+          "scale": [ 3.25, 3.25, 2.55 ]
+        },
+        "thirdperson_lefthand": {
+			"rotation": [ -80, -280, 260 ],
+			"translation": [ -0.25, -5.85, -0.75 ],
+            "scale": [ 1.75, 1.75, 1.15 ]
+        },         
+        "gui": {
+		  "rotation": [ 15, -170, -5 ],			
+          "scale": [ 1.6, 1.6, 1.6 ]
+        },         
+        "ground": {		
+          "scale": [ 1.8, 1.8, 1.1 ]
+        }		
+     }
+  }

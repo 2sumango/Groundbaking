@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "GCF",
+    "CAC",
+    "SCT"
+  ],
+
+  "key": {
+    "A": {
+      "item": "zettaigrimoires:empty_grimoire"
+    },
+    "C": {
+      "item": "ebwizardry:crystal_block",
+      "data": 3
+    },
+    "G": {
+      "item": "minecraft:redstone"
+    },
+    "F": {
+      "type": "forge:ore_dict",
+      "ore": "nuggetIron"
+    },
+    "S": {
+      "item": "ebwizardry:spectral_dust",
+      "data": 3
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotGold"
+    }
+  },
+  "result": {
+    "item": "zettaigrimoires:grimoire_lightning",
+    "count": 1
+  }
+}

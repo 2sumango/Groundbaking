@@ -1,0 +1,44 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:coin"
+    },
+    "1": {
+      "item": "duneons:unknown_element"
+    },
+    "2": {
+      "item": "duneons:coin"
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "4": {
+      "item": "minecraft:bone"
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "6": {
+      "item": "duneons:coin"
+    },
+    "7": {
+      "item": "duneons:unknown_element"
+    },
+    "8": {
+      "item": "duneons:coin"
+    }
+  },
+  "result": {
+    "item": "duneons:vangardskeletoncarpet",
+    "count": 1
+  }
+}

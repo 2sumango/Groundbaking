@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:stonetablemap"
+    },
+    "facing=north": {
+      "model": "duneons:stonetablemap"
+    },
+    "facing=east": {
+      "model": "duneons:stonetablemap",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:stonetablemap",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:stonetablemap",
+      "y": 270
+    }
+  }
+}

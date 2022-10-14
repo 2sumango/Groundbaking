@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/big_tombstone",
+  "textures": {
+    "all": "duneons:blocks/tomb_lid",
+    "particle": "duneons:blocks/tomb_lid",
+    "1": "duneons:blocks/tomb_lid",
+    "missing": "duneons:blocks/tomb_lid"
+  }
+}

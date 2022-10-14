@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:kotohackerplush"
+    },
+    "facing=north": {
+      "model": "duneons:kotohackerplush"
+    },
+    "facing=east": {
+      "model": "duneons:kotohackerplush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:kotohackerplush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:kotohackerplush",
+      "y": 270
+    }
+  }
+}

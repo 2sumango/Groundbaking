@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/staff_blue_skeleton_item",
+  "textures": {
+    "0": "duneons:blocks/skeleton_necromancer_blue"
+  }
+}

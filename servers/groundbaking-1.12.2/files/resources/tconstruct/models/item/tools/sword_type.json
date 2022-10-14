@@ -1,0 +1,29 @@
+{
+    "parent": "item/handheld",
+    "shade": "false",      
+    "textures": {
+        "layer0": "items/wooden_sword"
+    },
+    "display": {      
+        "firstperson_righthand": {
+            "rotation": [ -60, 135, 56 ],
+            "translation": [ -5, -1, -18 ],
+            "scale": [ 1.95, 1.95, 1.92 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 105, 0 ],
+            "translation": [ 13, -2, 0 ],
+            "scale": [ 1.09, 1.09, 1.09 ]
+        },        
+        "thirdperson_righthand": {
+            "rotation": [ -80, 270, -40 ],
+            "translation": [ -0.65, 3.5, 1.35 ],
+            "scale": [ 1.3, 1.3, 1.3 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -270, 40 ],
+            "translation": [ -0.65, 3.5, 1.35 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        }          
+    }
+}

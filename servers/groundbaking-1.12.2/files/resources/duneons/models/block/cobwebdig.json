@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/spider_cobweb_big",
+  "textures": {
+    "all": "duneons:blocks/cobweb_big",
+    "particle": "duneons:blocks/cobweb_big",
+    "0": "duneons:blocks/cobweb_big",
+    "missing": "duneons:blocks/cobweb_big"
+  }
+}

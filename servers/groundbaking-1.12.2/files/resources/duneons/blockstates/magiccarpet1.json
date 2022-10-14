@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:magiccarpet1"
+    },
+    "facing=north": {
+      "model": "duneons:magiccarpet1"
+    },
+    "facing=east": {
+      "model": "duneons:magiccarpet1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:magiccarpet1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:magiccarpet1",
+      "y": 270
+    }
+  }
+}

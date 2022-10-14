@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/bushsmall",
+  "textures": {
+    "all": "duneons:blocks/leaf2",
+    "particle": "duneons:blocks/leaf2",
+    "0": "duneons:blocks/leaf2",
+    "missing": "duneons:blocks/leaf2"
+  }
+}

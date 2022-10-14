@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "koopascritters:pebblesslab"
+    },
+    "half=top,variant=default": {
+      "model": "koopascritters:pebblesslab_top"
+    }
+  }
+}

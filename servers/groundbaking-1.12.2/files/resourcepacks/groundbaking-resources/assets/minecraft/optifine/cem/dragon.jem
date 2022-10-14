@@ -1,0 +1,19 @@
+{
+  "models": 
+  [
+    {
+      "model": "dragon_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 6, -12],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "dragon_jaw.jpm",
+      "part": "jaw", 
+	  "attach": false,
+      "translate": [ 8, 2, -3.5],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

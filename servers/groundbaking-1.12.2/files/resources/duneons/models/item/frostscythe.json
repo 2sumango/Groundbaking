@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/frostscythe",
+  "textures": {
+    "0": "duneons:blocks/rostcythe"
+  }
+}

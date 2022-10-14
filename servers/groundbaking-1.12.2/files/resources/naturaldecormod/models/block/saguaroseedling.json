@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "naturaldecormod:blocks/uguaroranchling",
+    "particle": "naturaldecormod:blocks/uguaroranchling"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/dracaneatallfinal",
+  "textures": {
+    "all": "naturaldecormod:blocks/racanea",
+    "particle": "naturaldecormod:blocks/racanea",
+    "DracaneaReversed": "naturaldecormod:blocks/racanea",
+    "Dracanea": "naturaldecormod:blocks/racaneaeversed"
+  }
+}

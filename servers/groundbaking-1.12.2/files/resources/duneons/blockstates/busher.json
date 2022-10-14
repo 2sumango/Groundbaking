@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:busher"
+    },
+    "facing=north": {
+      "model": "duneons:busher"
+    },
+    "facing=east": {
+      "model": "duneons:busher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:busher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:busher",
+      "y": 270
+    }
+  }
+}

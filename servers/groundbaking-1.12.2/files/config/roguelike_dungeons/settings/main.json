@@ -1,0 +1,27 @@
+
+{
+	"name" : "fiesta:main",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+            "EXTREME_HILLS",
+            "MUTATED_BIRCH_FOREST_HILLS",
+			"CONIFEROUS",
+			"FOREST",
+			"BIRCH_FOREST",
+			"MOUNTAIN",
+			"HILLS"
+		]
+	},
+	"inherit" : [
+		"fiesta:tower",
+		"fiesta:layout",
+		"fiesta:rooms",
+		"fiesta:segments",
+		"fiesta:theme",
+		"fiesta:loot",
+		"fiesta:loot_all",
+		"fiesta:spawners",
+		"fiesta:filters"
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/golden_candle",
+  "textures": {
+    "all": "duneons:blocks/giant_golden_candle_off",
+    "particle": "duneons:blocks/giant_golden_candle_off",
+    "missing": "duneons:blocks/giant_golden_candle_off",
+    "9": "duneons:blocks/gold_big_fire",
+    "10": "duneons:blocks/giant_golden_candle_off"
+  }
+}

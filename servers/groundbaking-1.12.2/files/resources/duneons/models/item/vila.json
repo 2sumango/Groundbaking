@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/vila",
+  "textures": {
+    "0": "duneons:blocks/vila",
+    "missing": "duneons:blocks/vila"
+  }
+}

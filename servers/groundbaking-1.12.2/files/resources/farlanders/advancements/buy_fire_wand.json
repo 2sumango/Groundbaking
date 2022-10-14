@@ -1,0 +1,43 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "title": {
+            "translate": "advancement.wand_destruction"
+        },
+        "description": {
+            "translate": "advancement.wand_destruction.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "farlanders:tame_enderminion",
+    "criteria": {
+        "small_wand": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+            "items": [
+              {
+                "item": "farlanders:mystic_wand_fire_small"
+              }
+            ]
+          }
+        },
+        "large_wand": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+            "items": [
+              {
+                "item": "farlanders:mystic_wand_fire_large"
+              }
+            ]
+          }
+        }
+  },
+  "requirements": [
+    [
+      "small_wand",
+      "large_wand"
+    ]
+  ]
+}

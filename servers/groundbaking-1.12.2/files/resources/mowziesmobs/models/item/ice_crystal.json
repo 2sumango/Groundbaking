@@ -1,0 +1,28 @@
+{
+    "parent": "grimoireofgaia:item/weapon_fan",
+    "textures": {
+        "0": "grimoireofgaia:items/models/weapon_fan_ice"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 65, 100, -55 ],
+            "translation": [ 0.40, 2.25, 2 ],
+            "scale": [ 1.0, 1.0, 1.0]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 65, 100, -55 ],
+            "translation": [ 0.40, 2.25, 2 ],
+            "scale": [ 1.0, 1.0, 1.0]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -20, 0, 70 ],
+            "translation": [ 5, 0, -2 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -35, -10, -45 ],
+            "translation": [ 3, -4, -2 ],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        }
+    }
+}

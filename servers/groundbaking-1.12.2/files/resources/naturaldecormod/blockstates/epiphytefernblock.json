@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:epiphytefernblock"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:epiphytefernblock"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:epiphytefernblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:epiphytefernblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:epiphytefernblock",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+      "textures": {
+          "cross": "twilightforest:blocks/plant_bulb"
+      }
+  },
+  "variants": {
+      "normal": {
+          "model": "twilightforest:block/phosteria"
+      },
+      "inventory": {
+          "model": "twilightforest:block/phosteria"
+      }
+  }
+}

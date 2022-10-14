@@ -1,0 +1,20 @@
+{
+	"volo_meteora": { 
+		"category": "ambient", 
+		"sounds": [
+		{
+			"name": "jjmeteor:volo_meteora",
+			"stream":false
+		}
+		], "subtitle": "" 
+	},
+	"schianto_meteora": { 
+		"category": "ambient", 
+		"sounds": [
+		{
+			"name": "jjmeteor:schianto_meteora",
+			"stream":true
+		}
+		], "subtitle": "" 
+	}
+}

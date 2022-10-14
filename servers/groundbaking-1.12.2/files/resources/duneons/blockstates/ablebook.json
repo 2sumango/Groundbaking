@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:ablebook"
+    },
+    "facing=north": {
+      "model": "duneons:ablebook"
+    },
+    "facing=east": {
+      "model": "duneons:ablebook",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:ablebook",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:ablebook",
+      "y": 270
+    }
+  }
+}

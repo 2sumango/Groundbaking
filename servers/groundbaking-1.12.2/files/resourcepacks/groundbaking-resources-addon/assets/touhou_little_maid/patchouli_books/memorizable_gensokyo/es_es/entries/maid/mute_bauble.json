@@ -1,0 +1,13 @@
+{
+  "sortnum": 16,
+  "name": "Amuleto del silencio",
+  "icon": "touhou_little_maid:mute_bauble",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:mute_bauble",
+      "text": "Después de equipar esto la maid no te dirá ni los buenos días."
+    }
+  ]
+}

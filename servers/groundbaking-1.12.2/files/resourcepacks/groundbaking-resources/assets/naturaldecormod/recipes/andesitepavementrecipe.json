@@ -1,0 +1,51 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "3": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "4": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "5": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "6": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "7": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "8": {
+      "item": "minecraft:stone",
+      "data": 6
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:andesitepavementbricks",
+    "count": 18
+  }
+}

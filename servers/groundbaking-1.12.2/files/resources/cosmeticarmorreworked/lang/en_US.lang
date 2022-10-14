@@ -1,0 +1,5 @@
+cos.key.opencosarmorinventory=Open Vaniy Armor Inventory
+cos.gui.buttoncos=Vanity Armor
+cos.gui.buttonnormal=Normal Layout
+cos.command.clearcosarmor=/clearcosarmor [player]
+cos.command.clearcosarmor.success=Cleared the cosmetic inventory of %s

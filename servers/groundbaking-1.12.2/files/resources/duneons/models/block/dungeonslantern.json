@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/lantern",
+  "textures": {
+    "all": "duneons:blocks/dungeon_lamp",
+    "particle": "duneons:blocks/dungeon_lamp",
+    "1": "duneons:blocks/dungeon_lamp",
+    "missing": "duneons:blocks/dungeon_lamp"
+  }
+}

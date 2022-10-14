@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/skeleton_necro_summon",
+  "textures": {
+    "all": "duneons:blocks/skeleton_summon",
+    "particle": "duneons:blocks/skeleton_summon",
+    "1": "duneons:blocks/skeleton_summon",
+    "missing": "duneons:blocks/skeleton_summon"
+  }
+}

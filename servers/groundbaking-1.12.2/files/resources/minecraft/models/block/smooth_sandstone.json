@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "particle": "minecraft:block/smooth_sandstone_side",
+    "north": "minecraft:block/smooth_sandstone_side",
+    "south": "minecraft:block/smooth_sandstone_side",
+    "east": "minecraft:block/smooth_sandstone_side",
+    "west": "minecraft:block/smooth_sandstone_side",
+    "up": "minecraft:block/smooth_sandstone_side",
+    "down": "minecraft:block/smooth_sandstone_side"
+  }
+}

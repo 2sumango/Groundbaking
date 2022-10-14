@@ -1,0 +1,33 @@
+{
+  "name": "e6c25ec1-1682-47fb-b7ed-4898750c04a5",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "recipes": [
+    {
+      "uid": "9de16563-05e2-438c-9631-81f557368276",
+      "duration": 10,
+      "inputs": {
+        "item": [
+          {
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"minecraft:iron_ingot\",Count:1,Damage:0s}"
+              ]
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "ember": [
+          {
+            "content": 100.0,
+            "chance": 1.0
+          }
+        ]
+      },
+      "tickInputs": {},
+      "tickOutputs": {}
+    }
+  ]
+}

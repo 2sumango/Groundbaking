@@ -1,0 +1,42 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:wax"
+    },
+    "1": {
+      "item": "duneons:wax"
+    },
+    "2": {
+      "item": "duneons:wax"
+    },
+    "3": {
+      "item": "duneons:wax"
+    },
+    "4": {
+      "item": "duneons:wax"
+    },
+    "5": {
+      "item": "duneons:wax"
+    },
+    "6": {
+      "item": "duneons:wax"
+    },
+    "7": {
+      "item": "duneons:wax"
+    },
+    "8": {
+      "item": "duneons:wax"
+    }
+  },
+  "result": {
+    "item": "duneons:waxblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "jaff:bone_meal_from_fish_bones"
+    ]
+  },
+  "criteria": {
+    "has_fish_bones": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "jaff:fish_bones"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "jaff:bone_meal_from_fish_bones"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_fish_bones",
+      "has_the_recipe"
+    ]
+  ]
+}

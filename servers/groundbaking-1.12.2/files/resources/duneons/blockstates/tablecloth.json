@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:tablecloth"
+    },
+    "facing=north": {
+      "model": "duneons:tablecloth"
+    },
+    "facing=east": {
+      "model": "duneons:tablecloth",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:tablecloth",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:tablecloth",
+      "y": 270
+    }
+  }
+}

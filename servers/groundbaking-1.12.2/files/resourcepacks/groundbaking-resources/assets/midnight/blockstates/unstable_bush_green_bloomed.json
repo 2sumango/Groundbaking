@@ -1,0 +1,34 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": [{}],
+    "has_fruit": {
+      "false": {
+        "model": "midnight:dewshroom3"
+      },
+      "true": {
+        "model": "midnight:dewshroom4"
+      }
+    },
+    "no_fruit": [
+      {
+        "model": "midnight:dewshroom3"
+      }
+    ],
+    "no_fruit_glow": [
+      {
+        "model": "midnight:dewshroom3"
+      }
+    ],
+    "fruit": [
+      {
+        "model": "midnight:dewshroom4"
+      }
+    ],
+    "fruit_glow": [
+      {
+        "model": "midnight:dewshroom4"
+      }
+    ]
+  }
+}

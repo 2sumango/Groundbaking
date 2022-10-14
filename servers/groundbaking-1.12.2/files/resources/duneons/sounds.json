@@ -1,0 +1,1154 @@
+{
+  "mirror": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:mirror_move1",
+        "stream": false
+      }
+    ]
+  },
+  "mirror2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:mirror_move2",
+        "stream": false
+      }
+    ]
+  },
+  "idle2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:idle4",
+        "stream": false
+      }
+    ]
+  },
+  "death1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:death2",
+        "stream": false
+      }
+    ]
+  },
+  "idle3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:idle1",
+        "stream": false
+      }
+    ]
+  },
+  "horn": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:horn_celebrate",
+        "stream": false
+      }
+    ]
+  },
+  "idie5": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:idle5",
+        "stream": false
+      }
+    ]
+  },
+  "celebrate1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:celebrate",
+        "stream": false
+      }
+    ]
+  },
+  "coin1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "duneons:coin1",
+        "stream": false
+      }
+    ]
+  },
+  "coin2": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "duneons:coin2",
+        "stream": false
+      }
+    ]
+  },
+  "out": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:out",
+        "stream": false
+      }
+    ]
+  },
+  "in": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:in",
+        "stream": false
+      }
+    ]
+  },
+  "vol": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:volime",
+        "stream": false
+      }
+    ]
+  },
+  "axers_idle1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:axers_idle1",
+        "stream": false
+      }
+    ]
+  },
+  "idle_axes": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:idle1!_axes",
+        "stream": false
+      }
+    ]
+  },
+  "hurt1_entcha_illager": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:hurt1_entcha_illager",
+        "stream": false
+      }
+    ]
+  },
+  "idle3_entcha_illager": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:idle3_entcha_illager",
+        "stream": false
+      }
+    ]
+  },
+  "death_axers": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:death_axers",
+        "stream": false
+      }
+    ]
+  },
+  "prepare_blind": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:prepare_blind",
+        "stream": false
+      }
+    ]
+  },
+  "mood": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "duneons:mood3 (2)",
+        "stream": false
+      }
+    ]
+  },
+  "break3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:break3",
+        "stream": false
+      }
+    ]
+  },
+  "prepare_mirror": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "duneons:prepare_mirror",
+        "stream": false
+      }
+    ]
+  },
+  "resonate": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "duneons:resonate",
+        "stream": false
+      }
+    ]
+  },
+  "table": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:smithing_table2",
+        "stream": false
+      }
+    ]
+  },
+  "chest": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:chest",
+        "stream": false
+      }
+    ]
+  },
+  "magical_mob": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:magical_mobs",
+        "stream": false
+      }
+    ]
+  },
+  "magical_die": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:magical_dead",
+        "stream": false
+      }
+    ]
+  },
+  "reso": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:resonate_sound",
+        "stream": false
+      }
+    ]
+  },
+  "power": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:power1",
+        "stream": false
+      }
+    ]
+  },
+  "blind_magical_mob_aPAWNING": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:blind_magical_mob_apawning",
+        "stream": false
+      }
+    ]
+  },
+  "hurt3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "casted": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:casted",
+        "stream": false
+      }
+    ]
+  },
+  "enchanterDeath": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:enchanterdeath",
+        "stream": false
+      }
+    ]
+  },
+  "enchanterHurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:enchanterhurt",
+        "stream": false
+      }
+    ]
+  },
+  "geomancerDeath": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:geomancerdeath",
+        "stream": false
+      }
+    ]
+  },
+  "idle1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:idle2",
+        "stream": false
+      }
+    ]
+  },
+  "pigrun": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:piggybankrun",
+        "stream": false
+      }
+    ]
+  },
+  "crazy_arch": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:arch_crazy",
+        "stream": false
+      }
+    ]
+  },
+  "arch_hahass": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:arch_hahas",
+        "stream": false
+      }
+    ]
+  },
+  "sad": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:archillager_sad",
+        "stream": false
+      }
+    ]
+  },
+  "arch_hurt1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:archillager_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "arch_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:archillager_idle",
+        "stream": false
+      }
+    ]
+  },
+  "original_ha": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:hahahaaa!",
+        "stream": false
+      }
+    ]
+  },
+  "arch_Wieee": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:archillagerintro_wieee",
+        "stream": false
+      }
+    ]
+  },
+  "spawn_arch": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:archillager_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "Archdiedssssssssssssssssss": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:archillager_diedssssssssssssssssss",
+        "stream": false
+      }
+    ]
+  },
+  "geo1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:geomancerhurt",
+        "stream": false
+      }
+    ]
+  },
+  "geoma1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:geomancerhurt",
+        "stream": false
+      }
+    ]
+  },
+  "geoma2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:geomanceridle",
+        "stream": false
+      }
+    ]
+  },
+  "Bombbbbbbbbbbbbbbbbbbbbbbbb": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_spawnbombbbbbbbbbbbbbbbbbbbbbbbb",
+        "stream": false
+      }
+    ]
+  },
+  "geoma3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:geomancersummonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnns",
+        "stream": false
+      }
+    ]
+  },
+  "key_happy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:babykeyhappy",
+        "stream": false
+      }
+    ]
+  },
+  "key_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:babykeyhurt",
+        "stream": false
+      }
+    ]
+  },
+  "key_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:babykeyidle",
+        "stream": false
+      }
+    ]
+  },
+  "key_panic": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:babykeypanic",
+        "stream": false
+      }
+    ]
+  },
+  "keeyy_sleep": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:babykeysleep",
+        "stream": false
+      }
+    ]
+  },
+  "key_sleep": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:babykeysleep",
+        "stream": false
+      }
+    ]
+  },
+  "key_up": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:babykeywakeup",
+        "stream": false
+      }
+    ]
+  },
+  "wraith_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:wraithhurt",
+        "stream": false
+      }
+    ]
+  },
+  "wraith_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:wraithidle",
+        "stream": false
+      }
+    ]
+  },
+  "wraith_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:wraithdeath",
+        "stream": false
+      }
+    ]
+  },
+  "pig_jumpppppppppppppppp": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:piggybankjumpppppppppppppppppppppppppppppppppp",
+        "stream": false
+      }
+    ]
+  },
+  "redstone_golem_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:redstonegolemidle",
+        "stream": false
+      }
+    ]
+  },
+  "redstonegolem_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:redstonegolemhurt",
+        "stream": false
+      }
+    ]
+  },
+  "redstone_golem_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:redstonegolemdeath-002_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "monstrosity_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:monstrosityhurt",
+        "stream": false
+      }
+    ]
+  },
+  "monstrosity_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:monstrositydeath",
+        "stream": false
+      }
+    ]
+  },
+  "monstrosity_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:monstrosityidle",
+        "stream": false
+      }
+    ]
+  },
+  "vangard_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:_vanguardidle",
+        "stream": false
+      }
+    ]
+  },
+  "vangard_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:vanguarddeath",
+        "stream": false
+      }
+    ]
+  },
+  "vangard_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:vanguardhurt",
+        "stream": false
+      }
+    ]
+  },
+  "nemeless_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:namelesshurt",
+        "stream": false
+      }
+    ]
+  },
+  "nemeless_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:namelessidle",
+        "stream": false
+      }
+    ]
+  },
+  "nemeless_teleport": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:namelessteleport",
+        "stream": false
+      }
+    ]
+  },
+  "necromancer_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:skeletonnecromancerdeath",
+        "stream": false
+      }
+    ]
+  },
+  "necromancer_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:skeletonnecromancerhurt",
+        "stream": false
+      }
+    ]
+  },
+  "necromancer_idle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:skeletonnecromanceridle",
+        "stream": false
+      }
+    ]
+  },
+  "mucrooooommmmmmmmmmmmm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:mushroommmmmmmmmmmmmmmmmmmm",
+        "stream": false
+      }
+    ]
+  },
+  "MDE_sound_logoooooooooooossss": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:mde_sound_logoooooooooooos",
+        "stream": false
+      }
+    ]
+  },
+  "scpeeeeeeemmboook": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:firestream",
+        "stream": false
+      }
+    ]
+  },
+  "stepchain1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:stepchain",
+        "stream": false
+      }
+    ]
+  },
+  "stepchain2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:stepchain2",
+        "stream": false
+      }
+    ]
+  },
+  "tommmbbbslideeeeeeeeeeeee": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:tombslide",
+        "stream": false
+      }
+    ]
+  },
+  "gitar_sounds": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:gutar_sound",
+        "stream": false
+      }
+    ]
+  },
+  "bell_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_prop_pdbell-001_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "bell_sounds": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_prop_pdbell-001_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "bell": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_prop_pdbell-001_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "bells_sounds": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_prop_pdbell-001_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "bodyfall_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:mob_bodyfal_sound",
+        "stream": false
+      }
+    ]
+  },
+  "corruped_active": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:corruptedbeaconactivate",
+        "stream": false
+      }
+    ]
+  },
+  "player_up": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:player_levelup",
+        "stream": false
+      }
+    ]
+  },
+  "use_iteeeeeeeeeeeeeeeeeeeeeeeeeeeemmmmmmmssss": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:use_items",
+        "stream": false
+      }
+    ]
+  },
+  "energy_bag_useeeeeeeeeeeeee": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:energy_bag_use",
+        "stream": false
+      }
+    ]
+  },
+  "claymore_critical_hitttttttttttttttttttttttttttttttttttttttttt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:claymore_critical_hit",
+        "stream": false
+      }
+    ]
+  },
+  "respawn": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:playerrespawn",
+        "stream": false
+      }
+    ]
+  },
+  "REEESSSSPAAAWWWNNN": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:playerrespawn",
+        "stream": false
+      }
+    ]
+  },
+  "Useeeeeeeeeeeeeeeeeeeeeeeeeeeeemiiisiionchest": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_ui_missionchestland-001_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "chaaaaaaatttttttttttttttt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:chat",
+        "stream": false
+      }
+    ]
+  },
+  "enchantmentCritical": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:enchantmentcriticalhit",
+        "stream": false
+      }
+    ]
+  },
+  "axeeeeeeeeeeeeeeeeeeeeee": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:axeimpact",
+        "stream": false
+      }
+    ]
+  },
+  "hammer_hit": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:hammer_hit",
+        "stream": false
+      }
+    ]
+  },
+  "cutlassSwing": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:cutlassswing",
+        "stream": false
+      }
+    ]
+  },
+  "item_fall": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:item_fall",
+        "stream": false
+      }
+    ]
+  },
+  "corruped_loopppppppppppppppppppppppppppppppppppppp": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:corruptedbeaconloop",
+        "stream": false
+      }
+    ]
+  },
+  "no": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:no",
+        "stream": false
+      }
+    ]
+  },
+  "bossCauldronDeath": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_mob_bosscauldrondeath-001_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "bossCauldronHurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_mob_bosscauldronhurt-005_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "bossCauldronIdle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_multi_bosscauldronidle-009_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "bossCauldronSwallowBass": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_mob_bosscauldronswallowbass-001_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "katana_hitttttttt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_item_katana",
+        "stream": false
+      }
+    ]
+  },
+  "claaaay_toteeems": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:clay_totem",
+        "stream": false
+      }
+    ]
+  },
+  "monnkeeyyyy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:item_monkey",
+        "stream": false
+      }
+    ]
+  },
+  "pooooottiion": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:item_potion",
+        "stream": false
+      }
+    ]
+  },
+  "maceeeeeeeeeeeeeeeehittttttttttt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:mace_hitttt",
+        "stream": false
+      }
+    ]
+  },
+  "geeeooomancerrhahahahaha": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_mob_geomanceridle-006_soundwave",
+        "stream": false
+      }
+    ]
+  },
+  "golem_totemmmmmmmmmm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:golem_totem",
+        "stream": false
+      }
+    ]
+  },
+  "bossssscaauuuldroon": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:bosscauldron_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "playerrrrrr": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_item_dropunique-004",
+        "stream": false
+      }
+    ]
+  },
+  "hiiiitttgauntleess": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:gauntletshit",
+        "stream": false
+      }
+    ]
+  },
+  "sfx_item_gauntletsssssssssssssss": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:sfx_item_gauntlets",
+        "stream": false
+      }
+    ]
+  },
+  "infoclose": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:info",
+        "stream": false
+      }
+    ]
+  },
+  "enders_disc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "duneons:enderman_disc",
+        "stream": true
+      }
+    ]
+  },
+  "evokers_discs": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "duneons:evoker_disc",
+        "stream": true
+      }
+    ]
+  },
+  "ender_disc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "duneons:enderman_disc",
+        "stream": true
+      }
+    ]
+  },
+  "squid_disc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "duneons:squid_lake_disc",
+        "stream": true
+      }
+    ]
+  },
+  "hurt2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "shop_disc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "duneons:hoping",
+        "stream": true
+      }
+    ]
+  },
+  "feather_sounds": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "duneons:featherplace",
+        "stream": false
+      }
+    ]
+  }
+}

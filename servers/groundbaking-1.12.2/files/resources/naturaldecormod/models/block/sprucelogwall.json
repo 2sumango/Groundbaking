@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "naturaldecormod:blocks/spruce_loglanked",
+    "particle": "naturaldecormod:blocks/spruce_loglanked"
+  }
+}

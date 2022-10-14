@@ -1,0 +1,82 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "textures": {
+      "smithing_table_front": "tconstruct:blocks/asmithing_table_front",
+      "rofvl": "tconstruct:blocks/smithing_table_top",
+      "smithing_table_side": "tconstruct:blocks/smithing_table_side",
+      "smithing_table_bottom": "tconstruct:blocks/smithing_table_bottom",
+      "smithing_table_top": "tconstruct:blocks/asmithing_table_top",
+      "particle": "tconstruct:blocks/smithing_table_top"
+  },
+  "display": {
+      "gui": {
+          "rotation": [ 25, 44, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 0.625, 0.625, 0.625 ]
+      },
+      "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 0, 3, 0 ],
+          "scale": [ 0.25, 0.25, 0.25 ]
+      },
+      "fixed": {
+          "rotation": [ 0, 180, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "head": {
+          "rotation": [ 0, 180, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "firstperson_righthand": {
+          "rotation": [ 0, 315, 0 ],
+          "translation": [ 0, 2.5, 0 ],
+          "scale": [ 0.4, 0.4, 0.4 ]
+      },
+      "thirdperson_righthand": {
+          "rotation": [ 75, 315, 0 ],
+          "translation": [ 0, 2.5, 0 ],
+          "scale": [ 0.375, 0.375, 0.375 ]
+      }
+  },
+  "elements": [
+      {
+          "name": "Cube",
+          "from": [ 2, 3, 2 ], 
+          "to": [ 14, 15, 14 ], 
+          "faces": {
+              "north": { "texture": "#smithing_table_front", "uv": [ 0, 0, 12, 12 ] },
+              "east": { "texture": "#smithing_table_front", "uv": [ 0, 0, 12, 12 ] },
+              "south": { "texture": "#smithing_table_front", "uv": [ 0, 0, 12, 12 ] },
+              "west": { "texture": "#smithing_table_front", "uv": [ 0, 0, 12, 12 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ -1, 6.1, -1 ], 
+          "to": [ 17, 16.1, 17 ], 
+          "faces": {
+              "north": { "texture": "#smithing_table_front", "uv": [ 0, 0, 16, 10 ] },
+              "east": { "texture": "#smithing_table_front", "uv": [ 0, 0, 16, 10 ] },
+              "south": { "texture": "#smithing_table_front", "uv": [ 0, 0, 16, 10 ] },
+              "west": { "texture": "#smithing_table_front", "uv": [ 0, 0, 16, 10 ] },
+              "up": { "texture": "#smithing_table_top", "uv": [ 0, 0, 16, 16 ] },
+              "down": { "texture": "#smithing_table_bottom", "uv": [ 0, 0, 16, 16 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 1, 0, 1 ], 
+          "to": [ 15, 3, 15 ], 
+          "faces": {
+              "north": { "texture": "#smithing_table_side", "uv": [ 0, 0, 14, 3 ] },
+              "east": { "texture": "#smithing_table_side", "uv": [ 0, 0, 14, 3 ] },
+              "south": { "texture": "#smithing_table_side", "uv": [ 0, 0, 14, 3 ] },
+              "west": { "texture": "#smithing_table_side", "uv": [ 0, 0, 14, 3 ] },
+              "up": { "texture": "#rofvl", "uv": [ 0, 0, 14, 14 ] },
+              "down": { "texture": "#smithing_table_bottom", "uv": [ 0, 0, 14, 14 ] }
+          }
+      }
+  ]
+}

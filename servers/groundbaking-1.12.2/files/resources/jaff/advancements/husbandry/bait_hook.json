@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wheat_seeds"
+        },
+        "title": {
+            "translate": "advancements.husbandry.bait_hook.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.bait_hook.description"
+        }
+    },
+    "parent": "husbandry/root",
+    "criteria": {
+        "baited_rod": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "nbt": "{Bait:[{}]}"
+                    }
+                ]
+            }
+        }
+    }
+}

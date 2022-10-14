@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:leaverpalm"
+    },
+    "facing=north": {
+      "model": "duneons:leaverpalm"
+    },
+    "facing=east": {
+      "model": "duneons:leaverpalm",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:leaverpalm",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:leaverpalm",
+      "y": 270
+    }
+  }
+}

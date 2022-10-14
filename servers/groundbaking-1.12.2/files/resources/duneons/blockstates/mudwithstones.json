@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:mudwithstones"
+    },
+    "facing=north": {
+      "model": "duneons:mudwithstones"
+    },
+    "facing=east": {
+      "model": "duneons:mudwithstones",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:mudwithstones",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:mudwithstones",
+      "y": 270
+    }
+  }
+}

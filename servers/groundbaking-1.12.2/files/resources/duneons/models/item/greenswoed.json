@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/hawkbrand",
+  "textures": {
+    "0": "duneons:blocks/awkbrand"
+  }
+}

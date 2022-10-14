@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "type": "forge:ore_dict",
+	  "ore": "plankWoodMidnight"
+    }
+  },
+  "result": {
+    "item": "midnight:dark_stick",
+    "count": 4
+  }
+}

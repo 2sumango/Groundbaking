@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:rockdecorlarge"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:rockdecorlarge"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:rockdecorlarge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:rockdecorlarge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:rockdecorlarge",
+      "y": 270
+    }
+  }
+}

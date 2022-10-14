@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:tawningred"
+    },
+    "facing=north": {
+      "model": "duneons:tawningred"
+    },
+    "facing=east": {
+      "model": "duneons:tawningred",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:tawningred",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:tawningred",
+      "y": 270
+    }
+  }
+}

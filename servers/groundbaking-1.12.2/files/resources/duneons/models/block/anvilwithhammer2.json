@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/anvil_with_hammer_use",
+  "textures": {
+    "all": "duneons:blocks/anvil_vangard",
+    "particle": "duneons:blocks/anvil_vangard",
+    "0": "duneons:blocks/anvil_vangard"
+  }
+}

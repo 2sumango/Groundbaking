@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:loggold"
+    },
+    "facing=north": {
+      "model": "duneons:loggold"
+    },
+    "facing=east": {
+      "model": "duneons:loggold",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:loggold",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:loggold",
+      "y": 270
+    }
+  }
+}

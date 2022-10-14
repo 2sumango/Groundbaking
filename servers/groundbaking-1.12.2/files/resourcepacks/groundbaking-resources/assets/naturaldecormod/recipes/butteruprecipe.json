@@ -1,0 +1,14 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:buttercup"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 11,
+    "count": 1
+  }
+}

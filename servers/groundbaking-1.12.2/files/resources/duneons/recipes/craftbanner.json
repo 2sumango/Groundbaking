@@ -1,0 +1,41 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "2": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "4": {
+      "item": "duneons:darkbrick"
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "duneons:vangardbanner",
+    "count": 16
+  }
+}

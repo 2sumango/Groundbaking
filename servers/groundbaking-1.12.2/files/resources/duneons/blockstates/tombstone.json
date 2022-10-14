@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:tombstone"
+    },
+    "facing=north": {
+      "model": "duneons:tombstone"
+    },
+    "facing=east": {
+      "model": "duneons:tombstone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:tombstone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:tombstone",
+      "y": 270
+    }
+  }
+}

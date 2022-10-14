@@ -1,0 +1,33 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:netherbrickpavementbricks"
+    },
+    "3": {
+      "item": "naturaldecormod:netherbrickpavementbricks"
+    },
+    "4": {
+      "item": "naturaldecormod:netherbrickpavementbricks"
+    },
+    "6": {
+      "item": "naturaldecormod:netherbrickpavementbricks"
+    },
+    "7": {
+      "item": "naturaldecormod:netherbrickpavementbricks"
+    },
+    "8": {
+      "item": "naturaldecormod:netherbrickpavementbricks"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:netherbrickpavementstairs",
+    "count": 4
+  }
+}

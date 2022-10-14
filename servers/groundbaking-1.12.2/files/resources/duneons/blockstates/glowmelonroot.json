@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:glowmelonroot"
+    },
+    "facing=north": {
+      "model": "duneons:glowmelonroot"
+    },
+    "facing=east": {
+      "model": "duneons:glowmelonroot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:glowmelonroot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:glowmelonroot",
+      "y": 270
+    }
+  }
+}

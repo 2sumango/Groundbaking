@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [{ "type": "forge:mod_loaded", "modid": "tconstruct" }],
+    "ingredients": [
+        [
+            { "item": "yoyos:cord" },
+            { "item": "yoyos:yoyo_cord", "data": 0 }
+        ],
+        { "item": "tconstruct:book" }
+    ],
+    "result": {
+        "item": "yoyos:book"
+    }
+}

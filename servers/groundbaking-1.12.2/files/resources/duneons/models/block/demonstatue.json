@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/demon_statue",
+  "textures": {
+    "all": "duneons:blocks/_argoyle_tatue",
+    "particle": "duneons:blocks/_argoyle_tatue",
+    "0": "duneons:blocks/_argoyle_tatue",
+    "missing": "duneons:blocks/_argoyle_tatue"
+  }
+}

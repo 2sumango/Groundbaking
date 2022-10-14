@@ -1,0 +1,40 @@
+{
+"textureSize": [32, 32],
+"credit": "By DraminOver",
+"scale": 1.6,
+"boxes": 
+	[
+		{
+			"id": "leg",
+			"coordinates": [0.15, -0.55, -1.2, 1, 3, 4],
+			"uvEast": [11, 22, 15, 25],
+			"uvNorth": [15, 22, 16, 25],
+			"uvWest": [16, 22, 20, 25],
+			"uvSouth": [20, 22, 21, 25],
+			"uvUp": [15, 22, 16, 18],
+			"uvDown": [16, 18, 17, 22]
+		}
+	],
+"submodels":
+	[
+		{
+			"textureSize": [32, 32],
+			"scale": 1.41,
+			"boxes": 
+			[
+				{
+					"id": "babyleg",
+					"coordinates": [0.15, -0.15, -1, 1, 2, 2],
+					"uvEast": [23, 12, 25, 14],
+					"uvNorth": [25, 12, 26, 14],
+					"uvWest": [26, 12, 28, 14],
+					"uvSouth": [28, 12, 29, 14],
+					"uvUp": [25, 12, 26, 10],
+					"uvDown": [26, 10, 27, 12]
+				}
+			]
+		}
+	]
+}
+
+ 

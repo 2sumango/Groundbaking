@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:glossymixedpavement"
+    },
+    "1": {
+      "item": "naturaldecormod:glossymixedpavement"
+    },
+    "2": {
+      "item": "naturaldecormod:glossymixedpavement"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:modernmixedpavementslab",
+    "count": 6
+  }
+}

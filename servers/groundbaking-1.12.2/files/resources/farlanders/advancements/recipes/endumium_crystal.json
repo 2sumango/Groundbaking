@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "farlanders:endumium_crystal"
+    ]
+  },
+  "criteria": {
+    "has_at_least_9_crystal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "farlanders:endumium_crystal",
+            "count": {
+              "min": 9
+            }
+          }
+        ]
+      }
+    },
+    "has_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "farlanders:endumium_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "farlanders:endumium_crystal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_at_least_9_crystal",
+      "has_block",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "duneons:blocks/brick_sand",
+    "top": "duneons:blocks/brick_sand",
+    "side": "duneons:blocks/brick_sand"
+  }
+}

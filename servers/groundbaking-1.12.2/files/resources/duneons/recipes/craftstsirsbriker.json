@@ -1,0 +1,33 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:latticebriker"
+    },
+    "3": {
+      "item": "duneons:latticebriker"
+    },
+    "4": {
+      "item": "duneons:latticebriker"
+    },
+    "6": {
+      "item": "duneons:latticebriker"
+    },
+    "7": {
+      "item": "duneons:latticebriker"
+    },
+    "8": {
+      "item": "duneons:latticebriker"
+    }
+  },
+  "result": {
+    "item": "duneons:brikerstairs",
+    "count": 16
+  }
+}

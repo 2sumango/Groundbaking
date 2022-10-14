@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:trone"
+    },
+    "facing=north": {
+      "model": "duneons:trone"
+    },
+    "facing=east": {
+      "model": "duneons:trone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:trone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:trone",
+      "y": 270
+    }
+  }
+}

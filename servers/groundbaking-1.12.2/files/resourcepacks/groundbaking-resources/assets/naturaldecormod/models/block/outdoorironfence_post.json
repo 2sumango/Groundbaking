@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "naturaldecormod:blocks/utdoorronide",
+    "particle": "naturaldecormod:blocks/utdoorronide"
+  }
+}

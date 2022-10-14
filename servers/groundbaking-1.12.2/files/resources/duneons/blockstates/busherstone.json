@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:busherstone"
+    },
+    "facing=north": {
+      "model": "duneons:busherstone"
+    },
+    "facing=east": {
+      "model": "duneons:busherstone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:busherstone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:busherstone",
+      "y": 270
+    }
+  }
+}

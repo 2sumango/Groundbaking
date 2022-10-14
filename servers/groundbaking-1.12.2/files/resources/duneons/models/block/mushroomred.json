@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/mushroom_red",
+  "textures": {
+    "all": "duneons:blocks/mushrooms_red",
+    "particle": "duneons:blocks/mushrooms_red",
+    "0": "duneons:blocks/mushrooms_red"
+  }
+}

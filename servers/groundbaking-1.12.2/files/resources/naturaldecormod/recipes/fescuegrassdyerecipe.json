@@ -1,0 +1,16 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:bluefescuegrass"
+    }
+  },
+  "result": {
+    "item": "minecraft:string",
+    "count": 2
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/key_painting",
+  "textures": {
+    "all": "duneons:blocks/klyuch",
+    "particle": "duneons:blocks/klyuch",
+    "1": "duneons:blocks/klyuch"
+  }
+}

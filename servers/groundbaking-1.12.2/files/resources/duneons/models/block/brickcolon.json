@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/brick_colon",
+  "textures": {
+    "all": "duneons:blocks/brick_colon",
+    "particle": "duneons:blocks/brick_colon",
+    "0": "duneons:blocks/brick_colon"
+  }
+}

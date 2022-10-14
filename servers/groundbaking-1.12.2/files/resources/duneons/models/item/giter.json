@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/gitar",
+  "textures": {
+    "0": "duneons:blocks/t_guitar",
+    "missing": "duneons:blocks/t_guitar"
+  }
+}

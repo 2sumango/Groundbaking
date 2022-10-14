@@ -1,0 +1,46 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "minecraft:log",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:tresselsuspensionblock",
+    "count": 18
+  }
+}

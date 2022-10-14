@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/staying_block",
+  "textures": {
+    "all": "duneons:blocks/staying",
+    "particle": "duneons:blocks/staying",
+    "7": "duneons:blocks/staying",
+    "missing": "duneons:blocks/staying",
+    "8": "duneons:blocks/fire_staying"
+  }
+}

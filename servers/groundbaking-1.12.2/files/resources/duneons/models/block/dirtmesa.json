@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/zemlya_pa_kamennaya_6",
+    "up": "duneons:blocks/zemlya_pa_kamennaya_6",
+    "north": "duneons:blocks/zemlya_pa_kamennaya_6",
+    "east": "duneons:blocks/zemlya_pa_kamennaya_6",
+    "south": "duneons:blocks/zemlya_pa_kamennaya_6",
+    "west": "duneons:blocks/zemlya_pa_kamennaya_6",
+    "particle": "duneons:blocks/zemlya_pa_kamennaya_6"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "rewardWeapons_s1",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:ancient_greatsword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "longSwingState": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "hitCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.0
+            },
+            "Quality": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "swingStartCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.54899997
+            },
+            "Gem": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "AttributeModifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -3801225194067177672
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -6586624321849018929
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": 13.75
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -422425648963762075
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -5756800103171642205
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": -0.45
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    }
+                  }
+                }
+              ]
+            },
+            "swingStartTicks": {
+              "nbtType": "int",
+              "nbt": 27039
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:ancient_greatsword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Quark:RuneColor": {
+              "nbtType": "int",
+              "nbt": 15
+            },
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 3
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 67
+                    }
+                  }
+                }
+              ]
+            },
+            "longSwingState": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "hitCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.0
+            },
+            "Quality": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "display": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "Quark:RuneAttached": {
+              "nbtType": "byte",
+              "nbt": 1
+            },
+            "swingStartCooldownState": {
+              "nbtType": "float",
+              "nbt": 1.0
+            },
+            "Gem": {
+              "nbtType": "int",
+              "nbt": 2
+            },
+            "AttributeModifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -3801225194067177672
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -6586624321849018929
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": 13.75
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -422425648963762075
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -5756800103171642205
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": -0.98
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    }
+                  }
+                }
+              ]
+            },
+            "swingStartTicks": {
+              "nbtType": "int",
+              "nbt": 26191
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:ancient_greatsword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Quark:RuneColor": {
+              "nbtType": "int",
+              "nbt": 13
+            },
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    },
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 45
+                    }
+                  }
+                }
+              ]
+            },
+            "longSwingState": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "hitCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.0
+            },
+            "Quality": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "display": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "Quark:RuneAttached": {
+              "nbtType": "byte",
+              "nbt": 1
+            },
+            "swingStartCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.49499997
+            },
+            "Gem": {
+              "nbtType": "int",
+              "nbt": 3
+            },
+            "AttributeModifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -3801225194067177672
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -6586624321849018929
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": 13.75
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -422425648963762075
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -5756800103171642205
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": -2.5
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    }
+                  }
+                }
+              ]
+            },
+            "swingStartTicks": {
+              "nbtType": "int",
+              "nbt": 25090
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

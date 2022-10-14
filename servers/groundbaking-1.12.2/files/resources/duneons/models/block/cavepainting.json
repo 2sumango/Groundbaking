@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/cave_painting",
+  "textures": {
+    "all": "duneons:blocks/peschera",
+    "particle": "duneons:blocks/peschera",
+    "1": "duneons:blocks/peschera"
+  }
+}

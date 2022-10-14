@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:brickcolonium"
+    },
+    "facing=north": {
+      "model": "duneons:brickcolonium"
+    },
+    "facing=east": {
+      "model": "duneons:brickcolonium",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:brickcolonium",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:brickcolonium",
+      "y": 270
+    }
+  }
+}

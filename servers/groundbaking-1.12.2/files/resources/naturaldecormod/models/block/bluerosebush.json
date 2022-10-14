@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/bluerosebush",
+  "textures": {
+    "all": "naturaldecormod:blocks/lueoseush",
+    "particle": "naturaldecormod:blocks/lueoseush",
+    "BlueRoseBushReverse": "naturaldecormod:blocks/lueoseusheverse",
+    "BlueRoseBush": "naturaldecormod:blocks/lueoseush"
+  }
+}

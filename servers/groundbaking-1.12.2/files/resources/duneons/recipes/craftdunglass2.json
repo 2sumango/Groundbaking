@@ -1,0 +1,51 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 4
+    },
+    "1": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 15
+    },
+    "2": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 4
+    },
+    "3": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 15
+    },
+    "4": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 15
+    },
+    "5": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 15
+    },
+    "6": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 4
+    },
+    "7": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 15
+    },
+    "8": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "duneons:dunglass2",
+    "count": 1
+  }
+}

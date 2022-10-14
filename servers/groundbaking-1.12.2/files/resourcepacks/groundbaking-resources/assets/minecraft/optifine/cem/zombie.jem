@@ -1,0 +1,76 @@
+{
+	"texture": "zombie.png",
+	"textureSize": [256, 256],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -14, 30]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -44.5, 1],
+			"boxes": [
+				{"coordinates": [-20, 37.5, 4, 40, 20, 32], "textureOffset": [0, 28]},
+				{"coordinates": [-11, 39.5, -4, 22, 14, 8], "textureOffset": [72, 6]},
+				{"coordinates": [-8, 57.5, 20, 16, 12, 16], "textureOffset": [0, 0]},
+				{"coordinates": [-8, 33.5, 8, 16, 16, 16], "textureOffset": [132, 16]}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-8, -38, -15]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [-20, -37, -20]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-8, -37, 3.5],
+			"boxes": [
+				{"coordinates": [8, 0, -4.5, 12, 20, 12], "textureOffset": [144, 48]},
+				{"coordinates": [-34, 35, -5.5, 14, 24, 12], "textureOffset": [31, 116]},
+				{"coordinates": [-36, 13, -5.5, 11, 22, 12], "textureOffset": [83, 118]},
+				{"coordinates": [-34, 3, -4.5, 3, 10, 5], "textureOffset": [145, 80]},
+				{"coordinates": [-34, 3, 1.5, 3, 10, 5], "textureOffset": [145, 80]},
+				{"coordinates": [-28, 5, -4.5, 3, 8, 5], "textureOffset": [129, 82]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [8, -37, 3.5],
+			"boxes": [
+				{"coordinates": [-21, 0, -4.5, 12, 20, 12], "textureOffset": [192, 48]},
+				{"coordinates": [25, 5, -4.5, 3, 8, 5], "textureOffset": [129, 82]},
+				{"coordinates": [25, 13, -5.5, 11, 22, 12], "textureOffset": [83, 82]},
+				{"coordinates": [31, 3, -4.5, 3, 10, 5], "textureOffset": [145, 80]},
+				{"coordinates": [31, 3, 1.5, 3, 10, 5], "textureOffset": [145, 80]},
+				{"coordinates": [20, 35, -5.5, 14, 24, 12], "textureOffset": [31, 80]}
+			]
+		},
+		{
+			"part": "neck",
+			"id": "neck",
+			"invertAxis": "xy",
+			"translate": [0, -30, -8]
+		},
+		{
+			"part": "jaw",
+			"id": "jaw",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}

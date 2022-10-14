@@ -1,0 +1,13 @@
+{
+	"parent":"immersiveengineering:item/ie_item_base",
+	"textures": {
+	},
+	"display": {
+        "thirdperson_righthand": {
+            "scale": [ 1.8, 1.8, 1.8 ]
+        },
+        "thirdperson_lefthand": {
+            "scale": [ 1.8, 1.8, 1.8 ]
+        }
+	}
+}

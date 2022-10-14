@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:standfortorch"
+    },
+    "facing=north": {
+      "model": "duneons:standfortorch"
+    },
+    "facing=east": {
+      "model": "duneons:standfortorch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:standfortorch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:standfortorch",
+      "y": 270
+    }
+  }
+}

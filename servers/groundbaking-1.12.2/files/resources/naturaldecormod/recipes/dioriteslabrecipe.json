@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:dioritepavementbricks"
+    },
+    "1": {
+      "item": "naturaldecormod:dioritepavementbricks"
+    },
+    "2": {
+      "item": "naturaldecormod:dioritepavementbricks"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:dioritepavementbrickslab",
+    "count": 6
+  }
+}

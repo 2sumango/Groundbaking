@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:cubebanner"
+    },
+    "facing=north": {
+      "model": "duneons:cubebanner"
+    },
+    "facing=east": {
+      "model": "duneons:cubebanner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:cubebanner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:cubebanner",
+      "y": 270
+    }
+  }
+}

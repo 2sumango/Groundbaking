@@ -1,0 +1,16 @@
+{
+  "sortnum": 21,
+  "name": "Interface graphique des paramètres Gashapon",
+  "icon": "minecraft:writable_book",
+  "category": "other",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Le système de distribution du pack de ressources côté serveur force la personne qui accède au serveur à télécharger le pack de ressources appliqué au serveur.$(br2)Vous pouvez facilement limiter l'acquisition de modèles de maid en utilisant l'interface graphique pour les paramètres liés à Gashapon."
+    },
+    {
+      "type": "text",
+      "text": "Une fois que les packs de ressources client et serveur sont synchronisés et que les modifications apportées aux skins de maids sont désactivées, vous pouvez utiliser la commande /draw gui pour ouvrir l'interface graphique des paramètres liés au Gashapon. L'interface graphique récupèreras les données des modèles.$(br2)Vous pouvez modifier la rareté et la probabilité des maids. Cliquez sur le bouton pour enregistrer, ou enregistrer et recharger."
+    }
+  ]
+}

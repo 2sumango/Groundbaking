@@ -1,0 +1,33 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tconstruct:items/parts/sharpening_kit"
+    },
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [ 20, 90, 0 ],
+        "translation": [ 0.50, 1.00, -1.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [ 60, 320, 0 ],
+        "translation": [ 0.50, 1.00, 0.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+      },
+          "firstperson_righthand": {
+              "rotation": [ 15, 90, 0 ],
+              "translation": [ 2.00, 1.00, -3 ],
+              "scale": [ 0.83, 0.83, 0.83 ]
+          },
+          "firstperson_lefthand": {
+              "rotation": [ 0, -75, 0 ],
+              "translation": [ 2.00, -2.00, -3 ],
+              "scale": [ 0.83, 0.83, 0.83 ]
+          },
+          "gui": {
+              "rotation": [ 15, -25, -5 ],
+              "translation": [ 0, 0, 0 ],
+              "scale": [ 0.95, 0.95, 0.95 ]
+      }
+    }
+  }

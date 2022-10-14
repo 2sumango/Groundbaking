@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/cell",
+  "textures": {
+    "all": "duneons:blocks/cell",
+    "particle": "duneons:blocks/cell",
+    "0": "duneons:blocks/cell",
+    "missing": "duneons:blocks/cell"
+  }
+}

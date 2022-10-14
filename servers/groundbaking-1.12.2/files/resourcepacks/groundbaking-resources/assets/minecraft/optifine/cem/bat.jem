@@ -1,0 +1,35 @@
+{
+  "models": 
+  [
+	{
+		"part": "head",
+		"model": "bat_head.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "body",
+		"model": "bat_body.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "right_wing",
+		"model": "bat_wingright.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "outer_right_wing",
+		"model": "bat_wingrightout.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "left_wing",
+		"model": "bat_wingleft.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "outer_left_wing",
+		"model": "bat_wingleftout.jpm",
+		"attach": "false" 
+    }
+  ]
+}

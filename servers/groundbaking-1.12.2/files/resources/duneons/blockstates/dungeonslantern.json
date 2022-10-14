@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dungeonslantern"
+    },
+    "facing=north": {
+      "model": "duneons:dungeonslantern"
+    },
+    "facing=east": {
+      "model": "duneons:dungeonslantern",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dungeonslantern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dungeonslantern",
+      "y": 270
+    }
+  }
+}

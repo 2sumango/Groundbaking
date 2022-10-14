@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:drumcymbal"
+    },
+    "facing=north": {
+      "model": "duneons:drumcymbal"
+    },
+    "facing=east": {
+      "model": "duneons:drumcymbal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:drumcymbal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:drumcymbal",
+      "y": 270
+    }
+  }
+}

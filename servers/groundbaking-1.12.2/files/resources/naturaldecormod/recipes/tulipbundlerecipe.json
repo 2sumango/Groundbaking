@@ -1,0 +1,26 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:red_flower",
+      "data": 5
+    },
+    {
+      "item": "minecraft:red_flower",
+      "data": 4
+    },
+    {
+      "item": "minecraft:red_flower",
+      "data": 6
+    },
+    {
+      "item": "minecraft:red_flower",
+      "data": 7
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:tulipbundle",
+    "count": 2
+  }
+}

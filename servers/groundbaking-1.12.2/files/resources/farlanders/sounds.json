@@ -1,0 +1,250 @@
+{
+  "entity.farlander.idle": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.farlander.idle",
+    "sounds": [
+        "farlanders:farlander/idle1",
+        "farlanders:farlander/idle2",
+        "farlanders:farlander/idle3",
+        "farlanders:farlander/idle4",
+        "farlanders:farlander/idle5"
+    ]
+  },
+  "entity.farlander.hurt": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.farlander.hurt",
+    "sounds": [
+        "farlanders:farlander/hurt1",
+        "farlanders:farlander/hurt2",
+        "farlanders:farlander/hurt3"
+    ]
+  },
+  "entity.farlander.death": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.farlander.death",
+    "sounds": [
+        "farlanders:farlander/death"
+    ]
+  },
+  "entity.enderminion.idle": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.enderminion.idle",
+    "sounds": [
+        "farlanders:enderminion/idle1",
+        "farlanders:enderminion/idle2",
+        "farlanders:enderminion/idle3",
+        "farlanders:enderminion/idle4"
+    ]
+  },
+  "entity.enderminion.hurt": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.enderminion.hurt",
+    "sounds": [
+        "farlanders:enderminion/hurt1",
+        "farlanders:enderminion/hurt2",
+        "farlanders:enderminion/hurt3"
+    ]
+  },
+  "entity.enderminion.death": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.enderminion.death",
+    "sounds": [
+        "farlanders:enderminion/death"
+    ]
+  },
+  "entity.mystic_enderminion.idle": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.enderminion.idle",
+    "sounds": [
+        "farlanders:mystic_enderminion/idle1",
+        "farlanders:mystic_enderminion/idle2",
+        "farlanders:mystic_enderminion/idle3",
+        "farlanders:mystic_enderminion/idle4"
+    ]
+  },
+  "entity.mystic_enderminion.hurt": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.enderminion.hurt",
+    "sounds": [
+        "farlanders:mystic_enderminion/hurt1",
+        "farlanders:mystic_enderminion/hurt2",
+        "farlanders:mystic_enderminion/hurt3"
+    ]
+  },
+  "entity.mystic_enderminion.death": {
+      "category": "neutral",
+    "subtitle": "subtitles.entity.enderminion.death",
+    "sounds": [
+        "farlanders:mystic_enderminion/death"
+    ]
+  },
+  "entity.mystic_enderman.idle": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.enderman.ambient",
+    "sounds": [
+        "farlanders:mystic_enderman/idle1",
+        "farlanders:mystic_enderman/idle2",
+        "farlanders:mystic_enderman/idle3",
+        "farlanders:mystic_enderman/idle4",
+        "farlanders:mystic_enderman/idle5"
+    ]
+  },
+  "entity.mystic_enderman.hurt": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.enderman.hurt",
+    "sounds": [
+        "farlanders:mystic_enderman/hurt1",
+        "farlanders:mystic_enderman/hurt2",
+        "farlanders:mystic_enderman/hurt3"
+    ]
+  },
+  "entity.mystic_enderman.death": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.enderman.death",
+    "sounds": [
+        "farlanders:mystic_enderman/death"
+    ]
+  },
+  "entity.mystic_enderman.confusion": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.mystic_enderman.confusion",
+    "sounds": [
+        "farlanders:confusion"
+    ]
+  },
+  "entity.mystic_enderman.blindness": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.mystic_enderman.blindness",
+    "sounds": [
+        "farlanders:blindness"
+    ]
+  },
+  "entity.fanmade_enderman.idle": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.fanmade_enderman.idle",
+    "sounds": [
+        "farlanders:fanmade_enderman/idle1",
+        "farlanders:fanmade_enderman/idle2",
+        "farlanders:fanmade_enderman/idle3"
+    ]
+  },
+  "entity.fanmade_enderman.death": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.enderman.death",
+    "sounds": [
+        "farlanders:fanmade_enderman/death"
+    ]
+  },
+  "entity.titan.idle": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.titan.idle",
+    "sounds": [
+        "farlanders:titan/idle1",
+        "farlanders:titan/idle2",
+        "farlanders:titan/idle3",
+        "farlanders:titan/idle4",
+        "farlanders:titan/idle5"
+    ]
+  },
+  "entity.titan.hurt": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.titan.hurt",
+    "sounds": [
+        "mob/endermen/hit1",
+        "mob/endermen/hit2",
+        "mob/endermen/hit3",
+        "mob/endermen/hit4"
+    ]
+  },
+  "entity.titan.death": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.titan.death",
+    "sounds": [
+        "farlanders:titan/death"
+    ]
+  },
+  "entity.titan.death_echo": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.titan.death",
+    "sounds": [
+        "farlanders:titan/death_echo"
+    ]
+  },
+  "entity.titan.holding_long": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.titan.holding",
+    "sounds": [
+        "farlanders:titan/holding_long"
+    ]
+  },
+  "entity.titan.holding_med": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.titan.holding",
+    "sounds": [
+        "farlanders:titan/holding_med"
+    ]
+  },
+  "entity.titan.holding_short": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.titan.holding",
+    "sounds": [
+        "farlanders:titan/holding_short"
+    ]
+  },
+  "entity.ender_guardian.idle": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.ender_guardian.idle",
+    "sounds": [
+        "farlanders:titan/idle1",
+        "farlanders:titan/idle2",
+        "farlanders:titan/idle3",
+        "farlanders:titan/idle4",
+        "farlanders:titan/idle5"
+    ]
+  },
+  "entity.ender_guardian.hurt": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.ender_guardian.hurt",
+    "sounds": [
+        "mob/endermen/hit1",
+        "mob/endermen/hit2",
+        "mob/endermen/hit3",
+        "mob/endermen/hit4"
+    ]
+  },
+  "entity.ender_guardian.death": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.ender_guardian.death",
+    "sounds": [
+        "farlanders:titan/death"
+    ]
+  },
+  "entity.ender_golem.idle": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.ender_golem.idle",
+    "sounds": [
+        "farlanders:titan/idle1",
+        "farlanders:titan/idle2",
+        "farlanders:titan/idle3",
+        "farlanders:titan/idle4",
+        "farlanders:titan/idle5"
+    ]
+  },
+  "entity.ender_golem.hurt": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.ender_golem.hurt",
+    "sounds": [
+        "mob/endermen/hit1",
+        "mob/endermen/hit2",
+        "mob/endermen/hit3",
+        "mob/endermen/hit4"
+    ]
+  },
+  "entity.ender_golem.death": {
+      "category": "hostile",
+    "subtitle": "subtitles.entity.ender_golem.death",
+    "sounds": [
+        "farlanders:titan/death"
+    ]
+  }
+}

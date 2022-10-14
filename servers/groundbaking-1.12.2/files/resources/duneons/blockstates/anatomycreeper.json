@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:anatomycreeper"
+    },
+    "facing=north": {
+      "model": "duneons:anatomycreeper"
+    },
+    "facing=east": {
+      "model": "duneons:anatomycreeper",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:anatomycreeper",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:anatomycreeper",
+      "y": 270
+    }
+  }
+}

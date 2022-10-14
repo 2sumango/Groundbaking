@@ -1,0 +1,348 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "DeepDark",
+  "items": [
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "twilightforest:shield_scepter",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "twilightforest:zombie_scepter",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "twilightforest:lifedrain_scepter",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "natura:fusewood_bow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "primitivemobs:goblin_mace",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "naturalpledge:flarebringer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extrabotany:bottledflame",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "playerHashcode": {
+              "nbtType": "int",
+              "nbt": 7096619
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "spartanshields:shield_basic_steel",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "baubles:ring",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "grimoireofgaia:accessory_ring_haste",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extrabotany:walljumping",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "embers:ember_belt",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "naturalpledge:foodbelt",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "playerHashcode": {
+              "nbtType": "int",
+              "nbt": 7096619
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "naturalpledge:toolbelt",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "playerHashcode": {
+              "nbtType": "int",
+              "nbt": 4817788
+            },
+            "rotationBase": {
+              "nbtType": "float",
+              "nbt": 477.19592
+            },
+            "equipped": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "item0": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "item9": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "item11": {
+              "nbtType": "compound",
+              "nbt": {}
+            },
+            "item1": {
+              "nbtType": "compound",
+              "nbt": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "embers:tyrfing",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "grimoireofgaia:weapon_book_freezing",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "grimoireofgaia:weapon_book_metal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:explorers_hat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "beasts:hermit_helm",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "iceandfire:troll_weapon.column_forest",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AttributeModifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackDamage"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": 30.0
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -6586624321849018929
+                    },
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -3801225194067177672
+                    }
+                  }
+                },
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "AttributeName": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    },
+                    "Name": {
+                      "nbtType": "string",
+                      "nbt": "generic.attackSpeed"
+                    },
+                    "Operation": {
+                      "nbtType": "int",
+                      "nbt": 0
+                    },
+                    "Amount": {
+                      "nbtType": "double",
+                      "nbt": -3.5
+                    },
+                    "Slot": {
+                      "nbtType": "string",
+                      "nbt": "mainhand"
+                    },
+                    "UUIDLeast": {
+                      "nbtType": "long",
+                      "nbt": -5756800103171642205
+                    },
+                    "UUIDMost": {
+                      "nbtType": "long",
+                      "nbt": -422425648963762075
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "hooked:hook",
+        "damage": 1,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

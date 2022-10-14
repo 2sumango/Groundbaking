@@ -1,0 +1,57 @@
+{
+    "display": {
+        "icon": {
+            "item": "farlanders:nightfall_helmet"
+        },
+        "title": {
+            "translate": "advancement.among_endermen"
+        },
+        "description": {
+            "translate": "advancement.among_endermen.desc"
+        },
+        "frame": "goal"
+    },
+    "parent": "farlanders:craft_nightfall_sword",
+    "criteria": {
+        "helm": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "farlanders:nightfall_helmet"
+                    }
+                ]
+            }
+        },
+        "chest": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "farlanders:nightfall_chestplate"
+                    }
+                ]
+            }
+        },
+        "legs": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "farlanders:nightfall_leggings"
+                    }
+                ]
+            }
+        },
+      "boots": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "farlanders:nightfall_boots"
+            }
+          ]
+        }
+      }
+    }
+}

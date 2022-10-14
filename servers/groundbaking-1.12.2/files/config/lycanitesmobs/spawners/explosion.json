@@ -1,0 +1,52 @@
+{
+  "name": "explosion",
+  "type": "spawner",
+  "enabled": false,
+  "loadDefault": false,
+  "mobCountMin": 1,
+  "ignoreDimensions": false,
+  "ignoreBiomes": false,
+  "ignoreLightLevel": false,
+  "ignoreGroupLimit": false,
+  "conditions": [],
+  "triggers": [
+    {
+      "type": "explosion",
+      "chance": 0.05,
+      "entityTypesListType": "blacklist",
+      "entityIds": [
+        "lycanitesmobs:tremor"
+      ],
+      "entityIdsListType": "blacklist",
+      "cooldown": 1200
+    },
+    {
+      "type": "explosion",
+      "chance": 0.2,
+      "playerOnly": false,
+      "cooldown": 1200
+    }
+  ],
+  "locations": [
+    {
+      "type": "base",
+      "rangeMin": [
+        0,
+        0,
+        0
+      ],
+      "rangeMax": [
+        0,
+        0,
+        0
+      ],
+      "sorting": "random"
+    }
+  ],
+  "mobSpawns": [
+    {
+      "mobId": "lycanitesmobs:tremor",
+      "weight": 8
+    }
+  ]
+}

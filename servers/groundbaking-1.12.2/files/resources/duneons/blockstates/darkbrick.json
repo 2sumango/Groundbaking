@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:darkbrick"
+    },
+    "facing=north": {
+      "model": "duneons:darkbrick"
+    },
+    "facing=east": {
+      "model": "duneons:darkbrick",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:darkbrick",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:darkbrick",
+      "y": 270
+    }
+  }
+}

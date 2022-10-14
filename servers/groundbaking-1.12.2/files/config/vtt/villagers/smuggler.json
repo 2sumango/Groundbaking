@@ -1,0 +1,10 @@
+{
+	profession: {
+		name: "vtt:smuggler",
+		texture: "vtt:textures/entity/villager/smuggler.png",
+		zombieTexture: "vtt:textures/entity/villager/smuggler.png"
+	},
+	careers: [
+		"smuggler"
+	]
+}

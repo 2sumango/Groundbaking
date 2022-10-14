@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:creepertotem"
+    },
+    "facing=north": {
+      "model": "duneons:creepertotem"
+    },
+    "facing=east": {
+      "model": "duneons:creepertotem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:creepertotem",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:creepertotem",
+      "y": 270
+    }
+  }
+}

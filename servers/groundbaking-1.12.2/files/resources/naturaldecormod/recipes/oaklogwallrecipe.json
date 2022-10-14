@@ -1,0 +1,38 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:oakplankedwall",
+    "count": 6
+  }
+}

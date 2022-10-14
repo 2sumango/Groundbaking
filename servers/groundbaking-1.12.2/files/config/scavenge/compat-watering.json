@@ -1,0 +1,743 @@
+{
+	"block_pools" :
+	[			
+		{
+			"name": "Hoe Animation_0",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_6"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:watering_can_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:watering_can_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mythic",
+						"amount": 1
+						}
+					]
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:entity.player.splash",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 0.65
+				},													
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:pufferfish_deflate",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "clicks_per_time",
+					"time": 7
+				},													
+				{
+					"type": "spawn_particles",
+					"name": "cloud",
+					"xOffset": 0.5,
+					"yOffset": 0.5,
+					"zOffset": 0.5,
+					"amount": "15",
+					"speed": 0.05					
+				},						
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:grass",
+					"meta": 1
+				}			
+			]
+		},			
+		{
+			"name": "Hoe Animation_1",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_5"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:watering_can_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:watering_can_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mythic",
+						"amount": 1
+						}
+					]
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:entity.player.splash",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 0.65
+				},													
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:pufferfish_deflate",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "clicks_per_time",
+					"time": 7
+				},													
+				{
+					"type": "spawn_particles",
+					"name": "cloud",
+					"xOffset": 0.5,
+					"yOffset": 0.5,
+					"zOffset": 0.5,
+					"amount": "15",
+					"speed": 0.05					
+				},						
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:grass",
+					"meta": 1
+				}			
+			]
+		},			
+		{
+			"name": "Hoe Animation_3",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_4"
+			},
+			"clicktype": "right_click",
+			"properties":
+			
+			[				
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:watering_can_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:watering_can_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mythic",
+						"amount": 1
+						}
+					]
+				},						
+
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:entity.player.splash",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 0.65
+				},													
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:pufferfish_deflate",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "clicks_per_time",
+					"time": 7
+				},													
+				{
+					"type": "spawn_particles",
+					"name": "cloud",
+					"xOffset": 0.5,
+					"yOffset": 0.5,
+					"zOffset": 0.5,
+					"amount": "15",
+					"speed": 0.05					
+				},						
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:grass",
+					"meta": 1
+				}			
+			]
+		},
+		{
+			"name": "Hoe Animation_4",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_3"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:watering_can_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:watering_can_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mythic",
+						"amount": 1
+						}
+					]
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:entity.player.splash",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 0.65
+				},													
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:pufferfish_deflate",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "clicks_per_time",
+					"time": 7
+				},													
+				{
+					"type": "spawn_particles",
+					"name": "cloud",
+					"xOffset": 0.5,
+					"yOffset": 0.5,
+					"zOffset": 0.5,
+					"amount": "15",
+					"speed": 0.05					
+				},						
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:grass",
+					"meta": 1
+				}			
+			]
+		},		
+		{
+			"name": "Hoe Animation_5",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_2"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[	
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:watering_can_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:watering_can_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mythic",
+						"amount": 1
+						}
+					]
+				},							
+
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:entity.player.splash",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 0.65
+				},													
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:pufferfish_deflate",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "clicks_per_time",
+					"time": 7
+				},													
+				{
+					"type": "spawn_particles",
+					"name": "cloud",
+					"xOffset": 0.5,
+					"yOffset": 0.5,
+					"zOffset": 0.5,
+					"amount": "15",
+					"speed": 0.05					
+				},						
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:grass",
+					"meta": 1
+				}					
+			]
+		},		
+		{
+			"name": "Hoe Animation_6",
+			"type":
+			{
+				"type": "block",
+				"name": "desirepaths:grass_worn_1"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:watering_can_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:watering_can_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mythic",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:entity.player.splash",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 0.65
+				},													
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:pufferfish_deflate",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "clicks_per_time",
+					"time": 7
+				},													
+				{
+					"type": "spawn_particles",
+					"name": "cloud",
+					"xOffset": 0.5,
+					"yOffset": 0.5,
+					"zOffset": 0.5,
+					"amount": "15",
+					"speed": 0.05					
+				},						
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:grass",
+					"meta": 1
+				}								
+			]	
+		},
+		{
+			"name": "Hoe Animation_7",
+			"type":
+			{
+				"type": "block",
+				"name": "quark:turf"
+			},
+			"clicktype": "right_click",
+			"properties":
+			[		
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "harvestfestival:watering_can_basic",
+						"amount": 1						
+						},
+						{
+						"name": "harvestfestival:watering_can_copper",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_silver",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_gold",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mystril",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_cursed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_blessed",
+						"amount": 1
+						},
+						{
+						"name": "harvestfestival:watering_can_mythic",
+						"amount": 1
+						}
+					]
+				},						
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:entity.player.splash",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 0.65
+				},													
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:pufferfish_deflate",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "clicks_per_time",
+					"time": 7
+				},													
+				{
+					"type": "spawn_particles",
+					"name": "cloud",
+					"xOffset": 0.5,
+					"yOffset": 0.5,
+					"zOffset": 0.5,
+					"amount": "15",
+					"speed": 0.05					
+				},						
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:grass",
+					"meta": 1
+				}								
+			]	
+		}
+	]
+}

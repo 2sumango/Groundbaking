@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:troomblock"
+    },
+    "facing=north": {
+      "model": "duneons:troomblock"
+    },
+    "facing=east": {
+      "model": "duneons:troomblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:troomblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:troomblock",
+      "y": 270
+    }
+  }
+}

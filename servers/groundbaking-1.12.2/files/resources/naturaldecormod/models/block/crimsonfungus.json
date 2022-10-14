@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "naturaldecormod:blocks/crimson_fungus",
+    "particle": "naturaldecormod:blocks/crimson_fungus"
+  }
+}

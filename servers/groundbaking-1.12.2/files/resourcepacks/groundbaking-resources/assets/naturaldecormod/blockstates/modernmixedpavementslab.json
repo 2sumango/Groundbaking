@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "naturaldecormod:modernmixedpavementslab"
+    },
+    "half=top,variant=default": {
+      "model": "naturaldecormod:modernmixedpavementslab_top"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/cobwebbed_dirt",
+    "up": "duneons:blocks/cobwebbed_dirt",
+    "north": "duneons:blocks/cobwebbed_dirt",
+    "east": "duneons:blocks/cobwebbed_dirt",
+    "south": "duneons:blocks/cobwebbed_dirt",
+    "west": "duneons:blocks/cobwebbed_dirt",
+    "particle": "duneons:blocks/cobwebbed_dirt"
+  }
+}

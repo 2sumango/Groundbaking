@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:carrotshelf"
+    },
+    "facing=north": {
+      "model": "duneons:carrotshelf"
+    },
+    "facing=east": {
+      "model": "duneons:carrotshelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:carrotshelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:carrotshelf",
+      "y": 270
+    }
+  }
+}

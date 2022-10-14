@@ -1,0 +1,111 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "particle": "minecraft:blocks/hive_bulb_top",
+        "hive_bulb": "minecraft:blocks/hive_bulb",
+        "hive_bulb_top": "minecraft:blocks/hive_bulb_top",
+        "hive_blossom": "minecraft:blocks/hive_blossom"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 87, 0 ],
+            "translation": [ 0, -1.5, 0 ],
+            "scale": [ 0.25, 0.28, 0.25 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.35, 0.35, 0.35 ]
+        },
+        "fixed": {
+            "rotation": [ 270, 135, 0 ],
+            "translation": [ 0, 0, -6 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 134, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.75, 0.75, 0.75 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 254, 0 ],
+            "translation": [ -1, 2.5, 2 ],
+            "scale": [ 0.15, 0.15, 0.15 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube33",
+            "from": [ -8, 0, -8 ], 
+            "to": [ 24, 30, 24 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#hive_bulb", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#hive_bulb", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#hive_bulb", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#hive_bulb", "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#hive_bulb_top", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#hive_bulb", "uv": [ 9, 10, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube56",
+            "from": [ -1, 30, -1 ], 
+            "to": [ 17, 36, 17 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#hive_bulb", "uv": [ 0, 0, 6, 4 ] },
+                "east": { "texture": "#hive_bulb", "uv": [ 0, 0, 6, 4 ] },
+                "south": { "texture": "#hive_bulb", "uv": [ 0, 0, 6, 4 ] },
+                "west": { "texture": "#hive_bulb", "uv": [ 0, 0, 6, 4 ] },
+                "up": { "texture": "#hive_bulb_top", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#hive_bulb", "uv": [ 9, 10, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube68",
+            "from": [ -8, 30, 1 ], 
+            "to": [ -8, 46, 17 ], 
+            "faces": {
+                "east": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube845",
+            "from": [ -16, 30, 9 ], 
+            "to": [ 0, 46, 9 ], 
+            "faces": {
+                "north": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#hive_blossom", "uv": [ 0, 0, 0, 16 ] },
+                "south": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#hive_blossom", "uv": [ 0, 0, 0, 16 ] }
+            }
+        },
+        {
+            "name": "Cube4342",
+            "from": [ 25, 28, 1 ], 
+            "to": [ 25, 44, 17 ], 
+            "faces": {
+                "east": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube43788",
+            "from": [ 17, 28, 9 ], 
+            "to": [ 33, 44, 9 ], 
+            "faces": {
+                "north": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#hive_blossom", "uv": [ 0, 0, 0, 16 ] },
+                "south": { "texture": "#hive_blossom", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#hive_blossom", "uv": [ 0, 0, 0, 16 ] }
+            }
+        }
+    ]
+}

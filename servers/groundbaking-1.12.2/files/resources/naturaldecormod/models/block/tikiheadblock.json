@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "naturaldecormod:blocks/stripped_jungle_log_top",
+    "up": "naturaldecormod:blocks/stripped_jungle_log_top",
+    "north": "naturaldecormod:blocks/ikiead",
+    "east": "naturaldecormod:blocks/ikieadcared",
+    "south": "naturaldecormod:blocks/ikieadappy",
+    "west": "naturaldecormod:blocks/ikieadcared",
+    "particle": "naturaldecormod:blocks/stripped_jungle_log_top"
+  }
+}

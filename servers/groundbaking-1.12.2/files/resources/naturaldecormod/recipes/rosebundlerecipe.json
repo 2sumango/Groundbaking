@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:bluerose"
+    },
+    {
+      "item": "naturaldecormod:bluerose"
+    },
+    {
+      "item": "naturaldecormod:roseclassic"
+    },
+    {
+      "item": "naturaldecormod:roseclassic"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:rosebundle",
+    "count": 3
+  }
+}

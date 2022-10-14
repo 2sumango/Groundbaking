@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/coins_block",
+  "textures": {
+    "all": "duneons:blocks/coins_gold",
+    "particle": "duneons:blocks/coins_gold",
+    "0": "duneons:blocks/coins_gold"
+  }
+}

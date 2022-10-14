@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "pamhc2crops:block/cantaloupe_stage_0",
+		"particle": "pamhc2crops:block/cantaloupe_stage_0"
+	},
+	"elements": [
+		{
+			"name": "LeafNS",
+			"from": [0, -1, 8],
+			"to": [15, 7, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [1, 8, 16, 16], "texture": "#0"},
+				"south": {"uv": [1, 8, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "LeafEW",
+			"from": [8, -1, 0.5],
+			"to": [8, 7, 15.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"east": {"uv": [1, 8, 16, 16], "texture": "#0"},
+				"west": {"uv": [1, 8, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#missing"}
+			}
+		}
+	]
+}

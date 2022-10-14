@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "grass",
+    "textures": {
+      "particle": "midnight:blocks/nightstone",
+      "bottom": "midnight:blocks/nightstone",
+      "top": "midnight:blocks/nightstone_growth",
+      "side": "midnight:blocks/nightstone_grass_side",
+      "overlay": "midnight:blocks/nightstone_growth_overlay"
+    }
+  },
+  "variants": {
+    "normal": [
+      {},
+      {"y": 90},
+      {"y": 180},
+      {"y": 270}
+    ],
+    "inventory": [{}]
+  }
+}

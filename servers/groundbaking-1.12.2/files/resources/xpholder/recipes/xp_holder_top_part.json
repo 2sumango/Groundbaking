@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"LEL",
+		"GOG",
+		"CDC"
+	],
+	"key": {
+		"L": {
+			"item": "minecraft:dye",
+			"data": 4
+		},
+		"E": {
+			"item": "minecraft:experience_bottle"
+		},
+		"D": {
+			"item": "minecraft:diamond"
+		},
+		"O": {
+			"item": "xpholder:obsidian_container"
+		},
+		"G": {
+			"item": "minecraft:gold_ingot"
+		},
+		"C": {
+			"item": "minecraft:dye",
+			"data": 10
+		}
+	},
+	"result": {
+		"item": "xpholder:xp_holder_top_part"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/leaf_pile",
+  "textures": {
+    "all": "duneons:blocks/leaf_pile",
+    "particle": "duneons:blocks/leaf_pile",
+    "0": "duneons:blocks/leaf_pile"
+  }
+}

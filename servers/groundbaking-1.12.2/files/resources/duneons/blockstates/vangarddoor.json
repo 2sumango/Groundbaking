@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:vangarddoor"
+    },
+    "facing=north": {
+      "model": "duneons:vangarddoor"
+    },
+    "facing=east": {
+      "model": "duneons:vangarddoor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:vangarddoor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:vangarddoor",
+      "y": 270
+    }
+  }
+}

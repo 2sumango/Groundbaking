@@ -1,0 +1,38 @@
+{
+  "startheworld": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time_stop_mod:jotaros_time_stop_sound_effect_star_platinum_the_world_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  },
+  "startheworldending": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time_stop_mod:star_platinum_za_warudo_star_platinum_the_world_time_resume_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  },
+  "theworld": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time_stop_mod:za_warudo",
+        "stream": false
+      }
+    ]
+  },
+  "theworldending": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time_stop_mod:za_warudo_ending",
+        "stream": false
+      }
+    ]
+  }
+}

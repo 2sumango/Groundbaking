@@ -1,0 +1,14 @@
+{
+  "comment": "Model by Zwangi",
+  "textureSize": [64,64],
+  "models": 
+  [
+    {
+      "model": "piglin_head.jpm",
+      "part": "head", 
+      "attach": true,
+      "translate": [8, 5, -7],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

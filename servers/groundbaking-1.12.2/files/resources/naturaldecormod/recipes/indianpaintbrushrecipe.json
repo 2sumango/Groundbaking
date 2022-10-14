@@ -1,0 +1,17 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:indianpaintbrush"
+    }
+  },
+  "result": {
+    "item": "minecraft:dye",
+    "data": 1,
+    "count": 1
+  }
+}

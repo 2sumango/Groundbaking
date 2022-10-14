@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:polishedandesite"
+    },
+    "facing=north": {
+      "model": "duneons:polishedandesite"
+    },
+    "facing=east": {
+      "model": "duneons:polishedandesite",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:polishedandesite",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:polishedandesite",
+      "y": 270
+    }
+  }
+}

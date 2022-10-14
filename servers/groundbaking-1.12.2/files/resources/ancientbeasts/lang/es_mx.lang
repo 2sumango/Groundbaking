@@ -1,0 +1,65 @@
+#Mobs
+entity.SandMonster.name=Engendro De Arena
+entity.Zealot.name=Ocultista
+entity.Ghost.name=Fantasma
+entity.Frostash_fox.name=Zorro de Escarcha
+#Items
+item.sandmonster_scale.name=Escama De Engendro De Arena
+item.cactus_broth.name=Caldo De Cactus
+item.scale_armor.name=Traje del desierto
+item.scale_hood.name=Capucha Del Desierto
+item.shield_book.name=Tomo del Ocultismo
+item.ectoplasm.name=Ectoplasma
+item.tough_glove.name=Guante Duro
+item.ice_dart.name=Púas de Hielo
+#Tab
+itemGroup.beaststab=Bestias Ancestrales
+#Advancements
+advancements.ancientbeasts.root.title=Bestias Ancestrales
+advancements.ancientbeasts.root.description=Nuevos peligros aparecen en el mundo
+advancements.ancientbeasts.kill_sandmonster.title=Desierto de locura
+advancements.ancientbeasts.kill_sandmonster.description=Asesina a un engendro de arena
+advancements.ancientbeasts.tame_sandmonster.title=Yandere
+advancements.ancientbeasts.tame_sandmonster.description=Ella es celosa!
+advancements.ancientbeasts.kill_zealot.title=Enciéndelos
+advancements.ancientbeasts.kill_zealot.description=Mata a un ocultista
+advancements.ancientbeasts.kill_ghost.title=Exorcismo
+advancements.ancientbeasts.kill_ghost.description=Derrota a un fantasma
+advancements.ancientbeasts.kill_giant.title=Más fuerte caen
+advancements.ancientbeasts.kill_giant.description=Mata a un gigante
+advancements.ancientbeasts.kill_fox.title=Tu... monstruo
+advancements.ancientbeasts.kill_fox.description=Mata a un inocente zorro de escarcha
+advancements.ancientbeasts.tame_fox.title=Frío y elegante
+advancements.ancientbeasts.tame_fox.description=Conoce a un nuevo amigo helado.
+#Sounds
+subtitles.tornado_ambient=Tornado sopla
+subtitles.sandmonster_ambient=Engendro De Arena sisea
+subtitles.sandmonster_hurt=Engendro De Arena gruñe
+subtitles.sandmonster_death=Engendro De Arena muere
+subtitles.zealot_ambient=Ocultista murmura
+subtitles.zealot_hurt=Ocultista herido
+subtitles.zealot_death=Ocultista muere
+subtitles.ghost_ambient=Fantasma grita
+subtitles.ghost_hurt=Fantasma enfurece
+subtitles.ghost_death=Fantasma desaparece
+subtitles.ghost_possess=Fantasma posee
+subtitles.frostash_fox_idle=Zorro de escarcha chirría
+subtitles.frostash_fox_bite=Zorro de escarcha muerde
+subtitles.frostash_fox_eat=Zorro de escarcha come
+subtitles.frostash_fox_hurt=Zorro de escarcha herido
+subtitles.frostash_fox_death=Zorro de escarcha muere
+subtitles.frostash_fox_screech=Zorro de escarcha chilla
+subtitles.frostash_fox_sleep=Zorro de escarcha ronca
+#Potions
+potion.shielded=Blindaje
+potion.possessed=Poseído
+potion.ghostly=Forma Fantasmal
+#potion types
+potion.effect.potionGhostly=Poción de Forma Espectral
+splash_potion.effect.potionGhostly=Poción Arrojadiza de Forma Espectral
+lingering_potion.effect.potionGhostly=Poción Persistente de Forma Espectral
+tipped_arrow.effect.potionGhostly=Flecha de Forma Espectral
+#Vanilla overrides
+subtitles.entity.evocation_illager.cast_spell=Un hechizo es conjurado
+subtitles.entity.evocation_illager.prepare_summon=Una invocación es preparada
+subtitles.entity.evocation_illager.prepare_attack=Un ataque es preparado

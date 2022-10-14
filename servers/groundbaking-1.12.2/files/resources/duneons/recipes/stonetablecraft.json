@@ -1,0 +1,31 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stonebrick",
+      "data": 3
+    },
+    "1": {
+      "item": "duneons:stonebricksdirt"
+    },
+    "2": {
+      "item": "minecraft:stonebrick",
+      "data": 3
+    },
+    "3": {
+      "item": "duneons:stonebricksdirt"
+    },
+    "5": {
+      "item": "duneons:stonebricksdirt"
+    }
+  },
+  "result": {
+    "item": "duneons:stonetablemap",
+    "count": 1
+  }
+}

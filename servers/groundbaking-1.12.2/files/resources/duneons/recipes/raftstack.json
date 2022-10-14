@@ -1,0 +1,23 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:book"
+    },
+    "1": {
+      "item": "minecraft:enchanted_book",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "duneons:stackofbooks",
+    "count": 1
+  }
+}

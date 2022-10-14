@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/crystal_painting",
+  "textures": {
+    "all": "duneons:blocks/crystal_painting",
+    "particle": "duneons:blocks/crystal_painting",
+    "1": "duneons:blocks/crystal_painting"
+  }
+}

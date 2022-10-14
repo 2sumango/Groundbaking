@@ -1,0 +1,8 @@
+{
+  "parent": "naturaldecormod:custom/topiarysteve",
+  "textures": {
+    "all": "naturaldecormod:blocks/ushtem",
+    "particle": "naturaldecormod:blocks/ushtem",
+    "topiarySteve": "naturaldecormod:blocks/topiaryteve"
+  }
+}

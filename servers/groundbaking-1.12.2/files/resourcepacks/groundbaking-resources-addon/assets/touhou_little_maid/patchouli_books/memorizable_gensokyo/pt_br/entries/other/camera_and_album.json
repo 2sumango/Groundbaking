@@ -1,0 +1,18 @@
+{
+  "sortnum": 2,
+  "name": "Câmera e Álbum",
+  "icon": "touhou_little_maid:album",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:camera",
+      "text": "Carregar uma maid através de dimensões ou à distâncias muito longas é um incômodo, e a câmera foi projetada para esse resolver esses problemas. $(br2)É só tirar uma foto de sua maid com a câmera e transformá-la em uma foto, segure a foto e clique com o botão direito em um bloco para liberara-la."
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:album",
+      "text": "Se você tem um álbum no inventário, use a câmera, e as fotos estarão indo diretamente pro álbum, e então você pode colocar as maids de uma a uma usando o álbum clicando com o botão direito em um bloco."
+    }
+  ]
+}

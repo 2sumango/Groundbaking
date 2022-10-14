@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dungeoncactus"
+    },
+    "facing=north": {
+      "model": "duneons:dungeoncactus"
+    },
+    "facing=east": {
+      "model": "duneons:dungeoncactus",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dungeoncactus",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dungeoncactus",
+      "y": 270
+    }
+  }
+}

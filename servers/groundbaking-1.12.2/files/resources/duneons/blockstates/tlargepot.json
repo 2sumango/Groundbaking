@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:tlargepot"
+    },
+    "facing=north": {
+      "model": "duneons:tlargepot"
+    },
+    "facing=east": {
+      "model": "duneons:tlargepot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:tlargepot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:tlargepot",
+      "y": 270
+    }
+  }
+}

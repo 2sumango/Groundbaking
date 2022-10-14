@@ -1,0 +1,26 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wool",
+      "data": 9
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 9
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 9
+    },
+    {
+      "item": "minecraft:wool",
+      "data": 9
+    }
+  ],
+  "result": {
+    "item": "duneons:ninjaarmorboots",
+    "count": 1
+  }
+}

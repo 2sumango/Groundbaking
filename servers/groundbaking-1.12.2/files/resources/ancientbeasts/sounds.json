@@ -1,0 +1,171 @@
+{
+  "tornado_ambient": {
+    "subtitle": "subtitles.tornado_ambient",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:tornado_ambient",
+      "ancientbeasts:tornado_ambient_2",
+      "ancientbeasts:tornado_ambient_3"
+    ]
+  },
+  "sandmonster_ambient": {
+    "subtitle": "subtitles.sandmonster_ambient",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:sandmonster_ambient",
+      "ancientbeasts:sandmonster_ambient_2",
+      "ancientbeasts:sandmonster_ambient_3",
+      "ancientbeasts:sandmonster_ambient_4"
+    ]
+  },
+  "sandmonster_hurt": {
+    "subtitle": "subtitles.sandmonster_hurt",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:sandmonster_hurt",
+      "ancientbeasts:sandmonster_hurt_2",
+      "ancientbeasts:sandmonster_hurt_3"
+    ]
+  },
+  "sandmonster_death": {
+    "subtitle": "subtitles.sandmonster_death",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:sandmonster_death",
+      "ancientbeasts:sandmonster_death_2"
+    ]
+  },
+  "zealot_ambient": {
+    "subtitle": "subtitles.zealot_ambient",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:zealot_idle",
+      "ancientbeasts:zealot_idle_2",
+      "ancientbeasts:zealot_idle_3",
+      "ancientbeasts:zealot_idle_4"
+    ]
+  },
+  "zealot_hurt": {
+    "subtitle": "subtitles.zealot_hurt",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:zealot_hurt",
+      "ancientbeasts:zealot_hurt_2",
+      "ancientbeasts:zealot_hurt_3",
+      "ancientbeasts:zealot_hurt_4"
+    ]
+  },
+  "zealot_death": {
+    "subtitle": "subtitles.zealot_death",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:zealot_death",
+      "ancientbeasts:zealot_death_2"
+    ]
+  },
+  "ghost_ambient": {
+    "subtitle": "subtitles.ghost_ambient",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:ghost_idle",
+      "ancientbeasts:ghost_idle_2",
+      "ancientbeasts:ghost_idle_3",
+      "ancientbeasts:ghost_idle_4",
+      "ancientbeasts:ghost_idle_5",
+      "ancientbeasts:ghost_idle_6"
+    ]
+  },
+  "ghost_hurt": {
+    "subtitle": "subtitles.ghost_hurt",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:ghost_hurt",
+      "ancientbeasts:ghost_hurt_2",
+      "ancientbeasts:ghost_hurt_3"
+    ]
+  },
+  "ghost_death": {
+    "subtitle": "subtitles.ghost_death",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:ghost_death",
+      "ancientbeasts:ghost_death_2"
+    ]
+  },
+  "ghost_possess": {
+    "subtitle": "subtitles.ghost_possess",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:ghost_possess"
+    ]
+  },
+  "frostash_fox_idle": {
+    "subtitle": "subtitles.frostash_fox_idle",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:frostash_fox_idle",
+      "ancientbeasts:frostash_fox_idle_2",
+      "ancientbeasts:frostash_fox_idle_3",
+      "ancientbeasts:frostash_fox_idle_4",
+      "ancientbeasts:frostash_fox_idle_5",
+      "ancientbeasts:frostash_fox_idle_6"
+    ]
+  },
+  "frostash_fox_bite": {
+    "subtitle": "subtitles.frostash_fox_bite",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:frostash_fox_bite",
+      "ancientbeasts:frostash_fox_bite_2",
+      "ancientbeasts:frostash_fox_bite_3"
+    ]
+  },
+  "frostash_fox_eat": {
+    "subtitle": "subtitles.frostash_fox_eat",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:frostash_fox_eat",
+      "ancientbeasts:frostash_fox_eat_2",
+      "ancientbeasts:frostash_fox_eat_3"
+    ]
+  },
+  "frostash_fox_hurt": {
+    "subtitle": "subtitles.frostash_fox_hurt",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:frostash_fox_hurt",
+      "ancientbeasts:frostash_fox_hurt_2",
+      "ancientbeasts:frostash_fox_hurt_3",
+      "ancientbeasts:frostash_fox_hurt_4"
+    ]
+  },
+  "frostash_fox_death": {
+    "subtitle": "subtitles.frostash_fox_death",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:frostash_fox_death",
+      "ancientbeasts:frostash_fox_death_2"
+    ]
+  },
+  "frostash_fox_screech": {
+    "subtitle": "subtitles.frostash_fox_screech",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:frostash_fox_screech",
+      "ancientbeasts:frostash_fox_screech_2",
+      "ancientbeasts:frostash_fox_screech_3",
+      "ancientbeasts:frostash_fox_screech_4"
+    ]
+  },
+  "frostash_fox_sleep": {
+    "subtitle": "subtitles.frostash_fox_sleep",
+    "category": "entity",
+    "sounds": [
+      "ancientbeasts:frostash_fox_sleep",
+      "ancientbeasts:frostash_fox_sleep_2",
+      "ancientbeasts:frostash_fox_sleep_3",
+      "ancientbeasts:frostash_fox_sleep_4",
+      "ancientbeasts:frostash_fox_sleep_5"
+    ]
+  }
+}

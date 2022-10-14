@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/stone_floor",
+  "textures": {
+    "all": "duneons:blocks/stone_path_side",
+    "particle": "duneons:blocks/stone_path_side",
+    "1": "duneons:blocks/stone_path_side"
+  }
+}

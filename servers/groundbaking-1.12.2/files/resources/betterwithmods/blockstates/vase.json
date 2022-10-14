@@ -1,0 +1,119 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "side": "blocks/hardened_clay",
+      "top": "betterwithmods:blocks/vase_inside",
+      "particle": "#side"
+    },
+    "model": "betterwithmods:vase",
+    "uvlock": false
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block"
+      }
+    ],
+    "color": {
+      "white": {
+        "textures": {
+          "side": "betterwithmods:blocks/urn"
+        }
+      },
+      "orange": {
+        "textures": {
+          "side": "betterwithmods:blocks/urn"
+        }
+      },
+      "magenta": {
+        "textures": {
+          "side": "betterwithmods:blocks/urn"
+        }
+      },
+      "light_blue": {
+        "textures": {
+          "side": "betterwithmods:blocks/urn"
+        }
+      },
+      "yellow": {
+        "model": "betterwithmods:urn_strong",
+        "textures": {
+          "side": "betterwithmods:blocks/urn"
+        }
+      },
+      "lime": {
+        "model": "betterwithmods:urn_strong",        
+        "textures": {
+          "side": "minecraft:blocks/hardened_clay_stained_lime"
+        }
+      },
+      "pink": {
+        "model": "betterwithmods:urn_strong",             
+        "textures": {     
+          "side": "minecraft:blocks/hardened_clay_stained_pink"
+        }
+      },
+      "gray": {
+        "model": "betterwithmods:urn_strong",        
+        "textures": {          
+          "side": "minecraft:blocks/hardened_clay_stained_gray"
+        }
+      },
+      "silver": {
+        "model": "betterwithmods:urn_small",          
+        "textures": {        
+          "side": "minecraft:blocks/hardened_clay_stained_silver"
+        }
+      },
+      "cyan": {
+        "model": "betterwithmods:urn_small",        
+        "textures": {
+          "side": "minecraft:blocks/hardened_clay_stained_cyan"
+        }
+      },
+      "purple": {
+        "model": "betterwithmods:urn_small",        
+        "textures": {
+          "urn": "betterwithmods:blocks/urn_clay",
+          "urn_inside": "betterwithmods:blocks/urn_inside_clay"
+        }
+      },
+      "blue": {
+        "model": "betterwithmods:urn_small_fire",        
+        "textures": {
+          "urn": "betterwithmods:blocks/urn_fired",
+          "urn_inside": "betterwithmods:blocks/urn_inside_copper"
+        }
+      },
+      "brown": {
+        "model": "betterwithmods:urn_small",        
+        "textures": {
+          "urn": "betterwithmods:blocks/urn_copper",
+          "urn_inside": "betterwithmods:blocks/urn_inside_copper"
+        }
+      },
+      "green": {
+        "model": "betterwithmods:urn_strong",          
+        "textures": {        
+          "urn": "betterwithmods:blocks/urn_copper",
+          "urn_inside": "betterwithmods:blocks/urn_inside_copper"
+        }
+      },
+      "red": {
+        "textures": {
+          "urn": "betterwithmods:blocks/urn_copper",
+          "urn_inside": "betterwithmods:blocks/urn_inside_copper"
+        }
+      },
+      "black": {
+        "textures": {
+          "side": "minecraft:blocks/hardened_clay_stained_black"
+        }
+      }
+    }
+  }
+}

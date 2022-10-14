@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:tmarketboothwide02"
+    },
+    "facing=north": {
+      "model": "duneons:tmarketboothwide02"
+    },
+    "facing=east": {
+      "model": "duneons:tmarketboothwide02",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:tmarketboothwide02",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:tmarketboothwide02",
+      "y": 270
+    }
+  }
+}

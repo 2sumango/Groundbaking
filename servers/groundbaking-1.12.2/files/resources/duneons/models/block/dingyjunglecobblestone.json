@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/ingyjungle_obblestone",
+    "up": "duneons:blocks/ingyjungle_obblestone",
+    "north": "duneons:blocks/ingyjungle_obblestone",
+    "east": "duneons:blocks/ingyjungle_obblestone",
+    "south": "duneons:blocks/ingyjungle_obblestone",
+    "west": "duneons:blocks/ingyjungle_obblestone",
+    "particle": "duneons:blocks/ingyjungle_obblestone"
+  }
+}

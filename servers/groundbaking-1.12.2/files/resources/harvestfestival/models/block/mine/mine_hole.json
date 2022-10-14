@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "side": "harvestfestival:blocks/mine/mine_wall",
+    "end": "harvestfestival:blocks/mine/mine_hole"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "basic_grimoire",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "zettaigrimoires:empty_grimoire",
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "beachBiomeLocation": "biomesoplenty:gravel_beach",
+  "variationBelow": 8.0,
+  "variationAbove": 72.0,
+  "seaFloorBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "fillerBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "averageHeight": 81.0,
+  "topBlock": {
+    "block": "minecraft:grass",
+    "properties": {
+      "snowy": "false"
+    }
+  },
+  "generators": {
+    "glowshrooms": {
+      "with": {
+        "block": "biomesoplenty:mushroom",
+        "properties": {
+          "variant": "glowshroom"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 1.5,
+      "enable": true
+    },
+    "leaf_piles": {
+      "with": {
+        "block": "minecraft:leaves",
+        "properties": {
+          "variant": "birch",
+          "decayable": "false"
+        }
+      },
+      "generationAttempts": 4,
+      "amountPerChunk": 2.35,
+      "enable": false
+    },
+    "flax": {
+      "with": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "lower",
+          "variant": "flax"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.1,
+      "enable": true,
+      "withTop": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "upper",
+          "variant": "flax"
+        }
+      }
+    },
+    "flowers": {
+      "amountPerChunk": 0.1,
+      "enable": true,
+      "generators": {}
+    },
+    "miners_delight": {
+      "with": {
+        "block": "biomesoplenty:flower_1",
+        "properties": {
+          "variant": "miners_delight"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 0.25,
+      "enable": true
+    },
+    "dead_leaf_piles": {
+      "with": {
+        "block": "minecraft:leaves",
+        "properties": {
+          "variant": "birch",
+          "decayable": "false"
+        }
+      },
+      "generationAttempts": 5,
+      "amountPerChunk": 0.3,
+      "enable": false
+    },
+    "clover_patches": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "cloverpatch"
+        }
+      },
+      "generationAttempts": 128,
+      "amountPerChunk": 0.05,
+      "enable": true
+    },
+    "grass": {
+      "amountPerChunk": 0.5,
+      "enable": true,
+      "generators": {}
+    },
+    "amber": {
+      "minHeight": 4,
+      "with": {
+        "block": "biomesoplenty:gem_ore",
+        "properties": {
+          "variant": "amber"
+        }
+      },
+      "amountPerChunk": 12.0,
+      "maxHeight": 32,
+      "enable": true
+    },
+    "roots": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "root"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 4.0,
+      "enable": true
+    },
+    "toadstools": {
+      "with": {
+        "block": "biomesoplenty:mushroom",
+        "properties": {
+          "variant": "toadstool"
+        }
+      },
+      "generationAttempts": 16,
+      "amountPerChunk": 0.1,
+      "enable": true
+    },
+    "poison_ivy": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "poisonivy"
+        }
+      },
+      "generationAttempts": 16,
+      "amountPerChunk": 0.1,
+      "enable": false
+    }
+  }
+}

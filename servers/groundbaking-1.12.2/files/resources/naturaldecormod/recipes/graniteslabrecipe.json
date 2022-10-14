@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:granitepavementbricks"
+    },
+    "1": {
+      "item": "naturaldecormod:granitepavementbricks"
+    },
+    "2": {
+      "item": "naturaldecormod:granitepavementbricks"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:granitepavementbrickslab",
+    "count": 6
+  }
+}

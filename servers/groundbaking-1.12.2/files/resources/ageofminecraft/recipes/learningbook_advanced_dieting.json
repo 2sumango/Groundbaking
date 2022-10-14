@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+        {
+            "item": "ageofminecraft:learningbook_advanced"
+        },
+		{
+            "item": "minecraft:fishing_rod"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "fish"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "fish"
+        }
+    ],
+	"result": {
+		"item": "ageofminecraft:learningbook_advanced_dieting",
+        "count": 1,
+        "data": 0
+	}
+}

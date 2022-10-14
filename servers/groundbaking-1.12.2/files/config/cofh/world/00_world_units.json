@@ -1,0 +1,310 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"lavender_trees": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:sapling_sap",
+				"material": {
+					"name": "biomesoplenty:flower_1",
+					"properties": {
+						"variant": "lavender"
+					}
+				},
+				"cluster-size": 1
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 120,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:lavender_fields"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"orchard_trees": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:sapling_nibbletwig",
+				"material": {
+					"name": "biomesoplenty:plant_0",
+					"properties": {
+						"variant": "leafpile"
+					}
+				},
+				"cluster-size": 72
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 120,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:orchard"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"orchard_plains": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": "thebetweenlands:sapling_nibbletwig",
+				"cluster-size": 72
+			},
+			"cluster-count": 60,
+			"min-height": 50,
+			"max-height": 120,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:orchard"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"forest_trees": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:sapling_rubber",
+				"material": {
+					"name": "biomesoplenty:plant_0",
+					"properties": {
+						"variant": "deadleafpile"
+					}
+				},
+				"cluster-size": 72
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 256,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"minecraft:forest"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"no_bop_medium_grass": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": {
+					"name": "biomesoplenty:plant_0",
+					"properties": {
+						"variant": "mediumgrass"
+					}
+				},
+				"cluster-size": 72
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 256,
+			"retrogen": true,
+			"biome":  "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"no_bop_short_grass": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": {
+					"name": "biomesoplenty:plant_0",
+					"properties": {
+						"variant": "shortgrass"
+					}
+				},
+				"cluster-size": 72
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 256,
+			"retrogen": true,
+			"biome":  "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"autumn_trees": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:sapling_0",
+					"properties": {
+						"variant": "yellow_autumn"
+					}
+				},
+				"material": {
+					"name": "biomesoplenty:flower_0",
+					"properties": {
+						"variant": "wildflower"
+					}
+				},
+				"cluster-size": 28
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 120,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:lush_desert"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"autumn_trees1": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:sapling_0",
+					"properties": {
+						"variant": "yellow_autumn"
+					}
+				},
+				"material": {
+					"name": "biomesoplenty:flower_0",
+					"properties": {
+						"variant": "white_anemone"
+					}
+				},
+				"cluster-size": 28
+			},
+			"cluster-count": 512,
+			"min-height": 50,
+			"max-height": 120,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:lush_desert"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"marsh_trees": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "biomesoplenty:sapling_2",
+					"properties": {
+						"variant": "mangrove"
+					}
+				},
+				"material": {
+					"name": "minecraft:tallgrass",
+					"properties": {
+						"type": "tall_grass"
+					}
+				},
+				"cluster-size": 1
+			},
+			"cluster-count": 512,
+			"min-height": 62,
+			"max-height": 63,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:lavender_fields"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

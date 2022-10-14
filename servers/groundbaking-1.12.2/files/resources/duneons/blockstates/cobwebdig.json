@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:cobwebdig"
+    },
+    "facing=north": {
+      "model": "duneons:cobwebdig"
+    },
+    "facing=east": {
+      "model": "duneons:cobwebdig",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:cobwebdig",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:cobwebdig",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "duneons:cobwebdig",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "duneons:cobwebdig",
+      "x": 90
+    }
+  }
+}

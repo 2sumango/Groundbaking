@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/busher_stone",
+    "up": "duneons:blocks/busher_stone",
+    "north": "duneons:blocks/busher_stone",
+    "east": "duneons:blocks/busher_stone",
+    "south": "duneons:blocks/busher_stone",
+    "west": "duneons:blocks/busher_stone",
+    "particle": "duneons:blocks/busher_stone"
+  }
+}

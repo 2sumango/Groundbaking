@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:greencarpet"
+    },
+    "facing=north": {
+      "model": "duneons:greencarpet"
+    },
+    "facing=east": {
+      "model": "duneons:greencarpet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:greencarpet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:greencarpet",
+      "y": 270
+    }
+  }
+}

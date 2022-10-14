@@ -1,0 +1,6 @@
+{
+    "parent" : "block/cube_all",
+    "textures" : {
+        "all" : "jjmeteor:blocks/red_meteor_ore"
+    }    
+}

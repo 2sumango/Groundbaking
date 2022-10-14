@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/dirty_stone_tiles_1",
+    "up": "duneons:blocks/dirty_stone_tiles_1",
+    "north": "duneons:blocks/dirty_stone_tiles_1",
+    "east": "duneons:blocks/dirty_stone_tiles_1",
+    "south": "duneons:blocks/dirty_stone_tiles_1",
+    "west": "duneons:blocks/dirty_stone_tiles_1",
+    "particle": "duneons:blocks/dirty_stone_tiles_1"
+  }
+}

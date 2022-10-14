@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:popflower"
+    },
+    "facing=north": {
+      "model": "duneons:popflower"
+    },
+    "facing=east": {
+      "model": "duneons:popflower",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:popflower",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:popflower",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dungeonbarrel"
+    },
+    "facing=north": {
+      "model": "duneons:dungeonbarrel"
+    },
+    "facing=east": {
+      "model": "duneons:dungeonbarrel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dungeonbarrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dungeonbarrel",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "duneons:dungeonbarrel",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "duneons:dungeonbarrel",
+      "x": 90
+    }
+  }
+}

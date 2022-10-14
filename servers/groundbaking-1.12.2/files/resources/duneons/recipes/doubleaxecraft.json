@@ -1,0 +1,37 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "duneons:doubleaxe",
+    "count": 1
+  }
+}

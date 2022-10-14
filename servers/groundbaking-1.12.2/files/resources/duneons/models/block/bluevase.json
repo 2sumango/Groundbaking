@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/blue_vase",
+  "textures": {
+    "all": "duneons:blocks/blue_vase",
+    "particle": "duneons:blocks/blue_vase",
+    "0": "duneons:blocks/blue_vase"
+  }
+}

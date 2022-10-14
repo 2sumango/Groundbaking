@@ -1,0 +1,16 @@
+{
+  "group": "time_stop_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time_stop_mod:requiemarrowupper"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "time_stop_mod:requimarrow",
+    "count": 1
+  }
+}

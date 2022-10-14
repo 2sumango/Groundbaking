@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/mace_gold",
+  "textures": {
+    "0": "duneons:blocks/gold_mace"
+  }
+}

@@ -1,0 +1,65 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"snow": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "naturaldecormod:deciduousgrassblock",
+				"material": "minecraft:snow",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 126,
+			"max-height": 129,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:alps"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"snow_layerr": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:air",
+				"material": "minecraft:snow_layer",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 126,
+			"max-height": 129,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:alps"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

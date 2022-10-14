@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "naturalpledge:blocks/lightning_wood_top",
+    "side": "naturalpledge:blocks/lightning_wood_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time_stop_mod:blocks/requiemeore",
+    "up": "time_stop_mod:blocks/requiemeore",
+    "north": "time_stop_mod:blocks/requiemeore",
+    "east": "time_stop_mod:blocks/requiemeore",
+    "south": "time_stop_mod:blocks/requiemeore",
+    "west": "time_stop_mod:blocks/requiemeore",
+    "particle": "time_stop_mod:blocks/requiemeore"
+  }
+}

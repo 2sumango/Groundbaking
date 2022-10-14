@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bigcreeperpainting"
+    },
+    "facing=north": {
+      "model": "duneons:bigcreeperpainting"
+    },
+    "facing=east": {
+      "model": "duneons:bigcreeperpainting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bigcreeperpainting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bigcreeperpainting",
+      "y": 270
+    }
+  }
+}

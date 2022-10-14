@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/dark_katana",
+  "textures": {
+    "0": "dimdoors:items/rift_blade"
+  }
+}

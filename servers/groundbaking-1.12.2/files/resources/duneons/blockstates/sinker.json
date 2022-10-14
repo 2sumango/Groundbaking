@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:sinker"
+    },
+    "facing=north": {
+      "model": "duneons:sinker"
+    },
+    "facing=east": {
+      "model": "duneons:sinker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:sinker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:sinker",
+      "y": 270
+    }
+  }
+}

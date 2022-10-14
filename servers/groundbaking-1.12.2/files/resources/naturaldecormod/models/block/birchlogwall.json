@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "naturaldecormod:blocks/birch_logplanked",
+    "particle": "naturaldecormod:blocks/birch_logplanked"
+  }
+}

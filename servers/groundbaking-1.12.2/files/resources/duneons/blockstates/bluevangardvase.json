@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bluevangardvase"
+    },
+    "facing=north": {
+      "model": "duneons:bluevangardvase"
+    },
+    "facing=east": {
+      "model": "duneons:bluevangardvase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bluevangardvase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bluevangardvase",
+      "y": 270
+    }
+  }
+}

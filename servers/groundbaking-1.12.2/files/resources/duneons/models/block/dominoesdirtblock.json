@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/stone_floor_4",
+    "up": "duneons:blocks/stone_floor_4",
+    "north": "duneons:blocks/stone_floor_4",
+    "east": "duneons:blocks/stone_floor_4",
+    "south": "duneons:blocks/stone_floor_4",
+    "west": "duneons:blocks/stone_floor_4",
+    "particle": "duneons:blocks/stone_floor_4"
+  }
+}

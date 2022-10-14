@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "pamhc2crops:block/kenaf_stage_0",
+		"particle": "pamhc2crops:block/kenaf_stage_0"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [0, -1, 8],
+			"to": [16, 15, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [0, -1, 8],
+			"to": [16, 15, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

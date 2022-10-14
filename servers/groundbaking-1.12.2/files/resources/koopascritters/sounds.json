@@ -1,0 +1,551 @@
+{
+  "caliquailambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:aliuailmbient",
+        "stream": false
+      }
+    ]
+  },
+  "caliquailambient2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:aliuailmbient2",
+        "stream": false
+      }
+    ]
+  },
+  "caliquaildeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:aliuaileatg",
+        "stream": false
+      }
+    ]
+  },
+  "caliquailhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:aliuailurt",
+        "stream": false
+      }
+    ]
+  },
+  "guineadeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:unieaeath",
+        "stream": false
+      }
+    ]
+  },
+  "guineadangercall": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:unieangerall",
+        "stream": false
+      }
+    ]
+  },
+  "guineahurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:unieurt",
+        "stream": false
+      }
+    ]
+  },
+  "impalahurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:mpalaurt",
+        "stream": false
+      }
+    ]
+  },
+  "impaladeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:mpalaeath",
+        "stream": false
+      }
+    ]
+  },
+  "impalaambient2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:mpalambient2",
+        "stream": false
+      }
+    ]
+  },
+  "impalaambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:mpalambient",
+        "stream": false
+      }
+    ]
+  },
+  "guineaambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:guineaambient3",
+        "stream": false
+      }
+    ]
+  },
+  "yelloweyedpenguinambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ellowyedenguinmbient",
+        "stream": false
+      }
+    ]
+  },
+  "yelloweyedpenguindeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ellowyedenguineath",
+        "stream": false
+      }
+    ]
+  },
+  "yelloweyedpenguinhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ellowyedenguinurt",
+        "stream": false
+      }
+    ]
+  },
+  "munjacalarm": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:unjaclarm",
+        "stream": false
+      }
+    ]
+  },
+  "servaldeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ervaleath",
+        "stream": false
+      }
+    ]
+  },
+  "pallascatambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:allasatmbient",
+        "stream": false
+      }
+    ]
+  },
+  "asianleopardcatdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:sianeopardateath",
+        "stream": false
+      }
+    ]
+  },
+  "uakariambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:uakariambient",
+        "stream": false
+      }
+    ]
+  },
+  "uakarideath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:akarieath",
+        "stream": false
+      }
+    ]
+  },
+  "uakarihurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:akariirt",
+        "stream": false
+      }
+    ]
+  },
+  "marabouambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:araboumbient2",
+        "stream": false
+      }
+    ]
+  },
+  "maraboudeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:araboueath2",
+        "stream": false
+      }
+    ]
+  },
+  "marabouhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:arabouurt2",
+        "stream": false
+      }
+    ]
+  },
+  "spoonbillambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:poonbillmbient2",
+        "stream": false
+      }
+    ]
+  },
+  "spoonbilldeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:poonbilleath2",
+        "stream": false
+      }
+    ]
+  },
+  "spoonbillhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:poonbillurt2",
+        "stream": false
+      }
+    ]
+  },
+  "chinstrapambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:hinstrapmbient",
+        "stream": false
+      }
+    ]
+  },
+  "chinstrapdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:hinstrapeath",
+        "stream": false
+      }
+    ]
+  },
+  "chinstraphurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:hinstrapurt",
+        "stream": false
+      }
+    ]
+  },
+  "rockhopperambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ockhoppermbient",
+        "stream": false
+      }
+    ]
+  },
+  "rockhopperdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ockhoppereath",
+        "stream": false
+      }
+    ]
+  },
+  "rockhopperhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ockhopperurt",
+        "stream": false
+      }
+    ]
+  },
+  "servalhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ervalurt",
+        "stream": false
+      }
+    ]
+  },
+  "hornedviperambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ornedipermbient1",
+        "stream": false
+      }
+    ]
+  },
+  "hornedviperdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ornedipereath1",
+        "stream": false
+      }
+    ]
+  },
+  "hornedviperhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ornediperurt1",
+        "stream": false
+      }
+    ]
+  },
+  "redpandaambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:edandambient",
+        "stream": false
+      }
+    ]
+  },
+  "redpandahurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:edpandaurt",
+        "stream": false
+      }
+    ]
+  },
+  "redpandadwath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:edpandaeath",
+        "stream": false
+      }
+    ]
+  },
+  "servalambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ervalmbient",
+        "stream": false
+      }
+    ]
+  },
+  "desertrainfrogambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:esertainrogmbient",
+        "stream": false
+      }
+    ]
+  },
+  "desertrainfrogambient2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:esertainrogmbient2",
+        "stream": false
+      }
+    ]
+  },
+  "desertrainfrogdeatg": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:esertainrogeath",
+        "stream": false
+      }
+    ]
+  },
+  "desertrainfroghurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:esertainrogurt",
+        "stream": false
+      }
+    ]
+  },
+  "tortoisemambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ortoisembient",
+        "stream": false
+      }
+    ]
+  },
+  "tortoisedeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ortoiseeath",
+        "stream": false
+      }
+    ]
+  },
+  "tortoisehurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ortoiseurt",
+        "stream": false
+      }
+    ]
+  },
+  "egghatch": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "koopascritters:gghatch",
+        "stream": false
+      }
+    ]
+  },
+  "lizardhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:izardurt",
+        "stream": false
+      }
+    ]
+  },
+  "slowlorisambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:loworismbientemaster",
+        "stream": false
+      }
+    ]
+  },
+  "slowlorishurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:loworisurtemaster",
+        "stream": false
+      }
+    ]
+  },
+  "slowlorisdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:loworiseathemaster",
+        "stream": false
+      }
+    ]
+  },
+  "munjacambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:unjacmbientevamped",
+        "stream": false
+      }
+    ]
+  },
+  "munjacdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:unjaceathemastered",
+        "stream": false
+      }
+    ]
+  },
+  "asianleopardcatambient2remastered": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:sianeopardatmbient2emastered",
+        "stream": false
+      }
+    ]
+  },
+  "hognoseambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ognosembientinal",
+        "stream": false
+      }
+    ]
+  },
+  "muntjachurt2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:untjacturtound2",
+        "stream": false
+      }
+    ]
+  },
+  "hognosedefensehiss": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ognoseefenseiss",
+        "stream": false
+      }
+    ]
+  },
+  "hognosehurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "koopascritters:ognoseurt",
+        "stream": false
+      }
+    ]
+  }
+}

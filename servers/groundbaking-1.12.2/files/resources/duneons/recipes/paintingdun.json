@@ -1,0 +1,30 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "duneons:unknown_element"
+    },
+    "3": {
+      "item": "duneons:unknown_element"
+    },
+    "4": {
+      "item": "minecraft:painting"
+    },
+    "5": {
+      "item": "duneons:unknown_element"
+    },
+    "7": {
+      "item": "duneons:unknown_element"
+    }
+  },
+  "result": {
+    "item": "duneons:paintingtemplate",
+    "count": 1
+  }
+}

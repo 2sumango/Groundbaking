@@ -1,0 +1,32 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:chiseledstonebricks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "duneons:chiseledstonebricks"
+    },
+    "3": {
+      "item": "duneons:chiseledstonebricks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "duneons:chiseledstonebricks"
+    }
+  },
+  "result": {
+    "item": "duneons:brickerfence",
+    "count": 16
+  }
+}

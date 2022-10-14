@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/blue_glass_dungeon",
+  "textures": {
+    "all": "duneons:blocks/_tainedlass_lue_emiransparent",
+    "particle": "duneons:blocks/_tainedlass_lue_emiransparent",
+    "0": "duneons:blocks/_tainedlass_lue_emiransparent"
+  }
+}

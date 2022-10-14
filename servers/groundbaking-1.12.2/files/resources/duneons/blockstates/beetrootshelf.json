@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:beetrootshelf"
+    },
+    "facing=north": {
+      "model": "duneons:beetrootshelf"
+    },
+    "facing=east": {
+      "model": "duneons:beetrootshelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:beetrootshelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:beetrootshelf",
+      "y": 270
+    }
+  }
+}

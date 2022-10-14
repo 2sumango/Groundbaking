@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "ABC",
+    "DFD",
+    "GSV"
+  ],
+
+  "key": {
+    "A": {
+      "item": "zettaigrimoires:grimoire_flame"
+    },
+    "B": {
+      "item": "zettaigrimoires:grimoire_lightning"
+    },
+    "C": {
+      "item": "zettaigrimoires:grimoire_holy"
+    },
+    "D": {
+      "item": "ebwizardry:grand_crystal"
+    },
+    "F": {
+      "item": "zettaigrimoires:grimoire_sorcery"
+    },
+    "G": {
+      "item": "zettaigrimoires:grimoire_necromancy"
+    },
+    "S": {
+      "item": "zettaigrimoires:grimoire_earth"
+    },
+    "V": {
+      "item": "zettaigrimoires:grimoire_ice"
+    }
+  },
+  "result": {
+    "item": "zettaigrimoires:zettai_grimoire",
+    "count": 1
+  }
+}

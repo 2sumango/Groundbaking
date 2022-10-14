@@ -1,0 +1,281 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "pamhc2crops:block/grape_fruit",
+		"1": "pamhc2crops:block/grape_stage_3",
+		"particle": "pamhc2crops:block/grape_fruit"
+	},
+	"elements": [
+		{
+			"name": "Stake1",
+			"from": [3, -1, 11],
+			"to": [5, 11, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 5, 12]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"south": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stake2",
+			"from": [3, -1, 3],
+			"to": [5, 11, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 5, 4]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"south": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stake3",
+			"from": [11, -1, 3],
+			"to": [13, 11, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 5, 4]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"south": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stake4",
+			"from": [11, -1, 11],
+			"to": [13, 11, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 5, 12]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"south": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 14], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "VineN",
+			"from": [0, -1, 2.99],
+			"to": [16, 15, 2.99],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 2.99]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "VineS",
+			"from": [0, -1, 13.01],
+			"to": [16, 15, 13.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 12.99]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "VineE",
+			"from": [13.01, -1, 0],
+			"to": [13.01, 15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 7, 6.99]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "VineW",
+			"from": [2.99, -1, 0],
+			"to": [2.99, 15, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 7, 6.99]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "GrapeUD",
+			"from": [6, 5, 1.5],
+			"to": [9, 10, 4.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 7.5, 2.5]},
+			"faces": {
+				"up": {"uv": [3, 0, 6, 3], "texture": "#0"},
+				"down": {"uv": [3, 11, 6, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeNS",
+			"from": [5, 3, 1.5],
+			"to": [10, 11, 4.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 7, 2.5]},
+			"faces": {
+				"north": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"south": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeEW",
+			"from": [6, 3, 0.5],
+			"to": [9, 11, 5.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 7, 1.5]},
+			"faces": {
+				"east": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"west": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeUD",
+			"from": [1.5, 5, 7],
+			"to": [4.5, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.5, 7.5, 8.5]},
+			"faces": {
+				"up": {"uv": [3, 0, 6, 3], "texture": "#0"},
+				"down": {"uv": [3, 11, 6, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeNS",
+			"from": [0.5, 3, 7],
+			"to": [5.5, 11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.5, 7, 8.5]},
+			"faces": {
+				"north": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"south": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeEW",
+			"from": [1.5, 3, 6],
+			"to": [4.5, 11, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.5, 7, 8.5]},
+			"faces": {
+				"east": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"west": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeUD",
+			"from": [11.5, 5, 5],
+			"to": [14.5, 10, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 7.5, 6.5]},
+			"faces": {
+				"up": {"uv": [3, 0, 6, 3], "texture": "#0"},
+				"down": {"uv": [3, 11, 6, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeNS",
+			"from": [10.5, 3, 5],
+			"to": [15.5, 11, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 7, 6.5]},
+			"faces": {
+				"north": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"south": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeEW",
+			"from": [11.5, 3, 4],
+			"to": [14.5, 11, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 7, 6.5]},
+			"faces": {
+				"east": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"west": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeUD",
+			"from": [7, 5, 11.5],
+			"to": [10, 10, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7.5, 12.5]},
+			"faces": {
+				"up": {"uv": [3, 0, 6, 3], "texture": "#0"},
+				"down": {"uv": [3, 11, 6, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeNS",
+			"from": [6, 3, 11.5],
+			"to": [11, 11, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7, 12.5]},
+			"faces": {
+				"north": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"south": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "GrapeEW",
+			"from": [7, 3, 10.5],
+			"to": [10, 11, 15.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 7, 11.5]},
+			"faces": {
+				"east": {"uv": [2, 3, 7, 11], "texture": "#0"},
+				"west": {"uv": [2, 3, 7, 11], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Stakes",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "Vines",
+			"origin": [8, 7, 10],
+			"children": [4, 5, 6, 7]
+		},
+		{
+			"name": "Grapes",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "Grape1",
+					"origin": [8, 8, 8],
+					"children": [8, 9, 10]
+				},
+				{
+					"name": "Grape2",
+					"origin": [8, 8, 8],
+					"children": [11, 12, 13]
+				},
+				{
+					"name": "Grape3",
+					"origin": [8, 8, 8],
+					"children": [14, 15, 16]
+				},
+				{
+					"name": "Grape4",
+					"origin": [8, 8, 8],
+					"children": [17, 18, 19]
+				}
+			]
+		}
+	]
+}

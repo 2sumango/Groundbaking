@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/box_food_close",
+  "textures": {
+    "all": "duneons:blocks/box_noup",
+    "particle": "duneons:blocks/box_noup",
+    "0": "duneons:blocks/box_noup"
+  }
+}

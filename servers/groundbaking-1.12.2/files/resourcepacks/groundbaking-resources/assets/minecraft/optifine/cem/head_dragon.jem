@@ -1,0 +1,20 @@
+{
+  "textureSize": [256,256],
+  "models": 
+  [
+    {
+      "model": "dragon_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 8, -11.5],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "dragon_jaw.jpm",
+      "part": "jaw", 
+	  "attach": false,
+      "translate": [ 8, 4, -3],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

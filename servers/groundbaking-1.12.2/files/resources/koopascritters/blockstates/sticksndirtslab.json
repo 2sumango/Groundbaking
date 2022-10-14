@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "koopascritters:sticksndirtslab"
+    },
+    "half=top,variant=default": {
+      "model": "koopascritters:sticksndirtslab_top"
+    }
+  }
+}

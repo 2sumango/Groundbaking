@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/crate_down",
+    "up": "duneons:blocks/crate_down",
+    "north": "duneons:blocks/crate_front",
+    "east": "duneons:blocks/crate_front",
+    "south": "duneons:blocks/crate_front",
+    "west": "duneons:blocks/crate_front",
+    "particle": "duneons:blocks/crate_down"
+  }
+}

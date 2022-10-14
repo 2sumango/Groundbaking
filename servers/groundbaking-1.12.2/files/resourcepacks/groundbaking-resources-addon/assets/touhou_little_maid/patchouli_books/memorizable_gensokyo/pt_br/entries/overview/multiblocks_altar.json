@@ -1,0 +1,31 @@
+{
+  "sortnum": 4,
+  "name": "Altar Multi-Blocos",
+  "icon": "minecraft:wool:14",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "text",
+      "text": "O altar é uma estrutura Multi-Bloco nessecaria para o craft nesse mod.$(br2)As receitas de altar podem ser obtidas pelo JEI(Just Enough Items), e a construção requer que o player $(l:overview/power_point)power point$()."
+    },
+    {
+      "type": "multiblock",
+      "name": "Altar",
+      "multiblock_id": "touhou_little_maid:altar",
+      "text": "Use o $(l:overview/gohei_and_danmaku)gohei$() para clicar na lã vermelha do centro-direita na quarta camada para construir o altar."
+    },
+    {
+      "type": "text",
+      "text": "You can place the item by right-clicking on the top of the six oak pillars of the altar. You can remove the item by empty-handed right-clicking.$(br2)When the item is completely placed and the player's power point is enough, altar can trigger craft.$(br2)The craft is interrupted due to lack of power, and after obtaining enough power, right click again to re-trigger the craft."
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/altar_craft.png"
+      ],
+      "title": "Fabricar Altar",
+      "border": true,
+      "text": "The craft of spawn lightning, remember all craft is shapeless."
+    }
+  ]
+}

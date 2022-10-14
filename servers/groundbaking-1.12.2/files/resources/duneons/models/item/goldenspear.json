@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/golden_spear",
+  "textures": {
+    "0": "duneons:blocks/golden_spear_new"
+  }
+}

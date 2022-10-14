@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dogpainting"
+    },
+    "facing=north": {
+      "model": "duneons:dogpainting"
+    },
+    "facing=east": {
+      "model": "duneons:dogpainting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dogpainting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dogpainting",
+      "y": 270
+    }
+  }
+}

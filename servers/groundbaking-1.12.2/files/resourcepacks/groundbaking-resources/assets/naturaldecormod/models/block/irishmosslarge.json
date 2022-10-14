@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/irishmoss",
+  "textures": {
+    "all": "naturaldecormod:blocks/rishossargeeverse",
+    "particle": "naturaldecormod:blocks/rishossargeeverse",
+    "bush": "naturaldecormod:blocks/rishossarge",
+    "bushreversed": "naturaldecormod:blocks/rishossargeeverse"
+  }
+}

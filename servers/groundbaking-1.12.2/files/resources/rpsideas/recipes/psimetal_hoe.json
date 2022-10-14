@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "rpsideas:psimetal_hoe",
+    "count": 1
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "DG",
+    " I",
+    " I"
+  ],
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "ingotPsi"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "gemPsi"
+    }
+  }
+}

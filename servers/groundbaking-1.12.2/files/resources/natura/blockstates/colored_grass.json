@@ -1,0 +1,13 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+    },
+    "variants": {
+        "normal": {
+            "model": "natura:natura_grass"
+        },
+        "inventory": {
+            "model": "natura:natura_grass"
+        }
+    }
+}

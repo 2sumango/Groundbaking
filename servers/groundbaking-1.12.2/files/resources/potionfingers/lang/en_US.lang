@@ -1,0 +1,4 @@
+potionfingers.noEffect=No effects
+
+item.potionfingers:ring_disabled.name=Metallurgic Accessory
+item.potionfingers:ring_enabled.name=Metallurgic %s

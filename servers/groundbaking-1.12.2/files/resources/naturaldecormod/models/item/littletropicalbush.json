@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/bushmodel",
+  "textures": {
+    "all": "naturaldecormod:blocks/ittlebush",
+    "particle": "naturaldecormod:blocks/ittlebush",
+    "Bush": "naturaldecormod:blocks/ittlebush",
+    "BushReversed": "naturaldecormod:blocks/ittlebushreversed"
+  }
+}

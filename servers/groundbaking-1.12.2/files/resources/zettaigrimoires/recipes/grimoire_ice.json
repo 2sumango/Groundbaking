@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "GCF",
+    "CAC",
+    "SCT"
+  ],
+
+  "key": {
+    "A": {
+      "item": "zettaigrimoires:empty_grimoire"
+    },
+    "C": {
+      "item": "ebwizardry:crystal_block",
+      "data": 2
+    },
+    "G": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "F": {
+      "item": "minecraft:snow"
+    },
+    "S": {
+      "item": "ebwizardry:spectral_dust",
+      "data": 2
+    },
+    "T": {
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "result": {
+    "item": "zettaigrimoires:grimoire_ice",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dustdiamond"
+    },
+    "facing=north": {
+      "model": "duneons:dustdiamond"
+    },
+    "facing=east": {
+      "model": "duneons:dustdiamond",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dustdiamond",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dustdiamond",
+      "y": 270
+    }
+  }
+}

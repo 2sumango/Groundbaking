@@ -1,0 +1,47 @@
+{
+	"parent": "paraglider:item/paraglider",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.75, 0.75, 0.75],
+			"translation": [-1, 0.5, -2],
+			"rotation": [-67, -38, -60]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.75, 0.75, 0.75],
+			"rotation": [-67, -38, -60],
+			"translation": [-1, 0.5, -2]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.68, 0.68, 0.68],
+			"rotation": [0, 0, 25],
+			"translation": [0, 1.6, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0.68, 0.68, 0.68],
+			"rotation": [0, 0, 25],
+			"translation": [0, 1.6, 0]
+		},
+		"gui": {
+			"translation": [1.5, -1.5, 0],
+			"rotation": [45, 45, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"scale": [0.8, 0.8, 0.8],
+			"translation": [0, 0, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 180, 0],
+			"translation": [0, -1.5, 0],
+			"scale": [1, 1, 1]
+		}
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"skin": 1
+			},
+			"model": "paraglider:item/paraglider_dekuleaf_off"
+		}
+	]
+}

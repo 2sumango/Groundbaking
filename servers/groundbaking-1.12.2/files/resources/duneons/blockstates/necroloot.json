@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:necroloot"
+    },
+    "facing=north": {
+      "model": "duneons:necroloot"
+    },
+    "facing=east": {
+      "model": "duneons:necroloot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:necroloot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:necroloot",
+      "y": 270
+    }
+  }
+}

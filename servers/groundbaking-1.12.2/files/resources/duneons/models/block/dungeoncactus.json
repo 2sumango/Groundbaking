@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/cactus",
+  "textures": {
+    "all": "duneons:blocks/cactus",
+    "particle": "duneons:blocks/cactus",
+    "0": "duneons:blocks/cactus",
+    "missing": "duneons:blocks/cactus"
+  }
+}

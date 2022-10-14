@@ -1,0 +1,56 @@
+{
+    "parent":"spartanshields:item/shield_basic_base",
+    "textures": {
+        "layer0":"spartanshields:items/abyssalcraft/shield_basic_abyssalnite"
+    },
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [ 60, 320, 0 ],
+			"translation": [ 0.50, 1.00, 0.00 ],
+			"scale": [ 1.00, 1.00, 1.00 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 60, 320, 0 ],
+			"translation": [ 0.50, 1.00, 0.00 ],
+			"scale": [ 1.00, 1.00, 1.00 ]
+		},
+        "firstperson_righthand": {
+            "rotation": [ 0, -75, 0 ],
+            "translation": [ 2.00, -2.00, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, -75, 0 ],
+            "translation": [ 2.00, -2.00, -3 ],
+            "scale": [ 0.83, 0.83, 0.83 ]
+        },
+        "gui": {
+			"rotation": [ 15, -25, -5 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 1.1, 1.1, 1.1 ]
+		},
+		"head": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0.00, 0.00, 0.00 ],
+			"scale": [ 1.00, 1.00, 1.00 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0.00, 0.00, 0.00 ],
+			"scale": [ 1.00, 1.00, 1.00 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0.00, 3.00, 0.00 ],
+			"scale": [ 0.75, 0.75, 0.75 ]
+		}
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "spartanshields:item/shield_abyssalcraft_abyssalnite_blocking"
+        }
+    ]
+}

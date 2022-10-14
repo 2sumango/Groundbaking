@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/mushroom",
+  "textures": {
+    "1": "duneons:blocks/t_deathcapmushroom"
+  }
+}

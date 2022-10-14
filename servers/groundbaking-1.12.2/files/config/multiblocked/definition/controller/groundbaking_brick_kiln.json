@@ -1,0 +1,162 @@
+{
+  "consumeCatalyst": false,
+  "location": "groundbaking:brick_kiln",
+  "traits": {},
+  "allowRotate": true,
+  "showInJei": true,
+  "baseRenderer": {
+    "state": {
+      "id": "betternether:netherrack_furnace",
+      "meta": 4
+    },
+    "type": "blockstate"
+  },
+  "formedRenderer": {
+    "state": {
+      "id": "minecraft:brick_block",
+      "meta": 0
+    },
+    "type": "blockstate"
+  },
+  "isOpaqueCube": false,
+  "basePattern": {
+    "structureDir": [
+      "BACK",
+      "UP",
+      "RIGHT"
+    ],
+    "pattern": [
+      [
+        "ABA",
+        "ACA",
+        "AAA"
+      ],
+      [
+        "B@B",
+        "DEF",
+        "B A"
+      ],
+      [
+        "ABA",
+        "AGA",
+        "AAA"
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "minecraft:brick_block",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "groundbaking:brick_kiln",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "minecraft:stone_slab",
+            "meta": 12
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "betternether:netherrack_furnace",
+            "meta": 8
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "betternether:netherrack_furnace",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "futuremc:campfire",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "betternether:netherrack_furnace",
+            "meta": 6
+          }
+        ],
+        "type": "states"
+      },
+      "G": {
+        "states": [
+          {
+            "id": "betternether:netherrack_furnace",
+            "meta": 10
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ]
+    }
+  },
+  "recipeMap": "empty"
+}

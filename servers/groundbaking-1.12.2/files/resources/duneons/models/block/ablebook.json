@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/table_book",
+  "textures": {
+    "all": "duneons:blocks/table_book",
+    "particle": "duneons:blocks/table_book",
+    "0": "duneons:blocks/table_book",
+    "missing": "duneons:blocks/table_book"
+  }
+}

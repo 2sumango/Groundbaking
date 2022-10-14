@@ -1,0 +1,1012 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+
+		"shale_core": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "earthworks:block_slate_shingle_verte",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 6
+				},
+				"cluster-size": 16
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 35,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"gabbro_core": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "earthworks:block_slate_shingle",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 1
+				},
+				"cluster-size": 16
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 35,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"gneiss_core": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "earthworks:block_slate_shingle_purple",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 4
+				},
+				"cluster-size": 16
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 35,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dolomite_core": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "midnight:trenchstone_bricks",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 0
+				},
+				"cluster-size": 16
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 35,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"stone_core": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "midnight:trenchstone",
+				"material": "minecraft:stone",
+				"cluster-size": 16
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 46,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"blue_schist_core": {
+			"distribution": "gaussian",
+			"generator": {
+				"block": "earthworks:block_slate_shingle_verte",
+				"material": "earthworks:block_slate",
+				"cluster-size": 16
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 35,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"nickel": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "embers:ore_nickel",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 4
+				},
+				"cluster-size": 3
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 35,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"gabbro_metals": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:syrmorite_ore",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 1
+				},
+				"cluster-size": 3
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dolomite_metals": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 
+					"name": "immersiveengineering:ore",
+					"metadata": 5
+				},
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 0
+				},
+				"cluster-size": 3
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"gneiss_metals": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:sulfur_ore",
+				"material": "earthworks:block_slate_green",
+				"cluster-size": 4
+			},
+			"cluster-count": 16,
+			"min-height": 0,
+			"max-height": 90,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"prometheum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:prometheum_ore",
+				"material": {
+					"name": "chisel:basalt2",
+					"metadata": 7
+				},
+				"cluster-size": 8
+			},
+			"cluster-count": 8,
+			"min-height": 0,
+			"max-height": 16,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"forest",
+							"birch_forest",
+							"roofed_forest",
+							"woodland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+
+		"platinum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:platinum_ore",
+				"material": {
+					"block": "chisel:basalt2",
+					"properties": {
+						"variation": "7"
+					}
+				},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 16,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"ice_mountains",
+							"ice_flats",
+							"biomesoplenty:alps",
+							"biomesoplenty:alps_foothills",
+							"biomesoplenty:snowy_forest",
+							"biomesoplenty:snowy_coniferous_forest",
+							"taiga_cold",
+							"taiga_cold_hills",
+							"extreme_hills",
+							"smaller_extreme_hills",
+							"extreme_hills_with_trees",
+							"mutated_extreme_hills",
+							"mutated_extreme_hills_with_trees"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	},
+
+		"sapphire": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 
+					"name": "biomesoplenty:gem_ore",
+					"properties": { 
+						"variant": "sapphire"
+					}
+				},
+				"material": {
+					"name": "quark:slate",
+					"properties": {
+						"variant": "stone_slate"
+					}
+				},
+			"cluster-size": 4,				
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 60,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"ice_mountains",
+							"ice_flats",
+							"biomesoplenty:alps",
+							"biomesoplenty:alps_foothills",
+							"biomesoplenty:snowy_forest",
+							"biomesoplenty:snowy_coniferous_forest",
+							"taiga_cold",
+							"taiga_cold_hills",
+							"extreme_hills",
+							"smaller_extreme_hills",
+							"extreme_hills_with_trees",
+							"mutated_extreme_hills",
+							"mutated_extreme_hills_with_trees"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	},
+
+		"slate": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 
+					"name": "quark:slate",
+					"properties": {
+						"variant": "stone_slate"
+					}
+				},
+				"material": "earthworks:block_slate",
+				"cluster-size": 64
+			},				
+			"cluster-count": 512,
+			"min-height": 1,
+			"max-height": 30,
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"ice_mountains",
+							"ice_flats",
+							"biomesoplenty:alps",
+							"biomesoplenty:alps_foothills",
+							"biomesoplenty:snowy_forest",
+							"biomesoplenty:snowy_coniferous_forest",
+							"taiga_cold",
+							"taiga_cold_hills",
+							"extreme_hills",
+							"smaller_extreme_hills",
+							"extreme_hills_with_trees",
+							"mutated_extreme_hills",
+							"mutated_extreme_hills_with_trees"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+	},
+
+		"malachite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 
+					"name": "biomesoplenty:gem_ore",
+					"properties": { 
+						"variant": "malachite"
+					}
+				},
+				"material": {
+					"name": "quark:slate",
+					"properties": {
+						"variant": "stone_slate"
+					}
+				},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 60,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"ice_mountains",
+							"ice_flats",
+							"biomesoplenty:alps",
+							"biomesoplenty:alps_foothills",
+							"biomesoplenty:snowy_forest",
+							"biomesoplenty:snowy_coniferous_forest",
+							"taiga_cold",
+							"taiga_cold_hills",
+							"extreme_hills",
+							"smaller_extreme_hills",
+							"extreme_hills_with_trees",
+							"mutated_extreme_hills",
+							"mutated_extreme_hills_with_trees"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	},
+
+		"peridot": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 
+					"name": "biomesoplenty:gem_ore",
+					"properties": { 
+						"variant": "peridot"
+					}
+				},
+				"material": "earthworks:block_slate_green",
+				"cluster-size": 1
+			},
+			"cluster-count": 99,
+			"min-height": 31,
+			"max-height": 60,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:tropical_rainforest",
+							"swampland",
+							"jungle",
+							"biomesoplenty:redwood_forest",
+							"biomesoplenty:eucalyptus_forest"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"orichalcum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:orichalcum_ore",
+				"material": {
+					"name": "chisel:basalt2",
+					"metadata": 7
+				},
+				"cluster-size": 8
+			},
+			"cluster-count": 8,
+			"min-height": 0,
+			"max-height": 16,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"ocean",
+							"biomesoplenty:kelp_forest",
+							"biomesoplenty:coral_reef",
+							"deep_ocean"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+
+		"osmium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:osmium_ore",
+				"material": "quark:limestone",
+				"cluster-size": 1
+			},
+			"cluster-count": 72,
+			"min-height": 32,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"ocean",
+							"biomesoplenty:kelp_forest",
+							"biomesoplenty:coral_reef",
+							"deep_ocean"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+
+		"rubracium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:rubracium_ore",
+				"material": {
+					"name": "chisel:basalt2",
+					"metadata": 7
+				},
+				"cluster-size": 4
+			},
+			"cluster-count": 4,
+			"min-height": 0,
+			"max-height": 8,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+
+		"basalt": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "chisel:basalt",
+				"material": {
+					"name": "chisel:basalt2",
+					"metadata": 7
+				},
+				"cluster-size": 7
+			},
+			"cluster-count": 256,
+			"min-height": 0,
+			"max-height": 16,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"gabbro_cobblestone": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "botania:biomestonea",
+					"metadata": 9
+				},
+				"material": {
+					"name": "chisel:basalt2",
+					"metadata": 7
+				},
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 14,
+			"max-height": 16,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"gabbro_cobblestone_crag": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "botania:biomestonea",
+					"metadata": 9
+				},
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 1
+				},
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 57,
+			"max-height": 70,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"stone_gabbro_crag": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:stone",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 1
+				},
+				"cluster-size": 3
+			},
+			"cluster-count": 720,
+			"min-height": 53,
+			"max-height": 57,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"stone_gabbro_crag_1": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:stone",
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 1
+				},
+				"cluster-size": 2
+			},
+			"cluster-count": 300,
+			"min-height": 58,
+			"max-height": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"stone_andesite_pebbles": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:stone",
+					"metadata": 5
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 512,
+			"min-height": 36,
+			"max-height": 55,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"gneiss_cobblestone_pebbles": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "botania:biomestonea",
+					"metadata": 12
+				},
+				"material": {
+					"name": "botania:biomestonea",
+					"metadata": 4
+				},
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 31,
+			"max-height": 36,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"blue_schist_pebbles": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "quark:biome_cobblestone",
+					"metadata": 1
+				},
+				"material":  "earthworks:block_slate",
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 28,
+			"max-height": 30,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"blue_schist_pebbles_2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "quark:biome_cobblestone",
+					"metadata": 1
+				},
+				"material":  "earthworks:block_slate",
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 21,
+			"max-height": 24,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"stone_cobblestone_pebbles": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "minecraft:cobblestone",
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 36,
+			"max-height": 51,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"metal_deposit": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:valonite_ore",
+				"material": "duneons:mudwithstones",
+				"cluster-size": 64
+			},
+			"cluster-count": 720,
+			"min-height": 1,
+			"max-height": 120,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"metal_deposit_2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "thebetweenlands:valonite_ore",
+				"material": "duneons:dirtdark",
+				"cluster-size": 64
+			},
+			"cluster-count": 720,
+			"min-height": 1,
+			"max-height": 120,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"stone_cobblestone_pebbles_higher": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:stone",
+					"metadata": 5
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 62,
+			"max-height": 68,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+		"dolomite_cobblestone": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "botania:biomestonea",
+					"metadata": 8
+				},
+				"material": "earthworks:block_slate",
+				"cluster-size": 2
+			},
+			"cluster-count": 512,
+			"min-height": 17,
+			"max-height": 19,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+
+		"zinc": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:zinc_ore",
+				"material": "earthworks:block_slate",
+				"cluster-size": 8
+			},
+			"cluster-count": 8,
+			"min-height": 17,
+			"max-height": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},	
+
+		"potash": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:potash_ore",
+				"material": "earthworks:block_slate",
+				"cluster-size": 1
+			},
+			"cluster-count": 32,
+			"min-height": 17,
+			"max-height": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+
+		"phosphorite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:phosphorite_ore",
+				"material": "earthworks:block_slate",
+				"cluster-size": 1
+			},
+			"cluster-count": 32,
+			"min-height": 17,
+			"max-height": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+	
+
+		"tin": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "metallurgy:tin_ore",
+				"material": "earthworks:block_slate",
+				"cluster-size": 8
+			},
+			"cluster-count": 8,
+			"min-height": 17,
+			"max-height": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

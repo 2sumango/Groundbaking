@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:summonnecromancer"
+    },
+    "facing=north": {
+      "model": "duneons:summonnecromancer"
+    },
+    "facing=east": {
+      "model": "duneons:summonnecromancer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:summonnecromancer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:summonnecromancer",
+      "y": 270
+    }
+  }
+}

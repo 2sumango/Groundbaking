@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/desert_carpet",
+  "textures": {
+    "all": "duneons:blocks/carpets",
+    "particle": "duneons:blocks/carpets",
+    "1": "duneons:blocks/carpets"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:copperamethystdaisy"
+    },
+    {
+      "item": "minecraft:red_flower",
+      "data": 8
+    },
+    {
+      "item": "minecraft:red_flower",
+      "data": 8
+    },
+    {
+      "item": "naturaldecormod:purpleeyedaisy"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:daisybundle",
+    "count": 3
+  }
+}

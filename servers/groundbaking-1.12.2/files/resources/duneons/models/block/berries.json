@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/bee_leaves",
+    "up": "duneons:blocks/bee_leaves",
+    "north": "duneons:blocks/bee_leaves",
+    "east": "duneons:blocks/bee_leaves",
+    "south": "duneons:blocks/bee_leaves",
+    "west": "duneons:blocks/bee_leaves",
+    "particle": "duneons:blocks/bee_leaves"
+  }
+}

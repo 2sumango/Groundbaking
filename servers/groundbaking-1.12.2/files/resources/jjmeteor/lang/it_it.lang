@@ -1,0 +1,32 @@
+#BLOCCHI
+tile.blue_meteor_ore.name=Meteora Azzurra
+tile.red_meteor_ore.name=Meteora Rossa
+#ITEMS
+item.blue_meteor_powder.name=Polvere di Meteora Azzurra
+item.red_meteor_powder.name=Polvere di Meteora Rossa
+item.telescope.name=Telescopio
+#CONFIGURATION
+config.a_update_chat_message=messaggio nuovo aggiornamento
+config.b_show_message_start_meteor=mostra messaggio meteora
+config.c_message_start_meteor=testo messaggio meteora
+config.d_show_approximate_coord=mostra coordinate approssimative
+config.e_show_exact_coord=mostra coordinate esatte
+config.f_explosion_with_flames=esplosione con fiamme
+config.meteor_message1=una meteora si schiantera' al suolo
+config.meteor_message2=fra
+config.meteor_message3=secondi
+config.meteor_message4= approssimativamente alle coordinate: 
+config.meteor_message5= alle coordinate: 
+#CHAT MESSAGE
+jjmeteor.chat.new_update_1=E' disponibile per il download, la versione
+jjmeteor.chat.new_update_2=di JJ Meteor
+chat.meteor_success=Meteora partita
+chat.meteor_error=Comando errato es: /meteor x y z distruzione secondi item_drop numero_drop
+chat.meteor_error_2=La mod non è riuscita a determinare un punto di impatto, si prega di diminuire la distanza minima di schianto dal player o ridurre le aree vietate
+chat.meteor_in_atmosphere=Avvistata una Meteora, schianto previsto fra
+chat.minut=minuti
+chat.imminent_impact=Impatto imminente
+#COMMAND
+command.meteor_desc=Fai partire una Meteora es: /meteor x y z distruzione secondi item_drop numero_drop
+#TABS
+itemGroup.jjmeteor=JJ Meteor

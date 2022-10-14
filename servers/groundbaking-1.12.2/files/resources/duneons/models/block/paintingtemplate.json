@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/painting_temp",
+  "textures": {
+    "all": "duneons:blocks/painting_temp",
+    "particle": "duneons:blocks/painting_temp",
+    "0": "duneons:blocks/painting_temp"
+  }
+}

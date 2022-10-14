@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dungeonglass"
+    },
+    "facing=north": {
+      "model": "duneons:dungeonglass"
+    },
+    "facing=east": {
+      "model": "duneons:dungeonglass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dungeonglass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dungeonglass",
+      "y": 270
+    }
+  }
+}

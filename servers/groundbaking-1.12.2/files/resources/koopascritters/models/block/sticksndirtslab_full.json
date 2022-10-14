@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "koopascritters:blocks/tickirt",
+    "top": "koopascritters:blocks/tickirt",
+    "side": "koopascritters:blocks/tickirt"
+  }
+}

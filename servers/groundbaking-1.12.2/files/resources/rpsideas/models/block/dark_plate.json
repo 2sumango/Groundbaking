@@ -1,0 +1,8 @@
+{
+  "parent": "rpsideas:block/plate_base",
+  "textures": {
+    "top": "psi:blocks/psimetal_plate_black",
+    "side": "rpsideas:blocks/plate_black_base",
+    "overlay": "rpsideas:blocks/plate_black_light"
+  }
+}

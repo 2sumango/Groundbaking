@@ -1,0 +1,17 @@
+{
+  "sortnum": 16,
+  "name": "Cinzel e Estátuas",
+  "icon": "touhou_little_maid:chisel",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:chisel",
+      "text": "Clique com o botão direito na argila com um cinzel para fazer estátuas de diferentes tamanhos. Atualmente os tamanhos suportados são: 1x1x1, 1x1x2, 2x2x4, 3x3x6."
+    },
+    {
+      "type": "text",
+      "text": "O jogador segura uma foto da maid na 2ª mão, a mão principal segura o cinzel, depois clique com o botão direito no canto inferior esquerdo no bloco de argila para esculpir a maid da foto."
+    }
+  ]
+}

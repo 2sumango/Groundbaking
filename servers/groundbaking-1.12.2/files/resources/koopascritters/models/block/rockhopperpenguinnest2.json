@@ -1,0 +1,9 @@
+{
+  "parent": "koopascritters:custom/penguinrockhoppereggnest_-_copy",
+  "textures": {
+    "all": "koopascritters:blocks/ockhoppergg",
+    "particle": "koopascritters:blocks/ockhoppergg",
+    "Pebbles": "koopascritters:blocks/tickirt",
+    "YellowEyeEgg": "koopascritters:blocks/ockhoppergg"
+  }
+}

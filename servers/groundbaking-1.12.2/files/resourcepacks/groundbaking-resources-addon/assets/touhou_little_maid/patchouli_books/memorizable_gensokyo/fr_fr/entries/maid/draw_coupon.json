@@ -1,0 +1,32 @@
+{
+  "sortnum": 9,
+  "name": "Coupon Gashapon",
+  "icon": "touhou_little_maid:maid_model_coupon:5",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Lorsque la fonction de changement gratuit de modèle de maid a été désactivée (.minecraft/config/TouhouLittleMaid.cfg en changeant le false de \"MaidCannotChangeMode1=\" en true), une nouvelle méthode de changement de skin sera disponible.$(br2)Les joueurs peuvent consommer des émeraudes ou pièces de gashapon pour tirer des gashapon et obtenir un coupon de modèle pour maid."
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon_machines",
+      "text": "Faites un clic droit avec un émeraude ou une pièce de gashapon pour obtenir un gashapon, le niveau de gashapon et la probabilité peuvent être personnalisés."
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon:4",
+      "text": "Faites un clic droit avec le gashapon pour obtenir un coupon de modèle. Chaque gashapon à une rareté différentes, et des coupons correspondant à cette rareté sortiront. $(br2)La probabilité peut être personnalisée via le fichier csv, pour plus de détails veuillez consulter le wiki du mod"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_model_coupon:5",
+      "text": "Faites un clic droit sur une maid pour changer son modèle."
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon_coin",
+      "text": "Éliminez un rinnosuke pour obtenir une certaine quantité de pièces de gashapon. Vous pouvez aussi obtenir des pièces de gashapon en recyclant des coupons de modèle dans la table de craft."
+    }
+  ]
+}

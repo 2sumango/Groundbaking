@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/monkey_totem_new",
+  "textures": {
+    "1": "duneons:blocks/shielding_totem",
+    "missing": "duneons:blocks/shielding_totem"
+  }
+}

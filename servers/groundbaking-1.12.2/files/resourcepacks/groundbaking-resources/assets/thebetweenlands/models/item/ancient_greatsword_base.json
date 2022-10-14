@@ -1,0 +1,35 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "thebetweenlands:items/ancient_greatsword_corrodible"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 9.8, 0.5 ],
+            "scale": [ 2.3, 2.3, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 9.8, 0.5 ],
+            "scale": [ 2.3, 2.3, 1.0 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.2, 5.6, 1.2 ],
+            "scale": [ 3.12, 3.12, 1.8 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.2, 6.4, 1.2 ],
+            "scale": [ 2.3, 2.3, 1.7  ]
+        },
+        "gui": {
+            "rotation": [ 15, -170, -5 ],			
+            "scale": [ 1.6, 1.6, 1.6 ]
+          },         
+          "ground": {		
+            "scale": [ 1.8, 1.8, 1.1 ]
+        }
+    }
+}

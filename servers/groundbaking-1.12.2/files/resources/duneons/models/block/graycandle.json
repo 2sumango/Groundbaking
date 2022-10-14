@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/end_rod",
+  "textures": {
+    "all": "duneons:blocks/end_rodvangard",
+    "particle": "duneons:blocks/end_rodvangard",
+    "1": "duneons:blocks/end_rodvangard",
+    "end_rod": "duneons:blocks/end_rodvangard"
+  }
+}

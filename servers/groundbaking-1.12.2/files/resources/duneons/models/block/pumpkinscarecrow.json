@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/pumpkin_scarecrow_fix",
+  "textures": {
+    "all": "duneons:blocks/pumpkin_scarecrow",
+    "particle": "duneons:blocks/pumpkin_scarecrow",
+    "0": "duneons:blocks/pumpkin_scarecrow",
+    "missing": "duneons:blocks/pumpkin_scarecrow"
+  }
+}

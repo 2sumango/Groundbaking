@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:obsidianloot"
+    },
+    "facing=north": {
+      "model": "duneons:obsidianloot"
+    },
+    "facing=east": {
+      "model": "duneons:obsidianloot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:obsidianloot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:obsidianloot",
+      "y": 270
+    }
+  }
+}

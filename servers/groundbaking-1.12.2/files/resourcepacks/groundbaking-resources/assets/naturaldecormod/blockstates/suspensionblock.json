@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:suspensionblock"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:suspensionblock"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:suspensionblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:suspensionblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:suspensionblock",
+      "y": 270
+    }
+  }
+}

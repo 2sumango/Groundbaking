@@ -1,0 +1,20 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:ghostorchid"
+    },
+    "1": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:epiphyteghostorchid",
+    "count": 1
+  }
+}

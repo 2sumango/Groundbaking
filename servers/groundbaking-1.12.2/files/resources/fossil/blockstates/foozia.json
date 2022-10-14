@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "fossil:foozia_1"
+    },
+    "half=upper": {
+      "model": "fossil:foozia_2"
+    }
+  }
+}

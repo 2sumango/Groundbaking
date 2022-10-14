@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "blocks/redstone_crate_bottom",
+        "top": "blocks/redstone_crate_top",
+        "side": "blocks/redstone_crate_sides"
+    }
+}

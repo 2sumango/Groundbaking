@@ -1,0 +1,28 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:bluerosebush"
+    },
+    "1": {
+      "item": "minecraft:double_plant",
+      "data": 4
+    },
+    "2": {
+      "item": "minecraft:double_plant",
+      "data": 4
+    },
+    "3": {
+      "item": "naturaldecormod:bluerosebush"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:rosebundle",
+    "count": 8
+  }
+}

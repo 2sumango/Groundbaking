@@ -1,0 +1,19 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sign"
+    },
+    "1": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "duneons:deadsign",
+    "count": 1
+  }
+}

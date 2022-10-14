@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "rpsideas:psimetal_shears",
+    "count": 1
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " G ",
+    "D  ",
+    "   "
+  ],
+  "key": {
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "gemPsi"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "ingotPsi"
+    }
+  }
+}

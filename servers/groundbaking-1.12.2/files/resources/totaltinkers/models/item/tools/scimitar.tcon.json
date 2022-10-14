@@ -1,0 +1,30 @@
+{
+  "textures": {
+    "layer0": "totaltinkers:item/scimitar/handle",
+    "layer1": "totaltinkers:item/scimitar/blade",
+    "layer2": "totaltinkers:item/scimitar/guard",
+    "broken1": "totaltinkers:item/scimitar/blade"
+  },
+  "display": {
+    "thirdperson_righthand": {
+        "rotation": [ -30, -75, 45 ],
+        "translation": [ -1.32, 2.77, -2.5 ],
+        "scale": [ 1.4, 1.4, 1.1 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 0, 90, -55 ],
+        "translation": [ 0, 4.0, 0.5 ],
+        "scale": [ 1.4, 1.4, 1.1 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, -90, 25 ],
+        "translation": [ -0.6, 3.2, 1.13 ],
+        "scale": [ 0.62, 0.68, 0.68 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, 90, -25 ],
+        "translation": [ -1.1, 3.2, 1.13 ],
+        "scale": [ 0.68, 0.68, 0.68 ]
+    }
+}
+}

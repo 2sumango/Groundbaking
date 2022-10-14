@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/pricklypear",
+  "textures": {
+    "all": "naturaldecormod:blocks/ricklyear",
+    "particle": "naturaldecormod:blocks/ricklyear",
+    "PricklyPear": "naturaldecormod:blocks/ricklyear",
+    "PricklyPearBack": "naturaldecormod:blocks/ricklyearack"
+  }
+}

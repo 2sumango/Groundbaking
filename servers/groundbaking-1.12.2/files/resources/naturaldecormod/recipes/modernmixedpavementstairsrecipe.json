@@ -1,0 +1,33 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:glossymixedpavement"
+    },
+    "3": {
+      "item": "naturaldecormod:glossymixedpavement"
+    },
+    "4": {
+      "item": "naturaldecormod:glossymixedpavement"
+    },
+    "6": {
+      "item": "naturaldecormod:glossymixedpavement"
+    },
+    "7": {
+      "item": "naturaldecormod:glossymixedpavement"
+    },
+    "8": {
+      "item": "naturaldecormod:glossymixedpavement"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:modernmixedpavementstairs",
+    "count": 41
+  }
+}

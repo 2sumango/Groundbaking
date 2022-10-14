@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "GCF",
+    "CAC",
+    "SCT"
+  ],
+
+  "key": {
+    "A": {
+      "item": "zettaigrimoires:empty_grimoire"
+    },
+    "C": {
+      "item": "ebwizardry:crystal_block",
+      "data": 7
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "F": {
+      "item": "minecraft:golden_apple",
+      "data": 32767
+    },
+    "S": {
+      "item": "ebwizardry:spectral_dust",
+      "data": 7
+    },
+    "T": {
+      "item": "minecraft:end_rod"
+    }
+  },
+  "result": {
+    "item": "zettaigrimoires:grimoire_holy",
+    "count": 1
+  }
+}

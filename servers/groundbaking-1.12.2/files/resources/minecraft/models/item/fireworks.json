@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:items/fireworks"
+    },
+    "display": {
+        "ground": {
+            "rotation": [ 20, 58, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "fixed": {
+            "rotation": [ 321, 234, 313 ],
+            "translation": [ 4, -9, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 183, 267, 0 ],
+            "translation": [ 0, -2, 4.3 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 135, 150, 160 ],
+            "translation": [ -5, -3.5, 8 ],
+            "scale": [ 0.3, 0.3, 0.3 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 85, 360, 180 ],
+            "translation": [ -3, -6.5, 13 ],
+            "scale": [ 0.65, 0.65, 0.65 ]
+        }
+    }
+}

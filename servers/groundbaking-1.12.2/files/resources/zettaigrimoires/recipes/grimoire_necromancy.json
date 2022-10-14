@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "GCF",
+    "CAC",
+    "SCT"
+  ],
+
+  "key": {
+    "A": {
+      "item": "zettaigrimoires:empty_grimoire"
+    },
+    "C": {
+      "item": "ebwizardry:crystal_block",
+      "data": 4
+    },
+    "G": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "F": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "S": {
+      "item": "ebwizardry:spectral_dust",
+      "data": 4
+    },
+    "T": {
+      "item": "minecraft:skull",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "zettaigrimoires:grimoire_necromancy",
+    "count": 1
+  }
+}

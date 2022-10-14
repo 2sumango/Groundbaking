@@ -1,0 +1,32 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "3": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "naturaldecormod:cactusplanks"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:cactusfence",
+    "count": 6
+  }
+}

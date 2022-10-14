@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/wax_block",
+    "up": "duneons:blocks/wax_block",
+    "north": "duneons:blocks/wax_block",
+    "east": "duneons:blocks/wax_block",
+    "south": "duneons:blocks/wax_block",
+    "west": "duneons:blocks/wax_block",
+    "particle": "duneons:blocks/wax_block"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:mossendirt"
+    },
+    "facing=north": {
+      "model": "duneons:mossendirt"
+    },
+    "facing=east": {
+      "model": "duneons:mossendirt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:mossendirt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:mossendirt",
+      "y": 270
+    }
+  }
+}

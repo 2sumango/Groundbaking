@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/tastybone",
+  "textures": {
+    "0": "duneons:blocks/_astyone",
+    "missing": "duneons:blocks/_astyone"
+  }
+}

@@ -1,0 +1,187 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "particle": "minecraft:blocks/campfire_log",        
+        "cauldron_side": "minecraft:blocks/cauldron_side",
+        "magic_fluid": "minecraft:blocks/magic_fluid",
+        "campfire_log": "minecraft:blocks/campfire_log",
+        "campfire_fire": "minecraft:blocks/campfire_fire",
+        "campfire_log_lit": "minecraft:blocks/campfire_log_lit"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "logleft",
+            "from": [ 0, 0, 0 ], 
+            "to": [ 3, 3, 16 ], 
+            "faces": {
+                "north": { "texture": "#campfire_log", "uv": [ 0, 4, 3, 7 ] },
+                "east": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "south": { "texture": "#campfire_log", "uv": [ 0, 4, 3, 7 ] },
+                "west": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "up": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ], "rotation": 90 },
+                "down": { "texture": "#campfire_log", "uv": [ 1, 0, 4, 16 ] }
+            }
+        },
+        {
+            "name": "flamesheet",
+            "from": [ 3, 0, 0 ], 
+            "to": [ 13, 1, 16 ], 
+            "faces": {
+                "north": { "texture": "#campfire_log_lit", "uv": [ 0, 0, 10, 1 ] },
+                "south": { "texture": "#campfire_log_lit", "uv": [ 0, 0, 10, 1 ] },
+                "up": { "texture": "#campfire_log_lit", "uv": [ 0, 0, 10, 16 ] },
+                "down": { "texture": "#campfire_log_lit", "uv": [ 0, 0, 10, 16 ] }
+            }
+        },
+        {
+            "name": "potside3",
+            "from": [ 15, 6, 1 ], 
+            "to": [ 17, 18, 15 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "east": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "west": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 14 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 14 ] }
+            }
+        },
+        {
+            "name": "potside2",
+            "from": [ 1, 6, 15 ], 
+            "to": [ 15, 18, 17 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "east": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "west": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 2 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 2 ] }
+            }
+        },
+        {
+            "name": "logright",
+            "from": [ 13, 0, 0 ], 
+            "to": [ 16, 3, 16 ], 
+            "faces": {
+                "north": { "texture": "#campfire_log", "uv": [ 0, 4, 3, 7 ] },
+                "east": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "south": { "texture": "#campfire_log", "uv": [ 0, 4, 3, 7 ] },
+                "west": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "up": { "texture": "#campfire_log", "uv": [ 0, 0, 3, 16 ] },
+                "down": { "texture": "#campfire_log", "uv": [ 1, 0, 4, 16 ] }
+            }
+        },
+        {
+            "name": "logfront",
+            "from": [ 0, 3, 11 ], 
+            "to": [ 16, 6, 14 ], 
+            "faces": {
+                "north": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "east": { "texture": "#campfire_log", "uv": [ 0, 5, 3, 8 ] },
+                "south": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "west": { "texture": "#campfire_log", "uv": [ 0, 4, 3, 7 ] },
+                "up": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "down": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] }
+            }
+        },
+        {
+            "name": "logback",
+            "from": [ 0, 3, 2 ], 
+            "to": [ 16, 6, 5 ], 
+            "faces": {
+                "north": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "east": { "texture": "#campfire_log", "uv": [ 0, 5, 3, 8 ] },
+                "south": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "west": { "texture": "#campfire_log", "uv": [ 0, 4, 3, 7 ] },
+                "up": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] },
+                "down": { "texture": "#campfire_log", "uv": [ 0, 0, 16, 3 ] }
+            }
+        },
+        {
+            "name": "potside1",
+            "from": [ 1, 6, -1 ], 
+            "to": [ 15, 18, 1 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "east": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "west": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 2 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 2 ] }
+            }
+        },
+        {
+            "name": "potside4",
+            "from": [ -1, 6, 1 ], 
+            "to": [ 1, 18, 15 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "east": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 12 ] },
+                "west": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 12 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 14 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 2, 14 ] }
+            }
+        },
+        {
+            "name": "potbottom",
+            "from": [ 1, 6, 1 ], 
+            "to": [ 15, 7, 15 ], 
+            "faces": {
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 14 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 14, 14 ] }
+            }
+        },
+        {
+            "name": "fluid",
+            "from": [ 1, 8, 1 ], 
+            "to": [ 15, 14, 15 ], 
+            "faces": {
+                "up": { "texture": "#magic_fluid", "uv": [ 0, 0, 14, 14 ] },
+                "down": { "texture": "#magic_fluid", "uv": [ 0, 0, 14, 14 ] }
+            }
+        },
+        {
+            "name": "fire",
+            "from": [ 0, 0, 8 ], 
+            "to": [ 16, 12, 8 ], 
+            "faces": {
+                "north": { "texture": "#campfire_fire", "uv": [ 0, 0, 16, 12 ] },
+                "south": { "texture": "#campfire_fire", "uv": [ 0, 0, 16, 12 ] }
+            }
+        }
+    ]
+}

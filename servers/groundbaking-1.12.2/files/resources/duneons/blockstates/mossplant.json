@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:mossplant"
+    },
+    "facing=north": {
+      "model": "duneons:mossplant"
+    },
+    "facing=east": {
+      "model": "duneons:mossplant",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:mossplant",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:mossplant",
+      "y": 270
+    }
+  }
+}

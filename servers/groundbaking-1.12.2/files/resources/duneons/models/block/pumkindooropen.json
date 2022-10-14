@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/pumpkin_door_open",
+  "textures": {
+    "all": "duneons:blocks/pumpkin_door",
+    "particle": "duneons:blocks/pumpkin_door",
+    "0": "duneons:blocks/pumpkin_door"
+  }
+}

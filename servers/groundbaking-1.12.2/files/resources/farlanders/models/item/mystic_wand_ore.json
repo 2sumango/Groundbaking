@@ -1,0 +1,6 @@
+{
+  "parent": "farlanders:item/mystic_wand_base",
+	"textures": {
+		"layer0": "farlanders:items/mystic_wand_base_ore"
+	}  
+}

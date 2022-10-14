@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/hammer_new",
+  "textures": {
+    "0": "duneons:blocks/t_hammer"
+  }
+}

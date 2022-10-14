@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:patternedbriker"
+    },
+    "facing=north": {
+      "model": "duneons:patternedbriker"
+    },
+    "facing=east": {
+      "model": "duneons:patternedbriker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:patternedbriker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:patternedbriker",
+      "y": 270
+    }
+  }
+}

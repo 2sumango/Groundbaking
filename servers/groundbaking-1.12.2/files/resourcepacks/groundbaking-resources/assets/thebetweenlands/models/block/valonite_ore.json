@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "blocks/metal_ore",
+        "top": "blocks/metal_3d",
+        "side": "blocks/metal_ore"
+    }
+}

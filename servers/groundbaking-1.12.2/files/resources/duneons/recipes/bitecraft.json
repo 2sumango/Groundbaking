@@ -1,0 +1,33 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "duneons:necromancerhathelmet"
+    }
+  },
+  "result": {
+    "item": "duneons:nightmarebite",
+    "count": 1
+  }
+}

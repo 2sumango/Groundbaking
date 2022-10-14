@@ -1,0 +1,9 @@
+{
+  "parent": "koopascritters:custom/rockhoppernestone",
+  "textures": {
+    "all": "koopascritters:blocks/ockhoppergg",
+    "particle": "koopascritters:blocks/ockhoppergg",
+    "pebbles": "koopascritters:blocks/tickirt",
+    "yelloweyeegg": "koopascritters:blocks/ockhoppergg"
+  }
+}

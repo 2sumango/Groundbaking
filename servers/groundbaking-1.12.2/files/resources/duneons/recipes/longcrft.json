@@ -1,0 +1,42 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:planks",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "duneons:longfence",
+    "count": 16
+  }
+}

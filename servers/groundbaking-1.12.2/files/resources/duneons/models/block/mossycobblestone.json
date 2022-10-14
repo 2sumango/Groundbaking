@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/mossy_cobblestone",
+    "up": "duneons:blocks/mossy_cobblestone",
+    "north": "duneons:blocks/mossy_cobblestone",
+    "east": "duneons:blocks/mossy_cobblestone",
+    "south": "duneons:blocks/mossy_cobblestone",
+    "west": "duneons:blocks/mossy_cobblestone",
+    "particle": "duneons:blocks/mossy_cobblestone"
+  }
+}

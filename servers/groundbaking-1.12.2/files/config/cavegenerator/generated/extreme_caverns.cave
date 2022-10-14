@@ -1,0 +1,102 @@
+# ----------------------------------------------------------- #
+# ########################################################### #
+#                 ### extreme_caverns.cave Info ###           #
+# ########################################################### #
+#   This preset demonstrates a basic use case of the caverns  #
+# feature. For more information on using noise3D blocks, see  #
+# vanilla.cave.                                               #
+# ----------------------------------------------------------- #
+{
+  enabled: true
+  biomes: {
+    # A list of registry names.
+    names: [ "minecraft:plains" ]
+    # A list of biome IDs.
+    IDs: []
+    # A list of Biome types.
+    types: []
+  }
+  caverns: {
+    enabled: true # Removed in 1.0. You can delete this field.
+    height: [ 3, 49 ]
+    generators: {
+      frequency: 0.01
+      type: Cellular
+      returnType: Distance3Div
+      jitter: 2
+      perturb: true
+      perturbAmp: 10
+      perturbFreq: 0.025
+      invert: true
+      threshold: -0.6
+      stretch: 0.23
+    }
+  }
+  wallDecorators: [
+    {
+      type: stalactite
+      states: thebetweenlands:limestone
+      length: [ 4, 35 ]
+      height: [ 16, 23 ]
+      matchers: [ "botania:biomestonea", "minecraft:stone", "earthworks:block_slate" ]
+      integrity: 0.075
+    }
+    {
+      type: stalactite
+      states: stone
+      length: [ 4, 35 ]
+      height: [ 25, 38 ]
+      matchers: [ "botania:biomestonea", "minecraft:stone", "earthworks:block_slate" ]
+      integrity: 0.075
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "chisel:basalt2:7" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "botania:biomestonea" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "earthworks:block_slate" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "stone" ]
+      placement: EMBED
+    }
+    # Patches of grass.
+    # Sporadic gravel.
+    {
+      states: gravel
+      directions: down
+      matchers: [ "stone", "stone:5" ]
+      height: [ 9, 50 ]
+      integrity: 0.75
+      placement: EMBED
+    }
+    # Sporadic coarse dirt.
+    {
+      states: thebetweenlands:limestone
+      directions: down
+      matchers: [ "stone", "stone:5", "chisel:basalt" ]
+      height: [ 7, 10 ]
+      integrity: 0.3
+      placement: EMBED
+    }
+  ]
+  # Default lava.
+  caveBlocks: [
+    { states: "lava", height: [ 0, 7 ] }
+  ]
+  # Whether to treat the biome list as a blacklist.
+  blacklistBiomes: false
+}

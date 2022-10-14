@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/sign_house",
+  "textures": {
+    "all": "duneons:blocks/t_largesign",
+    "particle": "duneons:blocks/t_largesign",
+    "0": "duneons:blocks/t_largesign"
+  }
+}

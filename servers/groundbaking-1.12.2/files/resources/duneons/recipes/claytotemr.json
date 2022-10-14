@@ -1,0 +1,30 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "duneons:coin"
+    },
+    "3": {
+      "item": "minecraft:clay_ball"
+    },
+    "4": {
+      "item": "minecraft:clay_ball"
+    },
+    "5": {
+      "item": "minecraft:clay_ball"
+    },
+    "7": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "duneons:claytotem",
+    "count": 1
+  }
+}

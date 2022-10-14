@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:leafpile"
+    },
+    "facing=north": {
+      "model": "duneons:leafpile"
+    },
+    "facing=east": {
+      "model": "duneons:leafpile",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:leafpile",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:leafpile",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:paintingtemplate"
+    },
+    "facing=north": {
+      "model": "duneons:paintingtemplate"
+    },
+    "facing=east": {
+      "model": "duneons:paintingtemplate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:paintingtemplate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:paintingtemplate",
+      "y": 270
+    }
+  }
+}

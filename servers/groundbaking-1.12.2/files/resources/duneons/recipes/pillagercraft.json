@@ -1,0 +1,41 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "4": {
+      "item": "minecraft:chainmail_chestplate"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "8": {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "duneons:pillagersarmorbody",
+    "count": 1
+  }
+}

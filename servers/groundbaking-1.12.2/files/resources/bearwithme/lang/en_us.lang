@@ -1,0 +1,13 @@
+#ItemGroups
+itemGroup.BearWithMe=Bear With Me
+
+#Entities
+entity.grizzlybear.name=Grizzly Bear
+entity.blackbear.name=Black Bear
+entity.pandabear.name=Panda Bear
+
+#Items
+item.bearwithme.hide.bear.black.name=Large Hide
+item.bearwithme.hide.bear.grizzly.name=Large Hide
+item.bearwithme.hide.bear.panda.name=Large Hide
+item.bearwithme.hide.bear.polar.name=Large Hide

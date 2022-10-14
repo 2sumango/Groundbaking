@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/oak_planks",
+    "up": "duneons:blocks/oak_planks",
+    "north": "duneons:blocks/bookshelf_dun",
+    "east": "duneons:blocks/bookshelf_dun",
+    "south": "duneons:blocks/bookshelf_dun",
+    "west": "duneons:blocks/bookshelf_dun",
+    "particle": "duneons:blocks/oak_planks"
+  }
+}

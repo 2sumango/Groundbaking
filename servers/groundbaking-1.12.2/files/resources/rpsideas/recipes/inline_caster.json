@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "inline_caster_enabled"
+    }
+  ],
+  "result": {
+    "item": "rpsideas:inline_caster"
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "MMG",
+    "MS ",
+    "   "
+  ],
+  "key": {
+    "M": {
+      "type": "forge:ore_dict",
+      "ore": "ingotPsi"
+    },
+    "S": {
+      "item": "rpsideas:wide_socket"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "gemPsi"
+    }
+  }
+}

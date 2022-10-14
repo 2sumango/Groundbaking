@@ -1,0 +1,16 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:teracottamase"
+    }
+  },
+  "result": {
+    "item": "minecraft:clay_ball",
+    "count": 9
+  }
+}

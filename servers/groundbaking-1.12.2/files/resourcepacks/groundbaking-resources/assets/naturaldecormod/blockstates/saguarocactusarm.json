@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:saguarocactusarm"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:saguarocactusarm"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:saguarocactusarm",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:saguarocactusarm",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:saguarocactusarm",
+      "y": 270
+    }
+  }
+}

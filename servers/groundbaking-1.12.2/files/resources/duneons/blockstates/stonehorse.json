@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:stonehorse"
+    },
+    "facing=north": {
+      "model": "duneons:stonehorse"
+    },
+    "facing=east": {
+      "model": "duneons:stonehorse",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:stonehorse",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:stonehorse",
+      "y": 270
+    }
+  }
+}

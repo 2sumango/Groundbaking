@@ -1,0 +1,1 @@
+{"embers:heat_tag":{heat:0.0f,modifiers:[{item:{id:"embers:ancient_motive_core",Count:1,Damage:0s},level:1,name:"core"}],heat_level:0}}

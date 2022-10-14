@@ -1,0 +1,6 @@
+{
+	"name" : "fiesta:loot",
+	"inherit" : [
+		"fiesta:loot_all"
+	]
+}

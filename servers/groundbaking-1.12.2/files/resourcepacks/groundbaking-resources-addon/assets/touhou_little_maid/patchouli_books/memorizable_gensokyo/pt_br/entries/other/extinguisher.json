@@ -1,0 +1,13 @@
+{
+  "sortnum": 17,
+  "name": "Extintor",
+  "icon": "touhou_little_maid:extinguisher",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:extinguisher",
+      "text": "O item extintor de incêndio usado pela maid não pode ser usado pelos jogadores."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "AboveConstellations",
+  "items": [
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:ancient_battle_axe",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "swingStartCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.33
+            },
+            "swingStartTicks": {
+              "nbtType": "int",
+              "nbt": 140060
+            },
+            "longSwingState": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "hitCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:ancient_battle_axe",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Gem": {
+              "nbtType": "int",
+              "nbt": 3
+            },
+            "swingStartCooldownState": {
+              "nbtType": "float",
+              "nbt": 1.0
+            },
+            "swingStartTicks": {
+              "nbtType": "int",
+              "nbt": 140324
+            },
+            "longSwingState": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "hitCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "twilightforest:ender_bow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "spartanshields:shield_tc_void",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "naturalpledge:fate_horn",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ench": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "int",
+                      "nbt": 70
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "botania:starsword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extrabotany:failnaught",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cqrepoured:boots_cloud",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chococraft:ability_fruit",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chococraft:ability_fruit",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chococraft:ability_fruit",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chococraft:ability_fruit",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "chococraft:chocobo_whistle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "chococraft:chocobo_saddle",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

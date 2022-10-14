@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:topiaryzombie"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:topiaryzombie"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:topiaryzombie",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:topiaryzombie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:topiaryzombie",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "thebetweenlands:block/blue_crystal",
+    "custom": {
+      "particle_texture": "thebetweenlands:block/blue_crystal"
+    }
+  },
+  "variants": {
+     "normal": {
+     "model": "thebetweenlands:block/blue_crystal"
+    }
+  }
+}

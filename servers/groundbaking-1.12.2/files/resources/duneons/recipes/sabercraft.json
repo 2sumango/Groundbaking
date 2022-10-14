@@ -1,0 +1,27 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "duneons:saber",
+    "count": 1
+  }
+}

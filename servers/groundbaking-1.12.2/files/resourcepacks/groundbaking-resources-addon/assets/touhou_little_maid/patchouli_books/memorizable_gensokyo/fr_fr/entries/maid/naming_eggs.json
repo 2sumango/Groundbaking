@@ -1,0 +1,12 @@
+{
+  "sortnum": 12,
+  "name": "Donnez un nom à l'œuf",
+  "icon": "minecraft:name_tag",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Une maid peut prendre l'apparence d'un joueur.$(br2)Pour cela, nommée votre maid avec $(#ff0000)=>id$() en remplaçant $(#ff0000)id$() par le nom du joueur .$(br2)Vous pouvez également ajouter des œufs de modèle personnalisé avec le pack de ressources."
+    }
+  ]
+}

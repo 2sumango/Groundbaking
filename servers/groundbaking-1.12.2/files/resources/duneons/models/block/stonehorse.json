@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/statue_horse",
+  "textures": {
+    "all": "duneons:blocks/t_statuehorse_new",
+    "particle": "duneons:blocks/t_statuehorse_new",
+    "2": "duneons:blocks/t_statuehorse_new",
+    "missing": "duneons:blocks/t_statuehorse_new"
+  }
+}

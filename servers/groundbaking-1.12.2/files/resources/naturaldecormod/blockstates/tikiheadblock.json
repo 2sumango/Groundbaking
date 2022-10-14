@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:tikiheadblock"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:tikiheadblock"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:tikiheadblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:tikiheadblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:tikiheadblock",
+      "y": 270
+    }
+  }
+}

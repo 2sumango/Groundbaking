@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:enchantedcarpet"
+    },
+    "facing=north": {
+      "model": "duneons:enchantedcarpet"
+    },
+    "facing=east": {
+      "model": "duneons:enchantedcarpet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:enchantedcarpet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:enchantedcarpet",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/katana",
+  "textures": {
+    "0": "duneons:blocks/t_katana",
+    "missing": "duneons:blocks/t_katana"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:redstonemonstertotem"
+    },
+    "facing=north": {
+      "model": "duneons:redstonemonstertotem"
+    },
+    "facing=east": {
+      "model": "duneons:redstonemonstertotem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:redstonemonstertotem",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:redstonemonstertotem",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "BCB",
+    "CAC",
+    "BCB"
+  ],
+
+  "key": {
+    "A": {
+      "item": "minecraft:book"
+    },
+    "C": {
+      "item": "ebwizardry:magic_crystal",
+      "data": 0
+    },
+    "B": {
+      "type": "forge:ore_dict",
+      "ore": "nuggetGold"
+    }
+  },
+  "result": {
+    "item": "zettaigrimoires:empty_grimoire",
+    "count": 1
+  }
+}

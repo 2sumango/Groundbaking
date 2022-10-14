@@ -1,0 +1,394 @@
+{
+	"pools": [
+		{
+			"name": "main",
+			"rolls": {
+				"min": 4,
+				"max": 6
+			},
+			"entries": [
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "tconstruct:ingots",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 1
+							}
+						},
+						{
+							"function": "set_data",
+							"data": {
+								"min": 1,
+								"max": 1
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "quark:candle",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 6
+							}
+						},
+						{
+							"function": "set_data",
+							"data": {
+								"min": 7,
+								"max": 15
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "minecraft:stick",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 6
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "minecraft:potato",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 6
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "minecraft:name_tag",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 6
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "qualitytools:emerald_ring"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "iceandfire:troll_weapon.axe"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "duneons:masterskatana"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "duneons:fortunespear"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "duneons:doublebladedsword"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "duneons:truthseeker"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "thebetweenlands:draeton_upgrade_furnace"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "thebetweenlands:draeton_upgrade_anchor"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "thebetweenlands:draeton_upgrade_crafting"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "thebetweenlands:dendrothyst_fluid_vial"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "rootsclassic:runicfocus"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "farlanders:mystic_wand_ore"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "aether_legacy:lightning_knife",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 20
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "quark:rope",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 48
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "metallurgy:celenegil_ingot",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 3
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "metallurgy:damascus_steel_ingot",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 3
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "quark:root",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 22
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "futuremc:lantern",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 6
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "fossil:iron_javelin",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 8
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "quark:arrow_torch",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 9
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "betterwithmods:mining_charge",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 9
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "notenoughscaffold:wooden_scaffold",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 49
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "minecraft:coal",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 49
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "minecraft:iron_ingot",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 12
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "embers:shard_ember",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 1,
+								"max": 6
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "fossil:scarab_pickaxe"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "aether_legacy:agility_cape"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "thebetweenlands:explorers_hat"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "aether_legacy:dungeon_key"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "aether:zanite_sword"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "aether:zanite_pickaxe"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "aether:zanite_axe"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "aether:zanite_shovel"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "inspirations:beacon_compass"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "quark:pickarang"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "thebetweenlands:net"
+				}
+			]
+		}
+	]
+}

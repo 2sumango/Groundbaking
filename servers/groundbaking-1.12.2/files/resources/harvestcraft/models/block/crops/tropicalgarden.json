@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "pamhc2crops:block/tropicalgarden",
+		"1": "pamhc2crops:block/tropicalgarden_fruit",
+		"particle": "pamhc2crops:block/tropicalgarden"
+	},
+	"elements": [
+		{
+			"name": "LeafNS",
+			"from": [0.5, 0, 8],
+			"to": [15.5, 16, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [1, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 1, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "LeafEW",
+			"from": [8, 0, 0.5],
+			"to": [8, 16, 15.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [16, 0, 1, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Base1",
+			"from": [5.5, 1, 5.5],
+			"to": [10.5, 5, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1.50002, 7]},
+			"faces": {
+				"north": {"uv": [0, 1, 5, 5], "texture": "#1"},
+				"east": {"uv": [0, 1, 5, 5], "texture": "#1"},
+				"south": {"uv": [0, 1, 5, 5], "texture": "#1"},
+				"west": {"uv": [0, 1, 5, 5], "texture": "#1"},
+				"up": {"uv": [0, 5, 5, 10], "texture": "#1"},
+				"down": {"uv": [0, 5, 5, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Base2",
+			"from": [6.5, 5, 6.5],
+			"to": [9.5, 6, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 5.5, 7.5]},
+			"faces": {
+				"north": {"uv": [1, 0, 4, 1], "texture": "#1"},
+				"east": {"uv": [1, 0, 4, 1], "texture": "#1"},
+				"south": {"uv": [1, 0, 4, 1], "texture": "#1"},
+				"west": {"uv": [1, 0, 4, 1], "texture": "#1"},
+				"up": {"uv": [1, 6, 4, 9], "texture": "#1"}
+			}
+		}
+	]
+}

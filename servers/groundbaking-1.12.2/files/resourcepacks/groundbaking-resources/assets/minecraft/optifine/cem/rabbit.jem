@@ -1,0 +1,65 @@
+{
+  "models": 
+  [
+	{
+		"part": "head",
+		"model": "rabbit_head.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "nose",
+		"model": "NO.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "right_ear",
+		"model": "rabbit_earright.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "left_ear",
+		"model": "rabbit_earleft.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "body",
+		"model": "rabbit_body.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "tail",
+		"model": "NO.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "right_arm",
+		"model": "rabbit_frontlegright.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "left_arm",
+		"model": "rabbit_frontlegleft.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "right_thigh",
+		"model": "rabbit_thighright.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "left_thigh",
+		"model": "rabbit_thighleft.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "left_foot",
+		"model": "rabbit_backlegleft.jpm",
+		"attach": "false" 
+    },
+	{
+		"part": "right_foot",
+		"model": "rabbit_backlegright.jpm",
+		"attach": "false" 
+    }
+  ]
+}

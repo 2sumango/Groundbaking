@@ -1,0 +1,10 @@
+item.empty_grimoire.name=Grimoire
+item.grimoire_flame.name=Grimoire der Flammen
+item.grimoire_ice.name=Grimoire des Winters
+item.grimoire_sorcery.name=Grimoire der Realität
+item.grimoire_earth.name=Grimoire der Natur
+item.grimoire_lightning.name=Grimoire des Sturms
+item.grimoire_holy.name=Grimoire des heiligen Lichts
+item.grimoire_necromancy.name=Grimoire der Schatten
+item.zettai_grimoire.name=Absolutes Grimoire
+itemGroup.grimorium=Zettai Grimoires

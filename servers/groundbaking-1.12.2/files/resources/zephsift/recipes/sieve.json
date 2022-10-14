@@ -1,0 +1,21 @@
+{
+    "result": {
+        "item": "zephsift:sieve",
+        "count": 1
+    },
+    "pattern": [
+        "#C#",
+        "#C#",
+        "# #"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "logWood"
+        },
+        "C": {
+            "item": "minecraft:web"
+        }
+    }
+}

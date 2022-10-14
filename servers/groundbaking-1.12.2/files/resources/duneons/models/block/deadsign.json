@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/death_sign",
+  "textures": {
+    "all": "duneons:blocks/death_sign",
+    "particle": "duneons:blocks/death_sign",
+    "0": "duneons:blocks/death_sign"
+  }
+}

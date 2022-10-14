@@ -1,0 +1,30 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 6
+    },
+    "3": {
+      "item": "minecraft:torch"
+    },
+    "4": {
+      "item": "minecraft:stone",
+      "data": 6
+    }
+  },
+  "result": {
+    "item": "duneons:standfortorch",
+    "count": 1
+  }
+}

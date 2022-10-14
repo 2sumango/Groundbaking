@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:largerlfence"
+    },
+    "facing=north": {
+      "model": "duneons:largerlfence"
+    },
+    "facing=east": {
+      "model": "duneons:largerlfence",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:largerlfence",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:largerlfence",
+      "y": 270
+    }
+  }
+}

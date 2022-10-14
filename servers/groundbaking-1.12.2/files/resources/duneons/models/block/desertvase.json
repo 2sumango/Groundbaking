@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/desert_vase",
+  "textures": {
+    "all": "duneons:blocks/desert_vase",
+    "particle": "duneons:blocks/desert_vase",
+    "0": "duneons:blocks/desert_vase"
+  }
+}

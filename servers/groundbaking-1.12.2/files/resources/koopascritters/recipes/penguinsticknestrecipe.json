@@ -1,0 +1,31 @@
+{
+  "group": "penguindirtnest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:dirt",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:dirt",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "koopascritters:penguinsticknest",
+    "count": 1
+  }
+}

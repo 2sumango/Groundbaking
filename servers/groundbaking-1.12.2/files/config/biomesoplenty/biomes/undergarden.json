@@ -1,0 +1,149 @@
+{
+  "wallBlock": {
+    "block": "minecraft:netherrack",
+    "properties": {}
+  },
+  "fillerBlock": {
+    "block": "minecraft:netherrack",
+    "properties": {}
+  },
+  "skyColor": 16736902,
+  "topBlock": {
+    "block": "biomesoplenty:grass",
+    "properties": {
+      "variant": "overgrown_netherrack"
+    }
+  },
+  "fogColor": 13762652,
+  "fogDensity": 1.0,
+  "roofTopBlock": {
+    "block": "minecraft:netherrack",
+    "properties": {}
+  },
+  "hasBiomeEssence": false,
+  "roofFillerBlock": {
+    "block": "minecraft:netherrack",
+    "properties": {}
+  },
+  "generators": {
+    "hive": {
+      "maxRadius": 9,
+      "bottomExtra": 4,
+      "amountPerChunk": 0.2,
+      "enable": true,
+      "halfHeight": 7,
+      "emptyChance": 0.25,
+      "layerSize": 3
+    },
+    "netherrack_splatter": {
+      "with": {
+        "block": "minecraft:netherrack",
+        "properties": {}
+      },
+      "generationAttempts": 128,
+      "amountPerChunk": 7.0,
+      "enable": true
+    },
+    "flowers": {
+      "amountPerChunk": 1.0,
+      "enable": true,
+      "generators": {}
+    },
+    "brown_mushrooms": {
+      "with": {
+        "block": "biomesoplenty:sapling_0",
+        "properties": {
+          "stage": "1",
+          "variant": "umbran"
+        }
+      },
+      "generationAttempts": 23,
+      "amountPerChunk": 3.0,
+      "enable": true
+    },
+    "grass": {
+      "amountPerChunk": 15.0,
+      "enable": true,
+      "generators": {}
+    },
+    "red_mushrooms": {
+      "with": {
+        "block": "biomesoplenty:sapling_2",
+        "properties": {
+          "stage": "1",          
+          "variant": "ebony"
+        }
+      },
+      "generationAttempts": 23,
+      "amountPerChunk": 1.65,
+      "enable": true
+    },
+    "ivy": {
+      "minHeight": 8,
+      "with": {
+        "block": "biomesoplenty:ivy",
+        "properties": {
+          "east": "false",
+          "north": "false",
+          "south": "false",
+          "up": "false",
+          "west": "false"
+        }
+      },
+      "generationAttempts": 120,
+      "amountPerChunk": 4.0,
+      "maxHeight": 20,
+      "enable": true
+    },
+    "trees": {
+      "amountPerChunk": 0.3,
+      "enable": true,
+      "generators": {}
+    },
+    "flat_mushroom": {
+      "with": {
+        "block": "biomesoplenty:sapling_1",
+        "properties": {
+          "stage": "1",
+          "variant": "hellbark"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 1.75,
+      "enable": true
+    },
+    "eyebulbs": {
+      "with": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "lower",
+          "variant": "eyebulb"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 1.0,
+      "enable": true,
+      "withTop": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "upper",
+          "variant": "eyebulb"
+        }
+      }
+    },    
+    "toadstools": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "devilweed"
+        }
+      },
+      "generationAttempts": 20,
+      "amountPerChunk": 2.0,
+      "enable": true
+    }
+  },
+  "weights": {
+    "hell": 20
+  }
+}

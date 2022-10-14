@@ -1,0 +1,13 @@
+{
+  "sortnum": 10,
+  "name": "PNJ Outil de Maid",
+  "icon": "touhou_little_maid:npc_maid_tool",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:npc_maid_tool",
+      "text": "PNJ Outil de Maid est un outil compatible avec les mods de PNJ personnalisés. $(br2)Si le modèle de PNJ est défini sur Touhou Little Maid, vous pouvez utiliser cet objet sur le PNJ pour définir un modèle de maid personnalisé."
+    }
+  ]
+}

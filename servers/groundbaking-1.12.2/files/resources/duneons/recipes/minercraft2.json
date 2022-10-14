@@ -1,0 +1,36 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "duneons:candle"
+    },
+    "3": {
+      "item": "minecraft:brick"
+    },
+    "4": {
+      "item": "minecraft:brick"
+    },
+    "5": {
+      "item": "minecraft:brick"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "duneons:minerarmorhelmet",
+    "count": 1
+  }
+}

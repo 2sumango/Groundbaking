@@ -1,0 +1,16 @@
+
+key.crawl.description= 
+key.grab.description= 
+key.roll.description= 
+key.fastrunning.description= 
+key.frontflip.description=Flip
+key.parcool.activate=Enable Movement
+key.categories.parcool= 
+message.activation.active=§bParCool:§2Active
+message.activation.inactive=§bParCool:§7Inactive
+warning.activation.exhausted=§4You can't disable movement right now.
+command.error.actionname.invalid=No such Action Name [%s]
+command.error.boolean.invalid=Only true or false can be used [%s]
+item.parcool_guide.name=§bParCool Guide
+itemGroup.parcool=ParCool!
+toolTip.parcool_guide=§7A book written about ParCool

@@ -1,0 +1,16 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:suspensionblock"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:suspensionblocktop",
+    "count": 1
+  }
+}

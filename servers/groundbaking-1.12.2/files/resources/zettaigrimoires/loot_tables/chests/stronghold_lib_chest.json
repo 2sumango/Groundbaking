@@ -1,0 +1,45 @@
+{
+  "pools": [
+    {
+      "name": "grimoires",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "zettaigrimoires:grimoire_flame",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "zettaigrimoires:grimoire_earth",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "zettaigrimoires:grimoire_holy",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "zettaigrimoires:grimoire_necromancy",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "zettaigrimoires:grimoire_ice",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "zettaigrimoires:grimoire_lightning",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "zettaigrimoires:grimoire_sorcery",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

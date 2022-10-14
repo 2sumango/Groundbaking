@@ -1,0 +1,12 @@
+{
+    "record.crabrave": {
+        "replace": false,
+        "category": "record",
+        "sounds": [
+        	{
+            	"name": "betteranimalsplus:crabrave",
+            	"stream": true
+            }
+        ]
+    }
+}

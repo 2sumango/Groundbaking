@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/cactusarm",
+  "textures": {
+    "all": "naturaldecormod:blocks/uguaroactuside",
+    "particle": "naturaldecormod:blocks/uguaroactuside",
+    "suguarocactusside": "naturaldecormod:blocks/uguaroactuside",
+    "suguarocactustop": "naturaldecormod:blocks/uguaroactusop"
+  }
+}

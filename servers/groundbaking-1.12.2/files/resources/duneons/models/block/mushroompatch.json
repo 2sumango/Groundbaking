@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/mushroom2",
+  "textures": {
+    "all": "duneons:blocks/mushroom_patch",
+    "particle": "duneons:blocks/mushroom_patch",
+    "1": "duneons:blocks/mushroom_patch",
+    "missing": "duneons:blocks/mushroom_patch"
+  }
+}

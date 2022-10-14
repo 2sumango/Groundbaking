@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:brickermoss"
+    },
+    "facing=north": {
+      "model": "duneons:brickermoss"
+    },
+    "facing=east": {
+      "model": "duneons:brickermoss",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:brickermoss",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:brickermoss",
+      "y": 270
+    }
+  }
+}

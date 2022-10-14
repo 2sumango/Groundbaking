@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/teracotta_mesa",
+    "up": "duneons:blocks/teracotta_mesa",
+    "north": "duneons:blocks/teracotta_mesa",
+    "east": "duneons:blocks/teracotta_mesa",
+    "south": "duneons:blocks/teracotta_mesa",
+    "west": "duneons:blocks/teracotta_mesa",
+    "particle": "duneons:blocks/teracotta_mesa"
+  }
+}

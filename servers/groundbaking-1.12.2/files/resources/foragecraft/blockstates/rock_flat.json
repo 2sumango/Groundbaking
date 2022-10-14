@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "foragecraft:pebbles1" },
+            { "model": "foragecraft:pebbles1", "y": 90 },
+            { "model": "foragecraft:pebbles1", "y": 180 },
+            { "model": "foragecraft:pebbles1", "y": 270 },
+            { "model": "foragecraft:pebbles2" },
+            { "model": "foragecraft:pebbles2", "y": 90 },
+            { "model": "foragecraft:pebbles2", "y": 180 },
+            { "model": "foragecraft:pebbles2", "y": 270 },
+            { "model": "foragecraft:pebbles3" },
+            { "model": "foragecraft:pebbles3", "y": 90 },
+            { "model": "foragecraft:pebbles3", "y": 180 },
+            { "model": "foragecraft:pebbles3", "y": 270 }
+        ]
+    }
+}

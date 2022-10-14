@@ -1,0 +1,52 @@
+[
+  {
+    "ore": "botania:biomestoneb",
+    "oremeta": 15,
+    "source": "botania:biomestonea",
+    "srcmeta": 7,
+    "veins": 360,
+    "size": 3,
+    "miny": 0,
+    "maxy": 256
+  },
+  {
+    "ore": "botania:biomestoneb",
+    "oremeta": 7,
+    "source": "botania:biomestonea",
+    "srcmeta": 7,
+    "veins": 360,
+    "size": 3,
+    "miny": 0,
+    "maxy": 256
+  },
+  {
+    "ore": "minecraft:flowing_water",
+    "oremeta": 0,
+    "source": "botania:biomestonea",
+    "srcmeta": 7,
+    "veins": 8,
+    "size": 8,
+    "miny": 0,
+    "maxy": 256
+  },
+  {
+    "ore": "minecraft:flowing_lava",
+    "oremeta": 0,
+    "source": "botania:biomestonea",
+    "srcmeta": 7,
+    "veins": 3,
+    "size": 8,
+    "miny": 33,
+    "maxy": 100
+  },
+  {
+    "ore": "futuremc:soul_soil",
+    "oremeta": 0,
+    "source": "botania:biomestonea",
+    "srcmeta": 7,
+    "veins": 360,
+    "size": 24,
+    "miny": 89,
+    "maxy": 130
+  }
+]

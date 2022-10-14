@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/chiseled",
+    "up": "duneons:blocks/chiseled",
+    "north": "duneons:blocks/arena_eye_block_active",
+    "east": "duneons:blocks/arena_eye_block_active",
+    "south": "duneons:blocks/arena_eye_block_active",
+    "west": "duneons:blocks/arena_eye_block_active",
+    "particle": "duneons:blocks/chiseled"
+  }
+}

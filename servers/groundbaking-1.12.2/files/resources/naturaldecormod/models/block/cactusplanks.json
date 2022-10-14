@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "naturaldecormod:blocks/ugaroood",
+    "particle": "naturaldecormod:blocks/ugaroood"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "jaff:iron_fishing_rod"
+        },
+        "title": {
+            "translate": "advancements.husbandry.jaff_fish.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.jaff_fish.description"
+        }
+    },
+    "parent": "jaff:husbandry/bait_hook",
+    "criteria": {
+        "caught_fish_mob": {
+            "trigger": "jaff:caught_fish_mob"
+        }
+    }
+}

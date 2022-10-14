@@ -1,0 +1,29 @@
+{
+	"name" : "fiesta:tower",
+	"tower" : {
+		"type" : "ENIKO",
+		"theme" : {
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:block_coal_coke", "meta" : 0}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:block_coal_coke", "meta" : 1}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:block_coal_coke", "meta" : 6}, "weight" : 7},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:block_coal_coke", "meta" : 7}, "weight" : 10},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:block_coal_coke", "meta" : 1}, "weight" : 7},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:block_coal_coke", "meta" : 6}, "weight" : 1}
+					]
+				},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:log_3", "meta" : 7},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:stained_clay_tiles_red_stairs", "weight" : 100}},
+				"door" : {"name" : "thebetweenlands:giant_root_plank_door"}}
+			},
+			"secondary" : {
+				"walls" : {"type" : "METABLOCK","data" : {"name" : "quark:stained_clay_tiles", "meta" : 14}},
+				"pillar" : {"type" : "METABLOCK","data" : {"name" : "biomesoplenty:log_3", "meta" : 7}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "quark:stained_clay_tiles_red_stairs", "weight" : 100}},			
+				"door" : {"name" : "thebetweenlands:giant_root_plank_door"}}
+		}
+	}	
+}

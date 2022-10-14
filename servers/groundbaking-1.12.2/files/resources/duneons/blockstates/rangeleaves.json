@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:rangeleaves"
+    },
+    "facing=north": {
+      "model": "duneons:rangeleaves"
+    },
+    "facing=east": {
+      "model": "duneons:rangeleaves",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:rangeleaves",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:rangeleaves",
+      "y": 270
+    }
+  }
+}

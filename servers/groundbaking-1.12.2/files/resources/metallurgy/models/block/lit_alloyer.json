@@ -1,0 +1,284 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "stone_slate": "minecraft:blocks/kilnery_side",
+        "particle": "minecraft:blocks/cobblestone",        
+        "campfire_fire": "minecraft:blocks/campfire_log_lit",
+        "nightstone_bricks": "minecraft:blocks/kilnery_side",
+        "campfire_log_lit": "minecraft:blocks/campfire_log_lit",
+        "nightstone_furnace_side": "minecraft:blocks/kilnery_front"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 25, 44, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 0 ], 
+            "to": [ 4, 13, 3 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_furnace_side", "uv": [ 11, 0, 15, 13 ] },
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 3, 13 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 3, 13 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 4, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 3 ], 
+            "to": [ 4, 13, 16 ], 
+            "faces": {
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 13, 13 ] },
+                "south": { "texture": "#nightstone_furnace_side", "uv": [ 1, 2, 5, 15 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 2, 0, 15, 13 ] },
+                "up": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 4, 13 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 4, 13 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 0, 3 ], 
+            "to": [ 16, 13, 14 ], 
+            "faces": {
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 11, 13 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 2, 0, 13, 13 ] },
+                "up": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 4, 11 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 4, 11 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 0, 0 ], 
+            "to": [ 16, 13, 3 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 4, 13 ] },
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 3, 13 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 3, 13 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 4, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 7, 1 ], 
+            "to": [ 12, 13, 2 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 8, 6 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 8, 6 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 8, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 0, 2 ], 
+            "to": [ 12, 11, 2 ], 
+            "faces": {
+                "north": { "texture": "#campfire_log_lit", "uv": [ 4, 0, 12, 11 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 8, 11 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 0, 1.5 ], 
+            "to": [ 7, 7, 2.5 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] },
+                "up": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 9, 0, 1.5 ], 
+            "to": [ 11, 7, 2.5 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] },
+                "up": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 0, 0 ], 
+            "to": [ 12, 1.02, 16 ], 
+            "faces": {
+                "north": { "texture": "#stone_slate", "uv": [ 0, 0, 8, 1.02 ] },
+                "east": { "texture": "#stone_slate", "uv": [ 0, 0, 16, 1.02 ] },
+                "south": { "texture": "#stone_slate", "uv": [ 0, 0, 8, 1.02 ] },
+                "west": { "texture": "#stone_slate", "uv": [ 2, 0, 16, 1.02 ] },
+                "up": { "texture": "#stone_slate", "uv": [ 3, 0, 11, 16 ] },
+                "down": { "texture": "#stone_slate", "uv": [ 0, 0, 8, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 11, 4 ], 
+            "to": [ 13, 12, 12 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 9, 1 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 9, 1 ] },
+                "up": { "texture": "#campfire_fire", "uv": [ 0, 0, 9, 8 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 9, 8 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 0, 14 ], 
+            "to": [ 16, 13, 16 ], 
+            "faces": {
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 13 ] },
+                "south": { "texture": "#nightstone_furnace_side", "uv": [ 11, 0, 15, 13 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 13 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 4, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 7, 13 ], 
+            "to": [ 12, 13, 15 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 8, 6 ] },
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 6 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 8, 6 ] },
+                "down": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 8, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 0, 14 ], 
+            "to": [ 12, 11, 14 ], 
+            "faces": {
+                "north": { "texture": "#campfire_log_lit", "uv": [ 4, 0, 12, 11 ] },
+                "south": { "texture": "#campfire_log_lit", "uv": [ 4, 0, 12, 11 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 9, 0, 13.5 ], 
+            "to": [ 11, 7, 14.5 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 0, 13.5 ], 
+            "to": [ 7, 7, 14.5 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "east": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] },
+                "south": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 2, 7 ] },
+                "west": { "texture": "#nightstone_bricks", "uv": [ 0, 0, 1, 7 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 12.2, -0.85 ], 
+            "to": [ 12, 16.2, 4.15 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 8, 4 ] },
+                "south": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 8, 4 ] },
+                "west": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "up": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 9, 5 ] },
+                "down": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 8, 5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 12.2, -0.85 ], 
+            "to": [ 17, 16.2, 12.15 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "east": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 4 ] },
+                "west": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 4 ] },
+                "up": { "texture": "#nightstone_furnace_side", "uv": [ 10, 0, 15, 13 ] },
+                "down": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 13 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ -1, 11.2, -0.85 ], 
+            "to": [ 4, 15.2, 12.15 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "east": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 4 ] },
+                "west": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 4 ] },
+                "up": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 13 ] },
+                "down": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 13 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 12.2, 12.15 ], 
+            "to": [ 17, 16.2, 17.15 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 4 ] },
+                "east": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "south": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 4 ] },
+                "west": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "up": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 5 ] },
+                "down": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 13, 5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ -1, 11.2, 12.15 ], 
+            "to": [ 4, 15.2, 17.15 ], 
+            "faces": {
+                "east": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "south": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "west": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 4 ] },
+                "up": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 5 ] },
+                "down": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2, 12, 11 ], 
+            "to": [ 7, 20, 16 ], 
+            "faces": {
+                "north": { "texture": "#nightstone_furnace_side", "uv": [ 5, 2, 10, 10 ] },
+                "east": { "texture": "#nightstone_furnace_side", "uv": [ 5, 2, 10, 10 ] },
+                "south": { "texture": "#nightstone_furnace_side", "uv": [ 5, 2, 10, 10 ] },
+                "west": { "texture": "#nightstone_furnace_side", "uv": [ 5, 2, 10, 10 ] },
+                "up": { "texture": "#nightstone_furnace_side", "uv": [ 11, 11, 16, 16 ] },
+                "down": { "texture": "#nightstone_furnace_side", "uv": [ 0, 0, 5, 5 ] }
+            }
+        }
+    ]
+}

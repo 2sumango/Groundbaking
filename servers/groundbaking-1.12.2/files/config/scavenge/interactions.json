@@ -1,0 +1,1281 @@
+{
+	"block_pools" :
+	[	
+		{
+			"name": "Alloyer Multiblock",
+			"type":
+			{
+				"type": "block",
+				"name": "metallurgy:crusher"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "embers:spark_plug",
+					"amount": 1
+				},				
+				{
+					"type": "consume_item",
+					"amount": 1
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "require_block",
+					"name": "minecraft:air",
+					"require": true,
+					"and": true,
+					"sides": "up"
+				},
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "use_command",
+                    "name": "setblock ~ ~1 ~ metallurgy:alloyer"
+				},									
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "spawn_particles",
+					"name": "campfireCosySmoke",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				}
+			]
+		},		
+		{
+			"name": "Pick Rock",
+			"type":
+			{
+				"type": "block",
+				"name": "aether:holystone_rock"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "clicks_per_time",
+					"time": 32
+				},
+				{
+					"type": "require_item",
+					"name": "earthworks:tool_wood_hammer",
+					"amount": 1,
+					"required_durability": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:ancient_debris_fall",                                
+                    "category": "master",
+                    "volume": 1.0,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "chisel:dirt_chisel",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [1]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 50.0,					
+					"name": "minecraft:air"
+				},	
+				{
+					"type": "damage_item",
+					"amount": 1
+				},
+				{
+					"type": "drop_items",
+					"doDrop": "true"
+				}		
+			],
+			"drops":
+			[				
+				{
+					"name": "midnight:archaic_shard",
+					"chance": 8.0
+				},
+				{
+					"name": "embers:stamp_flat",
+					"chance": 8.0					
+				},
+				{
+					"name": "embers:stamp_flat_raw",
+					"chance": 8.0
+				}
+			]
+		},			
+		{
+			"name": "Burner Block",
+			"type":
+			{
+				"type": "block",
+				"name": "biomesoplenty:log_3",
+				"meta": 7
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "thebetweenlands:items_misc",
+					"meta": 2,
+					"amount": 1
+				},	
+				{
+					"type": "consume_item",
+					"amount": 1
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "spawn_particles",
+					"name": "campfireCosySmoke",
+					"amount": "2",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "quark:charcoal_block",
+					"meta": 1
+				}	
+			]
+		},
+		{
+			"name": "Campfire",
+			"type":
+			{
+				"type": "block",
+				"name": "naturaldecormod:suspensionblock"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "minecraft:coal",
+					"meta": 1,
+					"amount": 1
+				},	
+				{
+					"type": "consume_item",
+					"amount": 1
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "spawn_particles",
+					"name": "campfireCosySmoke",
+					"amount": "2",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "futuremc:campfire",
+					"meta": 1
+				}	
+			]
+		},
+		{
+			"name": "Campfire_2",
+			"type":
+			{
+				"type": "block",
+				"meta": 4,
+				"name": "naturaldecormod:suspensionblock"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "minecraft:coal",
+					"meta": 1,
+					"amount": 1
+				},	
+				{
+					"type": "consume_item",
+					"amount": 1
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "spawn_particles",
+					"name": "campfireCosySmoke",
+					"amount": "2",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "futuremc:campfire",
+					"meta": 2
+				}	
+			]
+		},
+		{
+			"name": "Pit Kiln_Molten_bloom_Fire",
+			"type":
+			{
+				"type": "block",
+				"name": "dawnoftimebuilder:thatch_bamboo"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_block",
+					"name": "minecraft:fire",
+					"require": true,
+					"and": true,
+					"sides": "down"
+				},
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "artisanworktables:artisans_sifter_wood",
+						"amount": 1						
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_stone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_iron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_gold",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_diamond",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_flint",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_bone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_aluminum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_bronze",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_constantan",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_copper",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_electrum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_invar",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_lead",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_nickel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_platinum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_silver",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_steel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_tin",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_osmium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_boron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_toughalloy",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_carbon",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_boronnitride",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_manasteel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_elementium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_terrasteel",
+						"amount": 1
+						}
+					]
+				},	
+				{
+					"type": "damage_item",
+					"amount": 2
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "require_block",
+					"name": "minecraft:air",
+					"require": true,
+					"and": true,
+					"sides": "up"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "north"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "south"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "east"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "west"
+				},
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "spawn_particles",
+					"name": "campfireCosySmoke",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 1.0,					
+					"name": "minecraft:air"
+				}
+			],
+			"drops":
+			[
+				{
+					"name": "minecraft:coal",
+					"meta": 1,
+					"chance": 10.0
+				}
+			]
+		},
+		{
+			"name": "Charcoal from Pit Kiln",
+			"type":
+			{
+				"type": "block",
+				"name": "dawnoftimebuilder:thatch_bamboo"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_block",
+					"name": "futuremc:campfire",
+					"require": true,
+					"and": true,
+					"sides": "down"
+				},
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "artisanworktables:artisans_sifter_wood",
+						"amount": 1						
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_stone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_iron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_gold",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_diamond",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_flint",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_bone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_aluminum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_bronze",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_constantan",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_copper",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_electrum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_invar",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_lead",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_nickel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_platinum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_silver",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_steel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_tin",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_osmium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_boron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_toughalloy",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_carbon",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_boronnitride",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_manasteel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_elementium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_sifter_terrasteel",
+						"amount": 1
+						}
+					]
+				},	
+				{
+					"type": "damage_item",
+					"amount": 2
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "require_block",
+					"name": "minecraft:air",
+					"require": true,
+					"and": true,
+					"sides": "up"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "north"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "south"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "east"
+				},
+				{
+					"type": "require_block",
+					"name": "mysticalworld:thatch",
+					"require": true,
+					"and": true,
+					"sides": "west"
+				},
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "spawn_particles",
+					"name": "campfireCosySmoke",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 1.0,					
+					"name": "minecraft:air"
+				}
+			],
+			"drops":
+			[
+				{
+					"name": "minecraft:coal",
+					"meta": 1,
+					"chance": 10.0
+				}
+			]
+		},
+		{
+			"name": "Thatch_Building",
+			"type":
+			{
+				"type": "block",
+				"name": "mysticalworld:thatch_double_slab"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "minecraft:wheat",
+					"amount": 1
+				},				
+				{
+					"type": "damage_item",
+					"amount": 1
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "mysticalworld:thatch"
+				}
+			]
+		},
+		{
+			"name": "Thatch_Cobblestone_slab",
+			"type":
+			{
+				"type": "block",
+				"name": "naturaldecormod:suspensionblock"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "minecraft:wheat",
+					"amount": 1
+				},				
+				{
+					"type": "damage_item",
+					"amount": 1
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "dawnoftimebuilder:thatch_bamboo"
+				}
+			]
+		},	
+		{
+			"name": "Ash Pile",
+			"type":
+			{
+				"type": "block",
+				"name": "nyx:meteor_rock"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "require_item",
+					"name": "rootsclassic:druidknife",
+					"amount": 1,
+					"required_durability": 1
+				},				
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:soul_soil_break",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "84",
+					"speed": 0.035,
+					"partical_args": [49]
+				},
+				{
+					"type": "spawn_particles",
+					"name": "campfireCosySmoke",
+					"amount": "24",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "consume_block",
+					"chance": 65.0,					
+					"name": "minecraft:magma"
+				},
+				{
+					"type": "damage_item",
+					"amount": 1
+				}				
+			],
+			"drops":
+			[				
+			{
+				"name": "embers:dust_ash"
+			}				
+		]
+		},
+		{
+			"name": "Lead",
+			"type":
+			{
+				"type": "block",
+				"name": "embers:ore_lead"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 50,
+					"amount": 1
+				},
+				{
+					"type": "require_item",
+					"name": "earthworks:tool_wood_hammer",
+					"amount": 1,
+					"required_durability": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:ancient_debris_fall",                                
+                    "category": "master",
+                    "volume": 1.0,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "chisel:dirt_chisel",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 40.0,					
+					"name": "botania:biomestonea"
+				}	,	
+				{
+					"type": "damage_item",
+					"amount": 2
+				}		
+			],
+			"drops":
+			[
+				{
+					"name": "embers:nugget_lead"
+				}
+			]
+		},
+		{
+			"name": "Iron Ore",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:iron_ore"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 50,
+					"amount": 1
+				},
+				{
+					"type": "require_item",
+					"name": "earthworks:tool_wood_hammer",
+					"amount": 1,
+					"required_durability": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:ancient_debris_fall",                                
+                    "category": "master",
+                    "volume": 1.0,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "chisel:dirt_chisel",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 75.0,					
+					"name": "minecraft:stone"
+				},	
+				{
+					"type": "damage_item",
+					"amount": 2
+				}		
+			],
+			"drops":
+			[
+				{
+					"name": "midnight:archaic_shard"
+				},
+				{
+					"name": "mysticalworld:iron_dust",
+					"chance": 15.0
+				}
+			]
+		},
+		{
+			"name": "Coal Ore",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:coal_ore"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 50,
+					"amount": 1
+				},
+				{
+					"type": "require_item",
+					"name": "earthworks:tool_wood_hammer",
+					"amount": 1,
+					"required_durability": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:ancient_debris_fall",                                
+                    "category": "master",
+                    "volume": 1.0,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "chisel:dirt_chisel",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 75.0,					
+					"name": "minecraft:stone"
+				},	
+				{
+					"type": "damage_item",
+					"amount": 2
+				}		
+			],
+			"drops":
+			[
+				{
+					"name": "midnight:archaic_shard"
+				}
+			]
+		},
+		{
+			"name": "Surface",
+			"type":
+			{
+				"type": "block",
+				"name": "thebetweenlands:valonite_ore"
+			},
+			"clicktype": "both",
+			"properties":
+			[
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 5,
+					"amount": 1
+				},
+				{
+					"type": "require_item",
+					"name": "rootsclassic:druidknife",
+					"amount": 1,
+					"required_durability": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:ancient_debris_fall",                                
+                    "category": "master",
+                    "volume": 1.0,
+                    "pitch": 1.0
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "chisel:dirt_chisel",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "64",
+					"speed": 0.035,
+					"partical_args": [3]
+				},
+				{
+					"type": "swing_hand"
+				},
+				{
+					"type": "consume_block",
+					"chance": 20.0,					
+					"name": "midnight:trenchstone_bricks"
+				}	,	
+				{
+					"type": "damage_item",
+					"amount": 2
+				}		
+			],
+			"drops":
+			[
+				{
+					"name": "grimoireofgaia:misc_pearl"
+				}
+			]
+		}
+	]
+}

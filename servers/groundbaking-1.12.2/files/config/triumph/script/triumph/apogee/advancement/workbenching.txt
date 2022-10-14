@@ -1,0 +1,25 @@
+
+//Set icon item
+setIcon(<minecraft:crafting_table>)
+
+//Set title String
+setTitle("Benchmarking")
+
+//Set description String
+setDescription("Objective - Craft a 'Workbench'")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:apogee/advancement/guide")
+
+//Set the position
+setPos(-359,-36)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines()
+
+//Adds criteria named "harvestedBlock" with the trigger type "triumph:player_harvest_block". This function returns the criteria as an object
+criteria = addCriteria("craftedBlock", "triumph:player_crafted_item")
+setRequiresParents("apogee:advancement/wood")
+
+//Sets the required block for the criteria. This is the block that needs to be harvested by the player.
+criteria.setItem(<minecraft:crafting_table>)

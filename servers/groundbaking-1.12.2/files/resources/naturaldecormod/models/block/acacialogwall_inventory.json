@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "naturaldecormod:blocks/acacia_loglanked",
+    "particle": "naturaldecormod:blocks/acacia_loglanked"
+  }
+}

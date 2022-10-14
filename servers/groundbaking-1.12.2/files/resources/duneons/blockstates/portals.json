@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:portals"
+    },
+    "facing=north": {
+      "model": "duneons:portals"
+    },
+    "facing=east": {
+      "model": "duneons:portals",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:portals",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:portals",
+      "y": 270
+    }
+  }
+}

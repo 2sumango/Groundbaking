@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "koopascritters:blocks/sand",
+    "up": "koopascritters:blocks/urrow",
+    "north": "koopascritters:blocks/sand",
+    "east": "koopascritters:blocks/sand",
+    "south": "koopascritters:blocks/sand",
+    "west": "koopascritters:blocks/sand",
+    "particle": "koopascritters:blocks/sand"
+  }
+}

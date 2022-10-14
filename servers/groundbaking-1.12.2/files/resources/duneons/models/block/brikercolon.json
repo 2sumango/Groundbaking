@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/new_briker_colon",
+  "textures": {
+    "all": "duneons:blocks/t_podium_hbh",
+    "particle": "duneons:blocks/t_podium_hbh",
+    "1": "duneons:blocks/t_podium_hbh",
+    "missing": "duneons:blocks/t_podium_hbh"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "reptilehiderecipe",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "koopascritters:reptilehide"
+    },
+    {
+      "item": "koopascritters:reptilehide"
+    },
+    {
+      "item": "koopascritters:reptilehide"
+    },
+    {
+      "item": "koopascritters:reptilehide"
+    }
+  ],
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}

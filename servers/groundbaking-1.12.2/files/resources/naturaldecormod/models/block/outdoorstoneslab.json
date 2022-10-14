@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "bottom": "naturaldecormod:blocks/utdoorlooring",
+    "top": "naturaldecormod:blocks/utdoorlooring",
+    "side": "naturaldecormod:blocks/utdoorlooring"
+  }
+}

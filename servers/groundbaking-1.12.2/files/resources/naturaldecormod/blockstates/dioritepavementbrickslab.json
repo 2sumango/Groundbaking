@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "naturaldecormod:dioritepavementbrickslab"
+    },
+    "half=top,variant=default": {
+      "model": "naturaldecormod:dioritepavementbrickslab_top"
+    }
+  }
+}

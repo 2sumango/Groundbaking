@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/gold_carpet_left",
+  "textures": {
+    "all": "duneons:blocks/vangard_carpet_top",
+    "particle": "duneons:blocks/vangard_carpet_top",
+    "0": "duneons:blocks/red_gold_vangard_carpet_top_2"
+  }
+}

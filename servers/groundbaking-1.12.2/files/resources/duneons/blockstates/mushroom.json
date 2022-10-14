@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:mushroom"
+    },
+    "facing=north": {
+      "model": "duneons:mushroom"
+    },
+    "facing=east": {
+      "model": "duneons:mushroom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:mushroom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:mushroom",
+      "y": 270
+    }
+  }
+}

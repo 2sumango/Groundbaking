@@ -1,0 +1,42 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bone"
+    },
+    "1": {
+      "item": "duneons:claytotem"
+    },
+    "2": {
+      "item": "minecraft:bone"
+    },
+    "3": {
+      "item": "minecraft:porkchop"
+    },
+    "4": {
+      "item": "minecraft:nether_brick"
+    },
+    "5": {
+      "item": "minecraft:porkchop"
+    },
+    "6": {
+      "item": "minecraft:bone"
+    },
+    "7": {
+      "item": "minecraft:netherrack"
+    },
+    "8": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "duneons:scarytotem",
+    "count": 1
+  }
+}

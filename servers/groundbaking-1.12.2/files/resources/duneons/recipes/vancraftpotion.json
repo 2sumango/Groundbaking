@@ -1,0 +1,27 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "duneons:mushroomred"
+    },
+    "4": {
+      "item": "duneons:mushroom"
+    },
+    "5": {
+      "item": "minecraft:glass_bottle"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "duneons:vangardpotion",
+    "count": 1
+  }
+}

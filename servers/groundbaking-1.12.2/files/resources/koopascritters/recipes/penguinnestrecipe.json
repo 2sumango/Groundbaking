@@ -1,0 +1,29 @@
+{
+  "group": "penguinnestrecipe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "koopascritters:pebbles"
+    },
+    "2": {
+      "item": "koopascritters:pebbles"
+    },
+    "3": {
+      "item": "koopascritters:pebbles"
+    },
+    "4": {
+      "item": "koopascritters:pebbles"
+    },
+    "5": {
+      "item": "koopascritters:pebbles"
+    }
+  },
+  "result": {
+    "item": "koopascritters:penguinnest",
+    "count": 1
+  }
+}

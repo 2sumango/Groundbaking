@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:dingyjunglecobblestone"
+    },
+    "facing=north": {
+      "model": "duneons:dingyjunglecobblestone"
+    },
+    "facing=east": {
+      "model": "duneons:dingyjunglecobblestone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:dingyjunglecobblestone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:dingyjunglecobblestone",
+      "y": 270
+    }
+  }
+}

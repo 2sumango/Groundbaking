@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:icecoloon"
+    },
+    "facing=north": {
+      "model": "duneons:icecoloon"
+    },
+    "facing=east": {
+      "model": "duneons:icecoloon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:icecoloon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:icecoloon",
+      "y": 270
+    }
+  }
+}

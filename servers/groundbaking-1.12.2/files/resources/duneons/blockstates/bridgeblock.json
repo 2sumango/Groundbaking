@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bridgeblock"
+    },
+    "facing=north": {
+      "model": "duneons:bridgeblock"
+    },
+    "facing=east": {
+      "model": "duneons:bridgeblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bridgeblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bridgeblock",
+      "y": 270
+    }
+  }
+}

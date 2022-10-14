@@ -1,0 +1,17 @@
+{
+  "sortnum": 5,
+  "name": "Hata Sasimono",
+  "icon": "touhou_little_maid:hata_sasimono",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "touhou_little_maid:hata_sasimono",
+      "text": "Esta maid vai bater em jogadores, outras maids e animais de domesticados. É pra isso que o hata sasimono foi criado."
+    },
+    {
+      "type": "text",
+      "text": "Fabrique um hata sasimono, e então clique com o botão direito sobre uma maid para adicionar um hata sasimono. Você pode encontrar o botão correspondente para mudar o estilo de hata sasimono na interface principal.$(br2)Você também pode personalizar o seu próprio hata sasimono. Confira o wiki para mais instruções."
+    }
+  ]
+}

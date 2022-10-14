@@ -1,0 +1,51 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 1
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 1
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 1
+    },
+    "6": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "8": {
+      "item": "minecraft:wool",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "duneons:desertcarpet",
+    "count": 1
+  }
+}

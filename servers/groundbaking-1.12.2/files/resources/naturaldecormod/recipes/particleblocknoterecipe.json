@@ -1,0 +1,30 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:web"
+    },
+    "3": {
+      "item": "minecraft:web"
+    },
+    "4": {
+      "item": "minecraft:noteblock"
+    },
+    "5": {
+      "item": "minecraft:web"
+    },
+    "7": {
+      "item": "minecraft:web"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:particleblocknote",
+    "count": 8
+  }
+}

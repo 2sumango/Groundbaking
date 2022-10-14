@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "koopascritters:blocks/ebbles",
+    "top": "koopascritters:blocks/ebbles",
+    "side": "koopascritters:blocks/ebbles"
+  }
+}

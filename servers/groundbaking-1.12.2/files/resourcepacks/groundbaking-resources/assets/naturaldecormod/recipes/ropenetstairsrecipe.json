@@ -1,0 +1,33 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:ropenet"
+    },
+    "3": {
+      "item": "naturaldecormod:ropenet"
+    },
+    "4": {
+      "item": "naturaldecormod:ropenet"
+    },
+    "6": {
+      "item": "naturaldecormod:ropenet"
+    },
+    "7": {
+      "item": "naturaldecormod:ropenet"
+    },
+    "8": {
+      "item": "naturaldecormod:ropenet"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:ropenetstairs",
+    "count": 4
+  }
+}

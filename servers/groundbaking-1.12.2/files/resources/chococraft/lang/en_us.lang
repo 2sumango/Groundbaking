@@ -1,0 +1,96 @@
+itemGroup.chococraft=ChocoCraft 3
+
+tile.chococraft.gysahl_green.name=Gysahl Ginseng
+tile.chococraft.chocobo_egg.name=Chocoa Egg
+tile.chococraft.straw_nest.name=Chocoa Nest
+
+entity.chocobo.name=Chocobo
+
+item.chococraft.gysahl_green.name=§6Gysahl Ginseng Soup
+item.chococraft.gysahl_green_seeds.name=Gysahl Ginseng Green Seeds
+item.chococraft.lovely_gysahl_green.name=§6Romani Gysahl Ginseng Soup
+item.chococraft.pickled_gysahl_raw.name=Raw Pickled Gysahl Green
+item.chococraft.pickled_gysahl_cooked.name=Baked Pickled Gysahl Green
+
+item.chococraft.chocopedia.name=Chocoapedia
+item.chococraft.chocopedia.tooltip=Use on a chocoa to view its stats
+
+item.chococraft.chocobo_feather.name=Chocoa Feather
+item.chococraft.chocobo_whistle.name=Chocoa Whistle
+
+item.chococraft.chocobo_saddle.none.name=Chocoa Saddle
+item.chococraft.chocobo_saddle.saddle.name=Chocoa Saddle Bags
+item.chococraft.chocobo_saddle.saddle_bags.name=Chocoa Saddle Pack
+
+item.chococraft.chocobo_drumstick_raw.name=Raw Chocoa Drumstick
+item.chococraft.chocobo_drumstick_cooked.name=Cooked Chocoa Drumstick
+item.chococraft.chocobo_spawn_egg.yellow.name=Yellow Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.green.name=Green Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.blue.name=Blue Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.white.name=White Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.black.name=Black Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.gold.name=Golden Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.pink.name=Pink Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.red.name=Red Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.purple.name=Purple Chocoa Spawn Egg
+item.chococraft.chocobo_spawn_egg.flame.name=Flame Chocoa Spawn Egg
+
+item.chococraft.ability_fruit.spike_fruit.name=Spike Fruit
+item.chococraft.ability_fruit.spike_fruit.tooltip=Teaches a Chocoa the sprint ability
+item.chococraft.ability_fruit.aeroshroom.name=Aeroshroom
+item.chococraft.ability_fruit.aeroshroom.tooltip=Teaches a Chocoa the glide ability
+item.chococraft.ability_fruit.aqua_berry.name=Aqua Berry
+item.chococraft.ability_fruit.aqua_berry.tooltip=Teaches a Chocoa the dive ability
+item.chococraft.ability_fruit.dead_pepper.name=Aerhorned Milk
+item.chococraft.ability_fruit.dead_pepper.tooltip=Teaches a Chocoa the flight ability
+
+item.chococraft.chocobo_egg.tooltip.invalid_egg=§cInvalid Egg
+item.chococraft.chocobo_egg.tooltip.mother_info=Mother: %s / %s / %s
+item.chococraft.chocobo_egg.tooltip.father_info=Father: %s / %s / %s
+
+chococraft.entity_chocobo.heal_fail=§cHealth full
+chococraft.entity_chocobo.tame_fail=§cTame failed
+chococraft.entity_chocobo.tame_success=§aTame succeeded
+chococraft.entity_chocobo.saddle_applied=Saddle applied
+chococraft.entity_chocobo.chocobo_followcmd=Follow
+chococraft.entity_chocobo.chocobo_wandercmd=Wander
+chococraft.entity_chocobo.chocobo_staycmd=Stay
+
+chococraft.general.world=World
+chococraft.general.world.gysahlgreenspawnweight=Gysahl Green Spawn Weight
+chococraft.general.gysahlgreenpatchsize=Gysahl Green Patch Size
+
+cmd.chococraft.chocobo.invalid_set_parameters=Invalid parameters
+cmd.chococraft.chocobo.successfuly_set_parameters=Set %s to %s
+
+cmd.chococraft.chocobo.get_level=Level: %s
+cmd.chococraft.chocobo.get_health=Health: %s
+cmd.chococraft.chocobo.get_resistance=Resitance: %s
+cmd.chococraft.chocobo.get_speed=Speed: %s
+cmd.chococraft.chocobo.get_stamina=Stamina: %s
+
+cmd.chococraft.chocobo.can_not_sprint=Can Sprint: §cfalse
+cmd.chococraft.chocobo.can_sprint=Can Sprint: §atrue
+cmd.chococraft.chocobo.can_not_dive=Can Dive: §cfalse
+cmd.chococraft.chocobo.can_dive=Can Dive: §atrue
+cmd.chococraft.chocobo.can_not_glide=Can Glide: §cfalse
+cmd.chococraft.chocobo.can_glide=Can Glide: §atrue
+cmd.chococraft.chocobo.can_not_fly=Can Fly: §cfalse
+cmd.chococraft.chocobo.can_fly=Can Fly: §atrue
+
+gui.chocoinfo.button.ability=You currently have %s out of %s experience needed to %s.
+gui.chocoinfo.button.sprint=Unlock Sprint
+gui.chocoinfo.button.glide=Unlock Glide
+gui.chocoinfo.button.dive=Unlock Dive
+gui.chocoinfo.button.fly=Unlock Fly
+
+gui.choconest=Chocoa Nest
+
+gui.chocobook.title=Chocopedia Page 
+gui.chocobook.page1=Intro to Chocoas: Chocoas are huge, ostrich like birds found in the plains and hills type biomes, their diet consists of Gysahel Jinseng Soups and pretty much nothing else. They are normally found with a yellow color and have two legs with three-toed feet, large wings, and long necks.
+gui.chocobook.page2=Taming a Chocoa: So I guess you're wondering now, how does one tame a Chocoa? Well, that's easy, to tame a Chocobo you must stew up Gysahl Ginseng Soup to feed them, which is comprised of Verdant Sprig, Old Root, Taproot, & Root; Can't get it to love you? Feed it more! it'll work eventually!
+gui.chocobook.page3=Riding Chocoas: Sometimes Chocoas will drop a unique feather, combine this with a normal saddle to make a Chocoa saddle, and right click the Chocoa to put it on.  You can craft upgrades of this saddle with storage later.
+gui.chocobook.page4=Abilitis: So you have a plain Chocoa, that's great but you can do better. Using a Chocoapedia on a Chocoa will let you view & unlock new abilities by using the experience that you have, which will drain from your soul. This includes Flying, Gliding, Sprinting, and Diving.
+gui.chocobook.page5=Abilities Continued: How do I use it? To fly you must sprint to gain momentum then jump, gliding is just falling slower, sprinting is, well, sprinting! To dive, just jump in water.
+gui.chocobook.page6=Breeding: I have a Chocoa, but i want more! There are male & female Chocoas. The male has a tinted blue colored feather pattern, get them to boop by feeding both a Romani Ginseng Soup which is crafted with Ambrosia and Phosteriaberries; Put the egg in a nest, and with enough time and space, it will hatch.
+gui.chocobook.page7=Breeding Continued: Help, my Chocoa popped out a worse Chocoa! That's okay, there's a chance your new baby will be worse in some ways, but most of the time you'll get a faster, healthier, and more energetic Chocoa than the previous generation. Just keep trying!

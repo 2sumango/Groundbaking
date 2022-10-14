@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:slashplush"
+    },
+    "facing=north": {
+      "model": "duneons:slashplush"
+    },
+    "facing=east": {
+      "model": "duneons:slashplush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:slashplush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:slashplush",
+      "y": 270
+    }
+  }
+}

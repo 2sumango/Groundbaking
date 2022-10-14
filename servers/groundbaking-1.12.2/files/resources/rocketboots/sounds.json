@@ -1,0 +1,20 @@
+{
+  "rocket": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "rocketboots:rocket",
+        "stream": false
+      }
+    ]
+  },
+  "rocketboost": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "rocketboots:rocketboost",
+        "stream": false
+      }
+    ]
+  }
+}

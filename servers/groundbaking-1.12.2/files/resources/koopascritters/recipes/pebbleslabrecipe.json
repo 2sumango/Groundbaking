@@ -1,0 +1,23 @@
+{
+  "group": "pebbleslabrecipe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "koopascritters:pebbles"
+    },
+    "1": {
+      "item": "koopascritters:pebbles"
+    },
+    "2": {
+      "item": "koopascritters:pebbles"
+    }
+  },
+  "result": {
+    "item": "koopascritters:pebblesslab",
+    "data": 0,
+    "count": 6
+  }
+}

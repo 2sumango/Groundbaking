@@ -1,0 +1,17 @@
+{
+  "sortnum": 7,
+  "name": "Boussole Kappa",
+  "icon": "touhou_little_maid:kappa_compass",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:kappa_compass",
+      "text": "Cette boussole fonctionne en conjonction avec le mode maison de la Maid. Faite un clic droit sur un bloc pour enregistrer les coordonnées dans la boussole, puis faite un clic droit sur la Maid pour définir ces coordonnées comme emplacement par défaut."
+    },
+    {
+      "type": "text",
+      "text": "La boussole a 4 modes:$(br)$(li)Point unique : La maid se déplacera dans un rayon de 16 blocs à l'intérieur des coordonnées définies.$(li)Point Multiple : La maid se déplacera le long de la ligne des coordonnées définies.$(li)Point Nœud : La maid se déplacera le long du nœud des coordonnées définies.$(li)Point distant : La maid ne se déplacera que dans le périmètre des coordonnées définies."
+    }
+  ]
+}

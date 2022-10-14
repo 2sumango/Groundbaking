@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:fishbox"
+    },
+    "facing=north": {
+      "model": "duneons:fishbox"
+    },
+    "facing=east": {
+      "model": "duneons:fishbox",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:fishbox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:fishbox",
+      "y": 270
+    }
+  }
+}

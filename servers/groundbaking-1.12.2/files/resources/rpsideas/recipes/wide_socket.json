@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "rpsideas:wide_socket",
+    "count": 1
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " GI",
+    "DI ",
+    "I  "
+  ],
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "dustPsi"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "dustGlowstone"
+    }
+  }
+}

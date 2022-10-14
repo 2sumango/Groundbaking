@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:arenaeyeblock"
+    },
+    "facing=north": {
+      "model": "duneons:arenaeyeblock"
+    },
+    "facing=east": {
+      "model": "duneons:arenaeyeblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:arenaeyeblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:arenaeyeblock",
+      "y": 270
+    }
+  }
+}

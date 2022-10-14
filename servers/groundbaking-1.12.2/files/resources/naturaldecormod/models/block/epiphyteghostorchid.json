@@ -1,0 +1,10 @@
+{
+  "parent": "naturaldecormod:custom/ghostorchid",
+  "textures": {
+    "all": "naturaldecormod:blocks/hostrchid",
+    "particle": "naturaldecormod:blocks/hostrchid",
+    "fernepiphyte": "naturaldecormod:blocks/hostrchid",
+    "fernepiphytereverse": "naturaldecormod:blocks/hostrchideverse",
+    "transparent": "naturaldecormod:blocks/ransparent"
+  }
+}

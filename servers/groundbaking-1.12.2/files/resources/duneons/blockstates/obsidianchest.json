@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:obsidianchest"
+    },
+    "facing=north": {
+      "model": "duneons:obsidianchest"
+    },
+    "facing=east": {
+      "model": "duneons:obsidianchest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:obsidianchest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:obsidianchest",
+      "y": 270
+    }
+  }
+}

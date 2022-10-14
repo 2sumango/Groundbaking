@@ -1,0 +1,42 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "jaff:items/iron_fishing_rod_uncast"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "jaff:item/iron_fishing_rod_cast_1"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "pull": 2.0
+            },
+            "model": "jaff:item/iron_fishing_rod_cast_2"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "pull": 3.0
+            },
+            "model": "jaff:item/iron_fishing_rod_cast_3"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "pull": 4.0
+            },
+            "model": "jaff:item/iron_fishing_rod_cast_4"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "pull": 5.0
+            },
+            "model": "jaff:item/iron_fishing_rod_cast_5"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:ropeblock"
+    },
+    "facing=south": {
+      "model": "naturaldecormod:ropeblock"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:ropeblock"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:ropeblock",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "naturaldecormod:ropeblock",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "naturaldecormod:ropeblock",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "naturaldecormod:ropeblock",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

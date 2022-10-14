@@ -1,0 +1,13 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:topiarysteveposed"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:topiarysteve",
+    "count": 1
+  }
+}

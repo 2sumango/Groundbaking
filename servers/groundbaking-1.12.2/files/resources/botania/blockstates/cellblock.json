@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+      "textures": {
+          "cross": "botania:blocks/hive_bulb"
+      }
+  },
+  "variants": {
+      "normal": {
+          "model": "botania:cell_block"
+      },
+      "inventory": {
+          "model": "botania:cell_block"
+      }
+  }
+}

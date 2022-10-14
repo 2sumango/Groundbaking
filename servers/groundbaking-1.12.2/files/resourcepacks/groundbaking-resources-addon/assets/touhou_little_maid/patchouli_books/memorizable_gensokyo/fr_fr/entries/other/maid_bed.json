@@ -1,0 +1,17 @@
+{
+  "sortnum": 19,
+  "name": "Lit de Maid",
+  "icon": "touhou_little_maid:maid_bed",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_bed",
+      "text": "Tout comme les joueurs peuvent dormir, les maids le peuvent également. La nuit ou pendant les orages, la maid cherchera un lit dans les alentours."
+    },
+    {
+      "type": "text",
+      "text": "Les maids endormies ne sont pas attaquées par les créatures hostiles. Vous ne pouvez pas ouvrir l'interface d'une maid endormie.$(br2)Mais ne forcez pas la maid à se réveiller lorsqu'elle dort confortablement. Sinon, votre faveur sera considérablement réduit."
+    }
+  ]
+}

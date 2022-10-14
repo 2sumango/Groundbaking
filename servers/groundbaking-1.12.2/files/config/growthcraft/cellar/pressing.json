@@ -1,0 +1,317 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ore of Gneiss Metals",
+        "mod_id": "embers",
+        "name": "ore_nickel",
+        "amount": 1,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 80
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Gneiss Ore",
+        "mod_id": "grimoireofgaia",
+        "name": "shard",
+        "amount": 1,
+        "meta": 1
+      },
+      "time": 500
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ore of Dolomite Metals",
+        "mod_id": "immersiveengineering",
+        "name": "ore",
+        "amount": 1,
+        "meta": 5
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 80
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Dolomite Ore",
+        "mod_id": "grimoireofgaia",
+        "name": "shard",
+        "amount": 1,
+        "meta": 3
+      },
+      "time": 500
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ore of Green Schist Metals",
+        "mod_id": "thebetweenlands",
+        "name": "sulfur_ore",
+        "amount": 1,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 80
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Green Schist Ore",
+        "mod_id": "grimoireofgaia",
+        "name": "shard",
+        "amount": 1,
+        "meta": 4
+      },
+      "time": 500
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ore of Blue Schist Metals",
+        "mod_id": "thebetweenlands",
+        "name": "slimy_bone_ore",
+        "amount": 1,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 80
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Blue Schist Ore",
+        "mod_id": "grimoireofgaia",
+        "name": "shard",
+        "amount": 1,
+        "meta": 2
+      },
+      "time": 500
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ore of Shale Metals",
+        "mod_id": "thebetweenlands",
+        "name": "scabyst_ore",
+        "amount": 1,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 80
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Shale Ore",
+        "mod_id": "grimoireofgaia",
+        "name": "shard",
+        "amount": 1,
+        "meta": 5
+      },
+      "time": 500
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ore of Gabbro Metals",
+        "mod_id": "thebetweenlands",
+        "name": "syrmorite_ore",
+        "amount": 1,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 80
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Gabbro Ore",
+        "mod_id": "grimoireofgaia",
+        "name": "shard",
+        "amount": 1,
+        "meta": 0
+      },
+      "time": 500
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Tetrahedrite >50",
+        "mod_id": "embers",
+        "name": "stamp_flat",
+        "amount": 4,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Tetrahedrite >50 x4",
+        "mod_id": "earthworks",
+        "name": "block_gabion_gravel",
+        "amount": 1,
+        "meta": 0
+      },
+      "time": 200
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Tetrahedrite <50",
+        "mod_id": "embers",
+        "name": "stamp_flat_raw",
+        "amount": 4,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Tar",
+        "name": "molten_tar",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 1.0,
+        "ore": null,
+        "comment": "Tetrahedrite <50 x4",
+        "mod_id": "earthworks",
+        "name": "block_gabion_dirt",
+        "amount": 1,
+        "meta": 0
+      },
+      "time": 200
+    },    
+    {
+      "comment": "",
+      "item": {
+        "ore": "foodApple",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "fluid": {
+        "comment": "Apple Juice",
+        "name": "fluid_booze_apple_juice",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 0.3,
+        "ore": null,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "time": 40
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Purple Grapes",
+        "mod_id": "growthcraft_grapes",
+        "name": "grape",
+        "amount": 1,
+        "meta": 10
+      },
+      "fluid": {
+        "comment": "Purple Grape Juice",
+        "name": "fluid_booze_purple_juice",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 0.3,
+        "ore": null,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "time": 40
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Red Grapes",
+        "mod_id": "growthcraft_grapes",
+        "name": "grape",
+        "amount": 1,
+        "meta": 14
+      },
+      "fluid": {
+        "comment": "Red Grape Juice",
+        "name": "fluid_booze_red_juice",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 0.3,
+        "ore": null,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "time": 40
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Green Grapes",
+        "mod_id": "growthcraft_grapes",
+        "name": "grape",
+        "amount": 1,
+        "meta": 13
+      },
+      "fluid": {
+        "comment": "Green Grape Juice",
+        "name": "fluid_booze_green_juice",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 0.3,
+        "ore": null,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "time": 40
+    }
+  ]
+}

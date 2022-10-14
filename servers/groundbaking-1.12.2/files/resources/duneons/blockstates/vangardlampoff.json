@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:vangardlampoff"
+    },
+    "facing=north": {
+      "model": "duneons:vangardlampoff"
+    },
+    "facing=east": {
+      "model": "duneons:vangardlampoff",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:vangardlampoff",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:vangardlampoff",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:scarytotem"
+    },
+    "facing=north": {
+      "model": "duneons:scarytotem"
+    },
+    "facing=east": {
+      "model": "duneons:scarytotem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:scarytotem",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:scarytotem",
+      "y": 270
+    }
+  }
+}

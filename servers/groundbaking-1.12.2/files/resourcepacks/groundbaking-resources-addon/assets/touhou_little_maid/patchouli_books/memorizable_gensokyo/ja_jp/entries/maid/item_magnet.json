@@ -1,0 +1,13 @@
+{
+  "sortnum": 15,
+  "name": "アイテムマグネット",
+  "icon": "touhou_little_maid:item_magnet_bauble",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:item_magnet_bauble",
+      "text": "アイテムを拾う範囲を広げる宝玉です。$(br2)もたせると、アイテム、矢、経験値オーブ、P点を拾う範囲がかなり広がります。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:clayvase"
+    },
+    "facing=north": {
+      "model": "duneons:clayvase"
+    },
+    "facing=east": {
+      "model": "duneons:clayvase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:clayvase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:clayvase",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "aqua_creeper_hurt": {
+    "category": "hostile",
+    "sounds": [
+      "aqua_creepers:aqua_creeper_hurt"
+    ]
+  },
+  "aqua_creeper_swim": {
+    "category": "hostile",
+    "sounds": [
+      "aqua_creepers:aqua_creeper_swim"
+    ]
+  },
+  "underwater_explosion": {
+    "category": "hostile",
+    "sounds": [
+      "aqua_creepers:underwater_explosion"
+    ]
+  },
+  "underwater_fuse": {
+    "category": "hostile",
+    "sounds": [
+      "aqua_creepers:underwater_fuse"
+    ]
+  }
+}

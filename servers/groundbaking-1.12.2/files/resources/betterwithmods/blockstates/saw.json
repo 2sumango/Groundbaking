@@ -1,0 +1,53 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "betterwithmods:blocks/saw_top",
+      "front": "betterwithmods:blocks/saw_top",
+      "side": "betterwithmods:blocks/saw_side",
+      "sawon": "betterwithmods:blocks/saw_blade_on",
+      "sawoff": "betterwithmods:blocks/saw_blade_off",
+      "sawstate": "#sawoff"
+    },
+    "model": "betterwithmods:saw",
+    "uvlock": false
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "transform": "forge:default-block",
+        "model": "betterwithmods:saw_inv"
+      }
+    ],
+    "facing": {
+      "down": {},
+      "up": {
+        "x": 180,
+        "y": 180        
+      },
+      "north": {
+        "y": 90
+      },
+      "south": {
+        "y": 270
+      },
+      "west": {
+        "y": 0
+      },
+      "east": {
+        "y": 180
+      }
+    },
+    "active": {
+      "false": {},
+      "true": {
+        "textures": {
+          "sawstate": "#sawon"
+        }
+      }
+    }
+  }
+}

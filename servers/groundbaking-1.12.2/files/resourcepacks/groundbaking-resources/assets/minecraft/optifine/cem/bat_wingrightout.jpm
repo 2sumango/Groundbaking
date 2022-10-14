@@ -1,0 +1,14 @@
+{
+"texture": "textures/entity/bat/bat.png",
+"textureSize": [32, 32],
+"credit": "By DraminOver",
+"scale": 0.92,
+"boxes": 
+	[
+		{
+			"id": "wing",
+			"coordinates": [-14.99, -2, 0, 15, 21, 0],
+			"uvNorth": [0, 19, 5, 26]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "sortnum": 2,
+  "name": "Appareil photo et Album",
+  "icon": "touhou_little_maid:album",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:camera",
+      "text": "Porter une maid à travers les dimensions ou sur une grande distance est un problème ? La caméra est votre solution ! $(br2)Il suffit de photographier votre maid pour la transformer en photo, puis faites un clic droit sur un bloc avec pour la libérer."
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:album",
+      "text": "Si vous avez un album dans l'inventaire et que vous utilisez l'appareil photo, les photos seront directement mises dans l'album. Vous pouvez placer les maids une par une en faisant un clic droit sur un bloc avec l'album."
+    }
+  ]
+}

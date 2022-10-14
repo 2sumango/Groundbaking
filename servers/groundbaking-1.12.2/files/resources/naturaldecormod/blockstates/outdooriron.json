@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:outdooriron"
+    },
+    "facing=south": {
+      "model": "naturaldecormod:outdooriron"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:outdooriron"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:outdooriron",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "naturaldecormod:outdooriron",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "naturaldecormod:outdooriron",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "naturaldecormod:outdooriron",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

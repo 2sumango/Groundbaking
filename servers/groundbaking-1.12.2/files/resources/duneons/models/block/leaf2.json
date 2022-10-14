@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/leaf",
+  "textures": {
+    "all": "duneons:blocks/leaf2",
+    "particle": "duneons:blocks/leaf2",
+    "4": "duneons:blocks/leaf2"
+  }
+}

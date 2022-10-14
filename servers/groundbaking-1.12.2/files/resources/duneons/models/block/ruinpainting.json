@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/ruin_painting",
+  "textures": {
+    "all": "duneons:blocks/ruiny",
+    "particle": "duneons:blocks/ruiny",
+    "1": "duneons:blocks/ruiny"
+  }
+}

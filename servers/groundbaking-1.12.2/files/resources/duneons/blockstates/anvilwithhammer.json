@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:anvilwithhammer"
+    },
+    "facing=north": {
+      "model": "duneons:anvilwithhammer"
+    },
+    "facing=east": {
+      "model": "duneons:anvilwithhammer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:anvilwithhammer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:anvilwithhammer",
+      "y": 270
+    }
+  }
+}

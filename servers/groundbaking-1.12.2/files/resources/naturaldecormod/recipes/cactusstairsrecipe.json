@@ -1,0 +1,33 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "3": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "4": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "6": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "7": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "8": {
+      "item": "naturaldecormod:cactusplanks"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:cactusplankstairs",
+    "count": 4
+  }
+}

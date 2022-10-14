@@ -1,0 +1,17 @@
+{
+  "sortnum": 19,
+  "name": "Cama de Maid",
+  "icon": "touhou_little_maid:maid_bed",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_bed",
+      "text": "O jogador pode dormir, e naturalmente a maid também pode. À noite ou em uma trovoada, a maid tem a chance de procurar a cama ao redor para dormir."
+    },
+    {
+      "type": "text",
+      "text": "Enquanto a maid estiver dormindo, ela não será atacada por criaturas hostis e sua interface não poderá ser aberta neste momento.$(br2)Mas lembre-se, não as acorde enquanto estiverem dormindo, ou elas terão uma grande perda de favorabilidade."
+    }
+  ]
+}

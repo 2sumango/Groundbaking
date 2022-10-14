@@ -1,0 +1,9 @@
+{
+  "parent": "koopascritters:custom/chinstrapnestone",
+  "textures": {
+    "all": "koopascritters:blocks/hinstrapgg",
+    "particle": "koopascritters:blocks/hinstrapgg",
+    "pebbles": "koopascritters:blocks/ebbles",
+    "yelloweyeegg": "koopascritters:blocks/hinstrapgg"
+  }
+}

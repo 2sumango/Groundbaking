@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/fire_pumpkin_front",
+    "up": "duneons:blocks/fire_pumpkin_top",
+    "north": "duneons:blocks/fire_pumpkin_front",
+    "east": "duneons:blocks/fire_pumpkin_front",
+    "south": "duneons:blocks/fire_pumpkin_front",
+    "west": "duneons:blocks/fire_pumpkin_front",
+    "particle": "duneons:blocks/fire_pumpkin_front"
+  }
+}

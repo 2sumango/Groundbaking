@@ -1,0 +1,80 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "shaft_bevel": "betterwithmods:blocks/shaft_bevel",
+        "shaft": "betterwithmods:blocks/shaft",
+        "particle": "betterwithmods:blocks/shaft"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 0, 191, 41 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.825, 0.825, 0.825 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 5, 0, 5 ], 
+            "to": [ 11, 10, 11 ], 
+            "faces": {
+                "north": { "texture": "#shaft", "uv": [ 8, 0, 14, 10 ] },
+                "east": { "texture": "#shaft", "uv": [ 2, 0, 8, 10 ] },
+                "south": { "texture": "#shaft", "uv": [ 8, 0, 14, 10 ] },
+                "west": { "texture": "#shaft", "uv": [ 2, 0, 8, 10 ] },
+                "up": { "texture": "#shaft", "uv": [ 1, 0, 7, 6 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4.5, 10.01, 4.5 ], 
+            "to": [ 11.5, 16.01, 11.5 ], 
+            "faces": {
+                "north": { "texture": "#shaft", "uv": [ 7, 0, 14, 6 ] },
+                "east": { "texture": "#shaft", "uv": [ 2, 0, 9, 6 ] },
+                "south": { "texture": "#shaft", "uv": [ 7, 0, 14, 6 ] },
+                "west": { "texture": "#shaft", "uv": [ 2, 0, 9, 6 ] },
+                "up": { "texture": "#shaft_bevel", "uv": [ 0, 0, 7, 7 ] },
+                "down": { "texture": "#shaft", "uv": [ 1, 0, 8, 7 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4.5, -0.01, 4.5 ], 
+            "to": [ 11.5, 5.99, 11.5 ], 
+            "faces": {
+                "north": { "texture": "#shaft", "uv": [ 7, 0, 14, 6 ] },
+                "east": { "texture": "#shaft", "uv": [ 2, 0, 9, 6 ] },
+                "south": { "texture": "#shaft", "uv": [ 7, 0, 14, 6 ] },
+                "west": { "texture": "#shaft", "uv": [ 2, 0, 9, 6 ] },
+                "up": { "texture": "#shaft", "uv": [ 2, 0, 9, 7 ] },
+                "down": { "texture": "#shaft_bevel", "uv": [ 0, 0, 7, 7 ] }
+            }
+        }
+    ]
+}

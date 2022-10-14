@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:punkindoor"
+    },
+    "facing=north": {
+      "model": "duneons:punkindoor"
+    },
+    "facing=east": {
+      "model": "duneons:punkindoor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:punkindoor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:punkindoor",
+      "y": 270
+    }
+  }
+}

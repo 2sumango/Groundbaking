@@ -1,0 +1,28 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:skull",
+      "data": 5
+    },
+    "1": {
+      "item": "duneons:evocationrobebody"
+    },
+    "2": {
+      "item": "minecraft:skull",
+      "data": 5
+    },
+    "4": {
+      "item": "duneons:purplecobblestone"
+    }
+  },
+  "result": {
+    "item": "duneons:draognrobebody",
+    "count": 1
+  }
+}

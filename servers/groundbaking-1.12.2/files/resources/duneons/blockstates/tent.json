@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:tent"
+    },
+    "facing=north": {
+      "model": "duneons:tent"
+    },
+    "facing=east": {
+      "model": "duneons:tent",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:tent",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:tent",
+      "y": 270
+    }
+  }
+}

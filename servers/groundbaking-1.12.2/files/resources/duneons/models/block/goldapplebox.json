@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/food_gold",
+  "textures": {
+    "all": "duneons:blocks/orange_box_top",
+    "particle": "duneons:blocks/orange_box_top",
+    "0": "duneons:blocks/orange_box_top"
+  }
+}

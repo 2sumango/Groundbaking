@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:lilypadgigantic"
+    },
+    "facing=north": {
+      "model": "duneons:lilypadgigantic"
+    },
+    "facing=east": {
+      "model": "duneons:lilypadgigantic",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:lilypadgigantic",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:lilypadgigantic",
+      "y": 270
+    }
+  }
+}

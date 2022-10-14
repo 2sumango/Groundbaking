@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:housesign"
+    },
+    "facing=north": {
+      "model": "duneons:housesign"
+    },
+    "facing=east": {
+      "model": "duneons:housesign",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:housesign",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:housesign",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_pane"
+    },
+    "1": {
+      "item": "duneons:staffbluethingv"
+    },
+    "2": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "duneons:staffhecro"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "duneons:archillagerstaff"
+    },
+    "6": {
+      "item": "minecraft:glass_pane"
+    },
+    "7": {
+      "item": "duneons:magicwand"
+    },
+    "8": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "duneons:corruptedbeacona",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:redgoldvangard"
+    },
+    "facing=north": {
+      "model": "duneons:redgoldvangard"
+    },
+    "facing=east": {
+      "model": "duneons:redgoldvangard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:redgoldvangard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:redgoldvangard",
+      "y": 270
+    }
+  }
+}

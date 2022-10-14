@@ -1,0 +1,8 @@
+{
+  "parent": "koopascritters:custom/penguinsticknest",
+  "textures": {
+    "all": "koopascritters:blocks/tickirt",
+    "particle": "koopascritters:blocks/tickirt",
+    "Pebbles": "koopascritters:blocks/tickirt"
+  }
+}

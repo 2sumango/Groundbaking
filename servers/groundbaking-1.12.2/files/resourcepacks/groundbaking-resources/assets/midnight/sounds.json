@@ -1,0 +1,169 @@
+{
+  "midnight.ambient": {
+    "category": "ambient",
+    "sounds": [
+      "midnight:ambient/midnight_ambient_1",
+      "midnight:ambient/midnight_ambient_2",
+      "midnight:ambient/midnight_ambient_3"
+    ]
+  },
+  "midnight.idle": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "midnight:ambient/midnight_idle",
+        "stream": true
+      }
+    ]
+  },
+  "midnight.cave_idle": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "midnight:ambient/cave_idle",
+        "stream": true
+      }
+    ]
+  },
+  "midnight.music_generic": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "midnight:music/ultraviolet",
+        "stream": true
+      },
+      {
+        "name": "midnight:music/stegano",
+        "stream": true
+      }
+    ]
+  },
+  "midnight.music_crystal": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "midnight:music/crystal",
+        "stream": true
+      }
+    ]
+  },
+  "midnight.rift_idle": {
+    "category": "ambient",
+    "sounds": ["midnight:rift_idle"]
+  },
+  "midnight.rift_unstable": {
+    "category": "ambient",
+    "sounds": ["midnight:rift_unstable"]
+  },
+  "midnight.rifter_ambient": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/rifter_ambient_1",
+      "midnight:entity/rifter_ambient_2",
+      "midnight:entity/rifter_ambient_3"
+    ]
+  },
+  "midnight.rifter_hurt": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/rifter_hurt_1",
+      "midnight:entity/rifter_hurt_2",
+      "midnight:entity/rifter_hurt_3"
+    ]
+  },
+  "midnight.rifter_death": {
+    "category": "hostile",
+    "sounds": ["midnight:entity/rifter_death_1"]
+  },
+  "midnight.mud_dig": {
+    "category": "block",
+    "sounds": [
+      "midnight:blocks/dig/mud_1",
+      "midnight:blocks/dig/mud_2",
+      "midnight:blocks/dig/mud_3",
+      "midnight:blocks/dig/mud_4"
+    ]
+  },
+  "midnight.mud_step": {
+    "category": "block",
+    "sounds": [
+      "midnight:blocks/step/mud_1",
+      "midnight:blocks/step/mud_2",
+      "midnight:blocks/step/mud_3",
+      "midnight:blocks/step/mud_4"
+    ]
+  },
+  "midnight.bladeshroom_cap_shoot": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/bladeshroom_cap_shoot"
+    ]
+  },
+  "midnight.bladeshroom_cap_hit": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/bladeshroom_cap_hit"
+    ]
+  },
+  "midnight.nightstag_ambient": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/nightstag_ambient_1"
+    ]
+  },
+  "midnight.nightstag_death": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/nightstag_death_1"
+    ]
+  },
+  "midnight.nightstag_hurt": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/nightstag_hurt_1"
+    ]
+  },
+  "midnight.egg_cracked": {
+    "category": "block",
+    "sounds": ["midnight:blocks/egg_cracked"]
+  },
+  "midnight.crystal_bug_flying": {
+    "category": "neutral",
+    "sounds": [
+      "midnight:entity/crystal_bug_flying"
+    ]
+  },
+  "midnight.crystal_bug_death": {
+    "category": "neutral",
+    "sounds": [
+      "midnight:entity/crystal_bug_death"
+    ]
+  },
+  "midnight.crystal_bug_hurt": {
+    "category": "neutral",
+    "sounds": [
+      "midnight:entity/crystal_bug_hurt_1"
+    ]
+  },
+  "midnight.nova_death": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/nova_death"
+    ]
+  },
+  "midnight.nova_hurt": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/nova_hurt1",
+      "midnight:entity/nova_hurt2",
+      "midnight:entity/nova_hurt3"
+    ]
+  },
+  "midnight.nova_idle": {
+    "category": "hostile",
+    "sounds": [
+      "midnight:entity/nova_idle1",
+      "midnight:entity/nova_idle2"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "naturaldecormod:granitepavementbrickslab"
+    },
+    "half=top,variant=default": {
+      "model": "naturaldecormod:granitepavementbrickslab_top"
+    }
+  }
+}

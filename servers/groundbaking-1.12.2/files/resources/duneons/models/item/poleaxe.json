@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/poleaxe",
+  "textures": {
+    "0": "duneons:blocks/poleaxe"
+  }
+}

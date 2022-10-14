@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:lavabrickblock"
+    },
+    "facing=north": {
+      "model": "duneons:lavabrickblock"
+    },
+    "facing=east": {
+      "model": "duneons:lavabrickblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:lavabrickblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:lavabrickblock",
+      "y": 270
+    }
+  }
+}

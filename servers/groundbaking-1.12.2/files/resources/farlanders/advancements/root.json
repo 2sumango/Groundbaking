@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "farlanders:farlander_spawn_egg"
+        },
+        "title": {
+            "translate": "advancement.the_farlanders.root"
+        },
+        "description": {
+            "translate": "advancement.the_farlanders.root.desc"
+        },
+        "background": "minecraft:textures/block/end_stone_bricks.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+    "attack": {
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "requirements": [
+    [
+      "attack"
+    ]
+  ]
+}

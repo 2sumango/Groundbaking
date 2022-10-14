@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/anatomy_creeper",
+  "textures": {
+    "all": "duneons:blocks/anatomy_creeper",
+    "particle": "duneons:blocks/anatomy_creeper",
+    "0": "duneons:blocks/anatomy_creeper",
+    "missing": "duneons:blocks/anatomy_creeper"
+  }
+}

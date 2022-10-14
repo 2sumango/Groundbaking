@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:beaconpainting"
+    },
+    "facing=north": {
+      "model": "duneons:beaconpainting"
+    },
+    "facing=east": {
+      "model": "duneons:beaconpainting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:beaconpainting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:beaconpainting",
+      "y": 270
+    }
+  }
+}

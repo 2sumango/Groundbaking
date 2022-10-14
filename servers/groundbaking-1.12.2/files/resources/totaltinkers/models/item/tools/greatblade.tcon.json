@@ -1,0 +1,27 @@
+{
+	"textures": {
+		"layer0": "totaltinkers:item/greatblade/handle",
+		"layer1": "totaltinkers:item/greatblade/top_blade",
+		"layer2": "totaltinkers:item/greatblade/bottom_blade",
+		"layer3": "totaltinkers:item/greatblade/great_blade_core",
+		"broken1": "totaltinkers:item/greatblade/top_blade_broken"
+
+    },
+    "display": {      
+      "gui": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 1.5, 4.5, 0 ],
+          "scale": [ 1.575, 1.575, 1.575 ]
+      },        
+      "firstperson_righthand": {
+          "rotation": [ -31, 115, 46 ],
+          "translation": [ -3, -1, -18 ],
+          "scale": [ 3.12, 3.12, 1.8 ]
+      },     
+      "thirdperson_righthand": {
+        "rotation": [ -59, -55, 25 ],
+        "translation": [ -1, 5.9, -3.5 ],
+        "scale": [ 2.5, 2.5, 0.99 ]
+    }        
+  }
+}

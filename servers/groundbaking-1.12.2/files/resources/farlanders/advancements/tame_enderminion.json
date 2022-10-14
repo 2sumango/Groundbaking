@@ -1,0 +1,38 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:apple"
+        },
+        "title": {
+            "translate": "advancement.leader_minions"
+        },
+        "description": {
+            "translate": "advancement.leader_minions.desc"
+        }
+    },
+    "parent": "farlanders:root",
+    "criteria": {
+        "tame_enderminion": {
+            "trigger": "minecraft:tame_animal",
+            "conditions": {
+                "entity": {
+                    "type": "farlanders:enderminion"
+                }
+            }
+        },
+        "tame_mystic_enderminion": {
+            "trigger": "minecraft:tame_animal",
+            "conditions": {
+                "entity": {
+                    "type": "farlanders:mystic_enderminion"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "tame_enderminion",
+            "tame_mystic_enderminion"
+        ]
+    ]
+}

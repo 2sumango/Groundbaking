@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/cube_banner",
+  "textures": {
+    "all": "duneons:blocks/banners",
+    "particle": "duneons:blocks/banners",
+    "0": "duneons:blocks/banners",
+    "missing": "duneons:blocks/banners"
+  }
+}

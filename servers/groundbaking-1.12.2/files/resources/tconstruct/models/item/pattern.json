@@ -1,0 +1,198 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "blueprint": "tconstruct:items/blueprint",
+        "wood": "tconstruct:items/wood",
+        "stuff_roll": "tconstruct:items/stuff_roll"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 301, 0, 16 ],
+            "translation": [ -1.75, -2, 0 ],
+            "scale": [ 0.795, 0.795, 0.795 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 255, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 181, 0, 0 ],
+            "translation": [ 0, -0.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 6, 6, 15 ], 
+            "to": [ 13, 13, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 7 ] },
+                "east": { "texture": "#stuff_roll", "uv": [ 0, 0, 1, 7 ] },
+                "south": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 7 ] },
+                "west": { "texture": "#stuff_roll", "uv": [ 0, 0, 1, 7 ] },
+                "up": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 1 ] },
+                "down": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 6, 6, 7 ], 
+            "to": [ 13, 13, 14 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 7 ] },
+                "east": { "texture": "#stuff_roll", "uv": [ 0, 0, 12, 9 ] },
+                "south": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 7 ] },
+                "west": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 7 ] },
+                "up": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 7 ] },
+                "down": { "texture": "#stuff_roll", "uv": [ 0, 0, 7, 7 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 7, 14 ], 
+            "to": [ 12, 12, 15 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#wood", "uv": [ 0, 0, 5, 5 ] },
+                "east": { "texture": "#wood", "uv": [ 1, 0, 4, 7 ] },
+                "south": { "texture": "#wood", "uv": [ 0, 0, 5, 5 ] },
+                "west": { "texture": "#wood", "uv": [ 0, 0, 1, 5 ] },
+                "up": { "texture": "#wood", "uv": [ 0, 0, 5, 1 ] },
+                "down": { "texture": "#wood", "uv": [ 0, 0, 5, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 1, 6, 7 ], 
+            "to": [ 3, 12, 9 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "east": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "south": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "west": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "up": { "texture": "#wood", "uv": [ 0, 0, 2, 2 ] },
+                "down": { "texture": "#wood", "uv": [ 0, 0, 2, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11, 2, 7 ], 
+            "to": [ 19, 6, 8 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#blueprint", "uv": [ 0, 0, 8, 4 ] },
+                "east": { "texture": "#blueprint", "uv": [ 0, 0, 0, 4 ] },
+                "south": { "texture": "#blueprint", "uv": [ 3, 1, 11, 5 ] },
+                "west": { "texture": "#blueprint", "uv": [ 0, 0, 1, 4 ] },
+                "up": { "texture": "#blueprint", "uv": [ 0, 0, 8, 1 ] },
+                "down": { "texture": "#blueprint", "uv": [ 0, 0, 8, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 5, 8 ], 
+            "to": [ 20, 10, 9 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#blueprint", "uv": [ 0, 0, 12, 5 ] },
+                "east": { "texture": "#blueprint", "uv": [ 0, 0, 2, 6 ] },
+                "south": { "texture": "#blueprint", "uv": [ 2, 3, 10, 8 ] },
+                "west": { "texture": "#blueprint", "uv": [ 0, 0, 1, 5 ] },
+                "up": { "texture": "#blueprint", "uv": [ 0, 0, 8, 1 ] },
+                "down": { "texture": "#blueprint", "uv": [ 0, 2, 8, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11, 9, 7 ], 
+            "to": [ 19, 14, 8 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#blueprint", "uv": [ 0, 0, 8, 5 ] },
+                "east": { "texture": "#blueprint", "uv": [ 0, 0, 1, 5 ] },
+                "south": { "texture": "#blueprint", "uv": [ 3, 1, 11, 6 ] },
+                "west": { "texture": "#blueprint", "uv": [ 0, 0, 1, 5 ] },
+                "up": { "texture": "#blueprint", "uv": [ 0, 0, 8, 1 ] },
+                "down": { "texture": "#blueprint", "uv": [ 0, 0, 8, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 5, 14 ], 
+            "to": [ 7, 8, 15 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5 },
+            "faces": {
+                "east": { "texture": "#wood", "uv": [ 0, 0, 1, 3 ] },
+                "west": { "texture": "#wood", "uv": [ 0, 0, 1, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ -1, 7, 7 ], 
+            "to": [ 1, 13, 9 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "east": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "south": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "west": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "up": { "texture": "#wood", "uv": [ 0, 0, 2, 2 ] },
+                "down": { "texture": "#wood", "uv": [ 0, 0, 2, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 7, 9 ], 
+            "to": [ 2, 13, 11 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 45.0 },
+            "faces": {
+                "north": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "east": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "south": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "west": { "texture": "#wood", "uv": [ 0, 0, 2, 6 ] },
+                "up": { "texture": "#wood", "uv": [ 0, 0, 2, 2 ] },
+                "down": { "texture": "#wood", "uv": [ 0, 0, 2, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 4, 15 ], 
+            "to": [ 7, 5, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5 },
+            "faces": {
+                "east": { "texture": "#wood", "uv": [ 0, 0, 1, 1 ] },
+                "west": { "texture": "#wood", "uv": [ 0, 0, 1, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 3, 13 ], 
+            "to": [ 7, 5, 14 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5 },
+            "faces": {
+                "east": { "texture": "#wood", "uv": [ 0, 0, 1, 2 ] },
+                "west": { "texture": "#wood", "uv": [ 0, 0, 1, 2 ] }
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/purple_vase",
+  "textures": {
+    "all": "duneons:blocks/purple_vase",
+    "particle": "duneons:blocks/purple_vase",
+    "3": "duneons:blocks/purple_vase",
+    "missing": "duneons:blocks/purple_vase"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 10
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 10
+    },
+    "6": {
+      "item": "minecraft:wool",
+      "data": 10
+    },
+    "8": {
+      "item": "minecraft:wool",
+      "data": 10
+    }
+  },
+  "result": {
+    "item": "duneons:tcurtains",
+    "count": 16
+  }
+}

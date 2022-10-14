@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/saber",
+  "textures": {
+    "0": "duneons:blocks/saber"
+  }
+}

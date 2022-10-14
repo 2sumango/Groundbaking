@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "rpsideas:psimetal_rod",
+    "count": 1
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "  I",
+    " ID",
+    "I G"
+  ],
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "gemPsi"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "ingotPsi"
+    }
+  }
+}

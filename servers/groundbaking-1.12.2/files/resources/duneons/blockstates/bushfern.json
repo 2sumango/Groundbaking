@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bushfern"
+    },
+    "facing=north": {
+      "model": "duneons:bushfern"
+    },
+    "facing=east": {
+      "model": "duneons:bushfern",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bushfern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bushfern",
+      "y": 270
+    }
+  }
+}

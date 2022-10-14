@@ -1,0 +1,6 @@
+#Sat Oct 08 08:56:58 EDT 2022
+AA=0
+EFOGA=255.0
+FGrain=true
+OFOGI=1.2
+wavingLeaves=false

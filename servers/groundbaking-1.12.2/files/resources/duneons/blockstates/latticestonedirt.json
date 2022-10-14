@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:latticestonedirt"
+    },
+    "facing=north": {
+      "model": "duneons:latticestonedirt"
+    },
+    "facing=east": {
+      "model": "duneons:latticestonedirt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:latticestonedirt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:latticestonedirt",
+      "y": 270
+    }
+  }
+}

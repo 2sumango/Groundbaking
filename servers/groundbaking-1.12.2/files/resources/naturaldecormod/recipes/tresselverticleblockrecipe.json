@@ -1,0 +1,13 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:tresselsuspensionblock"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:tresselsuspensionblocktop",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "metallurgy:items/tools/haderoth_sword"
+    },
+    "display": {            
+        "firstperson_righthand": {
+            "rotation": [ -30, 125, 44 ],
+            "translation": [ 6, 4, -18 ],
+            "scale": [ 3.25, 3.25, 2.45 ]
+        },      
+        "thirdperson_righthand": {
+            "rotation": [ -31, 115, 46 ],
+            "translation": [ 0, 7.25, -3.75 ],
+            "scale": [ 1.75, 1.75, 1.15 ]
+        },
+		"gui": {
+			"scale": [ 1.7, 1.7, 1.7 ]
+		}		
+    }
+}

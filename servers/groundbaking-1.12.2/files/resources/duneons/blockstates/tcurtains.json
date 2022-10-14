@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:tcurtains"
+    },
+    "facing=north": {
+      "model": "duneons:tcurtains"
+    },
+    "facing=east": {
+      "model": "duneons:tcurtains",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:tcurtains",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:tcurtains",
+      "y": 270
+    }
+  }
+}

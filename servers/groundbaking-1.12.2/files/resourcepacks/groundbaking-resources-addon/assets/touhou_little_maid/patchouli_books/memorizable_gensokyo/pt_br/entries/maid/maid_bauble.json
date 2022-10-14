@@ -1,0 +1,16 @@
+{
+  "sortnum": 4,
+  "name": "Ornamento",
+  "icon": "touhou_little_maid:ultramarine_orb_elixir",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A terceira aba do Inventario da maid é o inventário de ornamentos. Este mod fornece vários ornamentos que podem ser acionados para proteger as maids sob certas condições: $(li) Esfera de Elixir Ultramarino: Pode ser usado 6 vezes para evitar a morte de uma maid. $(li) Criação de Lapide: Lápides são geradas após a morte de uma maid, assim preservando seus itens."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Ornamento de Proteção: Quando a maid receber os danos correspondentes, o dano é cancelado.$(li)Pedaço de Pano: Quando uma maid equipada com este Ornamento é atingida por projéteis, o seu comportamento será exatamente o mesmo que o Enderman."
+    }
+  ]
+}

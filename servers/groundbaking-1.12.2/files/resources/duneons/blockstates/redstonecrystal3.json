@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:redstonecrystal3"
+    },
+    "facing=north": {
+      "model": "duneons:redstonecrystal3"
+    },
+    "facing=east": {
+      "model": "duneons:redstonecrystal3",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:redstonecrystal3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:redstonecrystal3",
+      "y": 270
+    }
+  }
+}

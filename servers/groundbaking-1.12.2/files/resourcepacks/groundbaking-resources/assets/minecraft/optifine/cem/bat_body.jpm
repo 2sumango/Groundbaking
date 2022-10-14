@@ -1,0 +1,24 @@
+{
+"texture": "textures/entity/bat/bat.png",
+"textureSize": [32, 32],
+"credit": "By DraminOver",
+"scale": 0.92,
+"boxes": 
+	[
+		{
+			"id": "body",
+			"coordinates": [-4.5, 3, -3, 9, 15, 6],
+			"uvEast": [0, 10, 2, 15],
+			"uvNorth": [2, 10, 5, 15],
+			"uvWest": [5, 10, 7, 15],
+			"uvSouth": [7, 10, 10, 15],
+			"uvUp": [5, 10, 2, 8],
+			"uvDown": [8, 8, 5, 10]
+		},
+		{
+			"id": "feet",
+			"coordinates": [-4.5, 18, -0, 9, 6, 0],
+			"uvNorth": [0, 16, 3, 18]
+		}
+	]
+}

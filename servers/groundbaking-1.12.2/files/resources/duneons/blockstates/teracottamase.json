@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:teracottamase"
+    },
+    "facing=north": {
+      "model": "duneons:teracottamase"
+    },
+    "facing=east": {
+      "model": "duneons:teracottamase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:teracottamase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:teracottamase",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "1e9d6cc0-cb1a-4624-9a21-48ca3293c982",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "recipes": [
+    {
+      "uid": "832ca3e7-ad1e-4cf5-b4bf-17bc88671f9b",
+      "duration": 1,
+      "inputs": {
+        "item": [
+          {
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"minecraft:iron_ingot\",Count:1,Damage:0s}"
+              ]
+            },
+            "chance": 1.0
+          }
+        ]
+      },
+      "outputs": {
+        "fluid": [
+          {
+            "content": "{FluidName:\"water\",Amount:1000}",
+            "chance": 1.0
+          }
+        ]
+      },
+      "tickInputs": {},
+      "tickOutputs": {}
+    }
+  ]
+}

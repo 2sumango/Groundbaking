@@ -1,0 +1,206 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"ground": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:dirt",
+					"metadata": 2
+				},
+				"material": "minecraft:grass",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 60,
+			"max-height": 60,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:mangrove"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"ground2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:dirt",
+					"metadata": 1
+				},
+				"material": {
+					"name": "minecraft:dirt",
+					"metadata": 2
+				},
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 60,
+			"max-height": 60,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:mangrove"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"ground_water": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "minecraft:stained_hardened_clay",
+					"metadata": 9
+				},
+				"material": "minecraft:water",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 60,
+			"max-height": 60,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:mangrove"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"trees": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "harvestcraft:maple_sapling",
+					"metadata": 2
+				},
+				"material": "harvestcraft:soggygarden",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 59,
+			"max-height": 75,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:mangrove"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},			
+		"trees2": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "harvestcraft:maple_sapling",
+					"metadata": 2
+				},
+				"material": "foragecraft:rock_normal",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 59,
+			"max-height": 75,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:mangrove"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},				
+		"trees3": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "harvestcraft:maple_sapling",
+					"metadata": 2
+				},
+				"material": "foragecraft:rock_flat",
+				"cluster-size": 99
+			},
+			"cluster-count": 720,
+			"min-height": 59,
+			"max-height": 75,			
+			"retrogen": true,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"biomesoplenty:mangrove"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}				
+	}
+}

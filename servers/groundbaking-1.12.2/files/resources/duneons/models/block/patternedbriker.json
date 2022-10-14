@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/chiseled_sandy_andesite",
+    "up": "duneons:blocks/chiseled_sandy_andesite",
+    "north": "duneons:blocks/chiseled_sandy_andesite",
+    "east": "duneons:blocks/chiseled_sandy_andesite",
+    "south": "duneons:blocks/chiseled_sandy_andesite",
+    "west": "duneons:blocks/chiseled_sandy_andesite",
+    "particle": "duneons:blocks/chiseled_sandy_andesite"
+  }
+}

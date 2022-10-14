@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/clay_vase",
+  "textures": {
+    "all": "duneons:blocks/vase_vangard",
+    "particle": "duneons:blocks/vase_vangard",
+    "0": "duneons:blocks/vase_vangard"
+  }
+}

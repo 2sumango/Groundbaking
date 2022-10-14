@@ -1,0 +1,28 @@
+{
+	"parent": "item/generated",
+	"textures": { 
+		"layer0": "quark:items/arrow_torch"
+    },
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [ -59, -65, 25 ],
+        "translation": [ -1.32, 2.77, -2.5 ],
+        "scale": [ 2.0, 2.0, 1.0 ]
+    },
+      "firstperson_righthand": {
+        "scale": [ 2.0, 2.0, 1.0 ]
+    },
+      "firstperson_lefthand": {
+        "scale": [ 2.0, 2.0, 1.0 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ -40, -65, -45 ],
+        "translation": [ -1.32, 2.77, -2.5 ],
+        "scale": [ 2.0, 2.0, 1.0 ]
+    },
+		"gui": {
+			"scale": [ 2.12, 2.12, 2.12 ]
+		}
+    }
+}
+

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:redstoneheadcrafting"
+    },
+    "facing=north": {
+      "model": "duneons:redstoneheadcrafting"
+    },
+    "facing=east": {
+      "model": "duneons:redstoneheadcrafting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:redstoneheadcrafting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:redstoneheadcrafting",
+      "y": 270
+    }
+  }
+}

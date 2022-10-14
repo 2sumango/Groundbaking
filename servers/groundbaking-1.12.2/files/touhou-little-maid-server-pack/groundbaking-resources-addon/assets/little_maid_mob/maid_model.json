@@ -1,0 +1,253 @@
+{
+	"pack_name": "{maid_pack.little_maid_mob.name}",
+	"author": ["Little Maiden Package"],
+	"description": ["{maid_pack.little_maid_mob.desc}"],
+	"icon": "little_maid_mob:textures/icon.png",
+	"date": "2021-08-22",
+	"version": "1.0.0",
+	"model_list": [
+			{
+				"model_id": "little_maid_mob:raiden_qiangxi",
+				"description": ["{maid.yy.desc}"],
+				"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js"]
+			},
+			{
+				"model_id": "little_maid_mob:bronya_zhanche",
+				"description": ["{maid.brny.desc}"],
+				"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js"]
+			},
+			{
+				"model_id": "little_maid_mob:theresa_shiyue",
+				"description": ["{maid.trr.desc}"],
+				"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/armor/default.js"]
+			},
+			{
+				"model_id": "little_maid_mob:mash.kyrielight"
+			},
+			{
+				"model_id": "little_maid_mob:altria.pendragon"
+			},
+			{
+				"model_id": "little_maid_mob:altria.pendragon_alter"
+			},
+			{
+				"model_id": "little_maid_mob:altria.pendragon_lily"
+			},			
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_00",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_00.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_0a",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_0a.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_0b",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_0b.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_0c",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_0c.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_0d",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_0d.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_0e",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_0e.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_0f",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_0f.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_01",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_01.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_02",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_02.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_03",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_03.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_04",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_04.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_05",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_05.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_06",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_06.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_07",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_07.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_08",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_08.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_09",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_09.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_3c",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_3c.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_3c2",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_3c2.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_9",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_9.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_c",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_c.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:mob_littlemaid_d",
+			"model": "little_maid_mob:models/entity/default.json",
+			"texture": "little_maid_mob:textures/entity/mob_littlemaid_d.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.default.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:aug_0c",
+			"model": "little_maid_mob:models/entity/aug.json",
+			"texture": "little_maid_mob:textures/entity/aug_0c.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.aug.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:aug_0d",
+			"model": "little_maid_mob:models/entity/aug.json",
+			"texture": "little_maid_mob:textures/entity/aug_0d.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.aug.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:aug_02",
+			"model": "little_maid_mob:models/entity/aug.json",
+			"texture": "little_maid_mob:textures/entity/aug_02.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.aug.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:aug_08",
+			"model": "little_maid_mob:models/entity/aug.json",
+			"texture": "little_maid_mob:textures/entity/aug_08.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.aug.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:engage_octaver_0c",
+			"model": "little_maid_mob:models/entity/sr2.json",
+			"texture": "little_maid_mob:textures/entity/engage_octaver_0c.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.sr2.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		},
+		{
+			"model_id": "little_maid_mob:engage_octaver_3c",
+			"model": "little_maid_mob:models/entity/sr2.json",
+			"texture": "little_maid_mob:textures/entity/engage_octaver_3c.png",
+			"name": "{model.little_maid_mob.mob_littlemaid.desc}",
+			"description": ["{model.little_maid_mob.sr2.desc}"],
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js"]
+		}
+	]
+}

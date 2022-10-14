@@ -1,0 +1,16 @@
++-----------------------------------------+------------------+--------------------------------------------------------------------------+----------------------------------+
+| ID                                      | Name             | Description                                                              | Parent                           |
++-----------------------------------------+------------------+--------------------------------------------------------------------------+----------------------------------+
+| triumph:apogee/advancement/guide        | [Apogee]         | Open the 'Apogee' guide book.                                            | triumph:apogee/advancement/root  |
+| triumph:apogee/advancement/root         | [Questing]       | Knowledge is power; craft your path with knowledge.                      | -                                |
+| triumph:apogee/advancement/wood         | [Getting Wood]   | Objective - Destroy any wood log.                                        | triumph:apogee/advancement/guide |
+| triumph:apogee/advancement/workbenching | [Benchmarking]   | Objective - Craft a 'Workbench'                                          | triumph:apogee/advancement/guide |
+| triumph:apogee/ages/root                | [Progressions]   | World progressions; change the world with knowledge.                     | -                                |
+| triumph:apogee/artisanry/root           | [Artisanry]      | Knowledge is power; craft your path with knowledge.                      | -                                |
+| triumph:apogee/harvest/root             | [Agriculture]    | Fruits of labor; grow your desire.                                       | -                                |
+| triumph:apogee/magiculture/root         | [Above & Within] | Beneath the soil & above the clouds; aligning stars reveal your fortune. | -                                |
+| triumph:apogee/mariculture/root         | [Mariculture]    | Test the waters; reel in yields of the past.                             | -                                |
+| triumph:apogee/the_end/root             | [Blackout Stage] | Free the end; change the world with knowledge.                           | -                                |
++-----------------------------------------+------------------+--------------------------------------------------------------------------+----------------------------------+
+| ID                                      | Name             | Description                                                              | Parent                           |
++-----------------------------------------+------------------+--------------------------------------------------------------------------+----------------------------------+

@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/torch_painting",
+  "textures": {
+    "all": "duneons:blocks/torch_painting",
+    "particle": "duneons:blocks/torch_painting",
+    "1": "duneons:blocks/torch_painting"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farlanders:endumium_block"
+    }
+  ],
+  "result": {
+    "item": "farlanders:endumium_crystal",
+    "count": 9
+  }
+}

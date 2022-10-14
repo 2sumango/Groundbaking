@@ -1,0 +1,33 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:outdoorflooring"
+    },
+    "3": {
+      "item": "naturaldecormod:outdoorflooring"
+    },
+    "4": {
+      "item": "naturaldecormod:outdoorflooring"
+    },
+    "6": {
+      "item": "naturaldecormod:outdoorflooring"
+    },
+    "7": {
+      "item": "naturaldecormod:outdoorflooring"
+    },
+    "8": {
+      "item": "naturaldecormod:outdoorflooring"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:outdoorstonestairs",
+    "count": 4
+  }
+}

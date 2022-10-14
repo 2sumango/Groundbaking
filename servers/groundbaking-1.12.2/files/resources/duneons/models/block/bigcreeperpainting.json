@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/big_creeper_painting",
+  "textures": {
+    "all": "duneons:blocks/painting_new",
+    "particle": "duneons:blocks/painting_new",
+    "1": "duneons:blocks/painting_new"
+  }
+}

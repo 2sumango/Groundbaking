@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:brikercolon"
+    },
+    "facing=north": {
+      "model": "duneons:brikercolon"
+    },
+    "facing=east": {
+      "model": "duneons:brikercolon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:brikercolon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:brikercolon",
+      "y": 270
+    }
+  }
+}

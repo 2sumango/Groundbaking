@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/log_palm",
+  "textures": {
+    "all": "duneons:blocks/palm_leaves",
+    "particle": "duneons:blocks/palm_leaves",
+    "0": "duneons:blocks/palm_leaves"
+  }
+}

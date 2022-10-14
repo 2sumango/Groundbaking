@@ -1,0 +1,167 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "CrimsonIchorous",
+  "items": [
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "grimoireofgaia:weapon_prop_hammer_minotaur",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "spartanshields:shield_basic_obsidian",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.12706157565116882,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "grimoireofgaia:weapon_book_wither",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "eerieentities:pumpkin_surprised",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:ancient_battle_axe",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Gem": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "swingStartCooldownState": {
+              "nbtType": "float",
+              "nbt": 1.0
+            },
+            "swingStartTicks": {
+              "nbtType": "int",
+              "nbt": 32535
+            },
+            "longSwingState": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "hitCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:ancient_greatsword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Gem": {
+              "nbtType": "int",
+              "nbt": 2
+            },
+            "swingStartCooldownState": {
+              "nbtType": "float",
+              "nbt": 1.0
+            },
+            "swingStartTicks": {
+              "nbtType": "int",
+              "nbt": 31668
+            },
+            "longSwingState": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "hitCooldownState": {
+              "nbtType": "float",
+              "nbt": 0.0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.5889394283294678,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "natura:darkwood_bow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "twilightforest:block_and_chain",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "naturalpledge:flarebringer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "hooked:hook",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "aeble:repulsion_belt",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

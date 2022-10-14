@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "rocketboots:rocket_bootsboots"
+    },
+    "title": {
+      "translate": "advancements.flying_sure_is_fun.title"
+    },
+    "description": {
+      "translate": "advancements.flying_sure_is_fun.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "flying_sure_is_fun": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "minecraft:story/smelt_iron"
+}

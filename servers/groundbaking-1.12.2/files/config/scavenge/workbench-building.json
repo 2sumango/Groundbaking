@@ -1,0 +1,705 @@
+{
+	"block_pools" :
+	[	
+		{
+			"name": "Placing a Saw on a Workbench",
+			"type":
+			{
+				"type": "block",
+				"name": "earthworks:block_timber"
+			},
+			"clicktype": "right",
+			"properties":
+			[
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "artisanworktables:artisans_handsaw_wood",
+						"amount": 1						
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_stone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_iron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_gold",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_diamond",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_flint",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_bone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_aluminum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_bronze",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_constantan",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_copper",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_electrum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_invar",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_lead",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_nickel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_platinum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_silver",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_steel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_tin",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_osmium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_boron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_toughalloy",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_carbon",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_boronnitride",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_manasteel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_elementium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_terrasteel",
+						"amount": 1
+						}
+					]
+				},	
+				{
+										"type": "consume_item",
+					"amount": 1
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:block.wood.place",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "100",
+					"speed": 0.015,
+					"partical_args": [5]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "earthworks:block_timber_acacia"
+				}
+			]
+		},
+		{
+			"name": "Placing a Saw on a Workbench that has a Hammer on it",
+			"type":
+			{
+				"type": "block",
+				"name": "earthworks:block_timber_birch"
+			},
+			"clicktype": "right",
+			"properties":
+			[
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "artisanworktables:artisans_handsaw_wood",
+						"amount": 1						
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_stone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_iron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_gold",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_diamond",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_flint",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_bone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_aluminum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_bronze",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_constantan",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_copper",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_electrum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_invar",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_lead",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_nickel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_platinum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_silver",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_steel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_tin",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_osmium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_boron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_toughalloy",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_carbon",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_boronnitride",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_manasteel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_elementium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_handsaw_terrasteel",
+						"amount": 1
+						}
+					]
+				},	
+				{
+										"type": "consume_item",
+					"amount": 1
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:block.wood.place",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "100",
+					"speed": 0.015,
+					"partical_args": [5]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:crafting_table"
+				}
+			]
+		},
+		{
+			"name": "Placing a Hammer on a Workbench",
+			"type":
+			{
+				"type": "block",
+				"name": "earthworks:block_timber"
+			},
+			"clicktype": "right",
+			"properties":
+			[
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "artisanworktables:artisans_hammer_wood",
+						"amount": 1						
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_stone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_iron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_gold",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_diamond",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_flint",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_bone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_aluminum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_bronze",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_constantan",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_copper",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_electrum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_invar",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_lead",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_nickel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_platinum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_silver",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_steel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_tin",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_osmium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_boron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_toughalloy",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_carbon",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_boronnitride",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_manasteel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_elementium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_terrasteel",
+						"amount": 1
+						}
+					]
+				},	
+				{
+										"type": "consume_item",
+					"amount": 1
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:block.wood.place",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "100",
+					"speed": 0.015,
+					"partical_args": [5]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "earthworks:block_timber_birch"
+				}
+			]
+		},
+		{
+			"name": "Placing a Hammer on a Workbench that has a Saw on it",
+			"type":
+			{
+				"type": "block",
+				"name": "earthworks:block_timber_acacia"
+			},
+			"clicktype": "right",
+			"properties":
+			[
+				{
+					"type": "require_item_list",
+					"items":
+					[
+						{
+						"name": "artisanworktables:artisans_hammer_wood",
+						"amount": 1						
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_stone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_iron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_gold",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_diamond",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_flint",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_bone",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_aluminum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_bronze",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_constantan",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_copper",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_electrum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_invar",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_lead",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_nickel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_platinum",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_silver",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_steel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_tin",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_osmium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_boron",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_toughalloy",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_carbon",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_boronnitride",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_manasteel",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_elementium",
+						"amount": 1
+						},
+						{
+						"name": "artisanworktables:artisans_hammer_terrasteel",
+						"amount": 1
+						}
+					]
+				},	
+				{
+										"type": "consume_item",
+					"amount": 1
+				},	
+				{
+					"type": "swing_hand"
+				},							
+				{
+					"type": "clicks_per_time",
+					"tabs": 1,
+					"time": 20,
+					"amount": 1
+				},
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_pollinate",                                
+                    "category": "master",
+                    "volume": 0.15,
+                    "pitch": 1.0
+				},				
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "minecraft:block.wood.place",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "play_sound",
+                    "disableJEI": "true",
+                    "name": "futuremc:bee_enter_hive",                                
+                    "category": "master",
+                    "volume": 0.42,
+                    "pitch": 1.0
+				},								
+				{
+					"type": "spawn_particles",
+					"name": "blockcrack",
+					"amount": "100",
+					"speed": 0.015,
+					"partical_args": [5]
+				},
+				{
+					"type": "consume_block",
+					"chance": 100.0,					
+					"name": "minecraft:crafting_table"
+				}
+			]
+		}
+	]
+}

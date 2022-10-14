@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "naturaldecormod:blocks/flower_rose",
+    "particle": "naturaldecormod:blocks/flower_rose"
+  }
+}

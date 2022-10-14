@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:buttercup"
+    },
+    {
+      "item": "naturaldecormod:buttercup"
+    },
+    {
+      "item": "naturaldecormod:buttercup"
+    },
+    {
+      "item": "naturaldecormod:buttercup"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:buttercupbundle",
+    "count": 3
+  }
+}

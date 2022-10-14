@@ -1,0 +1,17 @@
+{
+  "sortnum": 15,
+  "name": "Radiozinho",
+  "icon": "touhou_little_maid:portable_audio",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:portable_audio",
+      "text": "O Radiozinho pode ser pego pela maid, botão direito para abrir a interface, tocar música em rede, e sincronizar com os jogadores dentro de 96 blocos. $(br2)Atualmente só a NetEase Cloud Music é suportada, futuramente iremos adicionar suporte para mais sites de música."
+    },
+    {
+      "type": "text",
+      "text": "Lista de reprodução de áudios podem ser adicionadas por meio do pacote de recursos, mas você precisa reiniciar o jogo para carregar essas listas de reprodução.$(br2) O áudio pode ser desativado modificando nas configurações ou você pode silenciá-lo ajustando o volume do jogo."
+    }
+  ]
+}

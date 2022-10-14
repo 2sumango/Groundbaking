@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "layer2": "tconstruct:items/bolt/fletching",        
+        "layer1": "tconstruct:items/bolt/head",        
+        "layer0": "tconstruct:items/bolt/shaft"
+    }
+}

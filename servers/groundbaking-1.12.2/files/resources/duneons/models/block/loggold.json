@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/log",
+  "textures": {
+    "all": "duneons:blocks/log",
+    "particle": "duneons:blocks/log",
+    "0": "duneons:blocks/log"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:chain"
+    },
+    "2": {
+      "item": "duneons:chain"
+    },
+    "4": {
+      "item": "duneons:chain"
+    }
+  },
+  "result": {
+    "item": "duneons:chainfly",
+    "count": 1
+  }
+}

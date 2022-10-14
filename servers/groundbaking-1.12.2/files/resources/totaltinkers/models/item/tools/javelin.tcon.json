@@ -1,0 +1,35 @@
+{
+  "textures": {
+    "layer0": "totaltinkers:item/javelin/javelin_accessory",
+    "layer1": "totaltinkers:item/javelin/javelin_head",
+    "layer2": "totaltinkers:item/javelin/javelin_handle",
+    "broken1": "totaltinkers:item/javelin/javelin_head"
+  },
+  "display": {      
+    "gui": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 1.5, 4.5, 0 ],
+        "scale": [ 1.575, 1.575, 1.575 ]
+    },        
+    "firstperson_righthand": {
+        "rotation": [ -31, 115, 46 ],
+        "translation": [ -3, -1, -18 ],
+        "scale": [ 3.12, 3.12, 1.8 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 111, -106.5, 111 ],
+        "translation": [ -3, -1, -18 ],
+        "scale": [ 2.95, 2.95, 2.0 ]
+    },        
+    "thirdperson_righthand": {
+        "rotation": [ -80, 270, -40 ],
+        "translation": [ -0.65, 4.3, 1.37 ],
+        "scale": [ 2.5, 2.5, 0.7 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ -80, -270, 40 ],
+        "translation": [ -0.65, 3.5, 1.35 ],
+        "scale": [ 2.5, 2.5, 0.7 ]
+    }          
+}
+}

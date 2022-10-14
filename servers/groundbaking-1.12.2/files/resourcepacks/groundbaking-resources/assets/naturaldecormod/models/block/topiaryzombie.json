@@ -1,0 +1,8 @@
+{
+  "parent": "naturaldecormod:custom/hedgezombie",
+  "textures": {
+    "all": "naturaldecormod:blocks/ushtem",
+    "particle": "naturaldecormod:blocks/ushtem",
+    "HedgeZombie": "naturaldecormod:blocks/edgeombieoles"
+  }
+}

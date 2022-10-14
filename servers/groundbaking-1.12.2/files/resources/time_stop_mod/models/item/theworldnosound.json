@@ -1,0 +1,140 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "textures": {
+      "globe_front": "time_stop_mod:globe/globe_front",
+      "globe_rim": "time_stop_mod:globe/globe_rim",
+      "globe_east": "time_stop_mod:globe/globe_east",
+      "globe_upfaces": "time_stop_mod:globe/globe_upfaces",
+      "globe_west": "time_stop_mod:globe/globe_west"
+  },
+  "display": {
+      "gui": {
+          "rotation": [ 30, 45, 0 ],
+          "translation": [ 0, -1, 0 ],
+          "scale": [ 0.52, 0.475, 0.475 ]
+      },
+      "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 0, 3, 0 ],
+          "scale": [ 1.25, 1.25, 1.25 ]
+      },
+      "fixed": {
+          "rotation": [ 360, 270, 0 ],
+          "translation": [ 0, -8, -5 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "head": {
+          "rotation": [ 0, 270, 0 ],
+          "translation": [ 0, -6, 0 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "firstperson_righthand": {
+          "rotation": [ 47, 290, 0 ],
+          "translation": [ -2, 2.5, 0 ],
+          "scale": [ 0.4, 0.4, 0.4 ]
+      },
+      "thirdperson_righthand": {
+          "rotation": [ 75, 315, 0 ],
+          "translation": [ 0, 2.5, 0 ],
+          "scale": [ 0.375, 0.375, 0.375 ]
+      }
+  },
+  "elements": [
+      {
+          "name": "Cube",
+          "from": [ 1, 0, 1 ], 
+          "to": [ 3, 2, 15 ], 
+          "faces": {
+              "north": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 2 ] },
+              "east": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "south": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 2 ] },
+              "west": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "up": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 14 ] },
+              "down": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 14 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 3, 0, 1 ], 
+          "to": [ 13, 2, 3 ], 
+          "faces": {
+              "north": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] },
+              "south": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] },
+              "up": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] },
+              "down": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 13, 0, 1 ], 
+          "to": [ 15, 2, 15 ], 
+          "faces": {
+              "north": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 2 ] },
+              "east": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "south": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 2 ] },
+              "west": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "up": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 14 ] },
+              "down": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 14 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 3, 0, 13 ], 
+          "to": [ 13, 2, 15 ], 
+          "faces": {
+              "north": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] },
+              "south": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] },
+              "up": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] },
+              "down": { "texture": "#globe_rim", "uv": [ 0, 0, 10, 2 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 0, 8, 0 ], 
+          "to": [ 16, 24, 16 ], 
+          "faces": {
+              "north": { "texture": "#globe_front", "uv": [ 0, 0, 16, 16 ] },
+              "east": { "texture": "#globe_east", "uv": [ 0, 0, 16, 16 ] },
+              "south": { "texture": "#globe_front", "uv": [ 0, 0, 16, 16 ] },
+              "west": { "texture": "#globe_west", "uv": [ 0, 0, 16, 16 ] },
+              "up": { "texture": "#globe_upfaces", "uv": [ 0, 0, 16, 16 ] },
+              "down": { "texture": "#globe_upfaces", "uv": [ 0, 0, 16, 16 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 15, 0, 5 ], 
+          "to": [ 17, 26, 11 ], 
+          "faces": {
+              "north": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 16 ] },
+              "east": { "texture": "#globe_rim", "uv": [ 5, 0, 9, 16 ] },
+              "south": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 16 ] },
+              "west": { "texture": "#globe_rim", "uv": [ 0, 0, 6, 16 ] },
+              "up": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 6 ] },
+              "down": { "texture": "#globe_rim", "uv": [ 0, 0, 2, 6 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 1, 24, 5 ], 
+          "to": [ 15, 26, 11 ], 
+          "faces": {
+              "north": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "south": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "west": { "texture": "#globe_rim", "uv": [ 0, 0, 6, 2 ] },
+              "up": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 6 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 1, 6, 5 ], 
+          "to": [ 15, 8, 11 ], 
+          "faces": {
+              "north": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "south": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 2 ] },
+              "west": { "texture": "#globe_rim", "uv": [ 0, 0, 6, 2 ] },
+              "down": { "texture": "#globe_rim", "uv": [ 0, 0, 14, 6 ] }
+          }
+      }
+  ]
+}

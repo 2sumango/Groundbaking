@@ -1,0 +1,80 @@
+{
+  "beachBiomeLocation": "minecraft:beaches",
+  "generators": {
+    "glowshrooms": {
+      "with": {
+        "block": "biomesoplenty:mushroom",
+        "properties": {
+          "variant": "glowshroom"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 1.5,
+      "enable": true
+    },
+    "miners_delight": {
+      "with": {
+        "block": "minecraft:leaves",
+        "properties": {
+          "decayable": false,
+          "variant": "oak"
+        }
+      },
+      "generationAttempts": 64,
+      "amountPerChunk": 0.25,
+      "enable": true
+    },
+    "grass": {
+      "amountPerChunk": 1.3,
+      "enable": true,
+      "generators": {}
+    },
+    "amber": {
+      "minHeight": 4,
+      "with": {
+        "block": "biomesoplenty:gem_ore",
+        "properties": {
+          "variant": "amber"
+        }
+      },
+      "amountPerChunk": 12.0,
+      "maxHeight": 32,
+      "enable": true
+    },
+    "roots": {
+      "with": {
+        "block": "biomesoplenty:plant_1",
+        "properties": {
+          "variant": "root"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 4.0,
+      "enable": true
+    },
+    "toadstools": {
+      "with": {
+        "block": "minecraft:sapling",
+        "properties": {
+          "stage": "1",
+          "type": "dark_oak"
+        }
+      },
+      "generationAttempts": 16,
+      "amountPerChunk": 2.8,
+      "enable": true
+    },
+    "bushes": {
+      "with": {
+        "block": "minecraft:leaves",
+        "properties": {
+          "decayable": false,
+          "variant": "oak"
+        }
+      },
+      "generationAttempts": 22,
+      "amountPerChunk": 2.8,
+      "enable": false
+    }    
+  }
+}

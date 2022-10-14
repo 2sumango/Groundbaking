@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/crystals",
+  "textures": {
+    "all": "duneons:blocks/siniy_kristal",
+    "particle": "duneons:blocks/siniy_kristal",
+    "0": "duneons:blocks/siniy_kristal"
+  }
+}

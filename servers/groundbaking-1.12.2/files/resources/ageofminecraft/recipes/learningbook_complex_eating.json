@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+        {
+            "item": "ageofminecraft:learningbook_complex"
+        },
+		{
+            "type": "forge:ore_dict",
+            "ore": "cropBeetroot"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "cropBeetroot"
+        },
+        {
+            "item": "minecraft:bread"
+        }
+    ],
+	"result": {
+		"item": "ageofminecraft:learningbook_complex_dieting",
+        "count": 1,
+        "data": 0
+	}
+}

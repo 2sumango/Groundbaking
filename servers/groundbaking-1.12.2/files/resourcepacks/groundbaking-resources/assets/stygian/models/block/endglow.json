@@ -1,0 +1,9 @@
+{
+    "parent": "stygian:custom/bushmodel",
+    "textures": {
+      "all": "stygian:block/ush",
+      "particle": "stygian:block/ush",
+      "Bush": "stygian:block/ush",
+      "BushReversed": "stygian:block/usheversed"
+    }
+  }

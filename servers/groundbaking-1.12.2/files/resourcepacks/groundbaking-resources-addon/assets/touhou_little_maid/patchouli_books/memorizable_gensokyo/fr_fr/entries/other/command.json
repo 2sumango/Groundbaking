@@ -1,0 +1,16 @@
+{
+  "sortnum": 7,
+  "name": "Commande",
+  "icon": "minecraft:command_block",
+  "category": "other",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(#f00)/hata reload$() Recharge toutes les textures du Hata$(br)$(#f00)/maid_res reload$() Recharger le pack de ressources de maid. Cette commande ne recharge pas complètement certaines ressources. Il est recommandé d'utiliser le raccourci F3+T.$(br)$(#f00)/draw_coupon reload$() Recharger le coupon Gashapon.$(br)$(#f00)/spell_card reload$() Recharger toutes les données de la carte de sort."
+    },
+    {
+      "type": "text",
+      "text": "$(#f00)/touhou_little_maid power$() Définir la valeur de puissance du joueur$(br)$(#f00)/touhou_little_maid maid_num$() Définir le numéro de maid du joueur"
+    }
+  ]
+}

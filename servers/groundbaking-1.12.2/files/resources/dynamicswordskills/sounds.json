@@ -1,0 +1,14 @@
+{
+    "armor_break": {"category": "player","sounds": ["dynamicswordskills:sword/armorbreak1","dynamicswordskills:sword/armorbreak2","dynamicswordskills:sword/armorbreak3"]},
+    "leaping_blow": {"category": "player","sounds": ["dynamicswordskills:sword/leapingblow1","dynamicswordskills:sword/leapingblow2","dynamicswordskills:sword/leapingblow3"]},
+    "hurt_flesh": {"category": "player","sounds": ["dynamicswordskills:sword/hurtflesh1","dynamicswordskills:sword/hurtflesh2","dynamicswordskills:sword/hurtflesh3"]},
+    "mortal_draw": {"category": "player","sounds": ["dynamicswordskills:sword/mortaldraw1","dynamicswordskills:sword/mortaldraw2"]},
+    "slam": {"category": "player","sounds": ["dynamicswordskills:sword/slam1","dynamicswordskills:sword/slam2","dynamicswordskills:sword/slam3"]},
+    "spin_attack": {"category": "player","sounds": ["dynamicswordskills:sword/spinattack1","dynamicswordskills:sword/spinattack2","dynamicswordskills:sword/spinattack3"]},
+    "sword_cut": {"category": "player","sounds": ["dynamicswordskills:sword/swordcut1","dynamicswordskills:sword/swordcut2","dynamicswordskills:sword/swordcut3","dynamicswordskills:sword/swordcut4"]},
+    "sword_miss": {"category": "player","sounds": ["dynamicswordskills:sword/swordmiss1","dynamicswordskills:sword/swordmiss2","dynamicswordskills:sword/swordmiss3","dynamicswordskills:sword/swordmiss4"]},
+    "sword_strike": {"category": "player","sounds": ["dynamicswordskills:sword/swordstrike1","dynamicswordskills:sword/swordstrike2","dynamicswordskills:sword/swordstrike3","dynamicswordskills:sword/swordstrike4"]},
+    "whoosh": {"category": "player","sounds": ["dynamicswordskills:sword/whoosh"]},
+    "level_up": {"category": "player","sounds":["dynamicswordskills:special/levelup"]},
+    "special_drop": {"category": "player","sounds":["dynamicswordskills:special/special_drop"]}
+}

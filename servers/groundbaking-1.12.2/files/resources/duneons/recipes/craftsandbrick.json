@@ -1,0 +1,32 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:sandbrick"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "duneons:sandbrick"
+    },
+    "3": {
+      "item": "duneons:sandbrick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "duneons:sandbrick"
+    }
+  },
+  "result": {
+    "item": "duneons:sandbrickfence",
+    "count": 16
+  }
+}

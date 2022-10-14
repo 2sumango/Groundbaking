@@ -1,0 +1,116 @@
+{
+	"name" : "fiesta:theme",
+	"themes" : [
+		{
+			"level" : 0,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "tconstruct:brownstone", "meta" : 3}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "tconstruct:brownstone", "meta" : 10}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "tconstruct:brownstone", "meta" : 10}, "weight" : 7},
+						{"type" : "METABLOCK", "data" : {"name" : "tconstruct:brownstone", "meta" : 2}, "weight" : 10},
+						{"type" : "METABLOCK", "data" : {"name" : "tconstruct:brownstone", "meta" : 9}, "weight" : 7},
+						{"type" : "METABLOCK", "data" : {"name" : "tconstruct:brownstone", "meta" : 10}, "weight" : 1}
+					]
+				},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy1", "meta" : 12}, "weight" : 2},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"}},
+				"door" : {"name" : "thebetweenlands:giant_root_plank_door"}				
+			},
+			"secondary" : {
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:planks_0", "meta" : 15}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:log_3", "meta" : 7}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"}}
+			}
+		},
+		{
+			"level" : 1,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 2}, "weight" : 4}
+					]
+				},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"}},
+				"door" : {"name" : "thebetweenlands:giant_root_plank_door"}
+			},
+			"secondary" : {
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:planks_0", "meta" : 15}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:log_3", "meta" : 7}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"}}
+			}
+		},
+		{
+			"level" : 2,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "botania:biomestonea", "meta" : 4}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "botania:biomestoneb", "meta" : 4}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "botania:biomestoneb", "meta" : 12}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "botania:biomestonea", "meta" : 12}, "weight" : 3}
+					]
+				},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"}},
+				"door" : {"name" : "thebetweenlands:giant_root_plank_door"}
+			}
+		},
+		{
+			"level" : 3,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "monster_egg", "meta" : 1}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "monster_egg", "meta" : 3}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy", "meta" : 2}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestonemossy"}, "weight" : 4}
+					]
+				},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"}},
+				"door" : {"name" : "thebetweenlands:giant_root_plank_door"}
+			}
+		},
+		{
+			"level" : 4,
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3},
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3}
+					]
+				},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "biomesoplenty:mud_brick_stairs"},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "chisel:cobblestone", "meta" : 9}, "weight" : 3}
+				}
+			}
+		}
+	]
+}

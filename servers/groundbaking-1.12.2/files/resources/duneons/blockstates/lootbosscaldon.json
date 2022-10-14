@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:lootbosscaldon"
+    },
+    "facing=north": {
+      "model": "duneons:lootbosscaldon"
+    },
+    "facing=east": {
+      "model": "duneons:lootbosscaldon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:lootbosscaldon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:lootbosscaldon",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sortnum": 21,
+  "name": "Interface de Configuração de Sorteio",
+  "icon": "minecraft:writable_book",
+  "category": "other",
+  "pages": [
+    {
+      "type": "text",
+      "text": "O sistema de distribuição de pacotes de recursos do servidor permite que cada jogador que entrar no servidor instale à força o modelo adicional de maid do servidor. $(br2)Com a interface de configuração de desenho visual, podemos restringir de forma rápida e fácil a aquisição de modelos de aparência da maid."
+    },
+    {
+      "type": "text",
+      "text": "Depois que o modelo de seu cliente for totalmente compatível com o servidor, e o servidor tiver ativado a opção \"Não é possível mudar a aparência da maid\", você pode abrir a guia de configuração de sorteio através do comando /draw gui, e a guia de configuração obterá ativamente todas as maids a partir dos dados do modelo do servidor.$(br2)Então você pode modificar rapidamente a probabilidade e o peso. Clique no botão para salvar ou salve e recarregue."
+    }
+  ]
+}

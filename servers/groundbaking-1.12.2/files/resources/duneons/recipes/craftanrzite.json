@@ -1,0 +1,43 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 5
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 5
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 5
+    },
+    "4": {
+      "item": "minecraft:stone",
+      "data": 5
+    },
+    "6": {
+      "item": "minecraft:stone",
+      "data": 5
+    },
+    "7": {
+      "item": "minecraft:stone",
+      "data": 5
+    },
+    "8": {
+      "item": "minecraft:stone",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "duneons:andesitecolumn",
+    "count": 1
+  }
+}

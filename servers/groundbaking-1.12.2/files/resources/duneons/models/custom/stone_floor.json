@@ -1,0 +1,145 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "stone-flooor",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        15,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            1,
+            16,
+            15.999
+          ],
+          "texture": "#1"
+        },
+        "east": {
+          "uv": [
+            0,
+            1,
+            16,
+            15.999
+          ],
+          "texture": "#1"
+        },
+        "south": {
+          "uv": [
+            0,
+            1,
+            16,
+            15.999
+          ],
+          "texture": "#1"
+        },
+        "west": {
+          "uv": [
+            0,
+            1,
+            16,
+            15.999
+          ],
+          "texture": "#1"
+        },
+        "up": {
+          "uv": [
+            0,
+            1,
+            16,
+            15.999
+          ],
+          "texture": "#1"
+        },
+        "down": {
+          "uv": [
+            0,
+            1,
+            16,
+            15.999
+          ],
+          "texture": "#1"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [
+        0.17,
+        0.17,
+        0.16
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.17,
+        0.17,
+        0.17
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        8.75,
+        0,
+        1.25
+      ],
+      "translation": [
+        2,
+        0.25,
+        0
+      ],
+      "scale": [
+        0.42,
+        0.45,
+        0.39
+      ]
+    },
+    "firstperson_lefthand": {
+      "scale": [
+        0.42,
+        0.45,
+        0.39
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.26,
+        0.27,
+        0.29
+      ]
+    },
+    "gui": {
+      "rotation": [
+        25.5,
+        -37.25,
+        0
+      ],
+      "translation": [
+        0,
+        -1,
+        0
+      ],
+      "scale": [
+        0.43,
+        0.42,
+        0.43
+      ]
+    },
+    "fixed": {
+      "scale": [
+        0.53,
+        0.52,
+        0.5
+      ]
+    }
+  }
+}

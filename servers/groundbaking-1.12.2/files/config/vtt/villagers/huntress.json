@@ -1,0 +1,10 @@
+{
+	profession: {
+		name: "vtt:huntress",
+		texture: "vtt:textures/entity/villager/huntress.png",
+		zombieTexture: "vtt:textures/entity/villager/huntress.png"
+	},
+	careers: [
+		"huntress"
+	]
+}

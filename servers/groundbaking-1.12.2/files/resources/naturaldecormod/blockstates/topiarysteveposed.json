@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:topiarysteveposed"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:topiarysteveposed"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:topiarysteveposed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:topiarysteveposed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:topiarysteveposed",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/magic_wand",
+  "textures": {
+    "0": "duneons:blocks/magic_wand_new"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:stonebricker"
+    },
+    "facing=north": {
+      "model": "duneons:stonebricker"
+    },
+    "facing=east": {
+      "model": "duneons:stonebricker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:stonebricker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:stonebricker",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:firepumkin"
+    },
+    "facing=north": {
+      "model": "duneons:firepumkin"
+    },
+    "facing=east": {
+      "model": "duneons:firepumkin",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:firepumkin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:firepumkin",
+      "y": 270
+    }
+  }
+}

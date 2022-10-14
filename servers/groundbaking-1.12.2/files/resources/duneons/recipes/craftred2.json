@@ -1,0 +1,27 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:carpet",
+      "data": 14
+    },
+    "3": {
+      "item": "minecraft:gold_nugget"
+    },
+    "4": {
+      "item": "minecraft:gold_nugget"
+    },
+    "5": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "duneons:redgoldvangard",
+    "count": 1
+  }
+}

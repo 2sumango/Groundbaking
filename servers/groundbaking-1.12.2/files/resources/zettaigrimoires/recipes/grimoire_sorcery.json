@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern": [
+    "GCF",
+    "CAC",
+    "SCT"
+  ],
+
+  "key": {
+    "A": {
+      "item": "zettaigrimoires:empty_grimoire"
+    },
+    "C": {
+      "item": "ebwizardry:crystal_block",
+      "data": 6
+    },
+    "G": {
+      "item": "minecraft:ender_pearl"
+    },
+    "F": {
+      "item": "minecraft:ender_chest"
+    },
+    "S": {
+      "item": "ebwizardry:spectral_dust",
+      "data": 6
+    },
+    "T": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "zettaigrimoires:grimoire_sorcery",
+    "count": 1
+  }
+}

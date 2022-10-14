@@ -1,0 +1,76 @@
+{
+    "textures": {
+        "layer0": "tconstruct:items/battlesign/head",
+        "layer1": "tconstruct:items/battlesign/handle",
+        "broken1": "tconstruct:items/battlesign/head"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 1.84, -2, 1],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 1.84, -2, 1],
+            "scale": [ 1.2, 1.2, 1.2 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -42, -75, 0 ],
+            "translation": [ 2.00, -4.00, -3 ],
+            "scale": [ 0.83, 0.83, 0.83 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -42, -75, 0 ],
+            "translation": [ 2.00, -4.00, -3 ],
+            "scale": [ 0.83, 0.83, 0.83 ]
+        },
+        "gui": {
+			"rotation": [ 15, -25, -5 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.95, 0.95, 0.95 ]
+		},
+		"head": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0.00, 0.00, 0.00 ],
+			"scale": [ 1.00, 1.00, 1.00 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0.00, 0.00, 0.00 ],
+			"scale": [ 1.00, 1.00, 1.00 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0.00, 3.00, 0.00 ],
+			"scale": [ 0.75, 0.75, 0.75 ]
+		}
+    },
+    "overrides": {
+        "predicate": {
+            "blocking": 1
+        },
+        "display": {
+            "thirdperson_righthand": {
+                "rotation": [ 0, 90, 0 ],
+                "translation": [ 1.84, -2, 1 ],
+                "scale": [ 1.2, 1.2, 1.2 ]
+            },
+            "thirdperson_lefthand": {
+                "rotation": [ 0, 90, 0 ],
+                "translation": [ 1.84, -2, 1 ],
+                "scale": [ 1.2, 1.2, 1.2 ]
+            },
+            "firstperson_righthand": {
+                "rotation": [ 0, 0, 20 ],
+                "translation": [ -6.00, 0.00, 1.00 ],
+                "scale": [ 0.83, 0.83, 0.83 ]
+            },
+            "firstperson_lefthand": {
+                "rotation": [ 0, 0, 20 ],
+                "translation": [ -6.00, 0.00, 1.00 ],
+                "scale": [ 0.83, 0.83, 0.83 ]
+            }
+        }
+    }
+}

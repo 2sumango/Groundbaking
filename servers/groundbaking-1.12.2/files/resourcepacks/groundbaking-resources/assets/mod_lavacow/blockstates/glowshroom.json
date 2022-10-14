@@ -1,0 +1,13 @@
+{
+    "forge_marker": 1,
+     "defaults": {
+        "model": "mod_lavacow:glowshroom",
+        "uvlock": true
+    },
+    "variants": {
+        "normal": [{ }],
+        "inventory": [{"model": "mod_lavacow:glowshroom_s"}],
+	    "stage=0":[{ }],
+	    "stage=1":[{ }]
+    }
+}

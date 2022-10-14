@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "aether:therawood_planks"
+		}
+	},
+	"result": {
+		"item": "aether:therawood_slab",
+		"data": 0,
+		"count": 6
+	}
+}

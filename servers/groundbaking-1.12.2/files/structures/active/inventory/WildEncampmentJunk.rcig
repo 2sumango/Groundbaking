@@ -1,0 +1,887 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "camploot",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:chain",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "quark:chain",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:coal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:coal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "minecraft:apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:apple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "harvestcraft:turnipitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:beetroot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:feather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:feather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "minecraft:arrow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "minecraft:arrow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "minecraft:arrow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "metallurgy:copper_dust",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "harvestcraft:tomatoitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 7.574109476990998E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_shears_bronze",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_wood",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.028885602951049805,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_aluminum",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_shears_aluminum",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0403180830180645,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_carver_nickel",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.028885602951049805,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_carver_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.028885602951049805,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_carver_aluminum",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0403180830180645,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_sifter_bronze",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_sifter_lead",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_sifter_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_bronze",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_copper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_burner_lead",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0403180830180645,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_burner_bronze",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_burner_boronnitride",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.028885602951049805,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_burner_constantan",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_cutters_bronze",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_cutters_stone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_cutters_nickel",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0403180830180645,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_bronze",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0403180830180645,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_bone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_silver",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_hammer_invar",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_groover_electrum",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_grimoire_nickel",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0472542829811573,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_grimoire_tin",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "artisanworktables:artisans_grimoire_boronnitride",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "aether:bandage",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.23224952816963196,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "aether:bandage",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "aether:splint",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "immersiveengineering:material",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "immersiveengineering:material",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "immersiveengineering:material",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "immersiveengineering:material",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "immersiveengineering:material",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "earthworks:item_timber",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:dye",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "quark:root_flower",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "quark:root_flower",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "quark:root_flower",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "rootsclassic:acaciatreebark",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "rootsclassic:acaciatreebark",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "simplytea:teabag",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "simplytea:teabag_black",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "rootsclassic:pestle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "rootsclassic:nightshade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "rootsclassic:darkoaktreebark",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wheat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wheat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wheat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:wheat",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

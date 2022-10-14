@@ -1,0 +1,44 @@
+# ----------------------------------------------------------- #
+# ########################################################### #
+#              ### honey_comb_caverns.cave Info ###           #
+# ########################################################### #
+#   This preset demonstrates a slightly more advanced use of  #
+# the caverns feature. It is used in this preset to produce   #
+# tunnel-like caves using cellular or voronoi noise           #
+# generation. For more information on using noise3D blocks,   # 
+# see vanilla.cave.                                           #
+# ----------------------------------------------------------- #
+{
+  imports: [
+    defaults.cave::caveBlocks as LAVA_CAVE_BLOCK
+  ]
+  enabled: true
+  biomes: {
+    # A list of registry names.
+    names: [ "biomesoplenty:brushland", "biomesoplenty:shrubland", "minecraft:savanna" ]
+    # A list of biome IDs.
+    IDs: []
+    # A list of Biome types.
+    types: []
+  }
+  caverns: {
+    enabled: true # Removed in 1.0. You can delete this field.
+    height: [ 5, 52 ]
+    generators: {
+      frequency: 0.01
+      type: Cellular
+      returnType: Distance3Div
+      jitter: 0
+      perturb: true
+      perturbAmp: 12
+      perturbFreq: 0.01
+      invert: true
+      threshold: -0.6
+      stretch: 0.23
+    }
+  }
+  # Default lava.
+  caveBlocks: $LAVA_CAVE_BLOCK
+  # Whether to treat the biome list as a blacklist.
+  blacklistBiomes: false
+}

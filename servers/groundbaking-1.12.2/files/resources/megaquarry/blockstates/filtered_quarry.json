@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "chest_top": "megaquarry:blocks/gromper/chest_top",
+            "chest_overlay": "megaquarry:blocks/gromper/chest_overlay",
+            "chest_side": "megaquarry:blocks/gromper/chest_side",
+            "gromper": "megaquarry:blocks/gromper/gromper"
+        }
+    },
+    "variants": {
+        "normal": {
+            "model": "megaquarry:quarry"
+        },
+        "inventory": {
+            "model": "megaquarry:quarry"
+        }
+    }
+}

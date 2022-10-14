@@ -1,0 +1,26 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 1
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 5
+    },
+    {
+      "item": "minecraft:stone",
+      "data": 3
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:outdoorflooring",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:rottedpumpkintop"
+    },
+    "facing=north": {
+      "model": "duneons:rottedpumpkintop"
+    },
+    "facing=east": {
+      "model": "duneons:rottedpumpkintop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:rottedpumpkintop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:rottedpumpkintop",
+      "y": 270
+    }
+  }
+}

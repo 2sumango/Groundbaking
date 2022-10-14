@@ -1,0 +1,16 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:cactuslog"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:cactusplanks",
+    "count": 4
+  }
+}

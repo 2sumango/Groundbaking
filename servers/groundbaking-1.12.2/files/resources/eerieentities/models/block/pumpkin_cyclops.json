@@ -1,0 +1,95 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "features": "eerieentities:blocks/armor/fox_helmet/features",
+        "side": "eerieentities:blocks/armor/fox_helmet/side_r",
+        "top": "eerieentities:blocks/armor/fox_helmet/top",
+        "bottom": "eerieentities:blocks/armor/fox_helmet/bottom",
+        "side_l": "eerieentities:blocks/armor/fox_helmet/side_l",
+        "back": "eerieentities:blocks/armor/fox_helmet/back",
+        "front": "eerieentities:blocks/armor/fox_helmet/front"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 28, 45, 0 ],
+            "translation": [ -1, 2, 0 ],
+            "scale": [ 0.825, 0.825, 0.825 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 3.45, 0 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "head",
+            "from": [ 3, 0, 3 ], 
+            "to": [ 13, 10, 14 ], 
+            "faces": {
+                "north": { "texture": "#back", "uv": [ 3, 0, 13, 10 ] },
+                "east": { "texture": "#side_l", "uv": [ 0, 0, 11, 10 ] },
+                "south": { "texture": "#front", "uv": [ 3, 0, 13, 10 ] },
+                "west": { "texture": "#side", "uv": [ 5, 0, 16, 10 ] },
+                "up": { "texture": "#top", "uv": [ 3, 0, 13, 11 ] },
+                "down": { "texture": "#bottom", "uv": [ 3, 0, 13, 11 ] }
+            }
+        },
+        {
+            "name": "snout",
+            "from": [ 6, 4, 14 ], 
+            "to": [ 10, 7, 18 ], 
+            "faces": {
+                "east": { "texture": "#features", "uv": [ 8, 4, 12, 7 ] },
+                "south": { "texture": "#features", "uv": [ 4, 4, 8, 7 ] },
+                "west": { "texture": "#features", "uv": [ 0, 4, 4, 7 ] },
+                "up": { "texture": "#features", "uv": [ 4, 0, 8, 4 ] },
+                "down": { "texture": "#features", "uv": [ 8, 0, 12, 4 ] }
+            }
+        },
+        {
+            "name": "ear_r",
+            "from": [ 3, 10, 9 ], 
+            "to": [ 6, 13, 10 ], 
+            "faces": {
+                "north": { "texture": "#features", "uv": [ 0, 13, 3, 16 ] },
+                "east": { "texture": "#features", "uv": [ 0, 13, 1, 16 ] },
+                "south": { "texture": "#features", "uv": [ 0, 13, 3, 16 ] },
+                "west": { "texture": "#features", "uv": [ 0, 13, 1, 16 ] },
+                "up": { "texture": "#features", "uv": [ 0, 13, 3, 14 ] }
+            }
+        },
+        {
+            "name": "ear_l",
+            "from": [ 10, 10, 9 ], 
+            "to": [ 13, 13, 10 ], 
+            "faces": {
+                "north": { "texture": "#features", "uv": [ 0, 13, 3, 16 ] },
+                "east": { "texture": "#features", "uv": [ 0, 13, 1, 16 ] },
+                "south": { "texture": "#features", "uv": [ 0, 13, 3, 16 ] },
+                "west": { "texture": "#features", "uv": [ 0, 13, 1, 16 ] },
+                "up": { "texture": "#features", "uv": [ 0, 13, 3, 14 ] }
+            }
+        }
+    ]
+}

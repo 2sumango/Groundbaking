@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:chainfly"
+    },
+    "facing=north": {
+      "model": "duneons:chainfly"
+    },
+    "facing=east": {
+      "model": "duneons:chainfly",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:chainfly",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:chainfly",
+      "y": 270
+    }
+  }
+}

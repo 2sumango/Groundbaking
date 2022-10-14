@@ -1,0 +1,139 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "particle": "natura:blocks/soft_hive",
+        "hive_swan": "natura:blocks/hive_swan",
+        "soft_hive_top": "natura:blocks/soft_hive_top",
+        "hive_larva_split": "natura:blocks/hive_larva_split",
+        "soft_hive": "natura:blocks/soft_hive"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, -0.5, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#soft_hive", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#soft_hive", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#soft_hive", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#soft_hive", "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#soft_hive_top", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#soft_hive_top", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 15, 7.3, -2.5 ], 
+            "to": [ 16, 12.3, -2.5 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5 },
+            "faces": {
+                "north": { "texture": "#hive_swan", "uv": [ 0, 0, 1, 5 ] },
+                "south": { "texture": "#hive_swan", "uv": [ 0, 0, 1, 5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 10.3, -2.5 ], 
+            "to": [ 15, 12.3, -2.5 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5 },
+            "faces": {
+                "north": { "texture": "#hive_swan", "uv": [ 0, 0, 3, 2 ] },
+                "south": { "texture": "#hive_swan", "uv": [ 0, 0, 3, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 14, 5.3, -2.5 ], 
+            "to": [ 15, 7.3, -2.5 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5 },
+            "faces": {
+                "north": { "texture": "#hive_swan", "uv": [ 0, 0, 1, 2 ] },
+                "south": { "texture": "#hive_swan", "uv": [ 0, 0, 1, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13, 8.3, -2.5 ], 
+            "to": [ 14, 10.3, -2.5 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5 },
+            "faces": {
+                "north": { "texture": "#hive_swan", "uv": [ 0, 0, 1, 2 ] },
+                "south": { "texture": "#hive_swan", "uv": [ 0, 0, 1, 2 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2, 16, 2 ], 
+            "to": [ 14, 21, 14 ], 
+            "faces": {
+                "north": { "texture": "#soft_hive", "uv": [ 0, 0, 12, 5 ] },
+                "east": { "texture": "#soft_hive", "uv": [ 0, 0, 12, 5 ] },
+                "south": { "texture": "#soft_hive", "uv": [ 0, 0, 12, 5 ] },
+                "west": { "texture": "#soft_hive", "uv": [ 0, 0, 12, 5 ] },
+                "up": { "texture": "#soft_hive_top", "uv": [ 0, 0, 12, 12 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ -2.45, -3.7, 0 ], 
+            "to": [ -2.45, 12.3, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5 },
+            "faces": {
+                "east": { "texture": "#hive_larva_split", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#hive_larva_split", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 18.55, -3.7, 0 ], 
+            "to": [ 18.55, 12.3, 16 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 22.5 },
+            "faces": {
+                "east": { "texture": "#hive_larva_split", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#hive_larva_split", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ -0, -3.7, 18.5 ], 
+            "to": [ 16, 12.3, 18.5 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5 },
+            "faces": {
+                "north": { "texture": "#hive_larva_split", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#hive_larva_split", "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

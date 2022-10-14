@@ -1,0 +1,22 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:ropenet"
+    },
+    "1": {
+      "item": "naturaldecormod:ropenet"
+    },
+    "2": {
+      "item": "naturaldecormod:ropenet"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:ropenetslab",
+    "count": 6
+  }
+}

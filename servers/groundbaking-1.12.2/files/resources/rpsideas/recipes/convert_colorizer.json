@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "rpsideas:liquid_colorizer"
+  },
+  "type": "rpsideas:cad_shapeless",
+  "ingredients": [
+    {
+      "type": "rpsideas:cad_component",
+      "component": "dye",
+      "excluded": [{
+        "item": "rpsideas:liquid_colorizer"
+      }, {
+        "item": "rpsideas:empty_colorizer"
+      }, {
+        "item": "rpsideas:cyclic_colorizer"
+      }]
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ]
+}

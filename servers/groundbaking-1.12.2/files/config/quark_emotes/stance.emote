@@ -1,0 +1,13 @@
+name Stance
+
+use left_arm
+use right_arm
+
+animation parallel
+    move left_arm_x 300 -0.54
+    move left_arm_y 300 0.24
+    move left_arm_z 300 0.94
+    move right_arm_z 100 -0.34
+    move right_arm_x 100 -0.94    
+    yoyo 1 100000
+end

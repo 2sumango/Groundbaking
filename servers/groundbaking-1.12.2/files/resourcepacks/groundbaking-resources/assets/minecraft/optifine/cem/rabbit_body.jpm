@@ -1,0 +1,56 @@
+{
+"textureSize": [32, 32],
+"credit": "By DraminOver",
+"scale": 1.6,
+"boxes": 
+	[
+		{
+			"id": "body",
+			"coordinates": [-2, -1.5, -7, 4, 4, 7],
+			"uvEast": [0, 14, 7, 18],
+			"uvNorth": [7, 14, 11, 18],
+			"uvWest": [11, 14, 18, 18],
+			"uvSouth": [18, 14, 22, 18],
+			"uvUp": [11, 14, 7, 7],
+			"uvDown": [10, 0, 7, 4]
+		},
+		{
+			"id": "tail",
+			"coordinates": [-1, -0.5, 0, 2, 2, 1],
+			"uvEast": [15, 12, 16, 14],
+			"uvWest": [18, 12, 19, 14],
+			"uvSouth": [19, 12, 21, 14],
+			"uvUp": [16, 12, 18, 11],
+			"uvDown": [18, 12, 20, 11]
+		}
+	],
+"submodels":
+	[
+		{
+			"textureSize": [32, 32],
+			"scale": 1.41,
+			"boxes": 
+			[
+				{
+					"id": "babyhead",
+					"coordinates": [-1.5, -1.1, -5, 3, 3, 4],
+					"uvEast": [16, 29, 20, 32],
+					"uvNorth": [20, 29, 23, 32],
+					"uvWest": [23, 29, 27, 32],
+					"uvSouth": [27, 29, 30, 32],
+					"uvUp": [23, 29, 20, 25],
+					"uvDown": [26, 25, 23, 29]
+				},
+				{
+					"id": "babytail",
+					"coordinates": [-0.5, -0, -1, 1, 1, 1],
+					"uvEast": [24, 7, 25, 8],
+					"uvSouth": [27, 7, 28, 8],
+					"uvWest": [26, 7, 27, 8],
+					"uvUp": [26, 7, 25, 6],
+					"uvDown": [27, 6, 26, 7]
+				}
+			]
+		}
+	]
+}

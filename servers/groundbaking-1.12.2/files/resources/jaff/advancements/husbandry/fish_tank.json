@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "jaff:tank"
+        },
+        "title": {
+            "translate": "advancements.husbandry.fish_tank.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.fish_tank.description"
+        }
+    },
+    "parent": "jaff:husbandry/jaff_fish",
+    "criteria": {
+        "iron_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "jaff:tank"
+                    }
+                ]
+            }
+        }
+    }
+}

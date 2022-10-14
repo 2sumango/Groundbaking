@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/tentbig",
+  "textures": {
+    "all": "duneons:blocks/tent_new",
+    "particle": "duneons:blocks/tent_new",
+    "0": "duneons:blocks/tent_new"
+  }
+}

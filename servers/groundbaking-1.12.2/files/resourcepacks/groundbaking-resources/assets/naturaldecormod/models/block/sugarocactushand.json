@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/sugarocactushand",
+  "textures": {
+    "all": "naturaldecormod:blocks/uguaroactuside",
+    "particle": "naturaldecormod:blocks/uguaroactuside",
+    "SuguaroCactusTop": "naturaldecormod:blocks/uguaroactusop",
+    "SuguaroCactusSide": "naturaldecormod:blocks/uguaroactuside"
+  }
+}

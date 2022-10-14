@@ -1,0 +1,13 @@
+{
+  "sortnum": 10,
+  "name": "Depuração de NPC Maid",
+  "icon": "touhou_little_maid:npc_maid_tool",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:npc_maid_tool",
+      "text": "A depuração de npc maid é uma ferramenta compatível com mods de npc personalizado. $(br2)Quando o modelo do npc é definido como touhou little maid, você pode usar esta ferramenta clicando com o botão direito do mouse sobre o npc para definir um modelo de maid personalizado."
+    }
+  ]
+}

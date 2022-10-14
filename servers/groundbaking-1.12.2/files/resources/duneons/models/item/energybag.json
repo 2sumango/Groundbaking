@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/energy_bag",
+  "textures": {
+    "0": "duneons:blocks/t_shockpowder"
+  }
+}

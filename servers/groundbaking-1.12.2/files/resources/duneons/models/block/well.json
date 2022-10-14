@@ -1,0 +1,10 @@
+{
+  "parent": "duneons:custom/kolode",
+  "textures": {
+    "all": "duneons:blocks/well",
+    "particle": "duneons:blocks/well",
+    "1": "duneons:blocks/well",
+    "2": "duneons:blocks/well",
+    "3": "duneons:blocks/well"
+  }
+}

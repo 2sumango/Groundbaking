@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "pamhc2crops:block/cactusfruit_stage_3",
+		"particle": "pamhc2crops:block/cactusfruit_stage_3"
+	},
+	"elements": [
+		{
+			"name": "FaceNS",
+			"from": [4, -1, 5],
+			"to": [12, 9, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [4, 6, 12, 16], "texture": "#0"},
+				"south": {"uv": [4, 6, 12, 16], "texture": "#0"},
+				"up": {"uv": [4, 0, 12, 6], "texture": "#0"},
+				"down": {"uv": [4, 0, 12, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "FaceEW",
+			"from": [5, -1, 4],
+			"to": [11, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"east": {"uv": [4, 6, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 6, 12, 16], "texture": "#0"}
+			}
+		}
+	]
+}

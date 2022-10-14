@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:icelatticebrick"
+    },
+    "facing=north": {
+      "model": "duneons:icelatticebrick"
+    },
+    "facing=east": {
+      "model": "duneons:icelatticebrick",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:icelatticebrick",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:icelatticebrick",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bigcandle"
+    },
+    "facing=north": {
+      "model": "duneons:bigcandle"
+    },
+    "facing=east": {
+      "model": "duneons:bigcandle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bigcandle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bigcandle",
+      "y": 270
+    }
+  }
+}

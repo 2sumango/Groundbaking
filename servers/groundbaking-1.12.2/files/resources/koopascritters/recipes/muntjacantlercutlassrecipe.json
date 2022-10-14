@@ -1,0 +1,24 @@
+{
+  "group": "koopascritters",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bone"
+    },
+    "1": {
+      "item": "minecraft:bone"
+    },
+    "2": {
+      "item": "koopascritters:muntjacantler"
+    }
+  },
+  "result": {
+    "item": "koopascritters:muntjacantlerknife",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "textures": {
+    "layer0": "totaltinkers:item/cutlass/handle",
+    "layer1": "totaltinkers:item/cutlass/blade",
+    "layer2": "totaltinkers:item/cutlass/guard",
+    "broken1": "totaltinkers:item/cutlass/broken_blade"
+  },
+  "display": {
+    "firstperson_righthand": {
+        "rotation": [ -55, 125, 60 ],
+        "translation": [ 2, 3.25, -23 ],
+        "scale": [ 2.65, 2.65, 1.85 ]
+    },      
+    "firstperson_lefthand": {
+        "rotation": [ -55, 125, -40 ],
+        "translation": [ 2, 3.25, -23 ],
+        "scale": [ 2.65, 2.65, 1.85 ]
+    },      
+    "thirdperson_righthand": {
+        "rotation": [ -31, 100, 92 ],
+        "translation": [ 1, 7.55, 2.75 ],
+        "scale": [ 1.25, 1.25, 0.75 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 31, -80, -32 ],
+        "translation": [ -1, 7.55, 3.75 ],
+        "scale": [ 1.25, 1.25, 0.75 ]
+    }
+    }
+}

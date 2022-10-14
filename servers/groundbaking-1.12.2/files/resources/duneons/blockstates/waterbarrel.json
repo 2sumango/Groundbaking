@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:waterbarrel"
+    },
+    "facing=north": {
+      "model": "duneons:waterbarrel"
+    },
+    "facing=east": {
+      "model": "duneons:waterbarrel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:waterbarrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:waterbarrel",
+      "y": 270
+    }
+  }
+}

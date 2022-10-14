@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:berries"
+    },
+    "facing=north": {
+      "model": "duneons:berries"
+    },
+    "facing=east": {
+      "model": "duneons:berries",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:berries",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:berries",
+      "y": 270
+    }
+  }
+}

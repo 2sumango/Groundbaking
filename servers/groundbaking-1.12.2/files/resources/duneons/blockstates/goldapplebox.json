@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:goldapplebox"
+    },
+    "facing=north": {
+      "model": "duneons:goldapplebox"
+    },
+    "facing=east": {
+      "model": "duneons:goldapplebox",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:goldapplebox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:goldapplebox",
+      "y": 270
+    }
+  }
+}

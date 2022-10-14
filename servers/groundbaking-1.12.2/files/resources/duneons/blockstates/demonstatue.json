@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:demonstatue"
+    },
+    "facing=north": {
+      "model": "duneons:demonstatue"
+    },
+    "facing=east": {
+      "model": "duneons:demonstatue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:demonstatue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:demonstatue",
+      "y": 270
+    }
+  }
+}

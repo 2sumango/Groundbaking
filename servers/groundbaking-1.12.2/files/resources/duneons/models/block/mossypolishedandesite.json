@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/polished_andesite1",
+    "up": "duneons:blocks/polished_andesite1",
+    "north": "duneons:blocks/polished_andesite1",
+    "east": "duneons:blocks/polished_andesite1",
+    "south": "duneons:blocks/polished_andesite1",
+    "west": "duneons:blocks/polished_andesite1",
+    "particle": "duneons:blocks/polished_andesite1"
+  }
+}

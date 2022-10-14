@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:epiphyteghostorchid"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:epiphyteghostorchid"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:epiphyteghostorchid",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:epiphyteghostorchid",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:epiphyteghostorchid",
+      "y": 270
+    }
+  }
+}

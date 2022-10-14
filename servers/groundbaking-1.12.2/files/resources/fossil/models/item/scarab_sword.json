@@ -1,0 +1,29 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "fossil:items/scarab_sword"
+  },
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [ -31, 100, 92 ],
+        "translation": [ 1, 7.55, 2.75 ],
+        "scale": [ 1.25, 1.25, 0.75 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 31, -80, -32 ],
+        "translation": [ -1, 7.55, 3.75 ],
+        "scale": [ 1.25, 1.25, 0.75 ]
+    },
+      "firstperson_righthand": {
+          "rotation": [ 0, -90, 25 ],
+          "translation": [ 1.13, 3.2, 1.13 ],
+          "scale": [ 0.68, 0.68, 0.68 ]
+      },
+      "firstperson_lefthand": {
+          "rotation": [ 0, 90, -25 ],
+          "translation": [ 1.13, 3.2, 1.13 ],
+          "scale": [ 0.68, 0.68, 0.68 ]
+      }
+  }
+}
+

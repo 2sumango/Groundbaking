@@ -1,0 +1,21 @@
+tile.xpholder:xp_holder.name=Contenitore d'Esperienza
+item.xpholder:xp_holder_top_part.name=Parte Strana di Contenitore
+item.xpholder:xp_holder_bottom_part.name=Parte Strana di Contenitore
+item.xpholder:obsidian_container.name=Contenitore d'Ossidiana
+
+xp_holder.on_destroy=Distrugendo un Contenitore d'Esperienza perderai il §4%f%% §rdell'esperienza contenuta
+xp_holder.base_info=Può contenere fino a §2%d §7livelli d'esperienza
+xp_holder.levels_stored=Livelli Immagazzinati: %d
+
+xp_holder.im_enchantable=Sono incantabile con un po' di livelli
+
+enchantment.xpholder:holder=Contenitore
+
+advancements.xpholder.xp_holder.title=Potere dell'Esperienza
+advancements.xpholder.xp_holder.description=Combina i due Strani pezzi di contenitore in un Incudine. Ora puoi cliccare con il tasto destro sul Contenitore d'Esperienza per depositare esperienza o cliccare col tasto destro mentre accovacciato per riprenderla.
+
+advancements.xpholder.parts.title=Strane Parti
+advancements.xpholder.parts.description=Crea le due Parti Strane di Contenitore
+
+advancements.xpholder.root.title=XP Holder Mod
+advancements.xpholder.root.description=Contiene esperienza, ovviamente ...

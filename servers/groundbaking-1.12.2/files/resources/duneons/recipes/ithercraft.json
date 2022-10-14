@@ -1,0 +1,21 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:skull",
+      "data": 1
+    },
+    "1": {
+      "item": "duneons:ieerrifyingskeletonarmorhelmet"
+    }
+  },
+  "result": {
+    "item": "duneons:witherarmorhelmet",
+    "count": 1
+  }
+}

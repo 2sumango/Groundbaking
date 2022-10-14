@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:mossydarkandesitetiles"
+    },
+    "facing=north": {
+      "model": "duneons:mossydarkandesitetiles"
+    },
+    "facing=east": {
+      "model": "duneons:mossydarkandesitetiles",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:mossydarkandesitetiles",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:mossydarkandesitetiles",
+      "y": 270
+    }
+  }
+}

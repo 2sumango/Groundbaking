@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rpsideas:items/ivory_helmet",
+    "layer1": "rpsideas:items/helmet_overlay",
+    "layer2": "psi:items/psimetal_exosuit_helmet_sensor"
+  }
+}

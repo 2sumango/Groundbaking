@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:vangardlamp"
+    },
+    "facing=north": {
+      "model": "duneons:vangardlamp"
+    },
+    "facing=east": {
+      "model": "duneons:vangardlamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:vangardlamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:vangardlamp",
+      "y": 270
+    }
+  }
+}

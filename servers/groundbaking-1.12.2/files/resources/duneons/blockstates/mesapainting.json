@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:mesapainting"
+    },
+    "facing=north": {
+      "model": "duneons:mesapainting"
+    },
+    "facing=east": {
+      "model": "duneons:mesapainting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:mesapainting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:mesapainting",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "sortnum": 12,
+  "name": "Nomeador de Ovo",
+  "icon": "minecraft:name_tag",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Uma maid com um nome especial pode exibir um modelo especial.$(br2)Por padrão, uma maid é nomeada com $(#ff0000)=>id$() pode se tornar o modelo de aparência do jogador correspondente a esse id.$(br2)O pacote de recursos de maid também pode adicionar modelo de ovos personalizados, até mesmo ovos de modelo criptografados com SHA1."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "duneons:blocks/stone_bricker"
+  }
+}

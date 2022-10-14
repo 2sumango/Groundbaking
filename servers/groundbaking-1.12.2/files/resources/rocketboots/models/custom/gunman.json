@@ -1,0 +1,913 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "Cube",
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        1,
+        15
+      ],
+      "faces": {
+        "north": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            14,
+            1
+          ]
+        },
+        "east": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            14,
+            1
+          ]
+        },
+        "south": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            14,
+            1
+          ]
+        },
+        "west": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            14,
+            1
+          ]
+        },
+        "up": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            14,
+            14
+          ]
+        },
+        "down": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            14,
+            14
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        1,
+        8,
+        1
+      ],
+      "faces": {
+        "north": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "east": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "south": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "west": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        15,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        8,
+        1
+      ],
+      "faces": {
+        "north": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "east": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "south": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "west": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "down": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        15,
+        0,
+        15
+      ],
+      "to": [
+        16,
+        8,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "east": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "south": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "west": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        0,
+        0,
+        15
+      ],
+      "to": [
+        1,
+        8,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "east": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "south": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        },
+        "west": {
+          "texture": "#jungle_planks",
+          "uv": [
+            0,
+            0,
+            1,
+            8
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        4,
+        1,
+        4
+      ],
+      "to": [
+        7,
+        1.2,
+        7
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "north": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ]
+        },
+        "east": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ]
+        },
+        "south": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ]
+        },
+        "west": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ]
+        },
+        "up": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            3
+          ]
+        },
+        "down": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        2,
+        1,
+        6
+      ],
+      "to": [
+        6,
+        1.2,
+        10
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 45
+      },
+      "faces": {
+        "north": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            4,
+            0.2
+          ],
+          "rotation": 90
+        },
+        "east": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            4,
+            0.2
+          ]
+        },
+        "south": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            4,
+            0.2
+          ]
+        },
+        "west": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            4,
+            0.2
+          ]
+        },
+        "up": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ]
+        },
+        "down": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        8,
+        1,
+        10
+      ],
+      "to": [
+        11,
+        1.2,
+        13
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 45
+      },
+      "faces": {
+        "north": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ],
+          "rotation": 90
+        },
+        "east": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ]
+        },
+        "south": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ]
+        },
+        "west": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            0.2
+          ]
+        },
+        "up": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            3
+          ]
+        },
+        "down": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            3,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        0,
+        8,
+        0
+      ],
+      "to": [
+        16,
+        9,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            16,
+            1
+          ]
+        },
+        "east": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            16,
+            1
+          ]
+        },
+        "south": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            16,
+            1
+          ]
+        },
+        "west": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            16,
+            1
+          ]
+        },
+        "up": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        0,
+        9,
+        4
+      ],
+      "to": [
+        5,
+        9.2,
+        9
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": -22.5
+      },
+      "faces": {
+        "north": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "east": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "south": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "west": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "up": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            5
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        5,
+        9,
+        10
+      ],
+      "to": [
+        10,
+        9.2,
+        15
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 45
+      },
+      "faces": {
+        "north": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "east": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "south": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "west": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            0.2
+          ]
+        },
+        "up": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#diorite",
+          "uv": [
+            0,
+            0,
+            5,
+            5
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cube",
+      "from": [
+        4,
+        9,
+        1
+      ],
+      "to": [
+        15,
+        9.1,
+        12
+      ],
+      "faces": {
+        "north": {
+          "texture": "#sMALLER!",
+          "uv": [
+            0,
+            0,
+            11,
+            0.1
+          ]
+        },
+        "east": {
+          "texture": "#sMALLER!",
+          "uv": [
+            0,
+            0,
+            11,
+            0.1
+          ]
+        },
+        "south": {
+          "texture": "#sMALLER!",
+          "uv": [
+            0,
+            0,
+            11,
+            0.1
+          ]
+        },
+        "west": {
+          "texture": "#sMALLER!",
+          "uv": [
+            0,
+            0,
+            11,
+            0.1
+          ]
+        },
+        "up": {
+          "texture": "#sMALLER!",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "rotation": 90
+        }
+      }
+    }
+  ]
+}

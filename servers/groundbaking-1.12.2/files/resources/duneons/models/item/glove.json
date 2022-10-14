@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/glove",
+  "textures": {
+    "0": "duneons:blocks/glove",
+    "missing": "duneons:blocks/glove"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "naturaldecormod:blocks/irt",
+    "up": "naturaldecormod:blocks/reenhouserassop",
+    "north": "naturaldecormod:blocks/reenhouserasside",
+    "east": "naturaldecormod:blocks/reenhouserasside",
+    "south": "naturaldecormod:blocks/reenhouserasside",
+    "west": "naturaldecormod:blocks/reenhouserasside",
+    "particle": "naturaldecormod:blocks/irt"
+  }
+}

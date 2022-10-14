@@ -1,0 +1,14 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:californiapoppy"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 14,
+    "count": 1
+  }
+}

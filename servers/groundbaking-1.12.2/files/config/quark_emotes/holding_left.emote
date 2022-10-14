@@ -1,0 +1,16 @@
+name Holding Left
+
+use right_arm
+use left_arm
+
+animation sequence
+move left_arm_x 100 -0.64
+    move left_arm_z 40 0.84
+    move left_arm_y 40 0.34  
+    move right_arm_z 100 1.34
+    move right_arm_y 100 -0.24
+    move right_arm_x 280 -2.64
+    
+
+    yoyo 1 100000
+end

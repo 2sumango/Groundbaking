@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "duneons:blocks/vangard_carpet_block",
+    "top": "duneons:blocks/vangard_carpet_block",
+    "side": "duneons:blocks/vangard_carpet_block"
+  }
+}

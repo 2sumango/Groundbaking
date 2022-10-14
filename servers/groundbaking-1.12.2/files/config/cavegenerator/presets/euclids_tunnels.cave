@@ -1,0 +1,66 @@
+# ----------------------------------------------------------- #
+# ########################################################### #
+#              ### euclids_tunnels.cave Info ###              #
+# ########################################################### #
+#   This preset demonstrates a slightly more advanced use of  #
+# the caverns feature. It is used in this preset to produce   #
+# tunnel-like caves using cellular or voronoi noise           #
+# generation. For more information on using noise3D blocks,   # 
+# see vanilla.cave.                                           #
+# ----------------------------------------------------------- #
+{
+  imports: [
+    defaults.cave::caveBlocks as LAVA_CAVE_BLOCK
+  ]
+  enabled: true
+  biomes: {
+    # A list of registry names.
+    names: [ "biomesoplenty:grassland", "biomesoplenty:snowy_coniferous_forest", "minecraft:extreme_hills", "biomesoplenty:mountain" ]
+    # A list of biome IDs.
+    IDs: []
+    # A list of Biome types.
+    types: []
+  }
+  caverns: {
+    enabled: true # Removed in 1.0. You can delete this field.
+    height: [ 12, 50 ]
+    generators: {
+      frequency: 0.02
+      threshold: -1.4
+      stretch: 4
+      type: Cellular
+      returnType: Distance3Div
+      jitter: 1.8
+      perturb: true
+      perturbAmp: 10
+      perturbFreq: 0.025
+      invert: true
+    }
+  }
+  wallDecorators: [
+    # Direction#DOWN -> stalagmites
+    # Direction#UP -> stalactites
+    {
+      states: stone
+      length: [ 25, 25 ]
+      height: [ 15, 44 ]
+      matchers: stone
+      directions: up
+      placement: overlay
+      integrity: 1
+    }
+    {
+      states: stone
+      length: [ 3, 6 ]
+      height: [ 5, 90 ]
+      matchers: stone
+      directions: down
+      placement: overlay
+      integrity: 0.36
+    }
+  ]
+  # Default lava.
+  caveBlocks: $LAVA_CAVE_BLOCK
+  # Whether to treat the biome list as a blacklist.
+  blacklistBiomes: false
+}

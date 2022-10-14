@@ -1,0 +1,10 @@
+{
+	profession: {
+		name: "vtt:barterer",
+		texture: "vtt:textures/entity/villager/barterer.png",
+		zombieTexture: "vtt:textures/entity/villager/barterer.png"
+	},
+	careers: [
+		"barterer"
+	]
+}

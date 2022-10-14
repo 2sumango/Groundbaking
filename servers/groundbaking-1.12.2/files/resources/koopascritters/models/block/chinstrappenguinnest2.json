@@ -1,0 +1,9 @@
+{
+  "parent": "koopascritters:custom/penguinchinstrapeggnest_-_copy_-_copy",
+  "textures": {
+    "all": "koopascritters:blocks/hinstrapgg",
+    "particle": "koopascritters:blocks/hinstrapgg",
+    "Pebbles": "koopascritters:blocks/ebbles",
+    "YellowEyeEgg": "koopascritters:blocks/hinstrapgg"
+  }
+}

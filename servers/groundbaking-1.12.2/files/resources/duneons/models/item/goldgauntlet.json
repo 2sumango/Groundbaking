@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/gauntlet_gold",
+  "textures": {
+    "0": "duneons:blocks/gauntlet_gold"
+  }
+}

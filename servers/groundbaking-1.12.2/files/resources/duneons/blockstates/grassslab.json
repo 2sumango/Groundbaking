@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:grassslab"
+    },
+    "facing=north": {
+      "model": "duneons:grassslab"
+    },
+    "facing=east": {
+      "model": "duneons:grassslab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:grassslab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:grassslab",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:caldonbossspawn"
+    },
+    "facing=north": {
+      "model": "duneons:caldonbossspawn"
+    },
+    "facing=east": {
+      "model": "duneons:caldonbossspawn",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:caldonbossspawn",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:caldonbossspawn",
+      "y": 270
+    }
+  }
+}

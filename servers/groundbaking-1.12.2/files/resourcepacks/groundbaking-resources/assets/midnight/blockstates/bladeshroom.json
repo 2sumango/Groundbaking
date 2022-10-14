@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "midnight:blocks/bladeshroom_cap"
+    }
+  },
+  "variants": {
+    "stage": {
+      "spore": {"model": "midnight:bladeshroom_spore"},
+      "stem": {"model": "midnight:bladeshroom_stem"},
+      "capped": {"model": "midnight:bladeshroom_capped"}
+    }
+  }
+}

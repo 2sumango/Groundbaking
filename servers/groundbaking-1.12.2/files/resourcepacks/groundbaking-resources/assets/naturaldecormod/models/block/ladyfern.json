@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/ladyfern",
+  "textures": {
+    "all": "naturaldecormod:blocks/adyern",
+    "particle": "naturaldecormod:blocks/adyern",
+    "bush": "naturaldecormod:blocks/adyern",
+    "bushreversed": "naturaldecormod:blocks/adyerneverse"
+  }
+}

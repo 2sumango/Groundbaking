@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "naturaldecormod:blocks/irt",
+    "up": "naturaldecormod:blocks/thop",
+    "north": "naturaldecormod:blocks/athlock",
+    "east": "naturaldecormod:blocks/athlock",
+    "south": "naturaldecormod:blocks/athlock",
+    "west": "naturaldecormod:blocks/athlock",
+    "particle": "naturaldecormod:blocks/irt"
+  }
+}

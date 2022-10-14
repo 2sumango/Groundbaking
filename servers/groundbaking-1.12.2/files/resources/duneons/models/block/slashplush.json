@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/slash_plush",
+  "textures": {
+    "all": "duneons:blocks/slash_rosenberg",
+    "particle": "duneons:blocks/slash_rosenberg",
+    "0": "duneons:blocks/slash_rosenberg",
+    "missing": "duneons:blocks/slash_rosenberg"
+  }
+}

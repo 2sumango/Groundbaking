@@ -1,0 +1,17 @@
+{
+  "sortnum": 7,
+  "name": "Bússola Kappa",
+  "icon": "touhou_little_maid:kappa_compass",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:kappa_compass",
+      "text": "A bússola é usada em conjunto com o modo lar da maid. Clicar com o botão direito em um bloco registra as coordenadas, então clicar com o botão direito na empregada pode definir as coordenadas para ele."
+    },
+    {
+      "type": "text",
+      "text": "A bússola tem 4 modos: $(br)$(li) Ponto único: A maid se moverá dentro de 16 blocos dentro das coordenadas definidas.$(li) Reentrada multi-ponto: A maid se moverá para frente e para trás ao longo das coordenadas definidas.$(li) Fechamento de multi-ponto: A maid se moverá livremente ao longo das coordenadas definidas.$(li) Definir Distância: A maid só se moverá dentro da area definida."
+    }
+  ]
+}

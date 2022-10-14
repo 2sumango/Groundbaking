@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "koopascritters:pebblesslab_double"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:stainedglass"
+    },
+    "facing=north": {
+      "model": "duneons:stainedglass"
+    },
+    "facing=east": {
+      "model": "duneons:stainedglass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:stainedglass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:stainedglass",
+      "y": 270
+    }
+  }
+}

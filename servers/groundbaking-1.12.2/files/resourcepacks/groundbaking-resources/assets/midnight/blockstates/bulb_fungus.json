@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "midnight:dewshroom"
+    },
+    "facing=north": {
+      "model": "midnight:dewshroom"
+    },
+    "facing=east": {
+      "model": "midnight:dewshroom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "midnight:dewshroom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "midnight:dewshroom",
+      "y": 270
+    }
+  }
+}

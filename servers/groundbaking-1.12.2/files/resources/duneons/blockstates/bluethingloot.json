@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bluethingloot"
+    },
+    "facing=north": {
+      "model": "duneons:bluethingloot"
+    },
+    "facing=east": {
+      "model": "duneons:bluethingloot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bluethingloot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bluethingloot",
+      "y": 270
+    }
+  }
+}

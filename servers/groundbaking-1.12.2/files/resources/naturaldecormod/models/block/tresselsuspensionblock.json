@@ -1,0 +1,9 @@
+{
+  "parent": "naturaldecormod:custom/tressel",
+  "textures": {
+    "all": "naturaldecormod:blocks/ressel",
+    "particle": "naturaldecormod:blocks/ressel",
+    "Campfire": "naturaldecormod:blocks/ressel",
+    "TresselSideways": "naturaldecormod:blocks/resselideways"
+  }
+}

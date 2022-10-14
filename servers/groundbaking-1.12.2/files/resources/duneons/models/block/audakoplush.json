@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/audako_plush",
+  "textures": {
+    "all": "duneons:blocks/audako_plush",
+    "particle": "duneons:blocks/audako_plush",
+    "0": "duneons:blocks/audako_plush",
+    "missing": "duneons:blocks/audako_plush"
+  }
+}

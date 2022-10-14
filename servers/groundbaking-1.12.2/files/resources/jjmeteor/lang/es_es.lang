@@ -1,0 +1,32 @@
+#BLOCCHI
+tile.blue_meteor_ore.name=Meteorito Azul
+tile.red_meteor_ore.name=Meteorito Rojo
+#ITEMS
+item.blue_meteor_powder.name=Polvo de meteorito azul
+item.red_meteor_powder.name=Polvo de meteorito rojo
+item.telescope.name=Telescopio
+#CONFIGURATION
+config.a_update_chat_message=muestra un nuevo mensaje de actualizacio'n
+config.b_show_message_start_meteor=mostrar mensaje de inicio de meteorito
+config.c_message_start_meteor=texto de inicio del meteorito
+config.d_show_approximate_coord=mostrar coord aproximado
+config.e_show_exact_coord=mostrar coord exactas
+config.f_explosion_with_flames=explosio'n con llamas
+config.meteor_message1=un meteorito se estrella contra el suelo
+config.meteor_message2=en
+config.meteor_message3=segundo
+config.meteor_message4= aproximadamente en las coordenadas:
+config.meteor_message5= en las coordenadas: 
+#CHAT MESSAGE
+jjmeteor.chat.new_update_1=Esta' disponible para descargar, versio'n
+jjmeteor.chat.new_update_2=de JJ Meteor
+chat.meteor_success=Meteor comenzo'
+chat.meteor_error=Comando incorrecto: /meteor x y z destruir segundo drop_item drop_number
+chat.meteor_error_2=El mod no ha podido determinar un punto de impacto, disminuya la distancia mínima de bloqueo del jugador o reduzca las áreas prohibidas
+chat.meteor_in_atmosphere=Avistado un Meteorito, accidente esperado entre
+chat.minut=minutos 
+chat.imminent_impact=Impacto inminente
+#COMMAND
+command.meteor_desc=Comience un Meteorito: /meteor x y z destruir segundo drop_item drop_number
+#TABS
+itemGroup.jjmeteor=JJ Meteor

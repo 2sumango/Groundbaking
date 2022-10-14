@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:stonepath"
+    },
+    "facing=north": {
+      "model": "duneons:stonepath"
+    },
+    "facing=east": {
+      "model": "duneons:stonepath",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:stonepath",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:stonepath",
+      "y": 270
+    }
+  }
+}

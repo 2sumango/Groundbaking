@@ -1,0 +1,20 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:cactusplanks"
+    },
+    "1": {
+      "item": "naturaldecormod:cactusplanks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/fish",
+  "textures": {
+    "0": "duneons:blocks/salmon_lesh",
+    "missing": "duneons:blocks/salmon_lesh"
+  }
+}

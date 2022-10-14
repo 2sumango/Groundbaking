@@ -1,0 +1,19 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "naturaldecormod:stonepavementbricks"
+    },
+    {
+      "item": "naturaldecormod:stonepavementbricks"
+    },
+    {
+      "item": "naturaldecormod:stonepavementbricks"
+    }
+  ],
+  "result": {
+    "item": "naturaldecormod:stonepavementbrickslab",
+    "count": 6
+  }
+}

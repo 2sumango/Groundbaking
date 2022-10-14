@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "farlanders:mystic_wand_ore"
+        },
+        "title": {
+            "translate": "advancement.abra_kadabra"
+        },
+        "description": {
+            "translate": "advancement.abra_kadabra.desc"
+        }
+    },
+    "parent": "farlanders:kill_classic_enderman",
+    "criteria": {
+        "mystic_enderman": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "farlanders:mystic_enderman"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "mystic_enderman"
+        ]
+    ]
+}

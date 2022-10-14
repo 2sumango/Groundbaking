@@ -1,0 +1,120 @@
+# ----------------------------------------------------------- #
+# ########################################################### #
+#                 ### extreme_caverns.cave Info ###           #
+# ########################################################### #
+#   This preset demonstrates a basic use case of the caverns  #
+# feature. For more information on using noise3D blocks, see  #
+# vanilla.cave.                                               #
+# ----------------------------------------------------------- #
+{
+  enabled: true
+  biomes: {
+    # A list of registry names.
+    names: [ "biomesoplenty:grassland", "biomesoplenty:snowy_coniferous_forest", "minecraft:plains", "minecraft:extreme_hills", "biomesoplenty:mountain" ]
+    # A list of biome IDs.
+    IDs: []
+    # A list of Biome types.
+    types: []
+  }
+  caverns: {
+    enabled: true # Removed in 1.0. You can delete this field.
+    height: [ 8, 49 ]
+    generators: {
+      frequency: 0.0133
+      type: Cellular
+      returnType: Distance3Div
+      jitter: 2
+      perturb: true
+      perturbAmp: 10
+      perturbFreq: 0.025
+      invert: true
+      threshold: -0.4
+      stretch: 0.23
+    }
+  }
+  wallDecorators: [
+    {
+      states: air
+      directions: down
+      matchers: [ "chisel:basalt2:7" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "chisel:basalt2:7" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: down
+      matchers: [ "botania:biomestonea" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "botania:biomestonea" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: down
+      matchers: [ "earthworks:block_slate" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "earthworks:block_slate" ]
+      placement: EMBED
+    }
+    {
+      states: air
+      directions: up
+      matchers: [ "stone" ]
+      placement: EMBED
+    }
+    # Patches of grass.
+    {
+      states: grass
+      directions: down
+      matchers: [ "stone", "stone:5" ]
+      height: [ 15, 50 ]
+      noise: {}
+      placement: EMBED
+    }
+    # Sporadic gravel.
+    {
+      states: gravel
+      directions: down
+      matchers: [ "stone", "stone:5" ]
+      height: [ 9, 50 ]
+      integrity: 0.75
+      placement: EMBED
+    }
+    {
+      states: earthworks:block_slate_purple
+      directions: down
+      matchers: [ "stone", "stone:5" ]
+      height: [ 9, 50 ]
+      integrity: 0.99
+      placement: EMBED
+    }
+    # Sporadic coarse dirt.
+    {
+      states: "dirt:1" # Coarse dirt
+      directions: down
+      matchers: [ "stone", "stone:5" ]
+      height: [ 9, 50 ]
+      integrity: 0.3
+      placement: EMBED
+    }
+  ]
+  # Default lava.
+  caveBlocks: [
+    { states: "lava", height: [ 0, 7 ] }
+  ]
+  # Whether to treat the biome list as a blacklist.
+  blacklistBiomes: false
+}

@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "antiqueatlas:items/empty_antique_atlas"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 0, 315 ],
+            "translation": [ 0, 0, -0.25 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson": {
+            "rotation": [ 280, 243, 31 ],
+            "translation": [ 0, -3.25, -9.50 ],
+            "scale": [ 3.70, 3.70, 2.35 ]
+        }
+    }
+}

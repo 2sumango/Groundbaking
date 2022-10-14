@@ -1,0 +1,117 @@
+#Items
+item.wrcbe:material.obsidian_stick.name=Obsidianová ty�?ka
+item.wrcbe:material.stone_bowl.name=Dřevěná miska
+item.wrcbe:material.rether_pearl.name=REtherová perla
+item.wrcbe:material.wireless_transceiver.name=Bezdrátový vysíla�?
+item.wrcbe:material.blaze_transceiver.name=Ohnivákový vysíla�?
+item.wrcbe:material.receiver_dish.name=Jídlo přijíma�?e
+item.wrcbe:material.blaze_receiver_dish.name=Ohnivákovo jídlo přijíma�?e
+item.wrcbe:sniffer.name=Bezdrátový zachycova�? Sniffer
+item.wrcbe:private_sniffer.name=Soukromý zachycova�?
+item.wrcbe:empty_map.name=Prázdná bezdrátová mapa
+item.wrcbe:map.name=Bezdrátová mapa
+item.wrcbe:rep.name=REP
+item.wrcbe:triangulator.name=Bezdrátový triangulátor
+item.wrcbe:remote.name=Bezdrátový ovlada�?
+item.wrcbe:tracker.name=Bezdrátový sledova�?
+item.wrcbe:wireless_part|0.name=Bezdrátový vysíla�?
+item.wrcbe:wireless_part|1.name=Bezdrátový přijíma�?
+item.wrcbe:wireless_part|2.name=Bezdrátový odebíra�?
+
+#Misc
+death.attack.wrcbe:bolt=%1$s byl zasáhnut REtherovým bleskem.
+itemGroup.wrcbe=Wireless Redstone CBE
+item.wrcbe.triangulator.short=Triangulátor
+item.wrcbe.remote.short=Ovlada�?
+item.wrcbe.tracker.short=Sledova�?
+
+#Gui
+wrcbe.button.simple=Jednoduchý
+wrcbe.button.advanced=Pokro�?ilý
+wrcbe.button.set=nastav
+wrcbe.button.colour=Fázový posun
+wrcbe.button.setname=Zadej jméno
+wrcbe.button.remname=Odstranit
+wrcbe.label.value=Hodnota
+wrcbe.label.name=Jméno frekvence
+wrcbe.label.colour=Spektrum
+wrcbe.label.freq=Frekvence
+
+#Command
+wrcbe.command.usage=WR-CBE REtherové řízení. Použití: freq [parametry...]
+wrcbe.command.usage1=parametry: %s
+wrcbe.command.usage2=použij /freq help [parametr] pro více informací
+
+wrcbe.param.invalidno=Nesprávné �?íslo parametrů
+wrcbe.param.invalid=Nesprávný parametr
+wrcbe.param.missing=Žádný správný parametr
+wrcbe.param.invalidfreq=Nesprávná frekvence
+wrcbe.param.invalidfreqrange=Nesprávný dosah frekvence
+
+wrcbe.param.get.usage=Použití: freq get [public | shared | private]
+wrcbe.param.get.usage1=Např. freq get public. Zobrazí dosah veřejné frekvence
+wrcbe.param.get.usage2=Např. freq get shared. Zobrazí dosah sdílené frekvence
+wrcbe.param.get.usage3=Např. freq get private. Zobrazí �?íslo soukromé frekvence každého hrá�?e
+wrcbe.param.get.public=Frekvence 1-%d jsou veřejné
+wrcbe.param.get.shared=Frekvence %d-%d jsou sdílené
+wrcbe.param.get.shared0=Nejsou zde žádné sdílené frekvence
+wrcbe.param.get.private=Všichni hrá�?i mají povolených %d soukromých frekvencí
+
+wrcbe.param.private.usage=Použití: freq private [parametry...]
+wrcbe.param.private.usage1=Např. freq private [uživatelské jméno | all]. Zobrazí soukromé frekvence ve vlastnictví [uživatelského jména]
+wrcbe.param.private.usage2=Např. freq private [uživatelské jméno] [frekvence]. Nastaví majitele [frekvence] jako [uživatelské jméno]
+wrcbe.param.private.usage3=Např. freq private [frekvence]. Zobrazí majitele [frekvence]
+wrcbe.param.private.usage4=Např. freq private clear [frekvence | uživatelské jméno | all]. Odebere majitele [frekvence]
+wrcbe.param.private.none=Nejsou zde žádné soukromé frekvence
+wrcbe.param.private.list=Následující frekvence jsou soukromé: %s
+wrcbe.param.private.ispublic=%d je veřejná
+wrcbe.param.private.publicanyway=%d je v každém případě veřejná
+wrcbe.param.private.notprivate=%d není soukromá
+wrcbe.param.private.noneowned=%s nevlastní žádné frekvence
+wrcbe.param.private.nowshared=%d není sdílená
+wrcbe.param.private.nowshared2=Následující frekvence jsou sdílené: %s
+wrcbe.param.private.ownedby=%d je vlastněna hrá�?em %s
+wrcbe.param.private.owns=%s vlastní následující frekvence: %s
+wrcbe.param.private.notshared=%d není ve sdíleném dosahu
+wrcbe.param.private.nowownedby=%d má nyní majitele %s
+wrcbe.param.private.limit=%s již vlastní %d frekvencí
+
+wrcbe.param.scan.usage=Použití: freq scan [jméno hrá�?e]
+wrcbe.param.scan.usage1=Oznámí frekvence, na kterých [jméno hrá�?e] může vysílat a vlastnit
+wrcbe.param.scan.usage2=Např. freq scan codechicken
+wrcbe.param.scan.usage3=Např. freq scan
+wrcbe.param.scan.list=%s může vysílat na: %s
+wrcbe.param.scan.onlypublic=%s může vysílat pouze na veřejných frekvencích
+
+wrcbe.param.set.usage=Použití: freq set [public | shared | private] [hodnota]
+wrcbe.param.set.usage1=Např. freq set public. Nastaví frekvenci 1 na [hodnotu] jako veřejnou
+wrcbe.param.set.usage2=Např. freq set shared. Nastaví frekvence [public+1] na [hodnotu] jako sdílenou
+wrcbe.param.set.usage3=Např. freq set private. Dá každému hrá�?i [po�?et] soukromých frekvencí
+wrcbe.param.set.invalidnum=Nesprávné �?íslo
+wrcbe.param.set.invalidqty=Nesprávný po�?et
+wrcbe.param.set.nowpublic=%s: Frekvence 1-%d jsou nyní veřejné
+wrcbe.param.set.sharedpublic=%s: Sdílený frekven�?ní dosah byl nastaven jako veřejný
+wrcbe.param.set.nowshared=%s: Frekvence %d-%d jsou nyní sdílené
+wrcbe.param.set.sharedremoved=%s: Dosah sdílených frekvencí byl odstraněn
+wrcbe.param.set.privateno=%s: Všichni hrá�?i mají nyní povoleno %d soukromých frekvencí
+
+wrcbe.param.jam.usage=Použití: freq jam [jméno hrá�?e] [dosah frekvence | all | default]
+wrcbe.param.jam.usage1=Jam [jméno hrá�?e] z [dosahu frekvence]
+wrcbe.param.jam.usage2=Např. freq %s codechicken 100-250
+wrcbe.param.jam.usage3=Např. freq %s codechicken all
+wrcbe.param.jam.usage4=Např. freq %s codechicken default
+wrcbe.param.jam.usage5=Např. freq %s 100-250
+wrcbe.param.jam.usage6=Např. freq %s codechicken 500
+wrcbe.param.jam.noplayer=Hrá�? nenalezen
+wrcbe.param.jam.errpublic=Nemůžeš někoho odebrat z veřejných frekvencí
+wrcbe.param.jam.jammed=Byl jsi odebrán z frekvence %d
+wrcbe.param.jam.jammed2=Byl jsi odebrán z frekvencí %s
+wrcbe.param.jam.opjammed=%s: %s byl odebrán z frekvence %d
+wrcbe.param.jam.opjammed2=%s: %s byl odebrán z frekvencí %s
+
+wrcbe.param.open.usage=Použití: freq open [jméno hrá�?e] [dosah frekvence | all | default]
+wrcbe.param.open.usage1=Unjam [jméno hrá�?e] z [dosahu frekvence]
+wrcbe.param.open.jammed=Byla ti udělena frekvence %d
+wrcbe.param.open.jammed2=Byli ti uděleny frekvence %s
+wrcbe.param.open.opjammed=%s: %s udělil frekvenci %d
+wrcbe.param.open.opjammed2=%s: %s udělil frekvence %s

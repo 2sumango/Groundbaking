@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "pamhc2crops:block/aridgarden",
+		"particle": "pamhc2crops:block/aridgarden"
+	},
+	"elements": [
+		{
+			"name": "FaceNS",
+			"from": [4, 0, 5],
+			"to": [12, 10, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"north": {"uv": [4, 6, 12, 16], "texture": "#0"},
+				"south": {"uv": [4, 6, 12, 16], "texture": "#0"},
+				"up": {"uv": [4, 0, 12, 6], "texture": "#0"},
+				"down": {"uv": [4, 0, 12, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "FaceEW",
+			"from": [5, 0, 4],
+			"to": [11, 10, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"east": {"uv": [4, 6, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 6, 12, 16], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{ 
+	Profession:"vtt:huntress",
+	Career:"huntress",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:12,max:16}},sell:{id:"minecraft:bow",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"futuremc:netherite_sword",Count:{min:1,max:1}},sell:{id:"minecraft:netherrack",Count:12}, CareerLevel:1},
+			{action:"add", buyB:{id:"minecraft:gold_ingot",Count:1},buy:{id:"minecraft:beef",Count:3},sell:{id:"minecraft:obsidian",Count:4}, CareerLevel:1},
+			{action:"add", buyB:{id:"minecraft:gold_ingot",Count:1},buy:{id:"betternether:stalagnate_planks",Count:1},sell:{id:"minecraft:speckled_melon",Count:1}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:3,max:5}},sell:{id:"minecraft:fish",Count:1,Damage:3}, CareerLevel:1},
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:3,max:5}},sell:{id:"minecraft:rabbit_foot",Count:1}, CareerLevel:1},
+			
+			{action:"add", buy:{id:"minecraft:gunpowder",Count:{min:18,max:22}},sell:{id:"minecraft:gold_ingot",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:spider_eye",Count:{min:12,max:16}},sell:{id:"minecraft:gold_ingot",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:3,max:5}},sell:{id:"minecraft:magma_cream",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:6,max:8}},sell:{id:"minecraft:ghast_tear",Count:1}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:4,max:6}},sell:{id:"minecraft:fermented_spider_eye",Count:{min:2,max:3}}, CareerLevel:2},
+			
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:3,max:5}},sell:{id:"minecraft:potion",Count:1,tag:{Potion:"random"}}, CareerLevel:3},
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:3,max:5}},sell:{id:"minecraft:tipped_arrow",Count:{min:8,max:16},tag:{Potion:"random"}}, CareerLevel:3}
+
+		]
+	}
+}

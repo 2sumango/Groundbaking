@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/yellow_autumnal_leaves",
+    "up": "duneons:blocks/yellow_autumnal_leaves",
+    "north": "duneons:blocks/yellow_autumnal_leaves",
+    "east": "duneons:blocks/yellow_autumnal_leaves",
+    "south": "duneons:blocks/yellow_autumnal_leaves",
+    "west": "duneons:blocks/yellow_autumnal_leaves",
+    "particle": "duneons:blocks/yellow_autumnal_leaves"
+  }
+}

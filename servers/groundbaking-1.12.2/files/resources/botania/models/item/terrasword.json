@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "botania:items/terrasteel_sword"
+  },
+  "display": {      
+    "firstperson_righthand": {
+        "rotation": [ -60, 135, 56 ],
+        "translation": [ -5, -1, -18 ],
+        "scale": [ 1.95, 1.95, 1.92 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 111, -106.5, 111 ],
+        "translation": [ -3, -1, -18 ],
+        "scale": [ 1.95, 1.95, 1.92 ]
+    },        
+    "thirdperson_righthand": {
+        "rotation": [ -80, 270, -40 ],
+        "translation": [ -0.65, 4.3, 1.37 ],
+        "scale": [ 1.1, 1.1, 1.1 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ -80, -270, 40 ],
+        "translation": [ -0.65, 3.5, 1.35 ],
+        "scale": [ 1.1, 1.1, 1.1 ]
+    }          
+}
+}

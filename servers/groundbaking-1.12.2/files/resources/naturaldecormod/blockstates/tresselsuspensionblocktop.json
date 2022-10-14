@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:tresselsuspensionblocktop"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:tresselsuspensionblocktop"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:tresselsuspensionblocktop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "naturaldecormod:tresselsuspensionblocktop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "naturaldecormod:tresselsuspensionblocktop",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_exampleRaider": {
+    "weight": "True Weight System, So you can tweak which skins you want to see more.",
+    "enabled": "After you get your Twitch list, you may have broken skins because ppl have changed names. So you can disable them here.",
+    "customSkin": "Give resourcelocation of custom skin. Use raiders build in resource loading, by adding an image into assets/skins/filename.png Than set custom skin to raiders:skins/filename. You may also use any other resourceloader.",
+    "_comment": " Comment section is for you leave a comment if you disabled something to know why. or just any comment you want."
+  },
+  "Stone": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  }
+}

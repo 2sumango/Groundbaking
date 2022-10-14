@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/bite",
+  "textures": {
+    "0": "duneons:blocks/bite",
+    "missing": "duneons:blocks/bite"
+  }
+}

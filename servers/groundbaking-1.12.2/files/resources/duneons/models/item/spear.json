@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/spear",
+  "textures": {
+    "0": "duneons:blocks/spear"
+  }
+}

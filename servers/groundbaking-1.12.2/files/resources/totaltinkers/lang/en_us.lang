@@ -1,0 +1,34 @@
+item.greatblade.name=Severing Glaive
+item.battleaxe.name=Claymore
+item.cutlass.name=Fangs
+item.javelin.name=Lance
+item.dagger.name=Shortcutter
+item.tconstruct:crossbow.name=Repeater
+item.scimitar.name=Shakujo
+
+item.fullGuard.name=Full Guard
+item.greatbladeCore.name=Greatblade Core
+
+item.greatblade.desc=The Great Equalizer. The heavy Greatsword sacrifices raw damage for enemy percent HP damage, and excels vs bosses. Slow, Requires two hands! §6Great for Tank Builds.
+item.battleaxe.desc=The Claymore is a heavy offensive weapon. It is capable of bringing down small trees. §6Great for Tank Builds.
+item.cutlass.desc=The Fangs are a weapon for those of great skill, or those who think they have it and want to show off. On critical hits, a short burst of speed is granted. §6Great for Agility Builds.
+item.javelin.desc=Ranged Melee weapon hybrid. Potent as a melee weapon, devastating at range. Right Click to throw. §6Great for Support Builds.
+item.tconstruct:crossbow.desc=The Repeater is a slow but very powerful weapon. It has to be loaded beforehand, but can be fired at any moment afterwards.\nUses Tinkers' Bolts. §6Great for Ranged Builds.
+item.dagger.desc=The Shortcutter is a short blade that can swing incredibly fast. §6Great for Agility Builds.
+item.scimitar.desc=The Shakujo is a simple, holy weapon focused on beating enemies to death; Applies a gradual, damaging debuff to enemies. §6Great for Support Builds.
+
+tinkers.greatblade.bossmultiplier.percentMaxHp=Enemy Maximum HP Damage: §9%1$,.2f%%
+tinkers.greatblade.bossmultiplier.hpHover=§9+%1$,.2f%% Enemy Maximum HP Damage
+tinkers.greatblade.bossmultiplier.positive=§9Enemy HP Based Damage to Bosses: +%1$,.2f%%
+tinkers.greatblade.bossmultiplier.negative=§cEnemy HP Based Damage to Bosses: -%1$,.2f%%
+
+tinkers.scimitar.bleed.hover=§c%1$,.2fs bleed duration
+tinkers.scimitar.bleed.duration=Holy Purification duration: §c%1$,.2fs
+
+tooltip.fullGuard=Perhaps your villager friends may help out with this?
+tooltip.greatbladecore=Can be found in end ships
+
+effect.totaltinkers.berserker=Berserker
+effect.totaltinkers.hemorrhage=Hemorrhage
+
+death.attack.totaltinkers.hemorrhage=%1$s died due to exsanguination

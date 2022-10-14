@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/arch_barrel_beer",
+  "textures": {
+    "all": "duneons:blocks/barrel",
+    "particle": "duneons:blocks/barrel",
+    "0": "duneons:blocks/barrel",
+    "missing": "duneons:blocks/barrel"
+  }
+}

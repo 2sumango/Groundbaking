@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/chain_vangard",
+  "textures": {
+    "all": "duneons:blocks/chain_dungeon",
+    "particle": "duneons:blocks/chain_dungeon",
+    "0": "duneons:blocks/chain_dungeon",
+    "missing": "duneons:blocks/chain_dungeon"
+  }
+}

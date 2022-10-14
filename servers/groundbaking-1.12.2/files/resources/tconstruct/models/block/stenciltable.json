@@ -1,0 +1,150 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "particle": "tconstruct:blocks/station_top",
+        "station_side": "tconstruct:blocks/station_side",
+        "station_top": "tconstruct:blocks/station_top",
+        "stonecutter_saw": "tconstruct:blocks/stonecutter_saw"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 25, 44, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "legrfront",
+            "from": [ 12, 0, 12 ], 
+            "to": [ 16, 12, 16 ], 
+            "faces": {
+                "north": { "texture": "#station_side", "uv": [ 12, 4, 16, 16 ] },
+                "east": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "south": { "texture": "#station_side", "uv": [ 12, 4, 16, 16 ] },
+                "west": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "down": { "texture": "#station_side", "uv": [ 0, 0, 4, 4 ] }
+            }
+        },
+        {
+            "name": "leglfront",
+            "from": [ 0, 0, 12 ], 
+            "to": [ 4, 12, 16 ], 
+            "faces": {
+                "north": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "east": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "south": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "west": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "down": { "texture": "#station_side", "uv": [ 0, 0, 4, 4 ] }
+            }
+        },
+        {
+            "name": "tabletop",
+            "from": [ 0, 12, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#station_side", "uv": [ 0, 0, 16, 4 ] },
+                "east": { "texture": "#station_side", "uv": [ 0, 0, 16, 4 ] },
+                "south": { "texture": "#station_side", "uv": [ 0, 0, 16, 4 ] },
+                "west": { "texture": "#station_side", "uv": [ 0, 0, 16, 4 ] },
+                "up": { "texture": "#station_top", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#station_top", "uv": [ 0, 0, 16, 16 ] }
+            }
+          },
+          {
+              "name": "saw",
+              "from": [ 0, 16, 3 ], 
+              "to": [ 16, 32, 3 ], 
+              "faces": {
+                  "north": { "texture": "#stonecutter_saw", "uv": [ 0, 0, 16, 16 ] },
+                  "south": { "texture": "#stonecutter_saw", "uv": [ 0, 0, 16, 16 ] }
+              }
+          },
+          {
+            "name": "leglback",
+            "from": [ 0, 0, 0 ], 
+            "to": [ 4, 12, 4 ], 
+            "faces": {
+                "north": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "east": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "south": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "west": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "down": { "texture": "#station_side", "uv": [ 0, 0, 4, 4 ] }
+            }
+        },
+        {
+            "name": "legrback",
+            "from": [ 12, 0, 0 ], 
+            "to": [ 16, 12, 4 ], 
+            "faces": {
+                "north": { "texture": "#station_side", "uv": [ 12, 4, 16, 16 ] },
+                "east": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "south": { "texture": "#station_side", "uv": [ 12, 4, 16, 16 ] },
+                "west": { "texture": "#station_side", "uv": [ 0, 4, 4, 16 ] },
+                "down": { "texture": "#station_side", "uv": [ 0, 0, 4, 4 ] }
+            }
+        },
+        {
+            "name": "hammerstick",
+            "from": [ 16, 5, 9 ], 
+            "to": [ 18, 16, 11 ], 
+            "faces": {
+                "north": { "texture": "#station_side", "uv": [ 1, 4, 3, 15 ] },
+                "east": { "texture": "#station_side", "uv": [ 1, 4, 3, 15 ] },
+                "south": { "texture": "#station_side", "uv": [ 1, 4, 3, 15 ] },
+                "west": { "texture": "#station_side", "uv": [ 0, 4, 2, 15 ] },
+                "up": { "texture": "#station_side", "uv": [ 0, 0, 2, 2 ] },
+                "down": { "texture": "#station_side", "uv": [ 0, 0, 2, 2 ] }
+            }
+        },
+        {
+            "name": "hammershield",
+            "from": [ 16, 5, 7 ], 
+            "to": [ 18, 7, 9 ], 
+            "faces": {
+                "north": { "texture": "#station_top", "uv": [ 4, 6, 6, 8 ] },
+                "east": { "texture": "#station_top", "uv": [ 6, 4, 8, 6 ] },
+                "west": { "texture": "#station_top", "uv": [ 4, 4, 6, 6 ] },
+                "up": { "texture": "#station_top", "uv": [ 4, 4, 6, 6 ] },
+                "down": { "texture": "#station_top", "uv": [ 4, 4, 6, 6 ] }
+            }
+        },
+        {
+            "name": "hammerhead",
+            "from": [ 16, 5, 11 ], 
+            "to": [ 18, 8, 13 ], 
+            "faces": {
+                "east": { "texture": "#station_top", "uv": [ 4, 4, 6, 7 ] },
+                "south": { "texture": "#station_top", "uv": [ 3, 4, 5, 7 ] },
+                "west": { "texture": "#station_top", "uv": [ 4, 3, 6, 6 ] },
+                "up": { "texture": "#station_top", "uv": [ 3, 4, 5, 6 ] },
+                "down": { "texture": "#station_top", "uv": [ 4, 4, 6, 6 ] }
+            }
+        }
+    ]
+  }

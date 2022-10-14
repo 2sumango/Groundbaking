@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/rapier",
+  "textures": {
+    "1": "duneons:blocks/rapier"
+  }
+}

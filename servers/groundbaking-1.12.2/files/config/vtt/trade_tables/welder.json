@@ -1,0 +1,13 @@
+{ 
+	Profession: "vtt:welder", 
+	Career:"welder",
+
+	Offers:{
+		Recipes:[
+		
+			{action:"add", buy:{id:"minecraft:gold_ingot",Count:{min:9,max:12}},sell:{id:"minecraft:lava_bucket",Count:1}, CareerLevel:1}
+			
+		]
+	}
+
+}

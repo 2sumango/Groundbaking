@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "naturaldecormod:saguarocactussegment"
+    },
+    "facing=south": {
+      "model": "naturaldecormod:saguarocactussegment"
+    },
+    "facing=north": {
+      "model": "naturaldecormod:saguarocactussegment"
+    },
+    "facing=east": {
+      "model": "naturaldecormod:saguarocactussegment",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "naturaldecormod:saguarocactussegment",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "naturaldecormod:saguarocactussegment",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "naturaldecormod:saguarocactussegment",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

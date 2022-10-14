@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:palmlog"
+    },
+    "facing=north": {
+      "model": "duneons:palmlog"
+    },
+    "facing=east": {
+      "model": "duneons:palmlog",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:palmlog",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:palmlog",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "naturaldecormod:granitepavementbrickslab_double"
+    }
+  }
+}

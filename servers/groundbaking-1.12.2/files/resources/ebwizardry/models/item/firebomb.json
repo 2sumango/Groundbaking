@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ebwizardry:items/firebomb"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 65, 100, -55 ],
+            "translation": [ 0.40, 2.25, 2 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 65, 100, -55 ],
+            "translation": [ 0.40, 2.25, 2 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -35, 0, 75 ],
+            "translation": [ 0, 2, -2 ],
+            "scale": [ 0.64, 0.64, 0.64 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -35, -10, -75 ],
+            "translation": [ 3, 2, -2 ],
+            "scale": [ 0.64, 0.64, 0.64 ]
+        }
+    }
+}

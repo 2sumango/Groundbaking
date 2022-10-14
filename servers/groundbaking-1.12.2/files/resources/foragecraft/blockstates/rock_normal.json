@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+        { "model": "foragecraft:big_rock1" },
+        { "model": "foragecraft:big_rock1", "y": 90 },
+        { "model": "foragecraft:big_rock1", "y": 180 },
+        { "model": "foragecraft:big_rock1", "y": 270 },
+        { "model": "foragecraft:big_rock2" },
+        { "model": "foragecraft:big_rock2", "y": 90 },
+        { "model": "foragecraft:big_rock2", "y": 180 },
+        { "model": "foragecraft:big_rock2", "y": 270 },
+        { "model": "foragecraft:big_rock3" },
+        { "model": "foragecraft:big_rock3", "y": 90 },
+        { "model": "foragecraft:big_rock3", "y": 180 },
+        { "model": "foragecraft:big_rock3", "y": 270 },
+        { "model": "foragecraft:big_rock4" },
+        { "model": "foragecraft:big_rock4", "y": 90 },
+        { "model": "foragecraft:big_rock4", "y": 180 },
+        { "model": "foragecraft:big_rock4", "y": 270 }
+        ]
+    }
+}

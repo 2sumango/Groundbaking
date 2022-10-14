@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:bookshelfdun"
+    },
+    "facing=north": {
+      "model": "duneons:bookshelfdun"
+    },
+    "facing=east": {
+      "model": "duneons:bookshelfdun",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:bookshelfdun",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:bookshelfdun",
+      "y": 270
+    }
+  }
+}

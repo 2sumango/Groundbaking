@@ -1,0 +1,9 @@
+{
+    "parent": "naturaldecormod:custom/bushmodel",
+    "textures": {
+      "all": "naturaldecormod:blocks/soulsage",
+      "particle": "naturaldecormod:blocks/soulsage",
+      "Bush": "naturaldecormod:blocks/soulsage",
+      "BushReversed": "naturaldecormod:blocks/soulsage"
+    }
+  }

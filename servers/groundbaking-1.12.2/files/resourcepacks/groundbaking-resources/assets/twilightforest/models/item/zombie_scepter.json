@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "twilightforest:items/feel"
+	},
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 25, 90, 0],
+            "translation": [ -2, -4, -2 ],
+			"scale": [1.85, 1.85, 1.55]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 25, 90, 90],
+            "translation": [ -2, -2, 1 ],
+			"scale": [1.85, 1.85, 1.55]
+        },        
+        "firstperson_righthand": {
+            "rotation": [ -87.55, 40, -180 ],
+            "translation": [ -6.5, 0.5, -4.35],
+			"scale": [2, 2, 2]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -87.55, 40, -180 ],
+            "translation": [ -6.5, 0.5, -4.35],
+			"scale": [2, 2, 2]
+        },
+		"ground": {
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/custom_9",
+    "up": "duneons:blocks/custom_9",
+    "north": "duneons:blocks/custom_9",
+    "east": "duneons:blocks/custom_9",
+    "south": "duneons:blocks/custom_9",
+    "west": "duneons:blocks/custom_9",
+    "particle": "duneons:blocks/custom_9"
+  }
+}

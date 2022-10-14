@@ -1,0 +1,26 @@
+{
+  "group": "thruster",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rocketboots:iron_plate"
+    },
+    "2": {
+      "item": "rocketboots:iron_plate"
+    },
+    "3": {
+      "item": "rocketboots:iron_plate"
+    },
+    "5": {
+      "item": "rocketboots:iron_plate"
+    }
+  },
+  "result": {
+    "item": "rocketboots:thruster",
+    "count": 1
+  }
+}

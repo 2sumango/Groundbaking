@@ -1,0 +1,13 @@
+{
+  "group": "time_stop_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "time_stop_mod:howto",
+    "count": 1
+  }
+}

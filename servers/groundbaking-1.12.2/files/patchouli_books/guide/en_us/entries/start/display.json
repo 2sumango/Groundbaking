@@ -1,0 +1,118 @@
+{
+    "name": "Introduction - Display",
+    "icon": "embers:winding_gears",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Getting to understand everything happening in front of you may begin to feel overwhelming, but take it one step at a time and you'll be set!                           After all, you were thrown into this world without a clue the first time.                                              First, we'll start off with the interface."
+        },
+        {
+            "type": "text",
+            "text": "The left and right arrows, or, scroll wheel in the book will guide you through the pages.                                 The back arrow in the bottom middle of the book will take you all the way back to the beginning of the category.                                  On pages with images, there can be arrows to toggle through a slideshow of different images located in the bottom right of the image panel."
+        },   
+        {
+            "type": "text",
+            "text": "JEI (Just Enough Items):                                     In your inventory screen, the huge menu displaying lots of items, or JEI, will show you the recipes, uses, and a scaled in image of the item you're hovering over.                                       Press [R] for Recipes, [U] for uses in other recipes. Press [A] while hovering over an item to favorite it.  Use scroll wheel to flip through the pages, or alternatively, click the arrows on the top left or right."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/jei.png"],
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "You will see a couple of new buttons here. In the top left, opposite of JEI's menu, there's an icon that will allow you to create and join Teams with other players, allowing you to sync advancements, disable pvp, and see the health of other team members.                                          In your equipment bag, there is a ring icon next to your head.  This opens the Baubles menu. You can store any trinkets here to get bonuses when you acquire them."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/normalmenu.png","fiesta:assets/textures/gui/book/baublemenu.png"],
+            "border": "true"
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/emote1.png", "fiesta:assets/textures/gui/book/emote2.png"],
+            "text": "When opening the chat menu, you will notice an emotes button on the bottom right.",
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "Your character can express a handful of different animations, such as waving, clapping, or pointing!                                                                                                                                                                                                        In your controls, you can bind these emotes to any key you want.  The controls overview is up next, so if you are having trouble, please look to those first."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/controls.png"],
+            "text": "Controls menu in Options... > Controls...",
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "In controls, you might find that there are too many of them, and as it may appear that way, any of the keys with no title or marked 'NONE' aren't of any required use and should not be mapped.                                    Remember, you can map keys using 'Shift + KEY' or 'Ctrl + KEY'"
+        },
+        {
+            "type": "text",
+            "text": "On your HUD, you'll see a coin icon and the number next to it. This is an NPC towny currency, which you won't be able to interact with until later game.                               Additionally, when having [Key Items] in your inventory, more slots will show up next to your hotbar hud.  Ex; Arrows, Emeralds.  You only have Health and Climate to worry about.                      Eating is now only to heal.  The Flame icon is the current biome climate."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/hud2.png"],
+            "text": "Climate determines temperature and will damage you if too extreme.",
+            "border": "true"
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/hud.png","fiesta:assets/textures/gui/book/stats.png"],
+            "text": "[4x] Armor Bar with [2x] Toughness",
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "Your armor bar will display your Defense [Main Armor Bar],  Toughness [Noticable Gold-Outline] on a second layer, and Magic Defense [Glint Outline] on another layer.                                              If you want to see your current Defense or Toughness rating alongside many other stats in numerical value, open the Stats Menu.  Default key [J].                           As you increase your stats with items, you can see these numbers increase or decrease respectively. "
+        },
+        {
+            "type": "text",
+            "text": "When hovering over a tool, it will display it's Max Durability, Base Attack Damage, Base Attack Speed, Harvest Speed, and Harvest Level.  If any qualities are applied to the tool, those will display at the bottom.                                                  Enchanted Books will display a brief description of their given enchantments along with type of tool it's used for."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/tooltip.png","fiesta:assets/textures/gui/book/ench.png"],
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "In the perks menu, Default Key [L], you can choose 1 of 3 specializations, which give you xp bonuses for doing the respective tasks.                                           Once chosen, you can appoint your Experience Points to any perks to gain further bonuses for the described task.  Once you have gained at least 5 XP Levels, you can access this menu. "
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/levelup.png"],
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "When you click on a profession, you must click save after and then you are locked in!  You will now be able to select perks and level them up to your liking.  Some perks will require a prerequisite perk to level up, for example, Melee Damage requires at least one attribute of Dexterity."
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/dex.png","fiesta:assets/textures/gui/book/prereq.png"],
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "Lastly, in the Advancements menu is where the whole heart of the game's progression lies. You can see the main quest line,  Artisan paths, World Progressions, and additional optional quest lines later.  Artisan Paths are special tailored advancement paths based on the crafting occupation you choose later.  Your options are [Bloomery, Tinkering, and Summoning]"
+        },
+        {
+            "type": "image",
+            "images": ["fiesta:assets/textures/gui/book/advancement.png"],
+            "border": "true"
+        },
+        {
+            "type": "text",
+            "text": "You've learned everything you need to know about the important things displayed on the screen! This section of the guide book is now cleared.  Make sure you take your time through the book to ensure you pick everything up."
+        },
+        {
+            "type": "spotlight",
+            "item": "patchouli:guide_book",
+            "text": "       End of Chapter 1"
+        }                    
+    ]
+}

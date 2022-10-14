@@ -1,0 +1,103 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "textures": {
+      "trident": "minecraft:entity/tide_trident"
+  },
+  "display": {
+      "gui": {
+          "rotation": [ 162, 184, 136 ],
+          "translation": [ -5, -5, 0 ],
+          "scale": [ 0.795, 0.795, 0.795 ]
+      },
+      "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 0, 3, 0 ],
+          "scale": [ 0.65, 0.65, 0.65 ]
+      },
+      "fixed": {
+          "rotation": [ 0, 180, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "head": {
+          "rotation": [ 0, 180, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 1, 1, 1 ]
+      },
+      "firstperson_righthand": {
+          "rotation": [ -112, 70, -293 ],
+          "translation": [ 1, -4.0, 14 ],
+          "scale": [ 0.75, 0.75, 0.75 ]
+      },
+      "thirdperson_righthand": {
+          "rotation": [ 0, 315, 0 ],
+          "translation": [ 0, -10.5, 0 ],
+          "scale": [ 1.175, 1.175, 1.175 ]
+      }
+  },
+  "elements": [
+      {
+          "name": "Cube",
+          "from": [ 8, 0, 8 ], 
+          "to": [ 9, 25, 9 ], 
+          "faces": {
+              "north": { "texture": "#trident", "uv": [ 10.5, 3.5, 11, 16 ] },
+              "east": { "texture": "#trident", "uv": [ 10.5, 3.5, 11, 16 ] },
+              "south": { "texture": "#trident", "uv": [ 10.5, 3.5, 11, 16 ] },
+              "west": { "texture": "#trident", "uv": [ 10.5, 3.5, 11, 16 ] },
+              "down": { "texture": "#trident", "uv": [ 0, 0, 1, 1 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 7, 24.99, 8 ], 
+          "to": [ 10, 26.99, 9 ], 
+          "faces": {
+              "north": { "texture": "#trident", "uv": [ 10, 3.5, 11.5, 2.5 ] },
+              "east": { "texture": "#trident", "uv": [ 10.5, 3.5, 11, 2.5 ] },
+              "south": { "texture": "#trident", "uv": [ 10, 3.5, 11.5, 2.5 ] },
+              "west": { "texture": "#trident", "uv": [ 10.5, 3.5, 11, 2.5 ] },
+              "up": { "texture": "#trident", "uv": [ 10, 3.5, 11.5, 3 ] },
+              "down": { "texture": "#trident", "uv": [ 10, 3.5, 11.5, 3 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 10, 25.99, 8 ], 
+          "to": [ 11, 29.99, 9 ], 
+          "faces": {
+              "north": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "east": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "south": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "west": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "up": { "texture": "#trident", "uv": [ 12, 1, 11.5, 1.5 ] },
+              "down": { "texture": "#trident", "uv": [ 12, 1, 11.5, 1.5 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 6, 25.99, 8 ], 
+          "to": [ 7, 29.99, 9 ], 
+          "faces": {
+              "north": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "east": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "south": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "west": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "up": { "texture": "#trident", "uv": [ 12, 1, 11.5, 1.5 ] },
+              "down": { "texture": "#trident", "uv": [ 12, 1, 11.5, 1.5 ] }
+          }
+      },
+      {
+          "name": "Cube",
+          "from": [ 8, 26.99, 8 ], 
+          "to": [ 9, 30.99, 9 ], 
+          "faces": {
+              "north": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "east": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "south": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "west": { "texture": "#trident", "uv": [ 12, 3, 11.5, 1 ] },
+              "up": { "texture": "#trident", "uv": [ 12, 1, 11.5, 1.5 ] }
+          }
+      }
+  ]
+}

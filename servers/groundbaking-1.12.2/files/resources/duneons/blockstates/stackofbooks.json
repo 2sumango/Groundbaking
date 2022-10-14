@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:stackofbooks"
+    },
+    "facing=north": {
+      "model": "duneons:stackofbooks"
+    },
+    "facing=east": {
+      "model": "duneons:stackofbooks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:stackofbooks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:stackofbooks",
+      "y": 270
+    }
+  }
+}

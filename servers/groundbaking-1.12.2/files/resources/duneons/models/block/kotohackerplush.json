@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/kotohacker_plush_new",
+  "textures": {
+    "all": "duneons:blocks/kotohacker_plush",
+    "particle": "duneons:blocks/kotohacker_plush",
+    "0": "duneons:blocks/kotohacker_plush",
+    "missing": "duneons:blocks/kotohacker_plush"
+  }
+}

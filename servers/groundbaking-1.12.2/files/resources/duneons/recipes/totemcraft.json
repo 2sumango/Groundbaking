@@ -1,0 +1,19 @@
+{
+  "group": "duneons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "duneons:naturalcandle"
+    },
+    "1": {
+      "item": "duneons:claytotem"
+    }
+  },
+  "result": {
+    "item": "duneons:monkeytotem",
+    "count": 1
+  }
+}

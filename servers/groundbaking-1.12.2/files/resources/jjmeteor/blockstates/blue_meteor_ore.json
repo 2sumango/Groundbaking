@@ -1,0 +1,6 @@
+{
+    "variants": {
+		"indestructible=false": { "model":"jjmeteor:blue_meteor_ore" },
+		"indestructible=true": { "model":"jjmeteor:blue_meteor_ore" }
+    }
+}

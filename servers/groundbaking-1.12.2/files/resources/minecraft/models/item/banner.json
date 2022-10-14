@@ -1,0 +1,30 @@
+{
+    "parent": "builtin/entity",
+    "display": {
+        "ground": {
+            "rotation": [ 20, 58, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "fixed": {
+            "rotation": [ 321, 234, 313 ],
+            "translation": [ 4, -9, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 183, 267, 0 ],
+            "translation": [ 0, -2, 4.3 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 135, 150, 160 ],
+            "translation": [ -5, -2.5, 2 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 93, 360, 0 ],
+            "translation": [ -3, -6.5, 13 ],
+            "scale": [ 1.0, 1.0, 1.0 ]
+        }
+    }
+}

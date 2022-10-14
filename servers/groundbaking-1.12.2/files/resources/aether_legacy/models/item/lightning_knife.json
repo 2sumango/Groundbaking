@@ -1,0 +1,28 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "aether_legacy:items/weapons/lightning_knife"
+	},
+	"display": {
+	"thirdperson_righthand": {
+	  "rotation": [ -80, 260, 130 ],
+	  "translation": [ -0.25, -5.85, -0.75 ],
+	  "scale": [ 0.9, 0.9, 0.9 ]
+	},
+	"thirdperson_lefthand": {
+	  "rotation": [ -80, -280, 260 ],
+	  "translation": [ -0.25, -5.85, -0.75 ],
+	  "scale": [ 0.9, 0.9, 0.9 ]
+	},        
+	"firstperson_righthand": {
+	  "rotation": [ -87.55, 40, -14.5 ],
+	  "translation": [ -4.5, 1.5, 3.35],
+	  "scale": [ 0.68, 0.68, 0.68 ]
+	},
+	"firstperson_lefthand": {
+	  "rotation": [ 95.55, -40, 207.5 ],
+	  "translation": [ -4.5, 0.485, 1.95],
+	  "scale": [ 0.68, 0.68, 0.68 ]
+	}
+	}
+	}

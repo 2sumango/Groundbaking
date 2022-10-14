@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "pamhc2crops:block/cranberry_stage_0",
+		"particle": "pamhc2crops:block/cranberry_stage_0"
+	},
+	"elements": [
+		{
+			"name": "SideEW",
+			"from": [1, -1, 0],
+			"to": [15, 1, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [14, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 16], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "SideNS",
+			"from": [0, -1, 1],
+			"to": [16, 1, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 14, 16, 16], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [0, -1, 0],
+			"to": [16, 0, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -0.5, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

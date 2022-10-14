@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "naturaldecormod:blocks/articleffectlockransparent",
+    "up": "naturaldecormod:blocks/articleffectlockransparent",
+    "north": "naturaldecormod:blocks/articleffectlockransparent",
+    "east": "naturaldecormod:blocks/articleffectlockransparent",
+    "south": "naturaldecormod:blocks/articleffectlockransparent",
+    "west": "naturaldecormod:blocks/articleffectlockransparent",
+    "particle": "naturaldecormod:blocks/articleffectlockransparent"
+  }
+}

@@ -1,0 +1,31 @@
+[
+    {
+        "playerhelditem": {
+            "item": "minecraft:iron_pickaxe",
+            "nbt": [
+                {
+                  "tag": "heat_tag",
+                  "contains": [
+                    {
+                      "tag": "heat",
+                      "value": 0.0
+                    }
+                  ]
+                }
+              ]
+          },
+      "block": {
+        "block": "minecraft:cauldron",
+        "properties": [
+              {
+                  "name": "level",
+                  "value": "3"
+              }
+        ]
+      },
+      "drop": { 
+          "item": "minecraft:iron_ingot",
+      "nbt": {"embers:heat_tag":{heat:0.0f,modifiers:[{item:{id:"embers:ancient_motive_core",Count:1,Damage:0s},level:1,name:"core"}],heat_level:0.0f}}
+        }
+    }
+]

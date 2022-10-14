@@ -1,0 +1,33 @@
+{
+  "group": "naturaldecormod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naturaldecormod:outdooriron"
+    },
+    "3": {
+      "item": "naturaldecormod:outdooriron"
+    },
+    "4": {
+      "item": "naturaldecormod:outdooriron"
+    },
+    "6": {
+      "item": "naturaldecormod:outdooriron"
+    },
+    "7": {
+      "item": "naturaldecormod:outdooriron"
+    },
+    "8": {
+      "item": "naturaldecormod:outdooriron"
+    }
+  },
+  "result": {
+    "item": "naturaldecormod:outdoorironstairs",
+    "count": 4
+  }
+}

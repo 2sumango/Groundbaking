@@ -1,0 +1,13 @@
+{
+  "sortnum": 8,
+  "name": "Substitut de Jizo",
+  "icon": "touhou_little_maid:substitute_jizo",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:substitute_jizo",
+      "text": "Le Substitut de Jizo est un outil du mode créatif qui rend invincible une maid en faisant un clic droit sur elle."
+    }
+  ]
+}

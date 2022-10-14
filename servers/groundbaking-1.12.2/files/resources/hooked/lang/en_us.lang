@@ -1,0 +1,33 @@
+tooltip.hooked.showControls=<Hold Shift>
+
+tooltip.hooked:hook.inhibited=Inhibited
+tooltip.hooked:hook.inhibited.help=- Limited to 1 hook. Sneak + Use to remove limit
+tooltip.hooked:hook.uninhibited.help=- Sneak + Use to limit to 1 hook
+
+tooltip.hooked:hook_wood.info=8 Block Distance
+tooltip.hooked:hook_iron.info=18 Block Disance. Multi-hook.
+tooltip.hooked:hook_diamond.info=24 Block Distance. Multi-hook.
+tooltip.hooked:hook_red.info=25 Block Distance.
+tooltip.hooked:hook_ender.info=65 Block Distance. Endgame Item.
+
+tooltip.hooked:hook_wood.controls=%1$s to fire hook.\nSneak + %1$s while looking toward a hook to retract.
+tooltip.hooked:hook_iron.controls=%1$s to fire hook.\nSneak + %1$s while looking toward a hook to retract.
+tooltip.hooked:hook_diamond.controls=%1$s to fire hook.\nSneak + %1$s while looking toward a hook to retract.
+tooltip.hooked:hook_red.controls=%1$s to fire hook.\nSneak + %1$s while looking toward a hook to retract.
+tooltip.hooked:hook_ender.controls=%1$s to fire hook.\nSneak + %1$s while looking toward a hook to retract.
+
+item.hooked:hook_wood.name=Grappling Hook
+item.hooked:hook_iron.name=§bGrappling Hook
+item.hooked:hook_diamond.name=§6Grappling Hook
+item.hooked:hook_red.name=§dGrappling Hook
+item.hooked:hook_ender.name=§6Grappling Hook
+
+item.hooked:plant_fiber.name=Plant Fiber
+item.hooked:rope.name=Rope
+item.hooked:iron_chain_link.name=Iron Chain Link
+item.hooked:iron_chain.name=Iron Chain
+
+key.hooked.fire=Use Grapple
+key.category.movement=Grappling Hooks
+
+item_group.hooked=Hooked

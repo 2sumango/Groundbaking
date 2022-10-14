@@ -1,0 +1,26 @@
+{
+  "group": "ironplates",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_bars"
+    },
+    "1": {
+      "item": "minecraft:iron_bars"
+    },
+    "2": {
+      "item": "minecraft:iron_bars"
+    },
+    "3": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "rocketboots:iron_plate",
+    "count": 2
+  }
+}

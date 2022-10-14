@@ -1,0 +1,7 @@
+{
+  "parent": "duneons:custom/dark_spear",
+  "textures": {
+    "0": "duneons:blocks/cutlass",
+    "missing": "duneons:blocks/cutlass"
+  }
+}

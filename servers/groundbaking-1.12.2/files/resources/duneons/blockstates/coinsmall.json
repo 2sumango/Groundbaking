@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duneons:coinsmall"
+    },
+    "facing=north": {
+      "model": "duneons:coinsmall"
+    },
+    "facing=east": {
+      "model": "duneons:coinsmall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "duneons:coinsmall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "duneons:coinsmall",
+      "y": 270
+    }
+  }
+}

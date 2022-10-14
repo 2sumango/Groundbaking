@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "title": {
+            "translate": "advancement.this_is_the_end"
+        },
+        "description": {
+            "translate": "advancement.this_is_the_end.desc"
+        }
+    },
+    "parent": "farlanders:root",
+    "criteria": {
+        "classic_enderman": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "farlanders:classic_enderman"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "classic_enderman"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_bottom",
+  "textures": {
+    "texture": "naturaldecormod:blocks/utdoorronrapdoor",
+    "particle": "naturaldecormod:blocks/utdoorronrapdoor"
+  }
+}

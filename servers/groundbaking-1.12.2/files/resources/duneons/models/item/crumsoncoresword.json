@@ -1,0 +1,6 @@
+{
+  "parent": "duneons:custom/crimson",
+  "textures": {
+    "0": "duneons:blocks/rimsonore"
+  }
+}

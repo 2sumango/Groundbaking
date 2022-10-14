@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "duneons:blocks/gravel1",
+    "up": "duneons:blocks/gravel1",
+    "north": "duneons:blocks/gravel1",
+    "east": "duneons:blocks/gravel1",
+    "south": "duneons:blocks/gravel1",
+    "west": "duneons:blocks/gravel1",
+    "particle": "duneons:blocks/gravel1"
+  }
+}

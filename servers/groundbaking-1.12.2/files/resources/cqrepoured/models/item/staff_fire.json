@@ -1,0 +1,31 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "cqrepoured:items/staff_fire"
+    },
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [ -67.5, 250, -19.5 ],
+			"translation": [ -2.45, 1, 5.5 ],
+			"scale": [ 2.0, 2.0, 0.92 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ -70, -272, 50 ],
+			"translation": [ -1, -2, 2.5 ],
+			"scale": [ 2.0, 2.0, 0.92 ]
+		},
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.2, 5.6, 1.2 ],
+            "scale": [ 2.0, 2.0, 1.5 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.2, 6.4, 1.2 ],
+            "scale": [ 2.0, 2.0, 1.5 ]
+        },
+		"gui": {
+			"scale": [ 1.7, 1.7, 1.7 ]
+		}
+    }
+}

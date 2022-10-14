@@ -1,0 +1,29 @@
+{
+  "result": {
+    "item": "rpsideas:unstable_battery"
+  },
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " I ",
+    "EPE",
+    " G "
+  ],
+  "key": {
+    "I": {
+      "type": "forge:ore_dict",
+      "ore": "ingotGold"
+    },
+    "E": {
+      "type": "forge:ore_dict",
+      "ore": "ingotEbonyPsi"
+    },
+    "P": {
+      "type": "forge:ore_dict",
+      "ore": "gemPsi"
+    },
+    "G": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    }
+  }
+}

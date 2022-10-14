@@ -1,0 +1,9 @@
+{
+  "parent": "duneons:custom/throne",
+  "textures": {
+    "all": "duneons:blocks/tron",
+    "particle": "duneons:blocks/tron",
+    "0": "duneons:blocks/tron",
+    "missing": "duneons:blocks/tron"
+  }
+}

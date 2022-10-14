@@ -1,0 +1,38 @@
+{
+    "textures": {
+        "layer0": "tconstruct:items/broadsword/handle",
+        "layer1": "tconstruct:items/cleaver/head",
+        "layer2": "tconstruct:items/cleaver/shield",
+        "layer3": "tconstruct:items/cleaver/guard",
+        "broken1": "tconstruct:items/cleaver/head"
+    },
+    "display": {      
+        "firstperson_righthand": {
+            "rotation": [ -56, 111, 65 ],
+            "translation": [ -3, -1, -18 ],
+            "scale": [ 1.95, 1.95, 1.92 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 111, -106.5, 111 ],
+            "translation": [ -3, -1, -18 ],
+            "scale": [ 1.95, 1.95, 1.92 ]
+        },        
+        "thirdperson_lefthand": {
+			"rotation": [ -80, -280, 260 ],
+			"translation": [ -0.25, -5.85, -0.75 ],
+            "scale": [ 1.1, 1.1, 0.75 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 30, 75, 175 ],
+            "translation": [ -1.88, -13, 4 ],
+            "scale": [ 1.1, 1.1, 0.75 ]
+        },                 
+        "gui": {
+		  "rotation": [ 15, -170, -5 ],			
+          "scale": [ 1.0, 1.0, 1.0 ]
+        },         
+        "ground": {		
+          "scale": [ 1.8, 1.8, 1.1 ]
+        }		
+     }
+  }

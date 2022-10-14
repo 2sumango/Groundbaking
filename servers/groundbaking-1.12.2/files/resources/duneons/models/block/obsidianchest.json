@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/obsidian_chest",
+  "textures": {
+    "all": "duneons:blocks/creeper_obsidian_chest",
+    "particle": "duneons:blocks/creeper_obsidian_chest",
+    "0": "duneons:blocks/creeper_obsidian_chest"
+  }
+}

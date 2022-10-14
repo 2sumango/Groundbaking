@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/grass_slabs",
+  "textures": {
+    "all": "duneons:blocks/grass_slabs",
+    "particle": "duneons:blocks/grass_slabs",
+    "0": "duneons:blocks/grass_slabs"
+  }
+}

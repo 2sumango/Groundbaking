@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "duneons:blocks/tallgrass_1",
+    "particle": "duneons:blocks/tallgrass_1"
+  }
+}

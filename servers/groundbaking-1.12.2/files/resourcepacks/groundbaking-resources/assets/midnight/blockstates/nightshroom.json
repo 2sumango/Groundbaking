@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "midnight:crystalotus"
+    },
+    "facing=north": {
+      "model": "midnight:crystalotus"
+    },
+    "facing=east": {
+      "model": "midnight:crystalotus",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "midnight:crystalotus",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "midnight:crystalotus",
+      "y": 270
+    }
+  }
+}

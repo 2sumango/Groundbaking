@@ -1,0 +1,8 @@
+{
+  "parent": "duneons:custom/dog_painting",
+  "textures": {
+    "all": "duneons:blocks/dog_painting",
+    "particle": "duneons:blocks/dog_painting",
+    "1": "duneons:blocks/dog_painting"
+  }
+}

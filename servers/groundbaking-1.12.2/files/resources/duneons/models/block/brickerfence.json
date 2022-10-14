@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "duneons:blocks/latticebriker",
+    "particle": "duneons:blocks/latticebriker"
+  }
+}
